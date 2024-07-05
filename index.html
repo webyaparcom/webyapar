@@ -22,18 +22,18 @@
   <meta name="keywords" content="" />
   <meta property="og:title" content="Webyapar" />
   <meta property="og:description" content="" />
-  <meta property="og:image" content="https://webyapar.com/page/{{id}}/{{img}}" />
+  <meta property="og:image" content="https://webyapar.com/img/icon.png" />
   <meta name="robots" content="index, follow" />
 </head>
 
 <body>
-  <div id="header"><div class="vl3nk">
-  <div class="vl3nktitle">
-    <div class="vl3nktitlebody">
-      <div class="vl3nktitlebodytitle">
+  <div id="header"><div class="fvdtw">
+  <div class="fvdtwtitle">
+    <div class="fvdtwtitlebody">
+      <div class="fvdtwtitlebodytitle">
         Webyapar Web Sitemize Hoşgeldiniz
       </div>
-      <div class="vl3nktitlebodylang">
+      <div class="fvdtwtitlebodylang">
         <ul>
           <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"></a></li>
         </ul>
@@ -41,16 +41,16 @@
     </div>
   </div>
 
-  <div class="vl3nkbody">
-    <a href="/tr"><img src="/img/logo.svg" height="100" /></a>
+  <div class="fvdtwbody">
+    <a href="/tr"><img src="/img/logo.svg" class="fvdtwbodylogo" /></a>
   </div>
 
-  <div class="vl3nkmenubody">
-    <div class="vl3nkmenu">
-      <div class="vl3nkmenulistbody">
-        <div class="vl3nkmenulist">
+  <div class="fvdtwmenubody">
+    <div class="fvdtwmenu">
+      <div class="fvdtwmenulistbody">
+        <div class="fvdtwmenulist">
           <ul>
-            <a href="/tr/">Anasayfa </a><a href="/tr/tr0ghqxr2p/">Kurumsal</a><a href="/tr/yvgg969byq/">Temalar</a><a href="/tr/n2k6e1d48l/">Referanslarımız</a><a href="/tr/bzjpr99f79/">İletişim</a>
+            <a href="/tr/">Anasayfa </a><a href="/tr/kurumsal/">Kurumsal</a><a href="/tr/temalar/">Temalar</a><a href="/tr/insan-kaynaklari/">İnsan Kaynakları</a><a href="/tr/referanslarimiz/">Referanslarımız</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
         </div>
       </div>
@@ -59,7 +59,7 @@
 </div>
 
 <style>
-  .vl3nk {
+  .fvdtw {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -67,7 +67,7 @@
     justify-content: center;
   }
 
-  .vl3nktitle {
+  .fvdtwtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -75,7 +75,7 @@
     justify-content: center;
   }
 
-  .vl3nktitlebody {
+  .fvdtwtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -83,24 +83,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .vl3nktitlebodytitle {
+  .fvdtwtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .vl3nktitlebodylang {
+  .fvdtwtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .vl3nktitlebodylang ul {
+  .fvdtwtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .vl3nkbody {
+  .fvdtwbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -108,14 +108,17 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .vl3nkmenu {
+
+
+
+  .fvdtwmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .vl3nkmenulist {
+  .fvdtwmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -123,7 +126,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .vl3nkmenubody {
+  .fvdtwmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -131,7 +134,7 @@
     justify-content: center;
   }
 
-  .vl3nkmenulist ul {
+  .fvdtwmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -141,7 +144,7 @@
     overflow-x: auto;
   }
 
-  .vl3nkmenulist ul a {
+  .fvdtwmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -153,35 +156,804 @@
     white-space: nowrap;
   }
 
-  .vl3nkmenulist ul a:hover {
+  .fvdtwmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .vl3nkmenulistbody {
+  .fvdtwmenulistbody {
     width: 100%;
   }
 
+  .fvdtwbodylogo {
+    height: 100px;
+    max-width: 90vw;
+    max-height: 100px;
+  }
+
   @media screen and (max-width: 1024px) {
-    .vl3nkmenu {
+    .fvdtwmenu {
       overflow-x: auto;
     }
 
-    .vl3nkmenulist ul {
+    .fvdtwmenulist ul {
       flex-direction: row;
+    }
+
+
+    .fvdtwbodylogo {
+      height: 50vw;
+      max-width: 50vw;
+      max-height: 100px;
     }
   }
 
   @media screen and (max-width: 768px) {
-    .vl3nkmenulist ul a {
+    .fvdtwmenulist ul a {
       font-size: 14px;
+    }
+  }
+</style><div class="swiper-container ugdd4">
+  <div class="swiper-wrapper" id="ugdd4"><div class="swiper-slide"><img src="/img/mwrtnt/1.jpg" /></div><div class="swiper-slide"><img src="/img/mwrtnt/2.jpg" /></div><div class="swiper-slide"><img src="/img/mwrtnt/3.jpg" /></div></div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+<style>
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .swiper-slide>img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .swiper-container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+
+
+<script>
+  var swiper = new Swiper('.ugdd4', {
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  });
+</script></div>
+  <div id="content"><div class="sliderxtgpf0">
+  <div class="slider-tgpf0t-itle">Hizmetlerimiz</div>
+
+  <div class="tgpf0 swiper-container">
+    <div class="swiper-wrapper"><a href="/tr/ai-web" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/yer3tys1nr/b8az4.png" />
+          </div>
+          <div class="title-tgpf0">Ai Web</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a><a href="/tr/e-ticaret" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/ebshy379dl/mgi1q.png" />
+          </div>
+          <div class="title-tgpf0">E-Ticaret</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a><a href="/tr/kurumsal" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/uwsodx0ml1/fc8lg.png" />
+          </div>
+          <div class="title-tgpf0">Kurumsal Web Tasarım</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a><a href="/tr/ozel-projeler" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/r9ffjs2fon/pyc9o.png" />
+          </div>
+          <div class="title-tgpf0">Özel Projeler</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a><a href="/tr/mobil-uyuglama" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/p0plyrmrjt/ku25v.png" />
+          </div>
+          <div class="title-tgpf0">Mobil Uyuglama</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a><a href="/tr/zcg06gjulr" class="swiper-slide">
+        <div class="swiper-tgpf0">
+          <div class="img-tgpf0">
+            <img src="/page/zcg06gjulr/nm4xn.png" />
+          </div>
+          <div class="title-tgpf0">Sosyal Media</div>
+          <div class="spot-tgpf0"></div>
+          <div class="button-tgpf0">Devamı...</div>
+        </div>
+      </a></div>
+    <div class="swiper-pagination-tgpf0"></div>
+  </div>
+
+  <div class="swiper-button-next swiper-button-next-tgpf0"></div>
+  <div class="swiper-button-prev swiper-button-prev-tgpf0"></div>
+</div>
+
+<style>
+  .title-tgpf0 {
+    font-size: 18px;
+  }
+
+  .tgpf0body {
+    display: flex;
+    align-items: stretch;
+    padding: 15px 0px 15px 0px;
+    height: 350px;
+  }
+
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .swiper-pagination-tgpf0 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px !important;
+  }
+
+  .sliderxtgpf0 {
+    position: relative;
+    width: 100%;
+    max-width: var(--max);
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .slider-tgpf0t-itle {
+    width: 100%;
+    font-size: 28px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 10px;
+  }
+
+  .swiper-button-prev-tgpf0,
+  .swiper-button-next-tgpf0 {
+    color: #000 !important;
+    font-size: 28px;
+    font-weight: bold;
+    opacity: 0.4;
+    position: absolute !important;
+    /* Change relative to absolute */
+    top: 50%;
+    /* Position it at the middle of the container */
+    transform: translateY(-50%);
+    /* Center it vertically */
+  }
+
+  .swiper-button-prev-tgpf0 {
+    left: -30px !important;
+  }
+
+  .swiper-button-next-tgpf0 {
+    right: -30px !important;
+  }
+
+
+
+
+  @media screen and (max-width: 1024px) {
+    .sliderxtgpf0 {
+      width: 100%;
+    }
+  }
+
+  .img-tgpf0 {
+    aspect-ratio: 1/1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    margin-top: 5px;
+    padding: 5px 0px 5px 0px;
+  }
+
+  .img-tgpf0>img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .spot-tgpf0 {
+    flex: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+  }
+
+  .button-tgpf0 {
+    background-color: #0455d8;
+    padding: 8px;
+    border-radius: 5px;
+    color: #fff;
+  }
+
+  .swiper-tgpf0 {
+    background-color: #fff;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-radius: 10px;
+    margin: 5px;
+    gap: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    transition: filter 0.3s;
+    cursor: pointer;
+  }
+
+ 
+
+  .tgpf0 {
+    overflow-x: auto;
+  }
+
+  .tgpf0::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
+
+
+<script>
+  new Swiper('.tgpf0', {
+    slidesPerView: 2,
+    simulateTouch: true,
+    loop: true,
+    breakpoints: {
+      640: { slidesPerView: 2 },
+      768: { slidesPerView: 3 },
+      1024: { slidesPerView: 4 },
+      1200: { slidesPerView: 5 },
+    },
+    pagination: {
+      el: '.swiper-pagination-tgpf0',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next-tgpf0',
+      prevEl: '.swiper-button-prev-tgpf0',
+    },
+  });
+</script><div class="sliderxgy13p">
+  <div class="sliderxgy13ptitle">İşbirliklerimiz</div>
+  <div class="gy13p swiper-container">
+    <div class="swiper-wrapper"><div href="/img/r05608/undefined"  class="swiper-slide">
+      <div class="swiper-slide33">
+        <img src="/img/r05608/1.jpg" class="modulchildgy13p2" />
+      </div>
+    </div><div href="/img/r05608/undefined"  class="swiper-slide">
+      <div class="swiper-slide33">
+        <img src="/img/r05608/2.jpg" class="modulchildgy13p2" />
+      </div>
+    </div><div href="/img/r05608/undefined"  class="swiper-slide">
+      <div class="swiper-slide33">
+        <img src="/img/r05608/3.jpg" class="modulchildgy13p2" />
+      </div>
+    </div></div>
+    <div class="swiper-button-next swiper-button-next-gy13p"></div>
+    <div class="swiper-button-prev swiper-button-prev-gy13p"></div>
+    <div class="swiper-pagination-gy13p"></div>
+  </div>
+</div>
+
+<style>
+  .sliderxgy13p {
+    width: var(--max);
+    margin: 10px 0px 10px 0px;
+  }
+
+  .swiper-pagination-gy13p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px !important;
+  }
+
+  .sliderxgy13ptitle {
+    width: 100%;
+    font-size: 24px;
+    font-weight: 500;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .sliderxgy13p {
+      width: 100%;
+    }
+  }
+
+  .swiper-button-prev-gy13p,
+  .swiper-button-next-gy13p {
+    color: #000;
+    font-size: 28px;
+    font-weight: bold;
+    z-index: 10;
+    opacity: 0.4;
+  }
+
+  .swiper-button-prev-gy13p {
+    left: 10px;
+  }
+
+  .swiper-button-next-gy13p {
+    right: 10px;
+  }
+
+  .swiper-slide>.swiper-slide33 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 0;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+    background: linear-gradient(-135deg,
+        --color1--,
+        --color2--,
+        --color1--,
+        --color2--);
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
+    padding: 5%;
+  }
+
+  .gy13p {
+    overflow-x: auto;
+    padding: 0px 20px 0px 20px ;
+  }
+
+  .gy13p::-webkit-scrollbar {
+    display: none;
+  }
+
+  .modulchildgy13p2 {
+    text-align: -webkit-center;
+    width: 100%;
+    float: left;
+    border-radius: 8px;
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
+    background-color: #fff;
+    filter: grayscale(1);
+  }
+
+  .modulchildgy13p2:hover {
+    filter: grayscale(0);
+  }
+
+  .modulchildgy13p3 {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 0px 0px 8px 8px;
+    border-width: 0px;
+    padding: 5px;
+    line-height: 2;
+    background: linear-gradient(-135deg,
+        --color1--,
+        --color2--,
+        --color1--,
+        --color2--);
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
+    color: -fontcolor-;
+  }
+</style>
+
+<script>
+  var swiper = new Swiper('.gy13p', {
+    slidesPerView: 2,
+    simulateTouch: true,
+    loop: true,
+    pagination: {
+      el: '.swiper-pagination-gy13p',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next-gy13p',
+      prevEl: '.swiper-button-prev-gy13p',
+    },
+    breakpoints: {
+      320: {
+        slidesPerView: 2,
+      },
+      480: {
+        slidesPerView: 3,
+      },
+      640: {
+        slidesPerView: 4,
+      },
+      768: {
+        slidesPerView: 5,
+      },
+    },
+  });
+</script><div class="sliderxoe49x">
+  <div class="slider-oe49xt-itle">Sosyal Media Hizmetlerimiz</div>
+
+  <div class="oe49x swiper-container">
+    <div class="swiper-wrapper"><a href="/tr/youtube" class="swiper-slide">
+        <div class="swiper-oe49x">
+          <div class="img-oe49x">
+            <img src="/page/fuir6254qv/undefined" />
+          </div>
+          <div class="title-oe49x">Youtube</div>
+          <div class="spot-oe49x"></div>
+          <div class="button-oe49x">Devamı...</div>
+        </div>
+      </a><a href="/tr/tiktok" class="swiper-slide">
+        <div class="swiper-oe49x">
+          <div class="img-oe49x">
+            <img src="/page/zquqh8bhww/undefined" />
+          </div>
+          <div class="title-oe49x">Tiktok</div>
+          <div class="spot-oe49x"></div>
+          <div class="button-oe49x">Devamı...</div>
+        </div>
+      </a><a href="/tr/instagram" class="swiper-slide">
+        <div class="swiper-oe49x">
+          <div class="img-oe49x">
+            <img src="/page/pqtmu8eeyw/undefined" />
+          </div>
+          <div class="title-oe49x">İnstagram</div>
+          <div class="spot-oe49x"></div>
+          <div class="button-oe49x">Devamı...</div>
+        </div>
+      </a><a href="/tr/facebook" class="swiper-slide">
+        <div class="swiper-oe49x">
+          <div class="img-oe49x">
+            <img src="/page/yut2ihe899/undefined" />
+          </div>
+          <div class="title-oe49x">Facebook</div>
+          <div class="spot-oe49x"></div>
+          <div class="button-oe49x">Devamı...</div>
+        </div>
+      </a></div>
+    <div class="swiper-pagination-oe49x"></div>
+  </div>
+
+  <div class="swiper-button-next swiper-button-next-oe49x"></div>
+  <div class="swiper-button-prev swiper-button-prev-oe49x"></div>
+</div>
+
+<style>
+  .title-oe49x {
+    font-size: 18px;
+  }
+
+  .oe49xbody {
+    display: flex;
+    align-items: stretch;
+    padding: 15px 0px 15px 0px;
+    height: 350px;
+  }
+
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .swiper-pagination-oe49x {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5px !important;
+  }
+
+  .sliderxoe49x {
+    position: relative;
+    width: 100%;
+    max-width: var(--max);
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .slider-oe49xt-itle {
+    width: 100%;
+    font-size: 28px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-bottom: 10px;
+  }
+
+  .swiper-button-prev-oe49x,
+  .swiper-button-next-oe49x {
+    color: #000 !important;
+    font-size: 28px;
+    font-weight: bold;
+    opacity: 0.4;
+    position: absolute !important;
+    /* Change relative to absolute */
+    top: 50%;
+    /* Position it at the middle of the container */
+    transform: translateY(-50%);
+    /* Center it vertically */
+  }
+
+  .swiper-button-prev-oe49x {
+    left: -30px !important;
+  }
+
+  .swiper-button-next-oe49x {
+    right: -30px !important;
+  }
+
+
+
+
+  @media screen and (max-width: 1024px) {
+    .sliderxoe49x {
+      width: 100%;
+    }
+  }
+
+  .img-oe49x {
+    aspect-ratio: 1/1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+    margin-top: 5px;
+    padding: 5px 0px 5px 0px;
+  }
+
+  .img-oe49x>img {
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  .spot-oe49x {
+    flex: 1;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+  }
+
+  .button-oe49x {
+    background-color: #0455d8;
+    padding: 8px;
+    border-radius: 5px;
+    color: #fff;
+  }
+
+  .swiper-oe49x {
+    background-color: #fff;
+    height: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    border-radius: 10px;
+    margin: 5px;
+    gap: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.2);
+    transition: filter 0.3s;
+    cursor: pointer;
+  }
+
+ 
+
+  .oe49x {
+    overflow-x: auto;
+  }
+
+  .oe49x::-webkit-scrollbar {
+    display: none;
+  }
+</style>
+
+
+
+<script>
+  new Swiper('.oe49x', {
+    slidesPerView: 2,
+    simulateTouch: true,
+    loop: true,
+    breakpoints: {
+      640: { slidesPerView: 2 },
+      768: { slidesPerView: 3 },
+      1024: { slidesPerView: 4 },
+      1200: { slidesPerView: 5 },
+    },
+    pagination: {
+      el: '.swiper-pagination-oe49x',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next-oe49x',
+      prevEl: '.swiper-button-prev-oe49x',
+    },
+  });
+</script><div class="icvne">
+  <div class="icvnebody">
+    <img src="/img/map.png" />
+
+    <div class="icvnecontainer">
+      <div class="icvnecontainerbody">
+        <div class="icvnecontainertitle">Bize Ulaşın</div>
+        <div class="icvnecontainerlist">
+   <div>
+    <span class="material-symbols-outlined">
+         phone
+    </span>
+  </div>
+    <div>0530 000 00 00</div>
+  </div><div class="icvnecontainerlist">
+   <div>
+    <span class="material-symbols-outlined">
+         phone
+    </span>
+  </div>
+    <div>0530 000 00 00</div>
+  </div><div class="icvnecontainerlist">
+   <div>
+    <span class="material-symbols-outlined">
+         map
+    </span>
+  </div>
+    <div>Adres Bilgis Henüz eklenmedi Şehitkamil / Gaziantep</div>
+  </div>
+      </div>
+    </div>
+  </div>
+  <div class="icvne-background-overlay"></div>
+</div>
+
+<style>
+  .icvne {
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+
+  .icvnecontainertitle {
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+
+  .icvnecontainerlist {
+    padding: 5px;
+    display: flex;
+    border-radius: 5px;
+    border-bottom: solid 1px;
+    gap: 15px;
+  }
+
+  .icvnecontainerlist > div {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+  }
+
+  .icvnecontainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .icvnecontainerbody {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .icvnebody > * {
+    width: 50%;
+    background-color: #ffffff90;
+  }
+
+  .icvnebody {
+    width: calc(var(--max) - 20px);
+    background-color: #e9e9e9d9;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    gap: 10px;
+  }
+
+  .icvne-background-overlay {
+    position: absolute;
+    /* Position overlay absolutely */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/img/map.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.3;
+    z-index: -1;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .icvnebody > * {
+      width: 100%;
+      background-color: #ffffff90;
+    }
+
+    .icvnebody {
+      flex-direction: column;
+      gap: 20px;
     }
   }
 </style>
 </div>
-  <div id="content"></div>
   <div id="footer"><footer class="footer">
   <div class="waves">
     <div class="wave" id="wave1"></div>
@@ -212,7 +984,7 @@
     </li>
   </ul>
   <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/tr0ghqxr2p">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/yvgg969byq">Temalar</a></li><li class="menu__item"><a class="menu__link" href="/tr/n2k6e1d48l">Referanslarımız</a></li><li class="menu__item"><a class="menu__link" href="/tr/bzjpr99f79">İletişim</a></li>
+    <li class="menu__item"><a class="menu__link" href="/tr">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/temalar">Temalar</a></li><li class="menu__item"><a class="menu__link" href="/tr/insan-kaynaklari">İnsan Kaynakları</a></li><li class="menu__item"><a class="menu__link" href="/tr/referanslarimiz">Referanslarımız</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
   </ul>
   <p>Webyapar 2024 cognite. &copy;</p>
 </footer>
