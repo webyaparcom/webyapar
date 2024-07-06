@@ -27,13 +27,13 @@
 </head>
 
 <body>
-  <div id="header"><div class="vlfht">
-  <div class="vlfhttitle">
-    <div class="vlfhttitlebody">
-      <div class="vlfhttitlebodytitle">
+  <div id="header"><div class="jorvm">
+  <div class="jorvmtitle">
+    <div class="jorvmtitlebody">
+      <div class="jorvmtitlebodytitle">
         Webyapar Web Sitemize Hoşgeldiniz
       </div>
-      <div class="vlfhttitlebodylang">
+      <div class="jorvmtitlebodylang">
         <ul>
           <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"></a></li>
         </ul>
@@ -41,14 +41,14 @@
     </div>
   </div>
 
-  <div class="vlfhtbody">
-    <a href="/tr"><img src="/img/logo.svg" class="vlfhtbodylogo" /></a>
+  <div class="jorvmbody">
+    <a href="/tr"><img src="/img/logo.svg" class="jorvmbodylogo" /></a>
   </div>
 
-  <div class="vlfhtmenubody">
-    <div class="vlfhtmenu">
-      <div class="vlfhtmenulistbody">
-        <div class="vlfhtmenulist">
+  <div class="jorvmmenubody">
+    <div class="jorvmmenu">
+      <div class="jorvmmenulistbody">
+        <div class="jorvmmenulist">
           <ul>
             <a href="/tr/">Anasayfa </a><a href="/tr/kurumsal/">Kurumsal</a><a href="/tr/temalar/">Temalar</a><a href="/tr/insan-kaynaklari/">İnsan Kaynakları</a><a href="/tr/referanslarimiz/">Referanslarımız</a><a href="/tr/iletisim/">İletişim</a>
           </ul>
@@ -59,7 +59,7 @@
 </div>
 
 <style>
-  .vlfht {
+  .jorvm {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -67,7 +67,7 @@
     justify-content: center;
   }
 
-  .vlfhttitle {
+  .jorvmtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -75,7 +75,7 @@
     justify-content: center;
   }
 
-  .vlfhttitlebody {
+  .jorvmtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -83,24 +83,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .vlfhttitlebodytitle {
+  .jorvmtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .vlfhttitlebodylang {
+  .jorvmtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .vlfhttitlebodylang ul {
+  .jorvmtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .vlfhtbody {
+  .jorvmbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -111,14 +111,14 @@
 
 
 
-  .vlfhtmenu {
+  .jorvmmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .vlfhtmenulist {
+  .jorvmmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -126,7 +126,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .vlfhtmenubody {
+  .jorvmmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -134,7 +134,7 @@
     justify-content: center;
   }
 
-  .vlfhtmenulist ul {
+  .jorvmmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -144,7 +144,7 @@
     overflow-x: auto;
   }
 
-  .vlfhtmenulist ul a {
+  .jorvmmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -156,34 +156,34 @@
     white-space: nowrap;
   }
 
-  .vlfhtmenulist ul a:hover {
+  .jorvmmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .vlfhtmenulistbody {
+  .jorvmmenulistbody {
     width: 100%;
   }
 
-  .vlfhtbodylogo {
+  .jorvmbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .vlfhtmenu {
+    .jorvmmenu {
       overflow-x: auto;
     }
 
-    .vlfhtmenulist ul {
+    .jorvmmenulist ul {
       flex-direction: row;
     }
 
 
-    .vlfhtbodylogo {
+    .jorvmbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -191,7 +191,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .vlfhtmenulist ul a {
+    .jorvmmenulist ul a {
       font-size: 14px;
     }
   }
