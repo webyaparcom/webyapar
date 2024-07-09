@@ -1,0 +1,370 @@
+<style>
+      .modulex {
+            text-align: center;
+            margin-bottom: 30px;
+            width: var(--max);
+
+      }
+
+      .modulex h1 {
+            margin-top: 20px;
+            font-size: 2em;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: #e52521;
+
+      }
+
+
+      .modulex-Body {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 30px;
+            justify-content: center;
+            width: var(--max);
+
+      }
+
+      .package {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: linear-gradient(135deg, #ecf0f1, #2c3e509d);
+            display: flex;
+            flex-direction: column;
+
+      }
+
+      .package:hover {
+            transform: translateY(-15px) scale(1.03);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+      }
+
+      .package::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 70%);
+            transform: rotate(45deg);
+            transition: all 0.6s ease;
+      }
+
+      .package:hover::before {
+            left: 100%;
+      }
+
+
+
+      .package-body {
+            flex: 1;
+      }
+
+      .package h2 {
+            color: #e74c3c;
+            font-size: 2.2em;
+            margin-bottom: 20px;
+            position: relative;
+            display: inline-block;
+      }
+
+      .package h2::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 100%;
+            height: 3px;
+            background: #e74c3c;
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+      }
+
+      .package:hover h2::after {
+            transform: scaleX(1);
+      }
+
+      .package .price {
+            font-size: 3em;
+            font-weight: 700;
+            margin: 30px 0;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .package .price span {
+            font-size: 0.4em;
+            vertical-align: super;
+      }
+
+      .package ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 40px 0;
+            text-align: left;
+            float: 1;
+      }
+
+      .package li {
+            margin-bottom: 20px;
+            position: relative;
+            padding-left: 35px;
+            font-size: 1.1em;
+            transition: all 0.3s ease;
+      }
+
+      .package li::before {
+            content: "✦";
+            position: absolute;
+            left: 0;
+            color: #e74c3c;
+            font-weight: bold;
+            transition: all 0.3s ease;
+      }
+
+      .package li:hover {
+            transform: translateX(5px);
+      }
+
+      .package li:hover::before {
+            transform: rotate(360deg);
+      }
+
+      .package .cta {
+            background: linear-gradient(45deg, #8e2418, #e74c3c);
+            color: #ecf0f1;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            position: relative;
+            overflow: hidden;
+      }
+
+      .package .cta::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            transition: all 0.4s ease;
+      }
+
+      .package .cta:hover::before {
+            left: 100%;
+      }
+
+      .features {
+            margin-top: 80px;
+            text-align: center;
+      }
+
+      .features h2 {
+            font-size: 2.5em;
+            margin-bottom: 40px;
+            color: #e74c3c;
+      }
+
+      .feature-list {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            width: var(--max);
+      }
+
+      .feature-item {
+            background: linear-gradient(45deg, #8e2418, #e74c3c);
+            backdrop-filter: blur(10px);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            transition: all 0.4s ease;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .feature-item:hover {
+            transform: translateY(-10px) rotate(2deg);
+            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+      }
+
+      .feature-item i {
+            font-size: 3em;
+            margin-bottom: 20px;
+            background: linear-gradient(45deg, #8e2418, #e74c3c);
+            -webkit-text-fill-color: transparent;
+      }
+
+      .feature-item h3 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+            color: #fff;
+      }
+
+      .feature-item p {
+            font-size: 1em;
+            opacity: 0.9;
+            color: #fff;
+
+      }
+
+
+
+
+      @media screen and (max-width: 1024px) {
+
+
+            #content {
+                  margin: 0px 20px 0px 20px;
+            }
+
+            .modulex-Body {
+                  grid-template-columns: repeat(2, 1fr);
+            }
+
+            .feature-list {
+                  grid-template-columns: repeat(2, 1fr);
+            }
+      }
+
+
+      @media screen and (max-width: 768px) {
+
+
+            #content {
+                  margin: 0px 20px 0px 20px;
+            }
+
+
+            .modulex-Body {
+                  grid-template-columns: repeat(1, 1fr);
+            }
+
+            .feature-list {
+                  grid-template-columns: repeat(1, 1fr);
+            }
+
+
+      }
+</style>
+
+
+<div class="modulex">
+      <h1>Hayalinizdeki Web Deneyimini Gerçeğe Dönüştürün: Sınırları Aşan, Geleceği Şekillendiren Teknoloji</h1>
+</div>
+
+<div class="modulex-Body">
+      <div class="package">
+            <div class="package-body">
+                  <h2>Starter Pack</h2>
+                  <ul>
+                        <li>20 WebYapar projesi</li>
+                        <li>500 sayfa/proje</li>
+                        <li>Akıllı AI asistanı</li>
+                        <li>7/24 e-posta desteği</li>
+                        <li>SSL sertifikası</li>
+                        <li>Responsive tasarımlar</li>
+                        <li>SEO optimizasyonu</li>
+                        <li>Performans analizi</li>
+                        <li>Temel e-ticaret özellikleri</li>
+                  </ul>
+
+            </div>
+            <div class="price">₺15000<span>/yıl</span></div>
+            <button class="cta">Hemen Başla</button>
+      </div>
+
+      <div class="package">
+            <div class="package-body">
+                  <h2>Pro Pack</h2>
+                  <ul>
+                        <li>100 WebYapar projesi</li>
+                        <li>2000 sayfa/proje</li>
+                        <li>Gelişmiş AI asistanı</li>
+                        <li>7/24 öncelikli destek</li>
+                        <li>Özel domain ve SSL</li>
+                        <li>İleri SEO ve hız optimizasyonu</li>
+                        <li>A/B testi ve kullanıcı analizi</li>
+                        <li>Chatbot entegrasyonu</li>
+                        <li>Çoklu dil desteği</li>
+                        <li>Gelişmiş e-ticaret özellikleri</li>
+                        <li>CRM entegrasyonu</li>
+                  </ul>
+            </div>
+
+            <div class="price">₺25000<span>/yıl</span></div>
+            <button class="cta">Profesyonelleş</button>
+      </div>
+
+      <div class="package">
+            <div class="package-body">
+                  <h2>Enterprise</h2>
+                  <ul>
+                        <li>Sınırsız WebYapar projesi</li>
+                        <li>Sınırsız sayfa/proje</li>
+                        <li>Özelleştirilmiş AI ekosistemi</li>
+                        <li>Kişisel proje yöneticisi</li>
+                        <li>Gelişmiş güvenlik protokolleri</li>
+                        <li>VR/AR entegrasyonu</li>
+                        <li>Blockchain tabanlı veri yönetimi</li>
+                        <li>IoT cihaz entegrasyonu</li>
+                        <li>Özel API geliştirme</li>
+                        <li>Gerçek zamanlı işbirliği araçları</li>
+                        <li>AI destekli içerik üretimi</li>
+                        <li>Bulut tabanlı CDN</li>
+                  </ul>
+            </div>
+
+            <div class="price">₺60000<span>/yıl</span></div>
+            <button class="cta">Özel Teklif Al</button>
+      </div>
+</div>
+
+<div class="features">
+      <h2>WebYapar ile Geleceği İnşa Edin</h2>
+      <div class="feature-list">
+            <div class="feature-item">
+                  <i class="fas fa-brain"></i>
+                  <h3>Yapay Zeka Gücü</h3>
+                  <p>En son AI teknolojileriyle projelerinizi akıllı ve öngörülü hale getirin.</p>
+            </div>
+            <div class="feature-item">
+                  <i class="fas fa-bolt"></i>
+                  <h3>Yıldırım Hızında Performans</h3>
+                  <p>Optimize edilmiş altyapı ile kullanıcılarınıza ultra hızlı deneyim sunun.</p>
+            </div>
+            <div class="feature-item">
+                  <i class="fas fa-lock"></i>
+                  <h3>Güvenlik Kalkanı</h3>
+                  <p>Gelişmiş güvenlik protokolleri ile verilerinizi ve kullanıcılarınızı koruyun.</p>
+            </div>
+            <div class="feature-item">
+                  <i class="fas fa-chart-pie"></i>
+                  <h3>Detaylı Analizler</h3>
+                  <p>AI destekli analitik araçlarıyla kullanıcı davranışlarını derinlemesine anlayın.</p>
+            </div>
+            <div class="feature-item">
+                  <i class="fas fa-vr-cardboard"></i>
+                  <h3>Sanal Gerçeklik Entegrasyonu</h3>
+                  <p>VR ve AR teknolojileriyle projelerinize yeni bir boyut katın.</p>
+            </div>
+            <div class="feature-item">
+                  <i class="fas fa-globe-americas"></i>
+                  <h3>Global Ölçeklenebilirlik</h3>
+                  <p>Çoklu dil desteği ve bölgesel optimizasyonlarla dünya çapında büyüyün.</p>
+            </div>
+      </div>
+</div>
