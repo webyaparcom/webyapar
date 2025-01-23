@@ -1,0 +1,111 @@
+# App Privacy
+
+## Data Collection and Usage
+
+### Data Collected and Linked to You
+- Location (Optional)
+  - Precise location for showing nearby safe zones and emergency facilities
+  - Used only when app is in use
+  - Can be disabled in settings
+
+- User Content
+  - Emergency contacts (Optional)
+  - Saved locations (Optional)
+  - All data stored locally on device
+
+### Data Not Linked to You
+- Usage Data
+  - App functionality and performance metrics
+  - Anonymous crash reports
+  - No personal identifiers collected
+
+### Data Not Collected
+- Contact info
+- Search history 
+- Browsing history
+- Identifiers
+- Purchases
+- Financial info
+- Health info
+- Messages
+- Photos/Videos
+- Browsing history
+- Sensitive info
+
+## Privacy Policy
+
+NaturAlert ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information.
+
+### Information We Collect
+
+1. Location Data (Optional)
+- Precise location when using map features
+- Only collected when app is in use
+- Can be disabled in device settings
+
+2. Usage Data
+- Anonymous app performance metrics
+- Crash reports without personal identifiers
+- Technical information about your device
+
+3. User-Provided Data (Optional)
+- Emergency contacts
+- Saved locations
+- Stored locally on your device
+
+### How We Use Your Information
+
+1. Location Data
+- Show nearby safe zones
+- Display emergency facilities
+- Provide relevant earthquake alerts
+
+2. Usage Data
+- Improve app performance
+- Fix technical issues
+- Enhance user experience
+
+### Data Protection
+
+1. Security Measures
+- Encryption in transit and at rest
+- Secure local storage
+- Regular security updates
+
+2. Data Retention
+- Location data deleted when session ends
+- User data stored locally only
+- Usage data retained for 90 days
+
+### User Rights
+
+You have the right to:
+- Access your data
+- Delete your data
+- Disable location tracking
+- Opt out of analytics
+
+### Changes to Privacy Policy
+
+We may update this Privacy Policy. Users will be notified of significant changes.
+
+## User Privacy Choices
+
+### Location Services
+- Enable/disable precise location
+- Choose "While Using" or "Never"
+- Clear location history
+
+### Data Storage
+- All user data stored locally
+- Option to clear saved data
+- No cloud storage used
+
+### Analytics
+- Optional usage analytics
+- No personal data collected
+- Can opt out in settings
+
+
+
+Last Updated: 20.01.2025
