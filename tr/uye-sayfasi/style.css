@@ -1,5 +1,5 @@
 
-  .ftt93 {
+  .x3b53 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .ftt93title {
+  .x3b53title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .ftt93titlebody {
+  .x3b53titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ftt93titlebodytitle {
+  .x3b53titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ftt93titlebodylang {
+  .x3b53titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ftt93titlebodylang ul {
+  .x3b53titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ftt93body {
+  .x3b53body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .ftt93menu {
+  .x3b53menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .ftt93menulist {
+  .x3b53menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .ftt93menubody {
+  .x3b53menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .ftt93menulist ul {
+  .x3b53menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .ftt93menulist ul a {
+  .x3b53menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .ftt93menulist ul a:hover {
+  .x3b53menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ftt93menulistactive {
+  .x3b53menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .ftt93menulistbody {
+  .x3b53menulistbody {
     width: 100%;
   }
 
-  .ftt93bodylogo {
+  .x3b53bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .ftt93menu {
+    .x3b53menu {
       overflow-x: auto;
     }
 
-    .ftt93menulist ul {
+    .x3b53menulist ul {
       flex-direction: row;
     }
 
-    .ftt93bodylogo {
+    .x3b53bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,7 +134,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ftt93menulist ul a {
+    .x3b53menulist ul a {
       font-size: 14px;
     }
   }
