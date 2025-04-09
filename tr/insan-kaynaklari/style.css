@@ -1,5 +1,5 @@
 
-  .hhkal {
+  .bdl07 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .hhkaltitle {
+  .bdl07title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .hhkaltitlebody {
+  .bdl07titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .hhkaltitlebodytitle {
+  .bdl07titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .hhkaltitlebodylang {
+  .bdl07titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .hhkaltitlebodylang ul {
+  .bdl07titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .hhkalbody {
+  .bdl07body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .hhkalmenu {
+  .bdl07menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .hhkalmenulist {
+  .bdl07menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .hhkalmenubody {
+  .bdl07menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .hhkalmenulist ul {
+  .bdl07menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .hhkalmenulist ul a {
+  .bdl07menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .hhkalmenulist ul a:hover {
+  .bdl07menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .hhkalmenulistactive {
+  .bdl07menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .hhkalmenulistbody {
+  .bdl07menulistbody {
     width: 100%;
   }
 
-  .hhkalbodylogo {
+  .bdl07bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .hhkalmenu {
+    .bdl07menu {
       overflow-x: auto;
     }
 
-    .hhkalmenulist ul {
+    .bdl07menulist ul {
       flex-direction: row;
     }
 
-    .hhkalbodylogo {
+    .bdl07bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,27 +134,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .hhkalmenulist ul a {
+    .bdl07menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .ksk20title {
+  .u9r0ptitle {
     font-size: 22px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 500;
   }
-  .ksk20spot {
+  .u9r0pspot {
     font-size: 16px;
     margin-top: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .ksk20body {
+  .u9r0pbody {
     background-color: #ddd;
     border-radius: 10px;
     padding: 10px;
@@ -162,7 +162,7 @@
     display: flex;
     flex-direction: column;
   }
-  .ksk20button {
+  .u9r0pbutton {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -173,7 +173,7 @@
     margin-top: 15px;
   }
   @media screen and (max-width: 1024px) {
-    .ksk20body {
+    .u9r0pbody {
       width: calc(100% - 40px);
       margin: 0px 10px 0px 10px;
     }
