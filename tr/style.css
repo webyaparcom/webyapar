@@ -1,5 +1,5 @@
 
-  .gwiu5 {
+  .fj43r {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .gwiu5title {
+  .fj43rtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .gwiu5titlebody {
+  .fj43rtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .gwiu5titlebodytitle {
+  .fj43rtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .gwiu5titlebodylang {
+  .fj43rtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .gwiu5titlebodylang ul {
+  .fj43rtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .gwiu5body {
+  .fj43rbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .gwiu5menu {
+  .fj43rmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .gwiu5menulist {
+  .fj43rmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .gwiu5menubody {
+  .fj43rmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .gwiu5menulist ul {
+  .fj43rmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .gwiu5menulist ul a {
+  .fj43rmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .gwiu5menulist ul a:hover {
+  .fj43rmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .gwiu5menulistactive {
+  .fj43rmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .gwiu5menulistbody {
+  .fj43rmenulistbody {
     width: 100%;
   }
 
-  .gwiu5bodylogo {
+  .fj43rbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .gwiu5menu {
+    .fj43rmenu {
       overflow-x: auto;
     }
 
-    .gwiu5menulist ul {
+    .fj43rmenulist ul {
       flex-direction: row;
     }
 
-    .gwiu5bodylogo {
+    .fj43rbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,7 +134,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .gwiu5menulist ul a {
+    .fj43rmenulist ul a {
       font-size: 14px;
     }
   }
@@ -170,10 +170,10 @@
   }
 
 
-  .title-n3lts {
+  .title-e2w74 {
     font-size: 18px;
   }
-  .n3ltsbody {
+  .e2w74body {
     display: flex;
     align-items: stretch;
     padding: 15px 0px 15px 0px;
@@ -184,20 +184,20 @@
     align-items: center;
     justify-content: center;
   }
-  .swiper-pagination-n3lts {
+  .swiper-pagination-e2w74 {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 5px !important;
   }
-  .sliderxn3lts {
+  .sliderxe2w74 {
     position: relative;
     width: 100%;
     max-width: var(--max);
     margin-top: 20px;
     margin-bottom: 20px;
   }
-  .slider-n3ltst-itle {
+  .slider-e2w74t-itle {
     width: 100%;
     font-size: 28px;
     font-weight: 500;
@@ -206,8 +206,8 @@
     justify-content: left;
     margin-bottom: 10px;
   }
-  .swiper-button-prev-n3lts,
-  .swiper-button-next-n3lts {
+  .swiper-button-prev-e2w74,
+  .swiper-button-next-e2w74 {
     color: #000 !important;
     font-size: 28px;
     font-weight: bold;
@@ -219,18 +219,18 @@
     transform: translateY(-50%);
     /* Center it vertically */
   }
-  .swiper-button-prev-n3lts {
+  .swiper-button-prev-e2w74 {
     left: -30px !important;
   }
-  .swiper-button-next-n3lts {
+  .swiper-button-next-e2w74 {
     right: -30px !important;
   }
   @media screen and (max-width: 1024px) {
-    .sliderxn3lts {
+    .sliderxe2w74 {
       width: 100%;
     }
   }
-  .img-n3lts {
+  .img-e2w74 {
     aspect-ratio: 1/1;
     display: flex;
     align-items: center;
@@ -243,7 +243,7 @@
     position: relative;
     overflow: hidden;
   }
-  .img-n3lts > img {
+  .img-e2w74 > img {
     max-height: 100%;
     max-width: 100%;
     object-fit: contain;
@@ -254,7 +254,7 @@
     top: 0;
     left: 0;
   }
-  .spot-n3lts {
+  .spot-e2w74 {
     flex: 1;
     display: -webkit-box;
     -webkit-box-orient: vertical;
@@ -263,33 +263,33 @@
     text-overflow: ellipsis;
     white-space: normal;
   }
-  .button-n3lts {
-    background-color: #0455d8;
+  .button-e2w74 {
+    background-color: #e52521;
     padding: 8px;
     border-radius: 5px;
     color: #fff;
     display: flex;
   }
-  .button-n3lts > * {
+  .button-e2w74 > * {
     display: flex;
     align-items: center;
     justify-content: left;
   }
-  .button-n3lts:hover {
+  .button-e2w74:hover {
     filter: brightness(0.9);
     transition: filter 0.3s;
   }
-  .button-n3lts:hover span {
+  .button-e2w74:hover span {
     transform: translateX(8px) scale(1.2);
     /* Move and scale the icon */
     transition:
       transform 0.4s ease,
       color 0.4s ease;
   }
-  .button-n3lts:hover .w100 {
+  .button-e2w74:hover .w100 {
     transition: color 0.4s ease;
   }
-  .swiper-n3lts {
+  .swiper-e2w74 {
     background-color: #fff;
     aspect-ratio: 3/4;
     width: 100%;
@@ -304,46 +304,46 @@
     transition: filter 0.3s;
     cursor: pointer;
   }
-  .n3lts {
+  .e2w74 {
     overflow-x: auto;
   }
-  .n3lts::-webkit-scrollbar {
+  .e2w74::-webkit-scrollbar {
     display: none;
   }
 
 
-  .sliderxn6l7a {
+  .sliderxslax6 {
     width: var(--max);
     margin: 10px 0px 10px 0px;
   }
-  .swiper-pagination-n6l7a {
+  .swiper-pagination-slax6 {
     display: flex;
     align-items: center;
     justify-content: center;
     margin-top: 5px !important;
   }
-  .sliderxn6l7atitle {
+  .sliderxslax6title {
     width: 100%;
     font-size: 24px;
     font-weight: 500;
   }
   @media screen and (max-width: 1024px) {
-    .sliderxn6l7a {
+    .sliderxslax6 {
       width: 100%;
     }
   }
-  .swiper-button-prev-n6l7a,
-  .swiper-button-next-n6l7a {
+  .swiper-button-prev-slax6,
+  .swiper-button-next-slax6 {
     color: #000;
     font-size: 28px;
     font-weight: bold;
     z-index: 10;
     opacity: 0.4;
   }
-  .swiper-button-prev-n6l7a {
+  .swiper-button-prev-slax6 {
     left: 10px;
   }
-  .swiper-button-next-n6l7a {
+  .swiper-button-next-slax6 {
     right: 10px;
   }
   .swiper-slide > .swiper-slide33 {
@@ -365,14 +365,14 @@
     box-shadow: 0px 5px 11px 0px rgba(0, 0, 0, 0.4);
     padding: 5%;
   }
-  .n6l7a {
+  .slax6 {
     overflow-x: auto;
     padding: 0px 20px 0px 20px;
   }
-  .n6l7a::-webkit-scrollbar {
+  .slax6::-webkit-scrollbar {
     display: none;
   }
-  .modulchildn6l7a2 {
+  .modulchildslax62 {
     text-align: -webkit-center;
     width: 100%;
     float: left;
@@ -381,10 +381,10 @@
     background-color: #fff;
     filter: grayscale(1);
   }
-  .modulchildn6l7a2:hover {
+  .modulchildslax62:hover {
     filter: grayscale(0);
   }
-  .modulchildn6l7a3 {
+  .modulchildslax63 {
     float: left;
     width: 100%;
     text-align: center;
@@ -405,19 +405,19 @@
   }
 
 
-  .cn6t0 {
+  .b619r {
     text-align: center;
     margin-bottom: 30px;
     width: var(--width);
   }
-  .cn6t0 h1 {
+  .b619r h1 {
     margin-top: 20px;
     font-size: 2em;
     font-weight: 700;
     margin-bottom: 15px;
     color: #e52521;
   }
-  .cn6t0-Body {
+  .b619r-Body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
@@ -603,7 +603,7 @@
     #content {
       margin: 0px 20px 0px 20px;
     }
-    .cn6t0-Body {
+    .b619r-Body {
       grid-template-columns: repeat(2, 1fr);
     }
     .feature-list {
@@ -614,7 +614,7 @@
     #content {
       margin: 0px 20px 0px 20px;
     }
-    .cn6t0-Body {
+    .b619r-Body {
       grid-template-columns: repeat(1, 1fr);
     }
     .feature-list {
