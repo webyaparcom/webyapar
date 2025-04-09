@@ -1,5 +1,5 @@
 
-  .dcmvh {
+  .wrmu8 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .dcmvhtitle {
+  .wrmu8title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .dcmvhtitlebody {
+  .wrmu8titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .dcmvhtitlebodytitle {
+  .wrmu8titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .dcmvhtitlebodylang {
+  .wrmu8titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .dcmvhtitlebodylang ul {
+  .wrmu8titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .dcmvhbody {
+  .wrmu8body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .dcmvhmenu {
+  .wrmu8menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .dcmvhmenulist {
+  .wrmu8menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .dcmvhmenubody {
+  .wrmu8menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .dcmvhmenulist ul {
+  .wrmu8menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .dcmvhmenulist ul a {
+  .wrmu8menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .dcmvhmenulist ul a:hover {
+  .wrmu8menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .dcmvhmenulistactive {
+  .wrmu8menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .dcmvhmenulistbody {
+  .wrmu8menulistbody {
     width: 100%;
   }
 
-  .dcmvhbodylogo {
+  .wrmu8bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .dcmvhmenu {
+    .wrmu8menu {
       overflow-x: auto;
     }
 
-    .dcmvhmenulist ul {
+    .wrmu8menulist ul {
       flex-direction: row;
     }
 
-    .dcmvhbodylogo {
+    .wrmu8bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,13 +134,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .dcmvhmenulist ul a {
+    .wrmu8menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .mr43a {
+  .nd3km {
     width: 100%;
     height: 500px;
     flex: 1;
@@ -149,29 +149,29 @@
     justify-content: center;
     margin-top: 20px;
   }
-  .mr43a-null {
+  .nd3km-null {
     color: #fff;
     cursor: pointer;
     text-align: right;
     padding: 15px 0px 0px 0px;
     font-size: 14px;
   }
-  .mr43a-null:hover {
+  .nd3km-null:hover {
     color: #999;
   }
-  .mr43a-body {
+  .nd3km-body {
     background-color: #101010;
     width: 500px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
   }
-  .mr43a-body-form {
+  .nd3km-body-form {
     padding: 20px;
     display: flex;
     flex-direction: column;
   }
-  .mr43a-button {
+  .nd3km-button {
     padding: 10px;
     background-color: #ff671d;
     margin-top: 20px;
@@ -183,18 +183,18 @@
     justify-content: center;
     cursor: pointer;
   }
-  .mr43a-login-menu {
+  .nd3km-login-menu {
     display: flex;
     gap: 2px;
   }
-  #mr43a-login-menu-left {
+  #nd3km-login-menu-left {
     border-radius: 20px 0px 0px 0px;
     background-color: #101010;
   }
-  #mr43a-login-menu-right {
+  #nd3km-login-menu-right {
     border-radius: 0px 20px 0px 0px;
   }
-  #mr43a-memberol {
+  #nd3km-memberol {
     display: none;
     flex-direction: column;
   }
@@ -217,7 +217,7 @@
     align-items: center;
     justify-content: center;
   }
-  .mr43a-login-menu > div {
+  .nd3km-login-menu > div {
     background-color: #ff671d;
     width: 100%;
     display: flex;

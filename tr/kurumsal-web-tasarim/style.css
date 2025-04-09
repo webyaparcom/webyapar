@@ -1,5 +1,5 @@
 
-  .bnakg {
+  .c1nac {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .bnakgtitle {
+  .c1nactitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .bnakgtitlebody {
+  .c1nactitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .bnakgtitlebodytitle {
+  .c1nactitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .bnakgtitlebodylang {
+  .c1nactitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .bnakgtitlebodylang ul {
+  .c1nactitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .bnakgbody {
+  .c1nacbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .bnakgmenu {
+  .c1nacmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .bnakgmenulist {
+  .c1nacmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .bnakgmenubody {
+  .c1nacmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .bnakgmenulist ul {
+  .c1nacmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .bnakgmenulist ul a {
+  .c1nacmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .bnakgmenulist ul a:hover {
+  .c1nacmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .bnakgmenulistactive {
+  .c1nacmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .bnakgmenulistbody {
+  .c1nacmenulistbody {
     width: 100%;
   }
 
-  .bnakgbodylogo {
+  .c1nacbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .bnakgmenu {
+    .c1nacmenu {
       overflow-x: auto;
     }
 
-    .bnakgmenulist ul {
+    .c1nacmenulist ul {
       flex-direction: row;
     }
 
-    .bnakgbodylogo {
+    .c1nacbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,7 +134,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .bnakgmenulist ul a {
+    .c1nacmenulist ul a {
       font-size: 14px;
     }
   }
@@ -144,14 +144,14 @@
     justify-content: start;
   }
 
-  .lwvnh {
+  .xjpv5 {
     width: var(--max);
     margin-top: 20px;
     gap: 10px;
     float: left;
   }
 
-  .lwvnh-menu {
+  .xjpv5-menu {
     width: 200px;
     background-color: #f9f9f9;
     border-radius: 5px;
@@ -162,28 +162,28 @@
     float: left;
   }
 
-  .lwvnh-desc {
+  .xjpv5-desc {
     display: flex;
     flex-direction: column;
     gap: 10px;
     float: right;
   }
 
-  .lwvnh-menu > a {
+  .xjpv5-menu > a {
     background-color: #fff;
     padding: 10px;
     float: left;
     border-radius: 5px;
   }
 
-  .lwvnh-menu > .active,
-  .lwvnh-menu > a:hover {
+  .xjpv5-menu > .active,
+  .xjpv5-menu > a:hover {
     background-color: --menu-active--;
     color: #fff;
     display: flex;
   }
 
-  .lwvnh-desc-menu {
+  .xjpv5-desc-menu {
     width: 200px;
     background-color: --menu-active--;
     display: flex;
@@ -191,19 +191,19 @@
     border-radius: 5px;
   }
 
-  .lwvnh-desc-menu > div {
+  .xjpv5-desc-menu > div {
     padding: 5px;
     border-radius: 5px;
     background-color: #fff;
     margin: 5px;
   }
 
-  .lwvnh-desc-body {
+  .xjpv5-desc-body {
     display: flex;
     justify-content: space-between;
   }
 
-  .lwvnh-title {
+  .xjpv5-title {
     width: 100%;
     height: 200px;
     background-color: #000;
@@ -216,7 +216,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
 
-  .lwvnh-title::before {
+  .xjpv5-title::before {
     content: "";
     position: absolute;
     top: 0;
@@ -231,56 +231,56 @@
     z-index: 1;
   }
 
-  .lwvnh-title span {
+  .xjpv5-title span {
     position: relative;
     z-index: 2;
     font-size: 50px;
   }
 
-  .lwvnh-body {
+  .xjpv5-body {
     display: flex;
     flex-direction: column;
     gap: 10px;
   }
 
-  .lwvnh-img {
+  .xjpv5-img {
     display: flex;
     align-items: center;
     justify-content: center;
     width: calc(var(--max) - 460px);
   }
 
-  .lwvnh-img img {
+  .xjpv5-img img {
     width: 100%;
   }
 
   @media screen and (min-width: 1024px) {
-    .lwvnh-desc {
+    .xjpv5-desc {
       width: calc(var(--max) - 240px);
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .lwvnh {
+    .xjpv5 {
       flex-direction: column;
       width: calc(100% - 10px);
       padding: 5px;
       gap: 20px;
     }
 
-    .lwvnh-img {
+    .xjpv5-img {
       width: 100%;
     }
 
-    .lwvnh-body {
+    .xjpv5-body {
       width: 100%;
     }
 
-    .lwvnh-menu {
+    .xjpv5-menu {
       display: none;
     }
 
-    .lwvnh-desc {
+    .xjpv5-desc {
       width: 100% !important;
     }
   }

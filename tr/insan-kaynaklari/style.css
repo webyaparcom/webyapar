@@ -1,5 +1,5 @@
 
-  .c3zad {
+  .wiz21 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .c3zadtitle {
+  .wiz21title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .c3zadtitlebody {
+  .wiz21titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .c3zadtitlebodytitle {
+  .wiz21titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .c3zadtitlebodylang {
+  .wiz21titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .c3zadtitlebodylang ul {
+  .wiz21titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .c3zadbody {
+  .wiz21body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .c3zadmenu {
+  .wiz21menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .c3zadmenulist {
+  .wiz21menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .c3zadmenubody {
+  .wiz21menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .c3zadmenulist ul {
+  .wiz21menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .c3zadmenulist ul a {
+  .wiz21menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .c3zadmenulist ul a:hover {
+  .wiz21menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .c3zadmenulistactive {
+  .wiz21menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .c3zadmenulistbody {
+  .wiz21menulistbody {
     width: 100%;
   }
 
-  .c3zadbodylogo {
+  .wiz21bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .c3zadmenu {
+    .wiz21menu {
       overflow-x: auto;
     }
 
-    .c3zadmenulist ul {
+    .wiz21menulist ul {
       flex-direction: row;
     }
 
-    .c3zadbodylogo {
+    .wiz21bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,27 +134,27 @@
   }
 
   @media screen and (max-width: 768px) {
-    .c3zadmenulist ul a {
+    .wiz21menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .qwoz1title {
+  .la0v0title {
     font-size: 22px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 500;
   }
-  .qwoz1spot {
+  .la0v0spot {
     font-size: 16px;
     margin-top: 5px;
     display: flex;
     align-items: center;
     justify-content: center;
   }
-  .qwoz1body {
+  .la0v0body {
     background-color: #ddd;
     border-radius: 10px;
     padding: 10px;
@@ -162,7 +162,7 @@
     display: flex;
     flex-direction: column;
   }
-  .qwoz1button {
+  .la0v0button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -173,7 +173,7 @@
     margin-top: 15px;
   }
   @media screen and (max-width: 1024px) {
-    .qwoz1body {
+    .la0v0body {
       width: calc(100% - 40px);
       margin: 0px 10px 0px 10px;
     }

@@ -1,5 +1,5 @@
 
-  .tvzox {
+  .h1prb {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .tvzoxtitle {
+  .h1prbtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .tvzoxtitlebody {
+  .h1prbtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .tvzoxtitlebodytitle {
+  .h1prbtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .tvzoxtitlebodylang {
+  .h1prbtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .tvzoxtitlebodylang ul {
+  .h1prbtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .tvzoxbody {
+  .h1prbbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .tvzoxmenu {
+  .h1prbmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .tvzoxmenulist {
+  .h1prbmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .tvzoxmenubody {
+  .h1prbmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .tvzoxmenulist ul {
+  .h1prbmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .tvzoxmenulist ul a {
+  .h1prbmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .tvzoxmenulist ul a:hover {
+  .h1prbmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .tvzoxmenulistactive {
+  .h1prbmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .tvzoxmenulistbody {
+  .h1prbmenulistbody {
     width: 100%;
   }
 
-  .tvzoxbodylogo {
+  .h1prbbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .tvzoxmenu {
+    .h1prbmenu {
       overflow-x: auto;
     }
 
-    .tvzoxmenulist ul {
+    .h1prbmenulist ul {
       flex-direction: row;
     }
 
-    .tvzoxbodylogo {
+    .h1prbbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,25 +134,25 @@
   }
 
   @media screen and (max-width: 768px) {
-    .tvzoxmenulist ul a {
+    .h1prbmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .aqd44 {
+  .vhsu1 {
     text-align: center;
     margin-bottom: 30px;
     width: var(--width);
   }
-  .aqd44 h1 {
+  .vhsu1 h1 {
     margin-top: 20px;
     font-size: 2em;
     font-weight: 700;
     margin-bottom: 15px;
     color: #e52521;
   }
-  .aqd44-Body {
+  .vhsu1-Body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 30px;
@@ -338,7 +338,7 @@
     #content {
       margin: 0px 20px 0px 20px;
     }
-    .aqd44-Body {
+    .vhsu1-Body {
       grid-template-columns: repeat(2, 1fr);
     }
     .feature-list {
@@ -349,7 +349,7 @@
     #content {
       margin: 0px 20px 0px 20px;
     }
-    .aqd44-Body {
+    .vhsu1-Body {
       grid-template-columns: repeat(1, 1fr);
     }
     .feature-list {

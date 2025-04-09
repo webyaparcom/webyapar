@@ -1,5 +1,5 @@
 
-  .apz7b {
+  .farqj {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .apz7btitle {
+  .farqjtitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .apz7btitlebody {
+  .farqjtitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .apz7btitlebodytitle {
+  .farqjtitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .apz7btitlebodylang {
+  .farqjtitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .apz7btitlebodylang ul {
+  .farqjtitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .apz7bbody {
+  .farqjbody {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .apz7bmenu {
+  .farqjmenu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .apz7bmenulist {
+  .farqjmenulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .apz7bmenubody {
+  .farqjmenubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .apz7bmenulist ul {
+  .farqjmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .apz7bmenulist ul a {
+  .farqjmenulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .apz7bmenulist ul a:hover {
+  .farqjmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .apz7bmenulistactive {
+  .farqjmenulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .apz7bmenulistbody {
+  .farqjmenulistbody {
     width: 100%;
   }
 
-  .apz7bbodylogo {
+  .farqjbodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .apz7bmenu {
+    .farqjmenu {
       overflow-x: auto;
     }
 
-    .apz7bmenulist ul {
+    .farqjmenulist ul {
       flex-direction: row;
     }
 
-    .apz7bbodylogo {
+    .farqjbodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,13 +134,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .apz7bmenulist ul a {
+    .farqjmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .ypofd {
+  .cgoyh {
     width: 100%;
     padding: 60px 20px;
     display: flex;
@@ -148,13 +148,13 @@
     justify-content: center;
     position: relative;
   }
-  .ypofdcontainertitle {
+  .cgoyhcontainertitle {
     font-size: 28px;
     font-weight: bold;
     color: #333;
     margin-bottom: 20px;
   }
-  .ypofdcontainerlist {
+  .cgoyhcontainerlist {
     padding: 10px;
     display: flex;
     border-radius: 8px;
@@ -162,23 +162,23 @@
     gap: 20px;
     transition: background-color 0.3s ease;
   }
-  .ypofdcontainerlist > div {
+  .cgoyhcontainerlist > div {
     display: flex;
     align-items: center;
     font-size: 20px;
     color: #444;
   }
-  .ypofdcontainerlist:hover {
+  .cgoyhcontainerlist:hover {
     background-color: #f9f9f9;
     border-bottom-color: #f00;
   }
-  .ypofdcontainer {
+  .cgoyhcontainer {
     display: flex;
     flex-direction: column;
     gap: 15px;
     padding: 20px;
   }
-  .ypofdcontainerbody {
+  .cgoyhcontainerbody {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -187,24 +187,24 @@
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
   }
-  .ypofdbody {
+  .cgoyhbody {
     width: calc(var(--max) - 40px);
     background-color: #ebebeb;
     border: 1px solid #dedede;
     border-radius: 10px;
     padding: 20px;
   }
-  .ypofdcontainerlist > span {
+  .cgoyhcontainerlist > span {
     font-size: 24px;
     color: #f00;
   }
   @media screen and (max-width: 1024px) {
-    .ypofdbody {
+    .cgoyhbody {
       width: 100%;
       padding: 20px;
       flex-direction: column;
     }
-    .ypofdcontainerbody {
+    .cgoyhcontainerbody {
       padding: 15px;
     }
   }
