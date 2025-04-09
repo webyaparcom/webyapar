@@ -1,5 +1,5 @@
 
-  .pfpy4 {
+  .h2cw7 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .pfpy4title {
+  .h2cw7title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .pfpy4titlebody {
+  .h2cw7titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .pfpy4titlebodytitle {
+  .h2cw7titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .pfpy4titlebodylang {
+  .h2cw7titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .pfpy4titlebodylang ul {
+  .h2cw7titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .pfpy4body {
+  .h2cw7body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .pfpy4menu {
+  .h2cw7menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .pfpy4menulist {
+  .h2cw7menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .pfpy4menubody {
+  .h2cw7menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .pfpy4menulist ul {
+  .h2cw7menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .pfpy4menulist ul a {
+  .h2cw7menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .pfpy4menulist ul a:hover {
+  .h2cw7menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .pfpy4menulistactive {
+  .h2cw7menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .pfpy4menulistbody {
+  .h2cw7menulistbody {
     width: 100%;
   }
 
-  .pfpy4bodylogo {
+  .h2cw7bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .pfpy4menu {
+    .h2cw7menu {
       overflow-x: auto;
     }
 
-    .pfpy4menulist ul {
+    .h2cw7menulist ul {
       flex-direction: row;
     }
 
-    .pfpy4bodylogo {
+    .h2cw7bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,7 +134,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .pfpy4menulist ul a {
+    .h2cw7menulist ul a {
       font-size: 14px;
     }
   }

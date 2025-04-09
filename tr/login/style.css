@@ -1,5 +1,5 @@
 
-  .wrmu8 {
+  .t94l0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .wrmu8title {
+  .t94l0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .wrmu8titlebody {
+  .t94l0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .wrmu8titlebodytitle {
+  .t94l0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .wrmu8titlebodylang {
+  .t94l0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .wrmu8titlebodylang ul {
+  .t94l0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .wrmu8body {
+  .t94l0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .wrmu8menu {
+  .t94l0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .wrmu8menulist {
+  .t94l0menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .wrmu8menubody {
+  .t94l0menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .wrmu8menulist ul {
+  .t94l0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .wrmu8menulist ul a {
+  .t94l0menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .wrmu8menulist ul a:hover {
+  .t94l0menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .wrmu8menulistactive {
+  .t94l0menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .wrmu8menulistbody {
+  .t94l0menulistbody {
     width: 100%;
   }
 
-  .wrmu8bodylogo {
+  .t94l0bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .wrmu8menu {
+    .t94l0menu {
       overflow-x: auto;
     }
 
-    .wrmu8menulist ul {
+    .t94l0menulist ul {
       flex-direction: row;
     }
 
-    .wrmu8bodylogo {
+    .t94l0bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,13 +134,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .wrmu8menulist ul a {
+    .t94l0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .nd3km {
+  .shjmd {
     width: 100%;
     height: 500px;
     flex: 1;
@@ -149,29 +149,29 @@
     justify-content: center;
     margin-top: 20px;
   }
-  .nd3km-null {
+  .shjmd-null {
     color: #fff;
     cursor: pointer;
     text-align: right;
     padding: 15px 0px 0px 0px;
     font-size: 14px;
   }
-  .nd3km-null:hover {
+  .shjmd-null:hover {
     color: #999;
   }
-  .nd3km-body {
+  .shjmd-body {
     background-color: #101010;
     width: 500px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
   }
-  .nd3km-body-form {
+  .shjmd-body-form {
     padding: 20px;
     display: flex;
     flex-direction: column;
   }
-  .nd3km-button {
+  .shjmd-button {
     padding: 10px;
     background-color: #ff671d;
     margin-top: 20px;
@@ -183,18 +183,18 @@
     justify-content: center;
     cursor: pointer;
   }
-  .nd3km-login-menu {
+  .shjmd-login-menu {
     display: flex;
     gap: 2px;
   }
-  #nd3km-login-menu-left {
+  #shjmd-login-menu-left {
     border-radius: 20px 0px 0px 0px;
     background-color: #101010;
   }
-  #nd3km-login-menu-right {
+  #shjmd-login-menu-right {
     border-radius: 0px 20px 0px 0px;
   }
-  #nd3km-memberol {
+  #shjmd-memberol {
     display: none;
     flex-direction: column;
   }
@@ -217,7 +217,7 @@
     align-items: center;
     justify-content: center;
   }
-  .nd3km-login-menu > div {
+  .shjmd-login-menu > div {
     background-color: #ff671d;
     width: 100%;
     display: flex;
