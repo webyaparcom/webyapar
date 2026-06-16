@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <!-- Mobil tarayıcılarda doğru ölçekleme ve tam ekran kullanım -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>3D Model Görüntüleyici</title>
+  <style>
+    /* Sayfa kenar boşluklarını kaldır, tam ekran canvas */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background: #ffffff;
+      touch-action: none; /* Mobilde kaydırma yerine model döndürme */
+    }
+
+    #canvas-container {
+      width: 100%;
+      height: 100%;
+      position: fixed;
+      inset: 0;
+    }
+
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      outline: none;
+    }
+
+    /* Yükleme göstergesi */
+    #loader {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: #ffffff;
+      color: #333333;
+      font-family: system-ui, -apple-system, sans-serif;
+      z-index: 10;
+      transition: opacity 0.4s ease;
+    }
+
+    #loader.hidden {
+      opacity: 0;
+      pointer-events: none;
+    }
+
+    .spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid #333;
+      border-top-color: #6ea8fe;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Hata mesajı */
+    #error {
+      display: none;
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #c0392b;
+      color: #fff;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-family: system-ui, sans-serif;
+      font-size: 14px;
+      z-index: 20;
+    }
+  </style>
+</head>
+<body>
+  <div id="loader">
+    <div class="spinner"></div>
+    <span>Model yükleniyor...</span>
+  </div>
+
+  <div id="canvas-container"></div>
+  <div id="error"></div>
+
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+      }
+    }
+  </script>
+
+  <script type="module">
+    import * as THREE from 'three';
+    import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+    import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+
+    // DOM referansları
+    const container = document.getElementById('canvas-container');
+    const loaderEl = document.getElementById('loader');
+    const errorEl = document.getElementById('error');
+
+    // Sahne oluştur
+    const scene = new THREE.Scene();
+    scene.background = new THREE.Color(0xffffff);
+
+    // Kamera — başlangıç değeri model yüklendikten sonra ayarlanır
+    const camera = new THREE.PerspectiveCamera(
+      45,
+      window.innerWidth / window.innerHeight,
+      0.01,
+      1000
+    );
+
+    // WebGL renderer — mobilde performans için pixel ratio sınırı
+    const renderer = new THREE.WebGLRenderer({
+      antialias: true,
+      alpha: false,
+      powerPreference: 'high-performance'
+    });
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+    renderer.toneMapping = THREE.ACESFilmicToneMapping;
+    renderer.toneMappingExposure = 1.0;
+    container.appendChild(renderer.domElement);
+
+    // Elle döndürme kontrolleri — fare ve dokunmatik destekli
+    const controls = new OrbitControls(camera, renderer.domElement);
+    controls.enableDamping = true;       // Yumuşak hareket
+    controls.dampingFactor = 0.08;
+    controls.enablePan = false;          // Sadece döndürme ve zoom
+    controls.enableZoom = true;
+    controls.minDistance = 0.5;
+    controls.maxDistance = 50;
+    controls.rotateSpeed = 0.8;
+    controls.zoomSpeed = 0.8;
+  controls.touches = {
+      ONE: THREE.TOUCH.ROTATE,
+      TWO: THREE.TOUCH.DOLLY_PAN
+    };
+
+    // Aydınlatma — dokulu model için yeterli ışık
+    const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
+    scene.add(ambientLight);
+
+    const dirLight1 = new THREE.DirectionalLight(0xffffff, 1.2);
+    dirLight1.position.set(5, 8, 5);
+    scene.add(dirLight1);
+
+    const dirLight2 = new THREE.DirectionalLight(0xffffff, 0.5);
+    dirLight2.position.set(-5, 3, -5);
+    scene.add(dirLight2);
+
+    const hemisphereLight = new THREE.HemisphereLight(0xffffff, 0x444444, 0.4);
+    scene.add(hemisphereLight);
+
+    /**
+     * Modeli sahneye sığdır: merkeze al, kamerayı uygun mesafeye yerleştir
+     */
+    function fitModelToView(object) {
+      const box = new THREE.Box3().setFromObject(object);
+      const center = box.getCenter(new THREE.Vector3());
+      const size = box.getSize(new THREE.Vector3());
+      const maxDim = Math.max(size.x, size.y, size.z);
+
+      // Modeli orijine taşı
+      object.position.sub(center);
+
+      // Kamerayı model boyutuna göre konumlandır
+      const fov = camera.fov * (Math.PI / 180);
+      const distance = (maxDim / 2) / Math.tan(fov / 2) * 1.4;
+
+      camera.position.set(0, maxDim * 0.15, distance);
+      camera.near = distance / 100;
+      camera.far = distance * 100;
+      camera.updateProjectionMatrix();
+
+      controls.target.set(0, 0, 0);
+      controls.minDistance = distance * 0.3;
+      controls.maxDistance = distance * 4;
+      controls.update();
+    }
+
+    /**
+     * GLB modelini yükle
+     */
+    const gltfLoader = new GLTFLoader();
+    gltfLoader.load(
+      './textured_mesh.glb',
+      (gltf) => {
+        const model = gltf.scene;
+        scene.add(model);
+        fitModelToView(model);
+
+        loaderEl.classList.add('hidden');
+        setTimeout(() => loaderEl.remove(), 500);
+      },
+      undefined,
+      (err) => {
+        console.error('Model yükleme hatası:', err);
+        loaderEl.classList.add('hidden');
+        errorEl.style.display = 'block';
+        errorEl.textContent = 'Model yüklenemedi. textured_mesh.glb dosyasını kontrol edin.';
+      }
+    );
+
+    /**
+     * Pencere boyutu değişince (mobil döndürme dahil) yeniden boyutlandır
+     */
+    function onResize() {
+      const w = window.innerWidth;
+      const h = window.innerHeight;
+      camera.aspect = w / h;
+      camera.updateProjectionMatrix();
+      renderer.setSize(w, h);
+    }
+
+    window.addEventListener('resize', onResize);
+
+    // iOS Safari adres çubuğu değişimini yakala
+    window.addEventListener('orientationchange', () => {
+      setTimeout(onResize, 200);
+    });
+
+    // Çift dokunma zoom'unu engelle (model kontrolü için)
+    document.addEventListener('gesturestart', (e) => e.preventDefault());
+    document.addEventListener('dblclick', (e) => e.preventDefault());
+
+    /**
+     * Animasyon döngüsü
+     */
+    function animate() {
+      requestAnimationFrame(animate);
+      controls.update();
+      renderer.render(scene, camera);
+    }
+
+    animate();
+  </script>
+</body>
+</html>
