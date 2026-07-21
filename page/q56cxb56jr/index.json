@@ -1,0 +1,46 @@
+{
+  "name": {
+    "tr": "Hizmetlerimiz",
+    "en": "Our Services",
+    "ar": "خدماتنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "q56cxb56jr",
+  "path": "hizmetlerimiz",
+  "index": 1,
+  "icon": "grid_view",
+  "title": {
+    "tr": "Dijital Hizmetlerimiz | Webyapar",
+    "en": "Our Digital Services | Webyapar",
+    "ar": "خدماتنا الرقمية | Webyapar"
+  },
+  "description": {
+    "tr": "Web tasarım, SEO, reklam yönetimi, sosyal medya ve fotoğraf — Webyapar dijital hizmetleri.",
+    "en": "Web design, SEO, ads, social media and photography — Webyapar digital services.",
+    "ar": "تصميم مواقع، SEO، إدارة الإعلانات، وسائل التواصل والتصوير — خدمات Webyapar الرقمية."
+  },
+  "keyword": {
+    "tr": "dijital hizmetler gaziantep, web tasarım, seo, google ads, webyapar",
+    "en": "digital services gaziantep, web design, seo, google ads, webyapar",
+    "ar": "خدمات رقمية غازي عنتاب, تصميم مواقع, seo, webyapar"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">Dijital Hizmetlerimiz</h2><p style=\"font-size:16px;line-height:1.8;\">Webyapar ile markanızı web'den arama sonuçlarına, reklamlardan sosyal medyaya kadar uçtan uca büyütün. Aşağıdaki hizmetlerden birini seçerek detayları inceleyebilirsiniz.</p>",
+    "en": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">Our Digital Services</h2><p style=\"font-size:16px;line-height:1.8;\">Grow your brand end-to-end with Webyapar — from web and search to ads and social. Pick a service below for details.</p>",
+    "ar": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">خدماتنا الرقمية</h2><p style=\"font-size:16px;line-height:1.8;\">نمِّ علامتك مع Webyapar من الويب إلى نتائج البحث والإعلانات ووسائل التواصل. اختر خدمة أدناه للتفاصيل.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "wpLs01",
+      "wpCt01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-07-21T05:34:41.929Z",
+  "url": "",
+  "pathnext": "",
+  "date": "2026-07-21T05:33:10.918Z"
+}

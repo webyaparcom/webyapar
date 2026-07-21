@@ -1,0 +1,427 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "id": "wpMn01",
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "version": "1.0.0",
+      "icon": "menu",
+      "desing": {
+        "logo": "logo.svg",
+        "bgcolor": "#0B1120",
+        "color": "#ffffff",
+        "activebgcolor": "#2563EB",
+        "activecolor": "#ffffff"
+      }
+    },
+    {
+      "index": 1,
+      "id": "wpHv01",
+      "name": "Hero Slider",
+      "path": "slider-text",
+      "local": "header",
+      "category": "slider",
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "data": [
+        {
+          "img": "hero-web-design.webp",
+          "layout": "left",
+          "bgcolor": "#0B1120",
+          "title": {
+            "tr": "Web ile büyüyen markalar",
+            "en": "Brands that grow with the web",
+            "ar": "علامات تجارية تنمو عبر الويب"
+          },
+          "description": {
+            "tr": "SEO uyumlu, hızlı ve modern web siteleri.",
+            "en": "SEO-friendly, fast and modern websites.",
+            "ar": "مواقع حديثة سريعة ومتوافقة مع SEO."
+          },
+          "button": {
+            "tr": "Hizmetleri İncele",
+            "en": "Explore Services",
+            "ar": "استكشف الخدمات"
+          },
+          "link": "hizmetlerimiz"
+        },
+        {
+          "img": "hero-seo-analytics.webp",
+          "layout": "left",
+          "bgcolor": "#0B1120",
+          "title": {
+            "tr": "SEO ve ölçülebilir büyüme",
+            "en": "SEO and measurable growth",
+            "ar": "SEO ونمو قابل للقياس"
+          },
+          "description": {
+            "tr": "Organik trafik ve dönüşüm odaklı dijital strateji.",
+            "en": "Digital strategy focused on organic traffic and conversion.",
+            "ar": "استراتيجية رقمية تركز على الزيارات العضوية والتحويل."
+          },
+          "button": {
+            "tr": "SEO Hizmeti",
+            "en": "SEO Service",
+            "ar": "خدمة SEO"
+          },
+          "link": "seo-hizmeti"
+        },
+        {
+          "img": "hero-social-campaign.webp",
+          "layout": "left",
+          "bgcolor": "#0B1120",
+          "title": {
+            "tr": "Reklam ve sosyal medya",
+            "en": "Ads and social media",
+            "ar": "الإعلانات ووسائل التواصل"
+          },
+          "description": {
+            "tr": "Google Ads ve sosyal kampanyalarla net sonuç.",
+            "en": "Clear results with Google Ads and social campaigns.",
+            "ar": "نتائج واضحة مع Google Ads وحملات اجتماعية."
+          },
+          "button": {
+            "tr": "Teklif Al",
+            "en": "Get a Quote",
+            "ar": "اطلب عرض سعر"
+          },
+          "link": "iletisim"
+        }
+      ],
+      "desing": {
+        "delay": 4500,
+        "height": "560px",
+        "max": "1200px",
+        "overlay": 0.48,
+        "align": "left",
+        "titlecolor": "#ffffff",
+        "desccolor": "rgba(255,255,255,0.90)",
+        "btncolor": "#ffffff",
+        "btnbg": "#2563EB",
+        "border_radius": "10px",
+        "margin": "0px 0 0 0",
+        "bgcolor": "#0B1120",
+        "prevLabel": {
+          "tr": "Önceki slayt",
+          "en": "Previous slide",
+          "ar": "الشريحة السابقة"
+        },
+        "nextLabel": {
+          "tr": "Sonraki slayt",
+          "en": "Next slide",
+          "ar": "الشريحة التالية"
+        }
+      }
+    },
+    {
+      "index": 2,
+      "id": "wpLs01",
+      "name": "Hizmet Listesi",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "hizmetler",
+        "size": 5,
+        "category": "",
+        "aspect-ratio": "4 / 3",
+        "name": {
+          "tr": "Dijital Hizmetlerimiz",
+          "en": "Our Digital Services",
+          "ar": "خدماتنا الرقمية"
+        }
+      }
+    },
+    {
+      "index": 3,
+      "id": "wpIn01",
+      "name": "Tanıtım",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "version": "1.1.0",
+      "icon": "business",
+      "desing": {
+        "name": {
+          "tr": "Neden Webyapar?",
+          "en": "Why Webyapar?",
+          "ar": "لماذا Webyapar؟"
+        },
+        "description": {
+          "tr": "SEO odaklı web, ölçülebilir reklam ve içerik — tek ekip, net sonuç. Gaziantep'ten tüm Türkiye'ye dijital büyüme.",
+          "en": "SEO-first web, measurable ads and content — one team, clear results. Digital growth from Gaziantep to all of Turkey.",
+          "ar": "ويب يركز على SEO، إعلانات قابلة للقياس ومحتوى — فريق واحد ونتائج واضحة. نمو رقمي من غازي عنتاب إلى كل تركيا."
+        },
+        "name2": {
+          "tr": "SEO Odaklı",
+          "en": "SEO First",
+          "ar": "SEO أولاً"
+        },
+        "spot2": {
+          "tr": "Teknik SEO, içerik ve hız ile organik görünürlük.",
+          "en": "Organic visibility via technical SEO, content and speed.",
+          "ar": "ظهور عضوي عبر SEO تقني ومحتوى وسرعة."
+        },
+        "icon2": "search",
+        "name3": {
+          "tr": "Performans",
+          "en": "Performance",
+          "ar": "الأداء"
+        },
+        "spot3": {
+          "tr": "Google Ads ve sosyal kampanyalarda ROI takibi.",
+          "en": "ROI tracking on Google Ads and social campaigns.",
+          "ar": "متابعة العائد على الاستثمار في Google Ads والحملات الاجتماعية."
+        },
+        "icon3": "monitoring",
+        "img": "about-team.webp",
+        "bgcolor": "#0B1120",
+        "fontcolor": "#fff",
+        "margintop": "20",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Dijital Ajans",
+          "en": "Digital Agency",
+          "ar": "وكالة رقمية"
+        }
+      }
+    },
+    {
+      "index": 4,
+      "id": "wpSt01",
+      "name": "İstatistik",
+      "path": "stats-1",
+      "local": "body",
+      "category": "stats",
+      "version": "1.0.0",
+      "icon": "monitoring",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #0B1120 0%, #1e3a5f 100%)",
+        "numbercolor": "#2563EB",
+        "labelcolor": "#e2e8f0"
+      },
+      "data": [
+        {
+          "number": 120,
+          "suffix": "+",
+          "label": {
+            "tr": "Tamamlanan Proje",
+            "en": "Projects",
+            "ar": "مشروع مكتمل"
+          },
+          "icon": "task_alt"
+        },
+        {
+          "number": 80,
+          "suffix": "+",
+          "label": {
+            "tr": "Mutlu Marka",
+            "en": "Brands",
+            "ar": "علامة راضية"
+          },
+          "icon": "sentiment_satisfied"
+        },
+        {
+          "number": 10,
+          "suffix": "+",
+          "label": {
+            "tr": "Yıl Deneyim",
+            "en": "Years",
+            "ar": "سنوات خبرة"
+          },
+          "icon": "workspace_premium"
+        },
+        {
+          "number": 5,
+          "suffix": "",
+          "label": {
+            "tr": "Dijital Hizmet",
+            "en": "Services",
+            "ar": "خدمة رقمية"
+          },
+          "icon": "grid_view"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "id": "wpVd01",
+      "name": "Tanıtım Videosu",
+      "path": "module-video",
+      "local": "body",
+      "category": "video",
+      "version": "1.0.0",
+      "icon": "play_circle",
+      "desing": {
+        "name": {
+          "tr": "Webyapar Tanıtım",
+          "en": "Webyapar Intro",
+          "ar": "تعريف Webyapar"
+        },
+        "video": "video1.mp4",
+        "margintop": "20",
+        "marginbotton": "20",
+        "bgcolor": "#0B1120"
+      }
+    },
+    {
+      "index": 6,
+      "id": "wpCt01",
+      "name": "CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #0B1120 0%, #1e3a5f 100%)",
+        "btnbg": "#2563EB",
+        "btncolor": "#ffffff",
+        "title": {
+          "tr": "Dijital Büyümeye Bugün Başlayın",
+          "en": "Start Growing Digitally Today",
+          "ar": "ابدأ النمو الرقمي اليوم"
+        },
+        "description": {
+          "tr": "Ücretsiz keşif görüşmesi için hemen iletişime geçin.",
+          "en": "Contact us now for a free discovery call.",
+          "ar": "تواصل معنا الآن لجلسة استكشاف مجانية."
+        },
+        "btn1Text": {
+          "tr": "Teklif Al",
+          "en": "Get a Quote",
+          "ar": "اطلب عرض سعر"
+        },
+        "btn1Url": "iletisim",
+        "btn2Text": {
+          "tr": "Hizmetler",
+          "en": "Services",
+          "ar": "الخدمات"
+        },
+        "btn2Url": "hizmetlerimiz"
+      }
+    },
+    {
+      "index": 7,
+      "id": "wpCo01",
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "desing": {
+        "color": "#0B1120",
+        "name": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "تواصل معنا"
+        },
+        "margin": "30px 0px 30px 0px"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0531 679 10 14",
+          "url": "tel:05316791014"
+        },
+        {
+          "icon": "email",
+          "text": "info@webyapar.com",
+          "url": "mailto:info@webyapar.com"
+        },
+        {
+          "icon": "map",
+          "text": "Gaziantep (home ofis)"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "id": "wpPd01",
+      "name": "Sayfa Metin",
+      "path": "page-text",
+      "local": "body",
+      "category": "page",
+      "version": "1.0.0",
+      "icon": "article",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "18",
+        "backgroundcolor": "#0B1120",
+        "textcolor": "#0B1120",
+        "category": "page"
+      },
+      "data": []
+    },
+    {
+      "index": 9,
+      "name": "Footer",
+      "path": "footer-1",
+      "id": "wpFt01",
+      "local": "footer",
+      "category": "footer",
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "desing": {
+        "bgcolor": "#0B1120",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "180px"
+      },
+      "data": []
+    },
+    {
+      "index": 10,
+      "id": "wpWa01",
+      "name": "WhatsApp",
+      "path": "whatsapp-6",
+      "local": "footer",
+      "category": "contact",
+      "version": "1.0.0",
+      "icon": "chat",
+      "desing": {
+        "number": "905316791014",
+        "img": "logo.svg",
+        "name": {
+          "tr": "Webyapar Destek",
+          "en": "Webyapar Support",
+          "ar": "دعم Webyapar"
+        },
+        "status": {
+          "tr": "Çevrimiçi",
+          "en": "Online",
+          "ar": "متصل"
+        },
+        "message": {
+          "tr": "Merhaba! Webyapar dijital hizmetleri hakkında nasıl yardımcı olabilirim?",
+          "en": "Hi! How can I help you with Webyapar digital services?",
+          "ar": "مرحباً! كيف يمكنني مساعدتك في خدمات Webyapar الرقمية؟"
+        },
+        "time": {
+          "tr": "Şimdi",
+          "en": "Now",
+          "ar": "الآن"
+        },
+        "button_text": {
+          "tr": "WhatsApp ile Yaz",
+          "en": "Chat on WhatsApp",
+          "ar": "راسلنا عبر WhatsApp"
+        },
+        "avatar": "logo.svg",
+        "position": "fixed",
+        "color": "#25D366",
+        "z_index": 10000
+      },
+      "data": []
+    }
+  ]
+}

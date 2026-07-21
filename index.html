@@ -1,258 +1,52 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="tr">
-
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta http-equiv="Page-Exit" content="BlendTrans(Duration"="0)" />
-  <meta http-equiv="Page-Enter" content="BlendTrans(Duration"="0)" />
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
-  <title>Adana</title>
-  <meta name="description" content="" />
-  <meta name="keywords" content="" />
-  <meta property="og:title" content="Adana" />
-  <meta property="og:description" content="" />
-  <meta property="og:image" content="https:///img/icon.png" />
-  <meta name="robots" content="index, follow" />
-  <link rel="stylesheet" href="/src/css.css?v=p1lc8" />
-  <link rel="shortcut icon" href="/img/icon.png?v=p1lc8" type="image/png" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
-    rel="stylesheet" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-  <script src="/src/swiper-bundle.min.js"></script>
-  <meta name="google-site-verification" content="Q0U9B3l6X9DsHMxjC4BtQ0cOLUknnELCHnsaRjMflDc" />
-<link rel="stylesheet" href="style.css?v=p1lc8">
-</head>
-
-<body>
-  <div id="header"></div>
-  <div id="content"><div class="tml1t-body">
-
-  <div class="tml1t-body-left">
-    <a href="/tr/ai-web" class="">
-        <img class="img-tml1t" src="/page/yer3tys1nr/b8az4.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/e-ticaret" class="">
-        <img class="img-tml1t" src="/page/ebshy379dl/mgi1q.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/kurumsal-web-tasarim" class="">
-        <img class="img-tml1t" src="/page/uwsodx0ml1/fc8lg.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/ozel-projeler" class="">
-        <img class="img-tml1t" src="/page/r9ffjs2fon/pyc9o.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/mobil-uyuglama" class="">
-        <img class="img-tml1t" src="/page/p0plyrmrjt/ku25v.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/sosyal-media" class="">
-        <img class="img-tml1t" src="/page/zcg06gjulr/nm4xn.png" />
-        <div class="title-tml1t">undefined</div>
-      </a>
-  </div>
-
-  <div class="tml1t-body-right">
-
-
-    <div class="home-tml1t" id="home-tml1t">
-      <div class="tml1t-title">[object Object]</div>
-      <div class="tml1t-list"><a href="/tr/ai-web" class="">
-        <img class="img-tml1t" src="/page/yer3tys1nr/b8az4.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/e-ticaret" class="">
-        <img class="img-tml1t" src="/page/ebshy379dl/mgi1q.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/kurumsal-web-tasarim" class="">
-        <img class="img-tml1t" src="/page/uwsodx0ml1/fc8lg.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/ozel-projeler" class="">
-        <img class="img-tml1t" src="/page/r9ffjs2fon/pyc9o.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/mobil-uyuglama" class="">
-        <img class="img-tml1t" src="/page/p0plyrmrjt/ku25v.png" />
-        <div class="title-tml1t">undefined</div>
-      </a><a href="/tr/sosyal-media" class="">
-        <img class="img-tml1t" src="/page/zcg06gjulr/nm4xn.png" />
-        <div class="title-tml1t">undefined</div>
-      </a></div>
-    </div>
-
-    <div class="chat-tml1t" id="ai-chat"></div>
-
-    <div class="footer-tml1t">
-      <textarea id="message-tml1t" placeholder="Webyapar'a ile yazış..." rows="1"></textarea>
-      <div class="material-symbols-outlined send-button" onclick="sendtml1t()">arrow_forward_ios</div>
-    </div>
-
-  </div>
-</div>
-
-<script>
-
-  let chatlist = []
-
-  setTimeout(() => {
-
-
-    document.getElementById('header').innerHTML = `
-<div class="header-tml1t-body">
-
-<div class="material-symbols-outlined header-tml1t-menu">menu</div>
-
-    <a class="header-tml1t" href="/tr">
-      <div class="header-tml1t-name">Adana</div>
-      </a>
-
-    <div class="material-symbols-outlined header-tml1t-menu">settings</div>
-
-</div>`;
-
-
-
-    if (chatlist.length > 0) {
-      document.querySelector('.tml1t-body-left').style.display = 'flex';
-      document.querySelector('#home-tml1t').style.display = 'none';
-      document.querySelector('#ai-chat').style.display = 'flex';
-    } else {
-      document.querySelector('.tml1t-body-left').style.display = 'none';
-      document.querySelector('#home-tml1t').style.display = 'flex';
-      document.querySelector('#ai-chat').style.display = 'none';
-    }
-
-
-    for (let i = 0; i < chatlist.length; i++) {
-      let chat = document.createElement('div');
-      chat.classList.add(chatlist[i].user + '-chat');
-      chat.innerHTML = chatlist[i].message;
-      chat.style.opacity = "0";
-      document.querySelector('#ai-chat').appendChild(chat);
-
-      // Mesajların giriş animasyonu
-      setTimeout(() => {
-        chat.style.opacity = "1";
-        chat.style.transform = "translateY(0)";
-      }, i * 150);
-    }
-
-    setTimeout(() => {
-      const chatContainer = document.getElementById('ai-chat');
-      chatContainer.scrollTop = chatContainer.scrollHeight;
-    }, 200);
-
-
-    document.querySelector('.footer-tml1t textarea').addEventListener('input', function () {
-      this.style.height = 'auto';
-      this.style.height = (this.scrollHeight) + 'px';
-    });
-
-    document.querySelector('.footer-tml1t textarea').addEventListener('keydown', function (event) {
-      if (event.key === 'Enter' && !event.shiftKey) {
-        event.preventDefault();
-        sendtml1t();
-      }
-    });
-
-    // Menü düğmesi efekti
-    const menuButtons = document.querySelectorAll('.header-tml1t-menu');
-    menuButtons.forEach(button => {
-      button.addEventListener('click', function () {
-        this.classList.add('pulse-effect');
-        setTimeout(() => {
-          this.classList.remove('pulse-effect');
-        }, 500);
-      });
-    });
-
-
-
-
-
-  }, 100);
-
-
-
-
-  function sendtml1t() {
-    document.querySelector('.tml1t-body-left').style.display = 'flex';
-    document.querySelector('#home-tml1t').style.display = 'none';
-    document.querySelector('#ai-chat').style.display = 'flex';
-
-    if (document.querySelector('#message-tml1t').value == '') {
-      // Boş mesaj gönderme animasyonu
-      document.querySelector('.footer-tml1t').classList.add('shake-effect');
-      setTimeout(() => {
-        document.querySelector('.footer-tml1t').classList.remove('shake-effect');
-      }, 500);
-    } else {
-      let chat = document.createElement('div');
-      chat.classList.add('user-chat');
-      chat.innerHTML = document.querySelector('#message-tml1t').value;
-      chat.style.opacity = "0";
-      chat.style.transform = "translateY(20px)";
-      document.getElementById('ai-chat').appendChild(chat);
-
-      // Mesaj gönderme animasyonu
-      setTimeout(() => {
-        chat.style.opacity = "1";
-        chat.style.transform = "translateY(0)";
-      }, 10);
-
-      document.querySelector('#message-tml1t').value = '';
-
-      setTimeout(() => {
-        const chatContainer = document.getElementById('ai-chat');
-        chatContainer.scrollTop = chatContainer.scrollHeight;
-      }, 100);
-    }
-    document.querySelector('.footer-tml1t textarea').style.height = '20px';
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Webyapar</title>
+  <meta name="description" content="Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri." />
+  <link rel="canonical" href="https://webyapar.com/" />
+  <link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/" />
+  <link rel="alternate" hreflang="en" href="https://webyapar.com/en/" />
+  <link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/" />
+  <link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/" />
+  <script>
+(function() {
+  var available = ["tr","en","ar"];
+  var fallbackLang = "en";
+  var defaultLang = "tr";
+  var settingDefaultLang = "";
+  if (settingDefaultLang && available.indexOf(settingDefaultLang) !== -1) {
+    location.replace('/' + settingDefaultLang + '/' + (location.search || '') + (location.hash || ''));
+    return;
   }
-
-
-
-</script>
-
-
-
-
-
-
-
-
-
-
-
-</div>
-  <div id="footer"></div>
+  var browserLangs = [];
+  if (navigator.languages && navigator.languages.length) {
+    navigator.languages.forEach(function(l) {
+      var code = (l.split('-')[0] || '').toLowerCase();
+      if (code && browserLangs.indexOf(code) === -1) browserLangs.push(code);
+    });
+  }
+  if (!browserLangs.length && navigator.language) {
+    browserLangs.push((navigator.language.split('-')[0] || defaultLang).toLowerCase());
+  }
+  var chosen = null;
+  for (var i = 0; i < browserLangs.length; i++) {
+    if (available.indexOf(browserLangs[i]) !== -1) {
+      chosen = browserLangs[i];
+      break;
+    }
+  }
+  if (chosen === null) {
+    chosen = fallbackLang;
+  }
+  var target = '/' + chosen + '/' + (location.search || '') + (location.hash || '');
+  location.replace(target);
+})();
+  </script>
+</head>
+<body>
+  <p>Webyapar</p>
+  <noscript><p>Dil seçin: <a href="/tr/">TR</a> | <a href="/en/">EN</a> | <a href="/ar/">AR</a></p></noscript>
 </body>
-<link rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
-<!-- Google tag (gtag.js) -->  
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1F6WGHNZ0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-Y1F6WGHNZ0');
-</script>
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16639132885"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'AW-16639132885');
-</script>
-
-
-
-
-
-<script type="text/javascript" src="/src/js.js?v=p1lc8"></script>
-<script src="/src/cookie.js?v=p1lc8"></script>
-
 </html>

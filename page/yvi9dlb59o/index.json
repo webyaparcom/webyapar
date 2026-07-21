@@ -1,0 +1,45 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة"
+  },
+  "status": "play",
+  "id": "yvi9dlb59o",
+  "path": "kurumsal",
+  "pathnext": "hakkimizda",
+  "index": 0,
+  "icon": "business",
+  "title": {
+    "tr": "Kurumsal | Webyapar",
+    "en": "Corporate | Webyapar",
+    "ar": "الشركة | Webyapar"
+  },
+  "description": {
+    "tr": "Webyapar kurumsal kimlik, misyon, vizyon ve yasal bilgilendirme sayfaları.",
+    "en": "Webyapar corporate identity, mission, vision and legal pages.",
+    "ar": "صفحات هوية Webyapar المؤسسية: من نحن، الرؤية، المهمة والمعلومات القانونية."
+  },
+  "keyword": {
+    "tr": "webyapar kurumsal, hakkımızda, misyon, vizyon",
+    "en": "webyapar corporate, about, mission, vision",
+    "ar": "webyapar مؤسسي, من نحن, مهمة, رؤية"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "wpPd01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-07-21T05:34:49.254Z",
+  "category": "",
+  "url": "",
+  "date": "2026-07-21T05:33:10.915Z",
+  "text": {
+    "tr": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">Kurumsal</h2><p style=\"font-size:16px;line-height:1.8;\">Webyapar’ın hikâyesi, misyonu, vizyonu ve yasal bilgilendirme sayfalarına bu bölümden ulaşabilirsiniz. Aşağıdaki bağlantılardan ilgilendiğiniz konuyu seçerek detayları okuyun.</p>",
+    "en": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">Corporate</h2><p style=\"font-size:16px;line-height:1.8;\">Find Webyapar’s story, mission, vision and legal information here. Choose a link below to read the page you need.</p>",
+    "ar": "<h2 style=\"font-size:28px;color:#2563EB;margin-bottom:20px;\">الشركة</h2><p style=\"font-size:16px;line-height:1.8;\">تعرّف على قصة Webyapar ومهمتها ورؤيتها والصفحات القانونية من هنا. اختر الرابط المناسب أدناه لقراءة التفاصيل.</p>"
+  }
+}

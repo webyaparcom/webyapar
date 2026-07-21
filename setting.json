@@ -1,0 +1,35 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri.",
+    "en": "Webyapar — Gaziantep digital agency. Web design, SEO, Google Ads, social media and professional photography.",
+    "ar": "Webyapar — وكالة رقمية في غازي عنتاب. تصميم مواقع، تحسين محركات البحث SEO، إعلانات Google، وسائل التواصل الاجتماعي والتصوير الاحترافي."
+  },
+  "keyword": {
+    "tr": "webyapar, dijital ajans gaziantep, web tasarım, SEO, google ads, sosyal medya, fotoğraf çekimi",
+    "en": "webyapar, digital agency gaziantep, web design, SEO, google ads, social media, photography",
+    "ar": "webyapar, وكالة رقمية غازي عنتاب, تصميم مواقع, SEO, google ads, وسائل التواصل, تصوير فوتوغرافي"
+  },
+  "category": "Kurumsal",
+  "name": "Webyapar",
+  "domain": "webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.svg",
+  "multi": false,
+  "eticaret": false,
+  "defaultLang": ""
+}

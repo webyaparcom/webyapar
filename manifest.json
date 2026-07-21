@@ -1,0 +1,29 @@
+{
+  "name": "Webyapar",
+  "short_name": "Webyapar",
+  "description": "Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/img/logo.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/img/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Hizmetler",
+  "path": "hizmetler",
+  "desc": [],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [
+      "wpLs01"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true,
+    "body": true,
+    "page": true
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "Web Tasarım",
+        "en": "Web Design",
+        "ar": "تصميم المواقع"
+      },
+      "id": "zkf2p92uuh",
+      "index": 0,
+      "path": "web-tasarim",
+      "category": "",
+      "img": "svc-web.webp",
+      "status": "play",
+      "url": "",
+      "icon": "language",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Webyapar web tasarım hizmetleri - Mobil uyumlu, SEO uyumlu, hızlı ve modern web siteleri. Kurumsal web tasarım, e-ticaret sitesi ve özel yazılım çözümleri.",
+        "en": "Webyapar web design services - Mobile compatible, SEO compatible, fast and modern websites. Corporate web design, e-commerce site and custom software solutions.",
+        "ar": "خدمات تصميم مواقع Webyapar — مواقع حديثة سريعة ومتوافقة مع SEO والجوال. تصميم مؤسسي، متاجر إلكترونية وحلول برمجية."
+      }
+    },
+    {
+      "name": {
+        "tr": "Reklam Yönetimi",
+        "en": "Ad Management",
+        "ar": "إدارة الإعلانات"
+      },
+      "id": "f9m0h1y3h3",
+      "index": 1,
+      "path": "reklam-yonetimi",
+      "category": "",
+      "img": "svc-ads.webp",
+      "status": "play",
+      "url": "",
+      "icon": "campaign",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Gaziantep Google Ads ve sosyal medya reklam yönetimi - Facebook, Instagram, Google reklamları ile hedef kitlenize ulaşın. ROI odaklı dijital reklam kampanyal...",
+        "en": "Gaziantep Google Ads and social media advertising management - Reach your target audience with Facebook, Instagram, Google ads. ROI-focused digital advertisi...",
+        "ar": "إدارة إعلانات Google ووسائل التواصل في غازي عنتاب — Facebook وInstagram وGoogle. حملات رقمية تركز على العائد على الاستثمار."
+      }
+    },
+    {
+      "name": {
+        "tr": "SEO Hizmeti",
+        "en": "SEO Service",
+        "ar": "تحسين محركات البحث SEO"
+      },
+      "id": "klzdcqqrmk",
+      "index": 2,
+      "path": "seo-hizmeti",
+      "category": "",
+      "img": "svc-seo.webp",
+      "status": "play",
+      "url": "",
+      "icon": "search",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Gaziantep SEO hizmetleri - Google'da 1. sayfaya çıkın. Anahtar kelime analizi, teknik SEO, içerik optimizasyonu ve link building ile organik trafik artışı.",
+        "en": "Gaziantep SEO services - Get to page 1 on Google. Organic traffic increase with keyword analysis, technical SEO, content optimization and link building.",
+        "ar": "خدمات SEO في غازي عنتاب — الوصول للصفحة الأولى في Google. تحليل كلمات مفتاحية، SEO تقني ومحتوى وروابط."
+      }
+    },
+    {
+      "name": {
+        "tr": "Sosyal Medya",
+        "en": "Social Media",
+        "ar": "وسائل التواصل الاجتماعي"
+      },
+      "id": "1mgn1fhbhg",
+      "index": 3,
+      "path": "sosyal-media",
+      "category": "",
+      "img": "svc-social.webp",
+      "status": "play",
+      "url": "",
+      "icon": "share",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Gaziantep sosyal medya yönetimi - Instagram, Facebook, LinkedIn ve Twitter profesyonel içerik üretimi ve yönetimi. Marka bilinirliği ve etkileşim artışı.",
+        "en": "Gaziantep social media management - Professional content production and management for Instagram, Facebook, LinkedIn and Twitter. Brand awareness and engagem...",
+        "ar": "إدارة وسائل التواصل في غازي عنتاب — Instagram وFacebook وLinkedIn. محتوى احترافي وزيادة التفاعل والوعي بالعلامة."
+      }
+    },
+    {
+      "name": {
+        "tr": "Fotoğraf Çekimi",
+        "en": "Photography",
+        "ar": "التصوير الفوتوغرافي"
+      },
+      "id": "uyr7wvr602",
+      "index": 4,
+      "path": "fotograf-cekimi",
+      "category": "",
+      "img": "svc-photo.webp",
+      "status": "play",
+      "url": "",
+      "icon": "photo_camera",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Gaziantep profesyonel fotoğraf çekimi - Ürün fotoğrafçılığı, kurumsal fotoğraf, food photography, mimari fotoğraf. E-ticaret ve katalog için profesyonel görs...",
+        "en": "Gaziantep professional photography - Product photography, corporate photography, food photography, architectural photography. Professional visuals for e-comm...",
+        "ar": "تصوير احترافي في غازي عنتاب — منتجات، مؤسسات، طعام ومعمار. صور للمتاجر الإلكترونية والكتalogات المنتجات."
+      }
+    }
+  ]
+}

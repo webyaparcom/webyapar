@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "desing": {
+    "header": [],
+    "body": [
+      "wpPd01",
+      "wpCt01"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "icon": "home",
+  "desc": {},
+  "description": {
+    "tr": "Webyapar misyonu: işletmelere ölçülebilir dijital büyüme — web, SEO, reklam ve sosyal medya ile.",
+    "en": "Webyapar mission: measurable digital growth for businesses via web, SEO, ads and social media.",
+    "ar": "مهمة Webyapar: نمو رقمي قابل للقياس للشركات عبر الويب وSEO والإعلانات ووسائل التواصل."
+  },
+  "keyword": {
+    "tr": "webyapar misyon, dijital ajans, gaziantep web tasarım",
+    "en": "webyapar mission, digital agency, gaziantep web design",
+    "ar": "webyapar مهمة, وكالة رقمية, تصميم مواقع غازي عنتاب"
+  },
+  "text": {
+    "tr": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">Misyonumuz - Dijital Dönüşümde Öncü Olmak</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Webyapar olarak misyonumuz, Gaziantep ve çevresindeki işletmelerin dijital dönüşüm yolculuklarında güvenilir ve yenilikçi çözüm ortağı olmaktır. 15 yıldır sürdürdüğümüz bu misyon doğrultusunda, müşterilerimizin dijital dünyada güçlü bir varlık oluşturmalarını, marka değerlerini artırmalarını ve rekabet avantajı kazanmalarını sağlamak için kesintisiz çalışıyoruz. Her projede müşteri odaklı yaklaşımımızı ön planda tutuyor, ölçülebilir sonuçlar ve sürdürülebilir büyüme hedefliyoruz. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Müşteri memnuniyeti ve başarısı bizim en büyük motivasyon kaynağımızdır. Her işletmenin benzersiz ihtiyaçları ve hedefleri olduğunu bilerek, standart paket çözümler yerine özelleştirilmiş stratejiler geliştiriyoruz. Web tasarım, dijital pazarlama, sosyal medya yönetimi, SEO ve hizmetlerimizde sektör analizi yapıyor, rakip araştırması yürütüyor ve hedef kitle profillemesi gerçekleştiriyoruz. Bu sayede her müşterimiz için en etkili ve verimli çözümleri sunabiliyoruz. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Yenilikçilik ve sürekli gelişim değerlerimizin merkezindedir. Dijital pazarlama dünyası hızla değişiyor; Google algoritmaları güncelleniyor, sosyal medya platformları yeni özellikler sunuyor, reklam teknolojileri evrim geçiriyor. Biz de bu değişime ayak uydurmak, hatta öncülük etmek için ekip olarak sürekli eğitim alıyor, sertifikasyon programlarına katılıyor ve global trendleri takip ediyoruz. Google Partner, Facebook Blueprint sertifikalarımız ve yurt dışı dijital pazarlama konferanslarına katılımlarımız ile sektördeki yenilikleri ilk uygulayan ajanslar arasındayız. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Şeffaflık ve dürüstlük iş ahlakımızın temelidir. Müşterilerimize kampanya performanslarını detaylı raporlarla paylaşıyor, reklam harcamalarını şeffaf bir şekilde gösteriyor ve iyileştirme önerilerini açık bir dil ile sunuyoruz. Gerçekçi olmayan vaatler vermek yerine, veriye dayalı tahminler yapıyor ve süreç boyunca müşterilerimizi bilgilendiriyoruz. Bu yaklaşım sayesinde uzun soluklu iş ortaklıkları kuruyoruz; müşterilerimizin %80'i ile 3 yıldan uzun süredir çalışıyoruz. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Yerel ekonomiye katkı sağlamak misyonumuzun önemli bir parçasıdır. Gaziantep'in ekonomik gelişimine destek olmak, yerel işletmelerin büyümesine katkıda bulunmak ve bölgede dijital pazarlama bilincini artırmak için çaba gösteriyoruz. Ücretsiz dijital pazarlama seminerleri düzenliyor, genç girişimcilere danışmanlık sağlıyor ve üniversite öğrencilerine staj imkanı sunuyoruz. 15 yıl içinde 500'den fazla yerel işletmeye hizmet verdik ve Gaziantep ekonomisine milyonlarca liralık dijital reklam yatırımı çektik. Ayrıca etik ve sürdürülebilir pazarlama uygulamalarını benimseyerek, dijital dünyanın sosyal sorumluluklarının bilincindeyiz. Kişisel verilerin korunması, KVKK uyumluluğu, erişilebilirlik standartları ve çevresel etkinin azaltılması konularında hassasiyetle hareket ediyoruz. Misyonumuz doğrultusunda önümüzdeki 15 yılda da Gaziantep'in dijital dönüşüm lideri olmaya, müşterilerimize en yüksek değeri sunmaya ve sektörümüze öncülük etmeye devam edeceğiz.",
+    "en": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">Our Mission - Leading in Digital Transformation</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> As Webyapar, our mission is to be a reliable and innovative solution partner in the digital transformation journeys of businesses in Gaziantep and its surroundings. In line with this mission we have been maintaining for 15 years, we work continuously to enable our customers to create a strong presence in the digital world, increase their brand values and gain competitive advantage. We prioritize our customer-focused approach in every project, aiming for measurable results and sustainable growth. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Customer satisfaction and success are our greatest source of motivation. Knowing that each business has unique needs and goals, we develop customized strategies instead of standard package solutions. In our web design, digital marketing, social media management, SEO and services, we perform sector analysis, conduct competitor research and perform target audience profiling. This way, we can offer the most effective and efficient solutions for each of our customers. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Innovation and continuous development are at the center of our values. The digital marketing world is rapidly changing; Google algorithms are updating, social media platforms are offering new features, advertising technologies are evolving. We also take continuous training as a team, participate in certification programs and follow global trends to keep up with this change, even lead it. With our Google Partner, Facebook Blueprint certifications and participation in international digital marketing conferences, we are among the agencies that first apply innovations in the industry. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Transparency and honesty are the foundation of our business ethics. We share campaign performances with our customers through detailed reports, show advertising expenses transparently and present improvement suggestions in clear language. Instead of making unrealistic promises, we make data-based predictions and inform our customers throughout the process. Thanks to this approach, we establish long-term business partnerships; we have been working with 80% of our customers for more than 3 years. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Contributing to the local economy is an important part of our mission. We strive to support Gaziantep's economic development, contribute to the growth of local businesses and increase digital marketing awareness in the region. We organize free digital marketing seminars, provide consulting to young entrepreneurs and offer internship opportunities to university students. In 15 years, we have served more than 500 local businesses and attracted millions of liras of digital advertising investment to Gaziantep's economy. Additionally, by adopting ethical and sustainable marketing practices, we are aware of the social responsibilities of the digital world. We act sensitively on issues such as protection of personal data, KVKK compliance, accessibility standards and reduction of environmental impact. In line with our mission, we will continue to be Gaziantep's digital transformation leader, offer the highest value to our customers and lead our industry in the next 15 years as well.",
+    "ar": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">مهمتنا — ريادة التحول الرقمي</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> مهمتنا أن نكون شريكاً موثوقاً ومبتكراً للشركات في غازي عنتاب ومحيطها. نهدف لنتائج قابلة للقياس ونمو مستدام عبر تصميم المواقع وSEO والإعلانات ووسائل التواصل. الشفافية والأخلاق في التقارير والوعود واقعية مبنية على البيانات. Webyapar — غازي عنتاب، تركيا. info@webyapar.com · 0531 679 10 14 · webyapar.com </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> نلتزم بقوانين حماية البيانات (KVKK) ونطبّق SSL ونسخاً احتياطياً وضوابط وصول لحماية معلوماتكم. للاستفسارات القانونية أو طلبات حقوق البيانات، راسلونا على info@webyapar.com. </p>"
+  },
+  "update": "2026-07-21T05:33:10.961Z",
+  "date": "2025-10-01T05:29:22.576Z",
+  "title": {
+    "tr": "Misyonumuz | Webyapar",
+    "en": "Our Mission | Webyapar",
+    "ar": "مهمتنا | Webyapar"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "name": "Sayfalar",
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "bgimg": false,
+        "detail": true,
+        "body": true,
+        "img": false
+      }
+    },
+    {
+      "name": "Hizmetler",
+      "path": "hizmetler",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "wpLs01"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true,
+        "body": true,
+        "page": true
+      }
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "bgimg": true,
+        "detail": true,
+        "body": true
+      }
+    }
+  ]
+}

@@ -2,12 +2,12 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <!-- Mobil tarayıcılarda doğru ölçekleme ve tam ekran kullanım -->
+  
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <title>3D Model Görüntüleyici</title>
   <style>
-    /* Sayfa kenar boşluklarını kaldır, tam ekran canvas */
+    
     * {
       margin: 0;
       padding: 0;
@@ -19,7 +19,7 @@
       height: 100%;
       overflow: hidden;
       background: #ffffff;
-      touch-action: none; /* Mobilde kaydırma yerine model döndürme */
+      touch-action: none; 
     }
 
     #canvas-container {
@@ -36,7 +36,7 @@
       outline: none;
     }
 
-    /* Yükleme göstergesi */
+    
     #loader {
       position: fixed;
       inset: 0;
@@ -103,7 +103,7 @@
       to { transform: rotate(360deg); }
     }
 
-    /* Hata mesajı */
+    
     #error {
       display: none;
       position: fixed;
@@ -147,27 +147,19 @@
     import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
     import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
     import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
-
-    // DOM referansları
     const container = document.getElementById('canvas-container');
     const loaderEl = document.getElementById('loader');
     const loaderProgressEl = document.getElementById('loader-progress');
     const loaderProgressFillEl = document.getElementById('loader-progress-fill');
     const errorEl = document.getElementById('error');
-
-    // Sahne oluştur
     const scene = new THREE.Scene();
     scene.background = new THREE.Color(0xffffff);
-
-    // Kamera — başlangıç değeri model yüklendikten sonra ayarlanır
     const camera = new THREE.PerspectiveCamera(
       45,
       window.innerWidth / window.innerHeight,
       0.01,
       1000
     );
-
-    // WebGL renderer — mobilde performans için pixel ratio sınırı
     const renderer = new THREE.WebGLRenderer({
       antialias: true,
       alpha: false,
@@ -176,18 +168,13 @@
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
     renderer.setSize(window.innerWidth, window.innerHeight);
     renderer.outputColorSpace = THREE.SRGBColorSpace;
-    // Ürün/doku görüntülemede ACES renkleri koyulaştırır; Neutral daha canlı sonuç verir
     renderer.toneMapping = THREE.NeutralToneMapping;
     renderer.toneMappingExposure = 1.35;
     container.appendChild(renderer.domElement);
-
-    // PBR dokular için ortam yansıması — modeli daha parlak ve doğal gösterir
     const pmremGenerator = new THREE.PMREMGenerator(renderer);
     pmremGenerator.compileEquirectangularShader();
     scene.environment = pmremGenerator.fromScene(new RoomEnvironment(), 0.04).texture;
     pmremGenerator.dispose();
-
-    // Elle döndürme kontrolleri — fare ve dokunmatik destekli
     const controls = new OrbitControls(camera, renderer.domElement);
     controls.enableDamping = true;       // Yumuşak hareket
     controls.dampingFactor = 0.08;
@@ -201,8 +188,6 @@
       ONE: THREE.TOUCH.ROTATE,
       TWO: THREE.TOUCH.DOLLY_PAN
     };
-
-    // Aydınlatma — dokulu model için güçlü ve dengeli ışık
     const ambientLight = new THREE.AmbientLight(0xffffff, 1.0);
     scene.add(ambientLight);
 
@@ -221,9 +206,7 @@
     const hemisphereLight = new THREE.HemisphereLight(0xffffff, 0xb8c4d4, 0.75);
     scene.add(hemisphereLight);
 
-    /**
-     * GLB materyallerini parlak ve doğru renk uzayında tut
-     */
+    
     function enhanceModelMaterials(object) {
       object.traverse((child) => {
         if (!child.isMesh) return;
@@ -239,8 +222,6 @@
           if (material.emissiveMap) {
             material.emissiveMap.colorSpace = THREE.SRGBColorSpace;
           }
-
-          // Ortam yansıması ve hafif renk canlandırma
           if ('envMapIntensity' in material) {
             material.envMapIntensity = 1.4;
           }
@@ -256,19 +237,13 @@
       });
     }
 
-    /**
-     * Modeli sahneye sığdır: merkeze al, kamerayı uygun mesafeye yerleştir
-     */
+    
     function fitModelToView(object) {
       const box = new THREE.Box3().setFromObject(object);
       const center = box.getCenter(new THREE.Vector3());
       const size = box.getSize(new THREE.Vector3());
       const maxDim = Math.max(size.x, size.y, size.z);
-
-      // Modeli orijine taşı
       object.position.sub(center);
-
-      // Kamerayı model boyutuna göre konumlandır
       const fov = camera.fov * (Math.PI / 180);
       const distance = (maxDim / 2) / Math.tan(fov / 2) * 1.4;
 
@@ -283,9 +258,7 @@
       controls.update();
     }
 
-    /**
-     * GLB modelini yükle
-     */
+    
     const gltfLoader = new GLTFLoader();
     gltfLoader.load(
       './textured_mesh.glb',
@@ -316,9 +289,7 @@
       }
     );
 
-    /**
-     * Pencere boyutu değişince (mobil döndürme dahil) yeniden boyutlandır
-     */
+    
     function onResize() {
       const w = window.innerWidth;
       const h = window.innerHeight;
@@ -328,19 +299,13 @@
     }
 
     window.addEventListener('resize', onResize);
-
-    // iOS Safari adres çubuğu değişimini yakala
     window.addEventListener('orientationchange', () => {
       setTimeout(onResize, 200);
     });
-
-    // Çift dokunma zoom'unu engelle (model kontrolü için)
     document.addEventListener('gesturestart', (e) => e.preventDefault());
     document.addEventListener('dblclick', (e) => e.preventDefault());
 
-    /**
-     * Animasyon döngüsü
-     */
+    
     function animate() {
       requestAnimationFrame(animate);
       controls.update();

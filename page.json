@@ -1,0 +1,103 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": false,
+    "detail": true,
+    "body": true,
+    "img": false
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة"
+      },
+      "id": "yvi9dlb59o",
+      "index": 0,
+      "path": "kurumsal",
+      "category": "",
+      "status": "play",
+      "url": "",
+      "icon": "business",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpPd01"
+        ],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Webyapar kurumsal kimlik, misyon, vizyon ve yasal bilgilendirme sayfaları.",
+        "en": "Webyapar corporate identity, mission, vision and legal pages.",
+        "ar": "صفحات هوية Webyapar المؤسسية: من نحن، الرؤية، المهمة والمعلومات القانونية."
+      }
+    },
+    {
+      "name": {
+        "tr": "Hizmetlerimiz",
+        "en": "Our Services",
+        "ar": "خدماتنا"
+      },
+      "id": "q56cxb56jr",
+      "index": 1,
+      "path": "hizmetlerimiz",
+      "category": "",
+      "status": "play",
+      "url": "",
+      "icon": "grid_view",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpLs01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Web tasarım, SEO, reklam yönetimi, sosyal medya ve fotoğraf — Webyapar dijital hizmetleri.",
+        "en": "Web design, SEO, ads, social media and photography — Webyapar digital services.",
+        "ar": "تصميم مواقع، SEO، إدارة الإعلانات، وسائل التواصل والتصوير — خدمات Webyapar الرقمية."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "id": "xnzu5au0ag",
+      "index": 2,
+      "path": "iletisim",
+      "category": "",
+      "status": "play",
+      "url": "",
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "wpCo01",
+          "wpCt01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Webyapar iletişim — 0531 679 10 14, info@webyapar.com, Gaziantep. Teklif ve destek için yazın.",
+        "en": "Webyapar contact — 0531 679 10 14, info@webyapar.com, Gaziantep. Write for a quote or support.",
+        "ar": "Webyapar — 0531 679 10 14، info@webyapar.com، غازي عنتاب. تواصل للعرض والدعم."
+      }
+    }
+  ]
+}

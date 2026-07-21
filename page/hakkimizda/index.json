@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About Us",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">Webyapar - 15 Yıllık Deneyim ve Güven</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Webyapar olarak 2010 yılından bu yana Gaziantep'te dijital pazarlama, web tasarım ve sosyal medya yönetimi alanlarında profesyonel hizmet sunuyoruz. 15 yıllık sektör deneyimimiz ile yüzlerce yerel ve ulusal firmanın dijital dönüşümüne öncülük ettik. Gaziantep'in en köklü dijital ajanslarından biri olarak, müşterilerimizin marka değerini artırmak ve rekabet avantajı kazandırmak için kesintisiz çalışıyoruz. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Ekibimiz, dijital pazarlama uzmanları, web tasarımcıları, SEO danışmanları, sosyal medya editörleri ve grafik tasarımcılardan oluşmaktadır. Her biri alanında en az 5 yıl deneyime sahip profesyonellerle çalışıyoruz. Google Partner sertifikasyonuna sahip ekibimiz, sürekli eğitim ve gelişim programlarıyla sektördeki en güncel teknolojileri ve trendleri takip etmektedir. Müşteri odaklı yaklaşımımız sayesinde, her projeyi benzersiz bir başarı hikayesine dönüştürüyoruz. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Web tasarım hizmetlerimiz sadece estetik değil, aynı zamanda kullanıcı deneyimi ve SEO uyumluluğu odaklıdır. Mobil uyumlu, hızlı yüklenen ve Google'da üst sıralarda yer alan web siteleri tasarlıyoruz. E-ticaret, kurumsal web, blog ve portfolio siteleri konusunda uzmanız. Her projede müşteri ihtiyaçlarını analiz ediyor, sektörel rekabet araştırması yapıyor ve en uygun dijital stratejiyi belirliyoruz. Sonuç odaklı çalışma prensibimiz ile web sitenizin sadece görsel bir vitrin değil, satış ve pazarlama kanalı olmasını sağlıyoruz.",
+    "en": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">Webyapar - 15 Years of Experience and Trust</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> As Webyapar, we have been providing professional services in digital marketing, web design and social media management in Gaziantep since 2010. With our 15 years of industry experience, we have led the digital transformation of hundreds of local and national companies. As one of Gaziantep's most established digital agencies, we work continuously to increase our customers' brand value and gain competitive advantage. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Our team consists of digital marketing specialists, web designers, SEO consultants, social media editors and graphic designers. We work with professionals each having at least 5 years of experience in their field. Our team with Google Partner certification continuously follows the latest technologies and trends in the industry through continuous training and development programs. Thanks to our customer-focused approach, we transform every project into a unique success story. </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> Our web design services are not only aesthetic but also focused on user experience and SEO compliance. We design mobile-compatible, fast-loading websites that rank high on Google. We are experts in e-commerce, corporate web, blog and portfolio sites. In every project, we analyze customer needs, perform sectoral competition research and determine the most suitable digital strategy. With our result-oriented working principle, we ensure that your website is not just a visual showcase but a sales and marketing channel.",
+    "ar": "<h2 style=\"font-size: 28px; color: #2563EB; margin-bottom: 20px;\">Webyapar — 15 عاماً من الخبرة والثقة</h2> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> منذ 2010 نقدم في غازي عنتاب التسويق الرقمي وتصميم المواقع وإدارة وسائل التواصل. قادنا مئات الشركات المحلية والوطنية في تحولها الرقمي. فريقنا من متخصصي SEO والتصميم والمحتوى — شريك Google — يبني مواقع سريعة متجاوبة تجلب عملاء حقيقيين، وليس فقط واجهة جميلة. Webyapar — غازي عنتاب، تركيا. info@webyapar.com · 0531 679 10 14 · webyapar.com </p> <p style=\"font-size: 16px; line-height: 1.8; margin-bottom: 15px;\"> نلتزم بقوانين حماية البيانات (KVKK) ونطبّق SSL ونسخاً احتياطياً وضوابط وصول لحماية معلوماتكم. للاستفسارات القانونية أو طلبات حقوق البيانات، راسلونا على info@webyapar.com. </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "wpPd01",
+      "wpCt01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "description": {
+    "tr": "Webyapar Gaziantep — web tasarım, SEO, reklam yönetimi, sosyal medya ve fotoğraf ile markanızı dijitalde büyütün.",
+    "en": "Webyapar Gaziantep — grow your brand online with web design, SEO, ads, social media and photography.",
+    "ar": "Webyapar غازي عنتاب — تصميم مواقع، SEO، إعلانات، سوشيال ميديا وتصوير لنمو علامتك."
+  },
+  "keyword": {
+    "tr": "webyapar, dijital ajans gaziantep, web tasarım, seo, sosyal medya, hakkımızda",
+    "en": "webyapar, digital agency gaziantep, web design, seo, social media, about us",
+    "ar": "webyapar, وكالة رقمية غازي عنتاب, تصميم مواقع, seo, من نحن"
+  },
+  "update": "2026-07-21T05:33:10.955Z",
+  "date": "2025-10-01T05:29:22.576Z",
+  "title": {
+    "tr": "Hakkımızda | Webyapar",
+    "en": "About Us | Webyapar",
+    "ar": "من نحن | Webyapar"
+  }
+}
