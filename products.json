@@ -1,18 +1,26 @@
 {
   "name": "Ürünler",
   "path": "products",
-  "desc": [],
+  "desc": [
+    {
+      "path": "malzeme",
+      "name": {
+        "tr": "Malzeme",
+        "en": "Material",
+        "ar": "المادة"
+      }
+    }
+  ],
   "data": [],
-  "index": 99,
-  "status": "pause",
+  "index": 1,
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
   "modulestatus": {
-    "img": false,
-    "bgimg": false,
-    "detail": false
+    "img": true,
+    "bgimg": true,
+    "detail": true
   }
 }

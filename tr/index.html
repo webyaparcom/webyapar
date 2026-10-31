@@ -6,392 +6,510 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
   <title>Webyapar</title>
-  <meta name="description" content="Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri." />
-  <meta name="keywords" content="webyapar, dijital ajans gaziantep, web tasarım, SEO, google ads, sosyal medya, fotoğraf çekimi" />
-  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu." />
+  <meta name="keywords" content="hazır web sitesi, web sitesi teması, e-ticaret sitesi, kurumsal web sitesi, Gaziantep" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
   <link rel="canonical" href="https://webyapar.com/tr/" />
-
+  <link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/" />
+  <link rel="alternate" hreflang="en" href="https://webyapar.com/en/" />
+  <link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/" />
+  <link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Webyapar" />
-  <meta property="og:description" content="Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri." />
-  <meta property="og:image" content="https://webyapar.com/img/icon.png" />
+  <meta property="og:description" content="Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu." />
   <meta property="og:url" content="https://webyapar.com/tr/" />
+  <meta property="og:image" content="https://webyapar.com/img/logo.png" />
+  <meta property="og:image:alt" content="Webyapar" />
   <meta property="og:site_name" content="Webyapar" />
   <meta property="og:locale" content="tr_TR" />
-
+  <meta property="og:locale:alternate" content="en_US" />
+  <meta property="og:locale:alternate" content="ar_SA" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Webyapar" />
-  <meta name="twitter:description" content="Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri." />
-  <meta name="twitter:image" content="https://webyapar.com/img/icon.png" />
+  <meta name="twitter:description" content="Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu." />
+  <meta name="twitter:image" content="https://webyapar.com/img/logo.png" />
 
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/src/fonts/rubik/rubik-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-
-  <link rel="stylesheet" href="/src/rubik.css" />
-  <link rel="stylesheet" href="/src/css.css?v=qylff" />
-  <link rel="stylesheet" href="/src/mx-ui.css?v=qylff" />
-  <link rel="preload" href="/src/cookie.css?v=qylff" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/swiper-bundle.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <link rel="preload" href="/src/material-symbols-outlined.css" as="style" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript>
-    <link rel="stylesheet" href="/src/cookie.css?v=qylff" />
-    <link rel="stylesheet" href="/src/swiper-bundle.min.css" />
-    <link rel="stylesheet" href="/src/material-symbols-outlined.css" />
-  </noscript>
-  <link rel="shortcut icon" href="/img/icon.png?v=qylff" type="image/png" />
+  <meta name="theme-color" content="#CC1F1B" />
+  <meta name="mx-api-base" content="none" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/fonts/poppins.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/rubik.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/css.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=h5jmd" />
+  
+  <link rel="stylesheet" href="/src/mx-ui.css?v=h5jmd" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=h5jmd" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=h5jmd" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=h5jmd" />
+  <link rel="shortcut icon" href="/img/icon.png?v=h5jmd" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "Webyapar",
-  "description": "Webyapar — Gaziantep dijital ajans. Web tasarım, SEO, Google Ads, sosyal medya ve profesyonel fotoğraf hizmetleri.",
-  "url": "https://webyapar.com",
-  "logo": "https://webyapar.com/img/logo.svg",
-  "image": "https://webyapar.com/img/logo.svg"
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Webyapar",
-  "url": "https://webyapar.com",
-  "logo": "https://webyapar.com/img/logo.svg"
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://webyapar.com/#website",
+      "url": "https://webyapar.com/",
+      "name": "Webyapar",
+      "description": "Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu.",
+      "inLanguage": "tr",
+      "publisher": {
+        "@id": "https://webyapar.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://webyapar.com/#organization",
+      "name": "Webyapar",
+      "url": "https://webyapar.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://webyapar.com/img/logo.png"
+      },
+      "image": "https://webyapar.com/img/logo.png",
+      "description": "Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu.",
+      "telephone": "0531 679 10 14",
+      "email": "info@webyapar.com",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "0531 679 10 14",
+        "email": "info@webyapar.com"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://webyapar.com/tr/#webpage",
+      "url": "https://webyapar.com/tr/",
+      "name": "Webyapar",
+      "description": "Webyapar: 29 sektör için hazır kurumsal, e-ticaret ve galeri web sitesi temaları. Canlı demo, Türkçe · İngilizce · Arapça, mobil uyumlu.",
+      "inLanguage": "tr",
+      "isPartOf": {
+        "@id": "https://webyapar.com/#website"
+      },
+      "about": {
+        "@id": "https://webyapar.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://webyapar.com/img/logo.png"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://webyapar.com/tr/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Temayı kendi markama uyarlayabilir miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Logo, renk paleti, metinler ve görseller değiştirilir; sayfa ve modüller ihtiyacınıza göre eklenir ya da çıkarılır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Demolardaki sepet ve ödeme gerçek mi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hayır. E-ticaret demolarında sepet tarayıcıda tutulur ve ödeme adımı simülasyondur; gerçek ödeme kurulum sırasında seçtiğiniz sağlayıcıya bağlanır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Arapça sürüm gerçekten sağdan sola mı?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Arapça sayfalar tam RTL’dir: yerleşim aynalanır, Arapça yazı tipi kullanılır, fiyat ve telefon numaraları Latin hanelerle okunur kalır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kendi alan adımı bağlayabilir miyim?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Siteler statik olarak yayınlanır ve alan adınız CNAME kaydıyla bağlanır; https sertifikası otomatik gelir."
+          }
+        }
+      ]
+    }
+  ]
 }
 </script>
   
-<link rel="manifest" href="/manifest.json">
-<meta name="theme-color" content="#2196f3">
-<link rel="stylesheet" href="style.css?v=qylff">
+<link rel="stylesheet" href="style.css?v=h5jmd">
 </head>
 
 <body>
-  <div id="header"><div class="h0000">
-  <div class="h0000title">
+  <a class="mx-skip-link" href="#content">İçeriğe atla</a>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
+  <div id="header"><header class="h0000" role="banner">
+  <div class="h0000title" role="region" aria-label="Dil Seçici">
     <div class="h0000titlebody">
-      <div class="h0000titlebodylang">
-        <ul>
-          <li><a href="/tr/">TR</a></li><li><a href="/en/">EN</a></li><li><a href="/ar/">AR</a></li>
+      <nav class="h0000titlebodylang" aria-label="Dil Seçici">
+        <ul role="list">
+          <li role="none"><a href="/tr/" hreflang="tr" aria-current="true" title="true" aria-label="Dil Seçici: tr" lang="tr">tr</a></li><li role="none"><a href="/en/" hreflang="en" title="true" aria-label="Dil Seçici: en" lang="en">en</a></li><li role="none"><a href="/ar/" hreflang="ar" title="true" aria-label="Dil Seçici: ar" lang="ar">ar</a></li>
         </ul>
-      </div>
+      </nav>
     </div>
   </div>
-  <div class="h0000body">
-    <a href="/tr/">
-      <img
-        src="/img/logo.svg?v=cmgej"
-        alt="Webyapar Logo"
-        class="h0000bodylogo"
-        loading="lazy"
-      />
-    </a>
-    <button type="button" class="h0000-mobile-toggle" onclick="menu2_toggle()" aria-label="Menüyü aç/kapat">
+  <div class="h0000Children">
+    <div class="h0000body">
+      <a href="/tr/" aria-label="Anasayfa - Webyapar" title="Anasayfa - Webyapar">
+        <img src="/img/logo.png?v=axbp5" class="h0000bodylogo" alt="Webyapar Logo" loading="lazy" />
+      </a>
+    </div>
+    <button class="h0000menumobil" type="button" aria-label="Menüyü Aç/Kapat" aria-expanded="false" aria-controls="h0000menulist">
       <span class="material-symbols-outlined" aria-hidden="true">menu</span>
     </button>
-  </div>
-  
-  <div class="h0000-menu-backdrop" onclick="menu2_toggle()" aria-hidden="true"></div>
-  <div class="h0000menubody">
-    <div class="h0000menu" id="menu-2-root">
-      <button type="button" class="h0000-menu2-drawer-close" onclick="menu2_toggle()" aria-label="Menüyü kapat">
+    <div class="h0000menuoverlay" id="h0000menuoverlay" aria-hidden="true"></div>
+    <nav class="h0000menulist" id="h0000menulist" role="navigation" aria-label="Navigasyon">
+      <button class="h0000menuclose" type="button" aria-label="Menüyü Kapat" aria-controls="h0000menulist">
         <span class="material-symbols-outlined" aria-hidden="true">close</span>
       </button>
-      <div class="h0000menulistbody">
-        <div class="h0000menulist">
-          <ul>
-            <a href="/tr/">Anasayfa</a><div class="h0000menulist-menu"><a href="/tr/hakkimizda/">Kurumsal</a><div class="dropdown-content-h0000"><a href="/tr/hakkimizda/">Hakkımızda</a><a href="/tr/misyon/">Misyon</a><a href="/tr/vizyon/">Vizyon</a><a href="/tr/kalite-politikamiz/">Kalite Politikamız</a><a href="/tr/gizlilik-politikasi/">Gizlilik Politikası</a><a href="/tr/kisisel-veriler/">Kişisel Veriler</a><a href="/tr/kullanici-haklari/">Kullanıcı Hakları</a><a href="/tr/yasal-uyari/">Yasal Uyarı</a></div></div><a href="/tr/hizmetlerimiz/">Hizmetlerimiz</a><a href="/tr/iletisim/">İletişim</a>
-          </ul>
-        </div>
+      <ul role="menubar">
+        <a href="/tr/" class="h0000menuitem" role="menuitem" title="Anasayfa - Webyapar" aria-label="Anasayfa">Anasayfa</a><a href="/tr/temalar/" class="h0000menuitem" role="menuitem" title="Temalar" aria-label="Temalar">Temalar</a><a href="/tr/sektorler/" class="h0000menuitem" role="menuitem" title="Sektörler" aria-label="Sektörler">Sektörler</a><a href="/tr/hizmetler/" class="h0000menuitem" role="menuitem" title="Hizmetler" aria-label="Hizmetler">Hizmetler</a><a href="/tr/fiyatlar/" class="h0000menuitem" role="menuitem" title="Fiyatlar" aria-label="Fiyatlar">Fiyatlar</a><a href="/tr/iletisim/" class="h0000menuitem" role="menuitem" title="İletişim" aria-label="İletişim">İletişim</a>
+      </ul>
+      <div class="h0000menulang" aria-label="Dil Seçici">
+        <ul role="list">
+          <li role="none"><a href="/tr/" hreflang="tr" aria-current="true" title="true" aria-label="Dil Seçici: tr" lang="tr">tr</a></li><li role="none"><a href="/en/" hreflang="en" title="true" aria-label="Dil Seçici: en" lang="en">en</a></li><li role="none"><a href="/ar/" hreflang="ar" title="true" aria-label="Dil Seçici: ar" lang="ar">ar</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<script>
+  setTimeout(function() {
+    var menuButton = document.querySelector(".h0000menumobil");
+    var menu = document.querySelector(".h0000menulist");
+    var overlay = document.querySelector(".h0000menuoverlay");
+    var closeButton = document.querySelector(".h0000menuclose");
+    function openMenu() {
+      if (menu && overlay) {
+        menu.classList.add("active");
+        overlay.classList.add("active");
+        overlay.setAttribute("aria-hidden", "false");
+        if (menuButton) {
+          menuButton.setAttribute("aria-expanded", "true");
+        }
+        document.body.style.overflow = "hidden";
+      }
+    }
+    
+    function closeMenu() {
+      if (menu && overlay) {
+        menu.classList.remove("active");
+        overlay.classList.remove("active");
+        overlay.setAttribute("aria-hidden", "true");
+        if (menuButton) {
+          menuButton.setAttribute("aria-expanded", "false");
+        }
+        document.body.style.overflow = "";
+        if (menuButton) {
+          menuButton.focus();
+        }
+      }
+    }
+    
+    if (menuButton && menu && overlay) {
+      menuButton.addEventListener("click", function () {
+        var isExpanded = menuButton.getAttribute("aria-expanded") === "true";
+        if (isExpanded) {
+          closeMenu();
+        } else {
+          openMenu();
+        }
+      });
+      if (closeButton) {
+        closeButton.addEventListener("click", function () {
+          closeMenu();
+        });
+      }
+      overlay.addEventListener("click", function () {
+        closeMenu();
+      });
+      menuButton.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          var isExpanded = menuButton.getAttribute("aria-expanded") === "true";
+          if (isExpanded) {
+            closeMenu();
+          } else {
+            openMenu();
+          }
+        }
+      });
+      document.addEventListener("keydown", function (e) {
+        if (e.key === "Escape" && menuButton.getAttribute("aria-expanded") === "true") {
+          closeMenu();
+        }
+      });
+    }
+  }, 100);
+</script>
+</div>
+  <div id="content"><section class="b0000-hero">
+  <div class="b0000-hero-bg"></div>
+  <div class="b0000-hero-overlay"></div>
+  
+  <div class="b0000-hero-container">
+    <div class="b0000-hero-content">
+      <div class="b0000-hero-badge">Hazır web sitesi temaları</div>
+      <h1 class="b0000-hero-title">Sektörünüze hazır web sitesi — canlı deneyin</h1>
+      <p class="b0000-hero-desc">29 sektör için tasarlanmış kurumsal, e-ticaret ve galeri temaları. Üç dilde (TR · EN · AR), mobil uyumlu; beğendiğinizi markanıza uyarlıyoruz.</p>
+      
+      <div class="b0000-hero-actions">
+        <a href="temalar" class="b0000-hero-btn b0000-hero-btn-primary">Temaları gör <span class="material-symbols-outlined">arrow_forward</span></a><a href="sektorler" class="b0000-hero-btn b0000-hero-btn-secondary">Sektörler</a>
       </div>
       
-      <div class="h0000languages-mobile">
-        <ul>
-          <li><a href="/tr/">TR</a></li><li><a href="/en/">EN</a></li><li><a href="/ar/">AR</a></li>
-        </ul>
+      <div class="b0000-hero-stats">
+        <div class="b0000-hero-stat"><div class="b0000-hero-stat-number">29</div><div class="b0000-hero-stat-label">Sektör teması</div></div><div class="b0000-hero-stat"><div class="b0000-hero-stat-number">3</div><div class="b0000-hero-stat-label">Dil</div></div><div class="b0000-hero-stat"><div class="b0000-hero-stat-number">3</div><div class="b0000-hero-stat-label">Tür</div></div><div class="b0000-hero-stat"><div class="b0000-hero-stat-number">100</div><div class="b0000-hero-stat-label">% statik</div></div>
+      </div>
+    </div>
+    
+    <div class="b0000-hero-visual">
+      <div class="b0000-hero-visual-inner">
+        <div class="b0000-hero-visual-shape b0000-hero-visual-shape-1"></div>
+        <div class="b0000-hero-visual-shape b0000-hero-visual-shape-2"></div>
+        <div class="b0000-hero-visual-shape b0000-hero-visual-shape-3"></div>
+        <img src="/img/hero-vitrin.webp" alt="Kurumsal tanıtım" class="b0000-hero-image" loading="eager" fetchpriority="high" decoding="async" />
       </div>
     </div>
   </div>
-</div>
+</section>
+
+
+<section class="b0001-tg" id="tg-anztrj" aria-labelledby="tg-h-anztrj" data-tg-root>
+  <div class="b0001-tg-wrap">
+    <header class="b0001-tg-head">
+      <h2 class="b0001-tg-title" id="tg-h-anztrj">Öne çıkan temalar</h2>
+      <p class="b0001-tg-subtitle">Her türden iki tema; tamamı canlı demoyla.</p>
+    </header>
+
+    <div class="b0001-tg-toolbar">
+      <div class="b0001-tg-searchrow">
+        <div class="b0001-tg-search">
+          <label class="mx-visually-hidden" for="tg-q-anztrj">Tema ara</label>
+          <span class="material-symbols-outlined" aria-hidden="true">search</span>
+          <input class="mx-input b0001-tg-q" id="tg-q-anztrj" type="search" autocomplete="off" placeholder="Tema, sektör veya tür ara…" data-tg-q />
+        </div>
+        <div class="b0001-tg-sort">
+          <label class="b0001-tg-sortlabel" for="tg-s-anztrj">Sırala</label>
+          <select class="mx-select b0001-tg-sortsel" id="tg-s-anztrj" data-tg-sort>
+            <option value="yeni" selected>En yeni</option>
+            <option value="ad">Ad (A–Z)</option>
+            <option value="sektor">Sektör (A–Z)</option>
+            <option value="tur">Tür</option>
+          </select>
+        </div>
+      </div>
+      <div class="b0001-tg-group" role="group" aria-label="Tür">
+        <span class="b0001-tg-grouplabel" aria-hidden="true">Tür</span>
+        <div class="b0001-tg-chips"><button type="button" class="b0001-tg-chip is-active" data-tg-facet="tur" data-tg-val="" aria-pressed="true"><span>Tümü</span><span class="b0001-tg-n" data-tg-n=""></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="tur" data-tg-val="kurumsal" aria-pressed="false"><span>Kurumsal</span><span class="b0001-tg-n" data-tg-n="kurumsal"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="tur" data-tg-val="e-ticaret" aria-pressed="false"><span>E-ticaret</span><span class="b0001-tg-n" data-tg-n="e-ticaret"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="tur" data-tg-val="galeri" aria-pressed="false"><span>Galeri</span><span class="b0001-tg-n" data-tg-n="galeri"></span></button></div>
+      </div>
+      <div class="b0001-tg-group" role="group" aria-label="Sektör">
+        <span class="b0001-tg-grouplabel" aria-hidden="true">Sektör</span>
+        <div class="b0001-tg-chips"><button type="button" class="b0001-tg-chip is-active" data-tg-facet="sektor" data-tg-val="" aria-pressed="true"><span>Tümü</span><span class="b0001-tg-n" data-tg-n=""></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="restoran" aria-pressed="false"><span>Restoran</span><span class="b0001-tg-n" data-tg-n="restoran"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="klinik" aria-pressed="false"><span>Klinik</span><span class="b0001-tg-n" data-tg-n="klinik"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="dekor" aria-pressed="false"><span>Dekorasyon</span><span class="b0001-tg-n" data-tg-n="dekor"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="kuyumcu" aria-pressed="false"><span>Kuyumcu</span><span class="b0001-tg-n" data-tg-n="kuyumcu"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="insaat" aria-pressed="false"><span>İnşaat</span><span class="b0001-tg-n" data-tg-n="insaat"></span></button><button type="button" class="b0001-tg-chip" data-tg-facet="sektor" data-tg-val="portfolyo" aria-pressed="false"><span>Portfolyo</span><span class="b0001-tg-n" data-tg-n="portfolyo"></span></button></div>
+      </div>
+      <div class="b0001-tg-status">
+        <p class="b0001-tg-count" data-tg-count aria-live="polite"></p>
+        <button type="button" class="b0001-tg-reset" data-tg-reset hidden>Filtreleri temizle</button>
+      </div>
+    </div>
+
+    <div class="b0001-tg-grid" data-tg-grid><article class="b0001-tg-card" data-tg-id="0" data-tg-slug="restoran" id="tema-restoran-anztrj" aria-labelledby="tg-n-anztrj-0"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/restoran-1440.webp" alt="Kervan Sofrası — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/restoran-390.webp" alt="Kervan Sofrası — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">Restoran</span><span class="b0001-tg-badge">Kurumsal</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-0">Kervan Sofrası</h3><p class="b0001-tg-sum">Menü, alerjen bilgisi, galeri ve masa rezervasyonlu restoran sitesi.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">event_available</span><span>Randevu</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">qr_code_2</span><span>QR menü</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">no_food</span><span>Alerjen bilgisi</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">7</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=restoran"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=restoran"><span>Bu temayı iste</span></a></div></div></article><article class="b0001-tg-card" data-tg-id="1" data-tg-slug="klinik" id="tema-klinik-anztrj" aria-labelledby="tg-n-anztrj-1"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/klinik-1440.webp" alt="Berrak Tıp Merkezi — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/klinik-390.webp" alt="Berrak Tıp Merkezi — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">Klinik</span><span class="b0001-tg-badge">Kurumsal</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-1">Berrak Tıp Merkezi</h3><p class="b0001-tg-sum">Hekim kartları, tedaviler ve randevu talebi olan sakin bir klinik sitesi.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">event_available</span><span>Randevu</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">7</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=klinik"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=klinik"><span>Bu temayı iste</span></a></div></div></article><article class="b0001-tg-card" data-tg-id="2" data-tg-slug="dekor" id="tema-dekor-anztrj" aria-labelledby="tg-n-anztrj-2"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/dekor-1440.webp" alt="Meşe Ev — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/dekor-390.webp" alt="Meşe Ev — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">Dekorasyon</span><span class="b0001-tg-badge">E-ticaret</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-2">Meşe Ev</h3><p class="b0001-tg-sum">Sepet ve demo ödeme akışıyla uçtan uca denenebilen dekorasyon mağazası.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">event_available</span><span>Randevu</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">shopping_cart</span><span>Sepet</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">credit_card</span><span>Demo ödeme</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">4</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=dekor"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=dekor"><span>Bu temayı iste</span></a></div></div></article><article class="b0001-tg-card" data-tg-id="3" data-tg-slug="kuyumcu" id="tema-kuyumcu-anztrj" aria-labelledby="tg-n-anztrj-3"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/kuyumcu-1440.webp" alt="Zümra Kuyum — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/kuyumcu-390.webp" alt="Zümra Kuyum — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">Kuyumcu</span><span class="b0001-tg-badge">E-ticaret</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-3">Zümra Kuyum</h3><p class="b0001-tg-sum">Altın fiyat bandı, koleksiyonlar ve sepetli kuyumcu mağazası.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">event_available</span><span>Randevu</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">shopping_cart</span><span>Sepet</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">credit_card</span><span>Demo ödeme</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">6</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=kuyumcu"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=kuyumcu"><span>Bu temayı iste</span></a></div></div></article><article class="b0001-tg-card" data-tg-id="4" data-tg-slug="insaat" id="tema-insaat-anztrj" aria-labelledby="tg-n-anztrj-4"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/insaat-1440.webp" alt="Kalesu Yapı — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/insaat-390.webp" alt="Kalesu Yapı — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">İnşaat</span><span class="b0001-tg-badge">Galeri</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-4">Kalesu Yapı</h3><p class="b0001-tg-sum">Proje filtreli portföy, ilerleme galerisi ve teklif formu olan inşaat sitesi.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">filter_alt</span><span>Proje filtresi</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">10</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=insaat"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=insaat"><span>Bu temayı iste</span></a></div></div></article><article class="b0001-tg-card" data-tg-id="5" data-tg-slug="portfolyo" id="tema-portfolyo-anztrj" aria-labelledby="tg-n-anztrj-5"><div class="b0001-tg-shots"><div class="b0001-tg-bar" aria-hidden="true"><i></i><i></i><i></i></div><div class="b0001-tg-desk"><img class="b0001-tg-img" src="/img/shots/portfolyo-1440.webp" alt="Deniz Altan — masaüstü ekran görüntüsü" loading="lazy" decoding="async" /></div><div class="b0001-tg-mob"><img class="b0001-tg-img" src="/img/shots/portfolyo-390.webp" alt="Deniz Altan — mobil ekran görüntüsü" loading="lazy" decoding="async" /></div></div><div class="b0001-tg-body"><div class="b0001-tg-badges"><span class="b0001-tg-badge b0001-tg-badge--sector">Portfolyo</span><span class="b0001-tg-badge">Galeri</span></div><h3 class="b0001-tg-name" id="tg-n-anztrj-5">Deniz Altan</h3><p class="b0001-tg-sum">Kategori filtreli galeri, paketler ve çekim rezervasyonlu fotoğrafçı portfolyosu.</p><p class="b0001-tg-incl">Dahil olanlar</p><ul class="b0001-tg-feats"><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">event_available</span><span>Randevu</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">photo_library</span><span>Galeri</span></li><li class="b0001-tg-feat"><span class="material-symbols-outlined" aria-hidden="true">map</span><span>Harita</span></li></ul><p class="b0001-tg-pages"><bdi dir="ltr">7</bdi> sayfa</p><div class="b0001-tg-cta"><a class="mx-btn mx-btn--primary b0001-tg-btn" href="/tr/demo/?t=portfolyo"><span>Demoyu gör</span><span class="material-symbols-outlined mx-flip" aria-hidden="true">arrow_forward</span></a><a class="mx-btn mx-btn--outline b0001-tg-btn" href="/tr/iletisim/?tema=portfolyo"><span>Bu temayı iste</span></a></div></div></article></div>
+
+    <div class="mx-empty b0001-tg-empty" data-tg-empty hidden>
+      <span class="material-symbols-outlined mx-empty__icon" aria-hidden="true">search_off</span>
+      <p class="mx-empty__title">Eşleşen tema yok</p>
+      <p class="mx-empty__text">Aramanızı değiştirin ya da filtreleri temizleyin.</p>
+      <button type="button" class="mx-btn mx-btn--outline b0001-tg-btn" data-tg-reset2>Filtreleri temizle</button>
+    </div>
+  </div>
+  <script type="application/json" id="tg-anztrj-veri">{"lang":"tr","items":[{"id":"0","slug":"restoran","type":"kurumsal","sector":"restoran","nameText":"Kervan Sofrası","summaryText":"Menü, alerjen bilgisi, galeri ve masa rezervasyonlu restoran sitesi.","typeLabel":"Kurumsal","sectorLabel":"Restoran","date":"2026-10-30"},{"id":"1","slug":"klinik","type":"kurumsal","sector":"klinik","nameText":"Berrak Tıp Merkezi","summaryText":"Hekim kartları, tedaviler ve randevu talebi olan sakin bir klinik sitesi.","typeLabel":"Kurumsal","sectorLabel":"Klinik","date":"2026-10-30"},{"id":"2","slug":"dekor","type":"e-ticaret","sector":"dekor","nameText":"Meşe Ev","summaryText":"Sepet ve demo ödeme akışıyla uçtan uca denenebilen dekorasyon mağazası.","typeLabel":"E-ticaret","sectorLabel":"Dekorasyon","date":"2026-10-30"},{"id":"3","slug":"kuyumcu","type":"e-ticaret","sector":"kuyumcu","nameText":"Zümra Kuyum","summaryText":"Altın fiyat bandı, koleksiyonlar ve sepetli kuyumcu mağazası.","typeLabel":"E-ticaret","sectorLabel":"Kuyumcu","date":"2026-10-30"},{"id":"4","slug":"insaat","type":"galeri","sector":"insaat","nameText":"Kalesu Yapı","summaryText":"Proje filtreli portföy, ilerleme galerisi ve teklif formu olan inşaat sitesi.","typeLabel":"Galeri","sectorLabel":"İnşaat","date":"2026-10-30"},{"id":"5","slug":"portfolyo","type":"galeri","sector":"portfolyo","nameText":"Deniz Altan","summaryText":"Kategori filtreli galeri, paketler ve çekim rezervasyonlu fotoğrafçı portfolyosu.","typeLabel":"Galeri","sectorLabel":"Portfolyo","date":"2026-10-30"}],"defaultSort":"yeni","url":false,"plural":{"one":"{n} tema","other":"{n} tema"}}</script>
+</section>
+
+
 
 <script>
   
-  if (typeof menu2_isMobileLayout === "undefined") {
-    
-    function menu2_isMobileLayout() {
-      return window.innerWidth <= 1024;
+  (function () {
+    var kok = document.getElementById("tg-anztrj");
+    if (!kok) {
+      return;
     }
-  }
-  if (typeof menu2_isTouchNav === "undefined") {
-    function menu2_isTouchNav() {
-      return window.innerWidth <= 1024;
+    var veriEl = document.getElementById("tg-anztrj-veri");
+    var cfg = {};
+    try {
+      cfg = JSON.parse(veriEl ? veriEl.textContent : "{}");
+    } catch (e) {
+      cfg = {};
     }
-  }
-  if (typeof menu2_setBodyScroll === "undefined") {
-    function menu2_setBodyScroll(lock) {
-      if (!menu2_isMobileLayout()) {
-        document.body.style.overflow = "";
-        return;
-      }
-      document.body.style.overflow = lock ? "hidden" : "";
+    var f = null;
+
+    function q(sel) {
+      return kok.querySelector(sel);
     }
-  }
-  if (typeof menu2_toggle === "undefined") {
-    function menu2_toggle() {
-      var root = document.getElementById("menu-2-root");
-      if (!root) {
-        return;
-      }
-      var wrapper = root.closest ? root.closest(".h0000") : null;
-      var target = wrapper || root;
-      if (target.classList.contains("h0000menu-open")) {
-        target.classList.remove("h0000menu-open");
-        menu2_setBodyScroll(false);
+
+    function hazir(fn) {
+      if (window.mxLoad) {
+        fn();
+      } else if (document.readyState === "complete") {
+        setTimeout(fn, 50);
       } else {
-        target.classList.add("h0000menu-open");
-        menu2_setBodyScroll(true);
-        menu2_openActiveBranch();
+        window.addEventListener("load", fn);
       }
     }
-  }
-  if (typeof menu2_closeDrawer === "undefined") {
-    function menu2_closeDrawer() {
-      var root = document.getElementById("menu-2-root");
-      if (!root) {
-        return;
+
+    function ciz(s) {
+      var kartlar = kok.querySelectorAll(".b0001-tg-card");
+      var gorunen = {};
+      var i;
+      for (i = 0; i < s.tumu.length; i++) {
+        gorunen[s.tumu[i].id] = i;
       }
-      var wrapper = root.closest ? root.closest(".h0000") : null;
-      var target = wrapper || root;
-      target.classList.remove("h0000menu-open");
-      menu2_setBodyScroll(false);
-    }
-  }
-  if (typeof menu2_openActiveBranch === "undefined") {
-    function menu2_openActiveBranch() {
-      if (!menu2_isMobileLayout()) {
-        return;
-      }
-      var root = document.getElementById("menu-2-root");
-      if (!root) {
-        return;
-      }
-      var activeWrap = root.querySelector(".h0000menulist-menu.dropdown-content-active-h0000");
-      if (activeWrap) {
-        activeWrap.classList.add("h0000-dropdown-open");
-      }
-    }
-  }
-  if (typeof menu2_setup === "undefined") {
-    function menu2_setup() {
-      var root = document.getElementById("menu-2-root");
-      if (!root) {
-        return;
-      }
-      var dropdownLinks = root.querySelectorAll(".h0000menulist-menu > a");
-      for (var i = 0; i < dropdownLinks.length; i++) {
-        if (dropdownLinks[i].getAttribute("data-menu2-listener") === "true") {
-          continue;
+      var grid = q("[data-tg-grid]");
+      var sirali = [];
+      for (i = 0; i < kartlar.length; i++) {
+        var id = kartlar[i].getAttribute("data-tg-id");
+        var var_ = Object.prototype.hasOwnProperty.call(gorunen, id);
+        kartlar[i].hidden = !var_;
+        if (var_) {
+          sirali[gorunen[id]] = kartlar[i];
         }
-        dropdownLinks[i].setAttribute("data-menu2-listener", "true");
-        dropdownLinks[i].addEventListener("click", function(event) {
-          if (!menu2_isTouchNav()) {
-            return;
+      }
+      for (i = 0; i < sirali.length; i++) {
+        grid.appendChild(sirali[i]);
+      }
+
+      q("[data-tg-count]").textContent = window.MxFiltre.cogul(s.toplam, cfg.plural, cfg.lang);
+      q("[data-tg-empty]").hidden = s.toplam !== 0;
+      grid.hidden = s.toplam === 0;
+      var filtreVar = f.filtreVar();
+      q("[data-tg-reset]").hidden = !filtreVar;
+
+      
+      var cipler = kok.querySelectorAll("[data-tg-facet]");
+      var sayimlar = { tur: f.sayim("tur"), sektor: f.sayim("sektor") };
+      for (i = 0; i < cipler.length; i++) {
+        var facet = cipler[i].getAttribute("data-tg-facet");
+        var val = cipler[i].getAttribute("data-tg-val");
+        var secili = s.durum.facet[facet] || "";
+        var aktif = String(secili) === val;
+        cipler[i].classList.toggle("is-active", aktif);
+        cipler[i].setAttribute("aria-pressed", aktif ? "true" : "false");
+        var n = cipler[i].querySelector("[data-tg-n]");
+        if (n) {
+          if (val === "") {
+            n.textContent = "";
+          } else {
+            n.textContent = String(sayimlar[facet][val] || 0);
           }
-          var parent = this.parentNode;
-          if (!parent || !parent.querySelector(".dropdown-content-h0000")) {
-            return;
-          }
-          event.preventDefault();
-          var menuRoot = parent.parentNode;
-          var toggled = parent.classList.contains("h0000-dropdown-open");
-          var siblings = menuRoot.querySelectorAll(".h0000menulist-menu");
-          for (var j = 0; j < siblings.length; j++) {
-            siblings[j].classList.remove("h0000-dropdown-open");
-          }
-          if (!toggled) {
-            parent.classList.add("h0000-dropdown-open");
-          }
+        }
+      }
+      var sel = q("[data-tg-sort]");
+      if (sel.value !== s.durum.sirala && s.durum.sirala) {
+        sel.value = s.durum.sirala;
+      }
+    }
+
+    function baslat() {
+      window.mxLoad("mxfiltre").then(function () {
+        f = window.MxFiltre.olustur({
+          items: cfg.items || [],
+          arama: { alanlar: ["nameText", "summaryText", "sectorLabel", "typeLabel", "slug"] },
+          facets: { tur: { tip: "tek", alan: "type" }, sektor: { tip: "tek", alan: "sector" } },
+          siralama: {
+            yeni: { alan: "date", yon: -1 },
+            ad: { alan: "nameText", yon: 1, tip: "metin" },
+            sektor: { alan: "sectorLabel", yon: 1, tip: "metin" },
+            tur: { alan: "typeLabel", yon: 1, tip: "metin" }
+          },
+          varsayilanSiralama: cfg.defaultSort || "yeni",
+          url: !!cfg.url,
+          dil: cfg.lang
         });
-      }
-      var navLinks = root.querySelectorAll(".h0000menulist a[href]");
-      for (var k = 0; k < navLinks.length; k++) {
-        if (navLinks[k].getAttribute("data-menu2-nav-close") === "true") {
-          continue;
-        }
-        navLinks[k].setAttribute("data-menu2-nav-close", "true");
-        navLinks[k].addEventListener("click", function(event) {
-          if (!menu2_isMobileLayout()) {
+        var chipHost = kok;
+        chipHost.addEventListener("click", function (ev) {
+          var t = ev.target;
+          while (t && t !== chipHost && !(t.getAttribute && t.getAttribute("data-tg-facet"))) {
+            t = t.parentNode;
+          }
+          if (!t || t === chipHost) {
             return;
           }
-          if (event.defaultPrevented) {
-            return;
-          }
-          menu2_closeDrawer();
+          var facet = t.getAttribute("data-tg-facet");
+          var val = t.getAttribute("data-tg-val");
+          var simdi = f.durum().facet[facet] || "";
+          var yeni = {};
+          yeni[facet] = String(simdi) === val ? "" : val;
+          f.ayarla(yeni);
         });
-      }
-      menu2_openActiveBranch();
-    }
-    function menu2_resetDropdowns() {
-      if (!menu2_isTouchNav()) {
-        var root = document.getElementById("menu-2-root");
-        if (!root) {
-          return;
-        }
-        var items = root.querySelectorAll(".h0000menulist-menu");
-        for (var i = 0; i < items.length; i++) {
-          items[i].classList.remove("h0000-dropdown-open");
-        }
-      }
-      if (!menu2_isMobileLayout()) {
-        menu2_setBodyScroll(false);
-        menu2_closeDrawer();
-      }
-    }
-    setTimeout(menu2_setup, 150);
-    window.addEventListener("resize", menu2_resetDropdowns);
-  }
-</script>
-<div class="h0001-textslider-wrap" style="margin: 0px 0 0 0;">
-  <div class="swiper-container h0001-textslider">
-    <div class="swiper-wrapper"><div class="swiper-slide h0001-textslide" data-href="/tr/hizmetlerimiz/" style="--slide-bg--:#0B1120;"><div class="h0001-textslide-media"><img class="h0001-textslide-bg" src="/img/wpHv01/hero-web-design.webp?v=kh5wy" alt="Web ile büyüyen markalar"  loading="lazy"/><div class="h0001-textslide-overlay"></div></div><div class="h0001-textslide-inner h0001-textslide-textonly h0001-textslide-align-center"><div class="h0001-textslide-content"><h2 class="h0001-textslide-title">Web ile büyüyen markalar</h2><p class="h0001-textslide-desc">SEO uyumlu, hızlı ve modern web siteleri.</p><a class="h0001-textslide-btn" href="/tr/hizmetlerimiz/"><span class="h0001-textslide-btn-label">Hizmetleri İncele</span></a></div></div></div><div class="swiper-slide h0001-textslide" data-href="/tr/seo-hizmeti/" style="--slide-bg--:#0B1120;"><div class="h0001-textslide-media"><img class="h0001-textslide-bg" loading="lazy" src="/img/wpHv01/hero-seo-analytics.webp?v=kh5wy" alt="SEO ve ölçülebilir büyüme" /><div class="h0001-textslide-overlay"></div></div><div class="h0001-textslide-inner h0001-textslide-textonly h0001-textslide-align-center"><div class="h0001-textslide-content"><h2 class="h0001-textslide-title">SEO ve ölçülebilir büyüme</h2><p class="h0001-textslide-desc">Organik trafik ve dönüşüm odaklı dijital strateji.</p><a class="h0001-textslide-btn" href="/tr/seo-hizmeti/"><span class="h0001-textslide-btn-label">SEO Hizmeti</span></a></div></div></div><div class="swiper-slide h0001-textslide" data-href="/tr/iletisim/" style="--slide-bg--:#0B1120;"><div class="h0001-textslide-media"><img class="h0001-textslide-bg" loading="lazy" src="/img/wpHv01/hero-social-campaign.webp?v=kh5wy" alt="Reklam ve sosyal medya" /><div class="h0001-textslide-overlay"></div></div><div class="h0001-textslide-inner h0001-textslide-textonly h0001-textslide-align-center"><div class="h0001-textslide-content"><h2 class="h0001-textslide-title">Reklam ve sosyal medya</h2><p class="h0001-textslide-desc">Google Ads ve sosyal kampanyalarla net sonuç.</p><a class="h0001-textslide-btn" href="/tr/iletisim/"><span class="h0001-textslide-btn-label">Teklif Al</span></a></div></div></div></div>
-    <div class="h0001-textslider-pagination swiper-pagination"></div>
-    <div class="h0001-textslider-prev swiper-button-prev" title="Önceki slayt" aria-label="Önceki slayt"></div>
-    <div class="h0001-textslider-next swiper-button-next" title="Sonraki slayt" aria-label="Sonraki slayt"></div>
-  </div>
-</div>
-
-
-
-<script>
-(function h0001TextsliderInit() {
-  var attempts = 0;
-  var maxAttempts = 20;
-  function h0001TextsliderBindClicks() {
-    var slideNodes = document.querySelectorAll(".h0001-textslide");
-    var s = 0;
-    for (s = 0; s < slideNodes.length; s++) {
-      slideNodes[s].addEventListener("click", function (ev) {
-        var href = this.getAttribute("data-href");
-        var isBtn = ev.target && ev.target.closest && ev.target.closest(".h0001-textslide-btn");
-        if (href && !isBtn) {
-          window.location.href = href;
-        }
+        var girdi = q("[data-tg-q]");
+        window.MxFiltre.aramaBagla(girdi, f, 150);
+        q("[data-tg-sort]").addEventListener("change", function (ev) {
+          f.sirala(ev.target.value);
+        });
+        var sifirla = function () {
+          f.sifirla();
+          girdi.value = "";
+          girdi.focus();
+        };
+        q("[data-tg-reset]").addEventListener("click", sifirla);
+        q("[data-tg-reset2]").addEventListener("click", sifirla);
+        f.abone(ciz);
+        ciz(f.sonuc());
       });
     }
-  }
 
-  var timer = setInterval(function () {
-    attempts++;
-    if (typeof Swiper === "function") {
-      clearInterval(timer);
-
-      new Swiper(".h0001-textslider", {
-        slidesPerView: 1,
-        spaceBetween: 0,
-        loop: true,
-        speed: 800,
-        effect: "fade",
-        fadeEffect: {
-          crossFade: true
-        },
-        autoplay: {
-          delay: "4500",
-          disableOnInteraction: false,
-          pauseOnMouseEnter: true
-        },
-        pagination: {
-          el: ".h0001-textslider-pagination",
-          clickable: true
-        },
-        navigation: {
-          nextEl: ".h0001-textslider-next",
-          prevEl: ".h0001-textslider-prev"
-        },
-        keyboard: {
-          enabled: true
-        }
-      });
-
-      h0001TextsliderBindClicks();
-    } else if (attempts >= maxAttempts) {
-      clearInterval(timer);
-      console.warn("header/slider-text: Swiper bulunamadi, slider baslatilamadi.");
-    }
-  }, 250);
-})();
+    hazir(baslat);
+  })();
 </script>
-</div>
-  <div id="content"><div class="b0000">
-  <div class="b0000-body"><a href="/tr/web-tasarim/">
-        <div class="b0000-body-item">
-          <div class="b0000-body-item-img">
-            <img src="/page/zkf2p92uuh/svc-web.webp" alt="Web Tasarım" loading="lazy">
-          </div>
-          <div class="b0000-body-item-title">Web Tasarım</div>
-        </div>
-      </a><a href="/tr/reklam-yonetimi/">
-        <div class="b0000-body-item">
-          <div class="b0000-body-item-img">
-            <img src="/page/f9m0h1y3h3/svc-ads.webp" alt="Reklam Yönetimi" loading="lazy">
-          </div>
-          <div class="b0000-body-item-title">Reklam Yönetimi</div>
-        </div>
-      </a><a href="/tr/seo-hizmeti/">
-        <div class="b0000-body-item">
-          <div class="b0000-body-item-img">
-            <img src="/page/klzdcqqrmk/svc-seo.webp" alt="SEO Hizmeti" loading="lazy">
-          </div>
-          <div class="b0000-body-item-title">SEO Hizmeti</div>
-        </div>
-      </a><a href="/tr/sosyal-media/">
-        <div class="b0000-body-item">
-          <div class="b0000-body-item-img">
-            <img src="/page/1mgn1fhbhg/svc-social.webp" alt="Sosyal Medya" loading="lazy">
-          </div>
-          <div class="b0000-body-item-title">Sosyal Medya</div>
-        </div>
-      </a><a href="/tr/fotograf-cekimi/">
-        <div class="b0000-body-item">
-          <div class="b0000-body-item-img">
-            <img src="/page/uyr7wvr602/svc-photo.webp" alt="Fotoğraf Çekimi" loading="lazy">
-          </div>
-          <div class="b0000-body-item-title">Fotoğraf Çekimi</div>
-        </div>
-      </a></div>
-</div>
-
-<div class="b0001-out">
-  <div class="b0001">
-    <div class="b0001-left">
-      <img
-        src="/img/wpIn01/about-team.webp?v=e7m9s"
-        class="b0001-left-img"
-        alt="Dijital Ajans"
-       loading="lazy"/>
+<section class="b0002-values">
+  <div class="b0002-values-container">
+    <div class="b0002-values-header">
+      <div class="b0002-values-badge"></div>
+      <h2 class="b0002-values-title">Nasıl çalışır?</h2>
+      <p class="b0002-values-desc">Dört adımda, sürprizsiz bir akış.</p>
     </div>
-    <div class="b0001-right">
-      <div class="b0001-right-body">
-        <div class="b0001-right-body-name">Neden Webyapar?</div>
-        <div class="b0001-right-body-spot">SEO odaklı web, ölçülebilir reklam ve içerik — tek ekip, net sonuç. Gaziantep'ten tüm Türkiye'ye dijital büyüme.</div>
-        <div class="b0001-right-body-chile">
-          <div class="b0001-right-body-chile-row">
-            <div class="b0001-right-body-chile-row-name">SEO Odaklı</div>
-            <div class="b0001-right-body-chile-row-spot">Teknik SEO, içerik ve hız ile organik görünürlük.</div>
-          </div>
-          <div class="b0001-right-body-chile-row">
-            <div class="b0001-right-body-chile-row-name">Performans</div>
-            <div class="b0001-right-body-chile-row-spot">Google Ads ve sosyal kampanyalarda ROI takibi.</div>
-          </div>
-        </div>
-      </div>
+    <div class="b0002-values-grid">
+      <div class="b0002-values-card" style="animation-delay:0s"><div class="b0002-values-icon" aria-hidden="true"><span class="material-symbols-outlined">touch_app</span></div><h3 class="b0002-values-card-title">1. Temayı canlı deneyin</h3><p class="b0002-values-card-text">Sektörünüze uygun temayı seçin; masaüstü, tablet ve mobilde gerçek siteyi gezin.</p></div><div class="b0002-values-card" style="animation-delay:0.08s"><div class="b0002-values-icon" aria-hidden="true"><span class="material-symbols-outlined">palette</span></div><h3 class="b0002-values-card-title">2. Markanıza uyarlayın</h3><p class="b0002-values-card-text">Logo, renk, metin ve görseller sizin olur; üç dilde (TR · EN · AR) hazır gelir.</p></div><div class="b0002-values-card" style="animation-delay:0.16s"><div class="b0002-values-icon" aria-hidden="true"><span class="material-symbols-outlined">rocket_launch</span></div><h3 class="b0002-values-card-title">3. Yayına alın</h3><p class="b0002-values-card-text">Statik, hızlı ve https’li site; kendi alan adınız bağlanır.</p></div><div class="b0002-values-card" style="animation-delay:0.24s"><div class="b0002-values-icon" aria-hidden="true"><span class="material-symbols-outlined">support_agent</span></div><h3 class="b0002-values-card-title">4. Birlikte büyüyün</h3><p class="b0002-values-card-text">Yeni sayfa, yeni modül ve bakım için yanınızdayız.</p></div>
     </div>
   </div>
-</div>
+</section>
 
-<section class="b0002-stats">
-  <div class="b0002-stats-container">
-    <div class="b0002-stats-item" style="animation-delay:0s"><div class="b0002-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">task_alt</span></div><div class="b0002-stats-number" data-mx-count="120">0<span class="b0002-stats-suffix">+</span></div><div class="b0002-stats-label">Tamamlanan Proje</div></div><div class="b0002-stats-item" style="animation-delay:0.1s"><div class="b0002-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">sentiment_satisfied</span></div><div class="b0002-stats-number" data-mx-count="80">0<span class="b0002-stats-suffix">+</span></div><div class="b0002-stats-label">Mutlu Marka</div></div><div class="b0002-stats-item" style="animation-delay:0.2s"><div class="b0002-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">workspace_premium</span></div><div class="b0002-stats-number" data-mx-count="10">0<span class="b0002-stats-suffix">+</span></div><div class="b0002-stats-label">Yıl Deneyim</div></div><div class="b0002-stats-item" style="animation-delay:0.30000000000000004s"><div class="b0002-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">grid_view</span></div><div class="b0002-stats-number" data-mx-count="5">0</div><div class="b0002-stats-label">Dijital Hizmet</div></div>
+
+<section class="b0003-stats">
+  <div class="b0003-stats-container">
+    <div class="b0003-stats-item" style="animation-delay:0s"><div class="b0003-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">grid_view</span></div><div class="b0003-stats-number" data-mx-count="29">0</div><div class="b0003-stats-label">Sektör teması</div></div><div class="b0003-stats-item" style="animation-delay:0.1s"><div class="b0003-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">translate</span></div><div class="b0003-stats-number" data-mx-count="3">0</div><div class="b0003-stats-label">Dil: TR · EN · AR</div></div><div class="b0003-stats-item" style="animation-delay:0.2s"><div class="b0003-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">category</span></div><div class="b0003-stats-number" data-mx-count="3">0</div><div class="b0003-stats-label">Tür: kurumsal · e-ticaret · galeri</div></div><div class="b0003-stats-item" style="animation-delay:0.30000000000000004s"><div class="b0003-stats-icon"><span class="material-symbols-outlined" aria-hidden="true">bolt</span></div><div class="b0003-stats-number" data-mx-count="100">0<span class="b0003-stats-suffix">%</span></div><div class="b0003-stats-label">Statik, hızlı yayın</div></div>
   </div>
 </section>
 
@@ -404,7 +522,7 @@
     try {
       reduced = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
     } catch (e) {}
-    var numbers = document.querySelectorAll(".b0002-stats-number[data-mx-count]");
+    var numbers = document.querySelectorAll(".b0003-stats-number[data-mx-count]");
     if (numbers.length === 0) {
       return;
     }
@@ -451,19 +569,53 @@
     }
   }, 80);
 </script>
-<section class="b0003-cta">
-  <div class="b0003-cta-container">
-    <div class="b0003-cta-content">
-      <h2 class="b0003-cta-title">Dijital Büyümeye Bugün Başlayın</h2>
-      <p class="b0003-cta-desc">Ücretsiz keşif görüşmesi için hemen iletişime geçin.</p>
+<section class="b0004-faq">
+  <div class="b0004-faq-container">
+    <div class="b0004-faq-header">
+      <div class="b0004-faq-badge">SSS</div>
+      <h2 class="b0004-faq-title">Sık sorulanlar</h2>
+      <p class="b0004-faq-desc">Temalar ve yayın hakkında kısa cevaplar.</p>
     </div>
-    <div class="b0003-cta-actions">
-      <a href="iletisim" class="b0003-cta-btn b0003-cta-btn-primary">
-        <span>Teklif Al</span>
+    <div class="b0004-faq-list">
+      <div class="b0004-faq-item" style="animation-delay:0s"><button type="button" class="b0004-faq-question" onclick="b0004FaqToggle(this)" aria-expanded="false"><span>Temayı kendi markama uyarlayabilir miyim?</span><span class="material-symbols-outlined" aria-hidden="true">expand_more</span></button><div class="b0004-faq-answer"><div class="b0004-faq-answer-inner">Evet. Logo, renk paleti, metinler ve görseller değiştirilir; sayfa ve modüller ihtiyacınıza göre eklenir ya da çıkarılır.</div></div></div><div class="b0004-faq-item" style="animation-delay:0.08s"><button type="button" class="b0004-faq-question" onclick="b0004FaqToggle(this)" aria-expanded="false"><span>Demolardaki sepet ve ödeme gerçek mi?</span><span class="material-symbols-outlined" aria-hidden="true">expand_more</span></button><div class="b0004-faq-answer"><div class="b0004-faq-answer-inner">Hayır. E-ticaret demolarında sepet tarayıcıda tutulur ve ödeme adımı simülasyondur; gerçek ödeme kurulum sırasında seçtiğiniz sağlayıcıya bağlanır.</div></div></div><div class="b0004-faq-item" style="animation-delay:0.16s"><button type="button" class="b0004-faq-question" onclick="b0004FaqToggle(this)" aria-expanded="false"><span>Arapça sürüm gerçekten sağdan sola mı?</span><span class="material-symbols-outlined" aria-hidden="true">expand_more</span></button><div class="b0004-faq-answer"><div class="b0004-faq-answer-inner">Evet. Arapça sayfalar tam RTL’dir: yerleşim aynalanır, Arapça yazı tipi kullanılır, fiyat ve telefon numaraları Latin hanelerle okunur kalır.</div></div></div><div class="b0004-faq-item" style="animation-delay:0.24s"><button type="button" class="b0004-faq-question" onclick="b0004FaqToggle(this)" aria-expanded="false"><span>Kendi alan adımı bağlayabilir miyim?</span><span class="material-symbols-outlined" aria-hidden="true">expand_more</span></button><div class="b0004-faq-answer"><div class="b0004-faq-answer-inner">Evet. Siteler statik olarak yayınlanır ve alan adınız CNAME kaydıyla bağlanır; https sertifikası otomatik gelir.</div></div></div>
+    </div>
+  </div>
+</section>
+
+
+
+<script>
+  function b0004FaqToggle(btn) {
+    var item = btn.parentElement;
+    var isOpen = item.classList.contains("b0004-faq-open");
+    var list = item.parentElement.children;
+    var i;
+    for (i = 0; i < list.length; i++) {
+      list[i].classList.remove("b0004-faq-open");
+      var otherBtn = list[i].querySelector(".b0004-faq-question");
+      if (otherBtn) {
+        otherBtn.setAttribute("aria-expanded", "false");
+      }
+    }
+    if (!isOpen) {
+      item.classList.add("b0004-faq-open");
+      btn.setAttribute("aria-expanded", "true");
+    }
+  }
+</script>
+<section class="b0005-cta">
+  <div class="b0005-cta-container">
+    <div class="b0005-cta-content">
+      <h2 class="b0005-cta-title">Sektörünüze uygun temayı seçin</h2>
+      <p class="b0005-cta-desc">Canlı demoları gezin, beğendiğinizi isteyin; kalanını biz hallederiz.</p>
+    </div>
+    <div class="b0005-cta-actions">
+      <a href="/tr/temalar/" class="b0005-cta-btn b0005-cta-btn-primary">
+        <span>Temaları gör</span>
         <span class="material-symbols-outlined" aria-hidden="true">arrow_forward</span>
       </a>
-      <a href="hizmetlerimiz" class="b0003-cta-btn b0003-cta-btn-secondary">
-        <span>Hizmetler</span>
+      <a href="/tr/iletisim/" class="b0005-cta-btn b0005-cta-btn-secondary">
+        <span>Teklif al</span>
       </a>
     </div>
   </div>
@@ -472,144 +624,30 @@
 
 </div>
   <div id="footer"><footer class="footer">
-    <div class="waves">
-      <div class="wave" id="wave1"></div>
-      <div class="wave" id="wave2"></div>
-      <div class="wave" id="wave3"></div>
-      <div class="wave" id="wave4"></div>
+  <div class="footer-top">
+    <div class="footer-logo">
+      <img src="/img/logo.png" height="60"   alt="Webyapar Logo"  loading="lazy"/>
     </div>
-    <ul class="social-icon">
-  
-  
-  
-      
-      
-  
-   
-  
-  
-      <li class="social-icon__item">
-        <a class="social-icon__link" href="#">
-          <ion-icon name="logo-facebook"></ion-icon>
-        </a>
-      </li>
-      <li class="social-icon__item">
-        <a class="social-icon__link" href="#">
-          <ion-icon name="logo-x"></ion-icon>
-        </a>
-      </li>
-      <li class="social-icon__item">
-        <a class="social-icon__link" href="#">
-          <ion-icon name="logo-linkedin"></ion-icon>
-        </a>
-      </li>
-      <li class="social-icon__item">
-        <a class="social-icon__link" href="#">
-          <ion-icon name="logo-instagram"></ion-icon>
-        </a>
-      </li>
-    </ul>
     <ul class="menu">
-      <li class="menu__item"><a class="menu__link" href="/tr/">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/hakkimizda/">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/hizmetlerimiz/">Hizmetlerimiz</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim/">İletişim</a></li>
+      <li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/">Anasayfa</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/temalar/">Temalar</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/sektorler/">Sektörler</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/hizmetler/">Hizmetler</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/fiyatlar/">Fiyatlar</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/iletisim/">İletişim</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/saas-web-sitesi/">SaaS web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/elektronik-eticaret-sitesi/">Elektronik e-ticaret sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/moda-eticaret-sitesi/">Moda e-ticaret sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/haber-rehber-web-sitesi/">Haber ve şehir rehberi web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/dernek-web-sitesi/">Dernek web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/radyo-web-sitesi/">Radyo web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/is-makinesi-web-sitesi/">İş makinesi kiralama web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/arac-kiralama-web-sitesi/">Araç kiralama web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/oto-yedek-parca-web-sitesi/">Oto yedek parça web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/dis-ticaret-web-sitesi/">Dış ticaret web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/enerji-web-sitesi/">Enerji ve GES web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/lojistik-web-sitesi/">Lojistik web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/cicekci-web-sitesi/">Çiçekçi web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/spor-salonu-web-sitesi/">Spor salonu web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/okul-web-sitesi/">Okul web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/ajans-web-sitesi/">Ajans web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/oto-galeri-web-sitesi/">Oto galeri web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/otel-web-sitesi/">Otel web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/hukuk-burosu-web-sitesi/">Hukuk bürosu web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/portfolyo-web-sitesi/">Fotoğrafçı portfolyo web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/guzellik-merkezi-web-sitesi/">Güzellik merkezi web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/insaat-web-sitesi/">İnşaat web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/gida-eticaret-sitesi/">Gıda e-ticaret sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/kuyumcu-eticaret-sitesi/">Kuyumcu e-ticaret sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/dekorasyon-eticaret-sitesi/">Dekorasyon e-ticaret sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/sanayi-web-sitesi/">Sanayi web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/emlak-web-sitesi/">Emlak web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/klinik-web-sitesi/">Klinik web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/restoran-web-sitesi/">Restoran web sitesi</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/tr/demo/">Canlı demo</a></li>
     </ul>
-    <p>Webyapar 2026 cognite. &copy;</p>
-  </footer>
-  <div class="wa-advanced" id="f0001WaAdvanced">
-  <div class="f0001-wa-advanced-button" onclick="toggleModulexAdvanced()">
-    <div class="f0001-wa-advanced-icon">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-        <path
-          d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"
-          fill-rule="evenodd"
-        ></path>
-      </svg>
-    </div>
-    <div class="f0001-wa-advanced-pulse"></div>
   </div>
-
-  <div class="f0001-wa-advanced-panel" id="f0001WaPanel">
-    <div class="f0001-wa-advanced-header">
-      <div class="f0001-wa-advanced-avatar">
-        <img src="/img/wpWa01/logo.svg?v=t2twv" alt="Destek temsilcisi"  loading="lazy"/>
-        <div class="f0001-wa-advanced-status online"></div>
-      </div>
-      <div class="f0001-wa-advanced-info">
-        <h4>Webyapar Destek</h4>
-        <p>Çevrimiçi</p>
-      </div>
-      <button
-        class="f0001-wa-advanced-close"
-        onclick="closeModulexAdvanced()"
-      >
-        ×
-      </button>
-    </div>
-
-    <div class="f0001-wa-advanced-body">
-      <div class="f0001-wa-advanced-message">
-        <p>Merhaba! Webyapar dijital hizmetleri hakkında nasıl yardımcı olabilirim?</p>
-        <span class="f0001-wa-advanced-time">Şimdi</span>
-      </div>
-    </div>
-
-    <div class="f0001-wa-advanced-footer">
-      <a
-        href="https://wa.me/905316791014"
-        target="_blank"
-        class="f0001-wa-advanced-chat-btn"
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 32 32"
-          width="20"
-          height="20"
-        >
-          <path
-            d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"
-            fill-rule="evenodd"
-            fill="#fff"
-          ></path>
-        </svg>
-        WhatsApp ile Yaz
-      </a>
-    </div>
+  <div class="footer-bottom">
+    <nav class="wm-langbar" aria-label="Dil Seçici"><ul><li class="wm-lang-item wm-lang-active"><a href="/tr/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/" hreflang="ar" lang="ar">AR</a></li></ul></nav>
+    <p>&copy; Webyapar 2026. Tüm hakları saklıdır.</p>
   </div>
+</footer>
+
 </div>
 
-
-
-<script>
-  function toggleModulexAdvanced() {
-    const panel = document.getElementById("f0001WaPanel");
-    panel.style.display = panel.style.display === "block" ? "none" : "block";
-  }
-
-  function closeModulexAdvanced() {
-    document.getElementById("f0001WaPanel").style.display = "none";
-  }
-</script>
-</div>
-
-  
+  <script>(function(){try{var s=new URLSearchParams(location.search).get("tema");var N={"restoran":"Kervan Sofrası","klinik":"Berrak Tıp Merkezi","emlak":"Anka Gayrimenkul","sanayi":"Orvak Makina","dekor":"Meşe Ev","kuyumcu":"Zümra Kuyum","gida":"Yeşil Kervan","insaat":"Kalesu Yapı","guzellik":"Sedef Studio","portfolyo":"Deniz Altan","hukuk":"Kaya Hukuk Bürosu","otel":"Zeytinlik Butik Otel","otogaleri":"Anadolu Oto Galeri","ajans":"Pusula Ajans","egitim":"Bilgi Fidanı Okulları","spor":"Ritim Spor Merkezi","cicekci":"Gül Dalı Çiçekçilik","lojistik":"Anadolu Hat Lojistik","enerji":"Güneşhat Enerji","disticaret":"Pazar Köprüsü","yedekparca":"Dişli Oto Yedek Parça","arackiralama":"Yol Arkadaşı Rent a Car","ismakinesi":"Sarıkazan İş Makineleri","radyo":"Dalga FM","stk":"Yeşil Umut Derneği","haber":"Şehir Gündemi","moda":"Lâl Moda","elektronik":"Voltaj Elektronik","saas":"Akışpano"};if(!s||!N[s])return;var d=(document.documentElement.lang||"tr").slice(0,2);var M={tr:"Merhaba, “"+N[s]+"” temasını istiyorum.",en:"Hello, I would like the “"+N[s]+"” theme.",ar:"مرحبًا، أودّ الحصول على قالب «"+N[s]+"»."};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^="https://wa.me/"]');for(var i=0;i<a.length;i++){a[i].href="https://wa.me/905316791014?text="+t;}}catch(e){}})();</script>
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=qylff"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=qylff"></script>
-  <script defer src="/src/cookie.js?v=qylff"></script>
+  <script defer src="/src/mx-ui.js?v=h5jmd"></script>
+  <script defer src="/src/mx-store.js?v=h5jmd"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=h5jmd"></script>
+  <script defer src="/src/cookie.js?v=h5jmd"></script>
 
-  <script>
-    setTimeout(function() {
-      var currentPath = window.location.pathname;
-      var rtlLanguages = ['ar', 'he', 'fa'];
-      var langMatch = currentPath.match(/^\/([a-z]{2})\//);
-      var currentLang = langMatch ? langMatch[1] : '';
-      if (rtlLanguages.indexOf(currentLang) !== -1) {
-        document.documentElement.setAttribute('dir', 'rtl');
-      } else {
-        document.documentElement.setAttribute('dir', 'ltr');
-      }
-    }, 100);
-  </script>
 </body>
 
 </html>
