@@ -129,8 +129,8 @@
   
   .h0000menulist {
     display: block;
-    background-color: var(--mx-site-text, #1b1b1b);
-    color: #fff;
+    background-color: var(--mx-site-primary, #CC1F1B);
+    color: var(--mx-site-primary-contrast, #ffffff);
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -138,7 +138,7 @@
 
   .h0000menubody {
     width: 100%;
-    background-color: var(--mx-site-text, #1b1b1b);
+    background-color: var(--mx-site-primary, #CC1F1B);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -157,7 +157,7 @@
   .h0000menulist ul a {
     padding: 8px;
     font-size: 16px;
-    color: #fff;
+    color: var(--mx-site-primary-contrast, #ffffff);
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -173,16 +173,16 @@
   }
 
   .h0000menulist ul a:hover {
-    background-color: rgba(255,255,255,.18);
+    background-color: color-mix(in srgb, var(--mx-site-primary-contrast, #fff) 12%, transparent);
     border-radius: 5px;
-    color: #fff;
+    color: var(--mx-site-primary-contrast, #ffffff);
     cursor: pointer;
   }
 
   .h0000menuitem {
     padding: 8px;
     font-size: 16px;
-    color: #fff;
+    color: var(--mx-site-primary-contrast, #ffffff);
     width: 100%;
     text-align: center;
     text-decoration: none;
@@ -191,9 +191,9 @@
   }
 
   .h0000menuactive {
-    background-color: rgba(255,255,255,.18) !important;
+    background-color: color-mix(in srgb, var(--mx-site-primary-contrast, #fff) 12%, transparent) !important;
     border-radius: 5px;
-    color: #fff !important;
+    color: var(--mx-site-primary-contrast, #ffffff) !important;
     font-weight: bold;
   }
 
@@ -277,14 +277,14 @@
       display: flex;
       align-items: center;
       justify-content: end;
-      background-color: var(--mx-site-text, #1b1b1b);
-      color: #fff;
+      background-color: var(--mx-site-primary, #CC1F1B);
+      color: var(--mx-site-primary-contrast, #ffffff);
       width: 100%;
     }
 
     .h0000menumobil span {
       font-size: 32px;
-      color: #fff;
+      color: var(--mx-site-primary-contrast, #ffffff);
       padding: 5px;
     }
 
@@ -316,7 +316,7 @@
       width: 80%;
       max-width: 320px;
       height: 100%;
-      background-color: var(--mx-site-text, #1b1b1b);
+      background-color: var(--mx-site-primary, #CC1F1B);
       padding: 0;
       border-radius: 0;
       box-shadow: -2px 0 10px rgba(0, 0, 0, 0.3);
@@ -340,13 +340,13 @@
       background-color: transparent;
       border: none;
       cursor: pointer;
-      color: #fff;
+      color: var(--mx-site-primary-contrast, #ffffff);
       font-size: 28px;
     }
 
     .h0000menuclose span {
       font-size: 28px;
-      color: #fff;
+      color: var(--mx-site-primary-contrast, #ffffff);
     }
 
     .h0000menuclose:focus {
@@ -397,7 +397,7 @@
       justify-content: center;
       width: 35px;
       height: 35px;
-      color: #fff;
+      color: var(--mx-site-primary-contrast, #ffffff);
       text-decoration: none;
       font-size: 14px;
       font-weight: 500;
@@ -412,7 +412,7 @@
     }
 
     .h0000menulang ul a:hover {
-      background-color: rgba(255,255,255,.18);
+      background-color: color-mix(in srgb, var(--mx-site-primary-contrast, #fff) 12%, transparent);
       border-color: color-mix(in srgb, currentColor 50%, transparent);
     }
 
@@ -422,7 +422,7 @@
     }
 
     .h0000menulang ul a[aria-current="true"] {
-      background-color: rgba(255,255,255,.18);
+      background-color: color-mix(in srgb, var(--mx-site-primary-contrast, #fff) 12%, transparent);
       border-color: currentColor;
       font-weight: bold;
     }
@@ -620,7 +620,7 @@
     gap: 6px;
     min-height: 44px;
     padding-inline: 16px;
-    border: 1.5px solid color-mix(in srgb, var(--tg-text) 28%, transparent);
+    border: 1.5px solid color-mix(in srgb, var(--tg-text) 52%, transparent); 
     border-radius: 999px;
     background: var(--tg-bg);
     color: var(--tg-text);
@@ -1066,139 +1066,204 @@
   }
 
 
-  .footer {
-    background-color: var(--mx-site-surface-2, #ececea);
-    color: var(--mx-site-text, #1b1b1b) !important;
-    padding: 20px;
-    border-top: 5px solid color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent);
+  
+  .f0000-f9 {
+    width: 100%;
+    background: var(--mx-site-surface-2, #1f2937);
+    color: var(--mx-site-text, #f3f4f6);
+    border-top: 4px solid var(--mx-site-primary, #CC1F1B);
+    padding-block: 48px 20px;
+    padding-inline: 20px;
+    box-sizing: border-box;
   }
 
-  .footer-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
+  .f0000-f9__main {
+    display: grid;
+    
+    grid-template-columns: 1.6fr 1fr 1fr 1fr;
+    gap: 40px;
     max-width: 1200px;
-    margin: 0 auto;
+    margin-inline: auto;
+  }
+  .f0000-f9__main--c3 { grid-template-columns: 1.6fr 1fr 1fr; }
+  .f0000-f9__main--c2 { grid-template-columns: 1.6fr 1fr; }
+
+  .f0000-f9__col {
+    min-width: 0;
   }
 
-  .footer-logo {
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
+  .f0000-f9__title {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 0 0 14px;
+    color: var(--mx-site-text, #f3f4f6);
+    letter-spacing: 0.02em;
   }
 
   
-  .footer-logo img {
+  .f0000-f9__logo {
+    display: inline-flex;
+    align-items: center;
+    max-width: 100%;
+    margin-bottom: 14px;
+    text-decoration: none;
+  }
+
+  .f0000-f9__logo img {
     display: block;
     height: auto;
     width: auto;
-    max-height: 60px;
-    max-width: 180px;
+    max-height: 56px;
+    max-width: 220px;
     object-fit: contain;
     flex-shrink: 0;
   }
 
   
-  .footer-logo.footer-logo--plate {
+  .f0000-f9__logo--plate {
     background: #fff;
     border-radius: 8px;
     padding: 6px 12px;
   }
 
-  .menu {
-    display: flex;
-    flex-wrap: wrap; 
-    justify-content: center;
-    list-style: none;
-    padding: 0;
+  .f0000-f9__about {
     margin: 0;
-  }
-
-  .f0000-menu__item {
-    margin: 0 15px;
-  }
-
-  .f0000-menu_link {
-    color: var(--mx-site-text, #1b1b1b) !important;
-  }
-
-  .f0000-menu_link:hover {
-    color: var(--mx-site-primary, #2980b9);
-    text-decoration: underline;
-  }
-
-  .f0000-menu__link {
-    color: var(--mx-site-text, #ecf0f1);
-    text-decoration: none;
-    transition: color 0.3s ease;
-  }
-
-  
-  .footer-contact {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 6px 10px;
-    max-width: 1200px;
-    margin: 16px auto 0;
     font-size: 14px;
-    opacity: 0.9;
+    line-height: 1.7;
+    color: color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent);
+    max-width: 36ch;
   }
 
-  .footer-contact a {
-    color: var(--mx-site-text, #1b1b1b);
-    text-decoration: none;
-  }
-
-  .footer-contact a:hover {
-    text-decoration: underline;
-  }
-
-  .footer-contact .footer-contact__sep {
-    opacity: 0.6;
-  }
-
-  .footer-bottom {
-    text-align: center;
-    margin-top: 20px;
-    border-top: 1px solid #7f8c8d;
-    border-top-color: color-mix(in srgb, var(--mx-site-text, #7f8c8d) 35%, transparent);
-    padding-top: 20px;
+  .f0000-f9__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 12px; 
+    gap: 8px;
   }
 
-  .footer-bottom [class*="lang"] {
+  .f0000-f9__list li {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    font-size: 14px;
+    line-height: 1.5;
+    color: color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent);
+  }
+
+  .f0000-f9__list .material-symbols-outlined {
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--mx-site-primary, #CC1F1B);
+    flex-shrink: 0;
+  }
+
+  .f0000-f9 a.f0000-f9__link:link,
+  .f0000-f9 a.f0000-f9__link:visited {
+    color: color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .f0000-f9 a.f0000-f9__link:hover,
+  .f0000-f9 a.f0000-f9__link:focus-visible {
+    color: var(--mx-site-text, #f3f4f6);
+    text-decoration: underline;
+    outline-color: currentColor;
+  }
+
+  .f0000-f9__social {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    gap: 6px;
+    gap: 8px;
   }
 
-  .footer-bottom p {
+  .f0000-f9 a.f0000-f9__chip:link,
+  .f0000-f9 a.f0000-f9__chip:visited {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 13px;
+    color: var(--mx-site-text, #f3f4f6);
+    text-decoration: none;
+    border: 1px solid color-mix(in srgb, var(--mx-site-text, #f3f4f6) 18%, transparent);
+    background: color-mix(in srgb, currentColor 6%, transparent);
+    transition: background-color 0.2s ease;
+  }
+
+  .f0000-f9 a.f0000-f9__chip:hover,
+  .f0000-f9 a.f0000-f9__chip:focus-visible {
+    background: color-mix(in srgb, var(--mx-site-primary, #CC1F1B) 18%, transparent);
+    color: var(--mx-site-text, #f3f4f6);
+    outline-color: currentColor;
+  }
+
+  .f0000-f9__bottom {
+    max-width: 1200px;
+    margin: 36px auto 0;
+    padding-top: 18px;
+    border-top: 1px solid color-mix(in srgb, var(--mx-site-text, #f3f4f6) 18%, transparent);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px 20px; 
+    font-size: 13px;
+  }
+
+  .f0000-f9__rights {
     margin: 0;
-    opacity: 0.75;
+    color: color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent);
+  }
+
+  .f0000-f9__legal {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 16px;
+  }
+
+  .f0000-f9__bottom .wm-langbar ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  @media (max-width: 1024px) {
+    .f0000-f9__main {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
   }
 
   @media (max-width: 768px) {
-    .footer-top {
+    .f0000-f9 {
+      padding-block: 36px 16px;
+    }
+
+    .f0000-f9__main {
+      gap: 28px;
+    }
+
+    .f0000-f9__bottom {
       flex-direction: column;
+      align-items: center;
       text-align: center;
-    }
-
-    .menu {
-      margin-top: 20px;
-    }
-
-    .f0000-menu__item {
-      margin: 6px 10px;
-    }
-
-    .footer-bottom {
       gap: 14px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .f0000-f9__main {
+      grid-template-columns: minmax(0, 1fr);
     }
   }
 

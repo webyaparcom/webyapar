@@ -43,13 +43,13 @@
       "category": "menu",
       "id": "k9mn01",
       "desing": {
+        "menubg": "var(--mx-site-primary, #CC1F1B)",
+        "menutext": "var(--mx-site-primary-contrast, #ffffff)",
+        "menuhoverbg": "color-mix(in srgb, var(--mx-site-primary-contrast, #fff) 12%, transparent)",
         "logo": "logo.png",
         "color": "var(--mx-site-text, #1b1b1b)",
         "height": "84px",
-        "background-color": "var(--mx-site-bg, #ffffff)",
-        "menubg": "",
-        "menutext": "#fff",
-        "menuhoverbg": "rgba(255,255,255,.18)"
+        "background-color": "var(--mx-site-bg, #ffffff)"
       },
       "version": "1.0.0",
       "icon": "menu",
@@ -4180,7 +4180,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -4948,7 +4949,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -5717,7 +5719,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -6486,7 +6489,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -7256,7 +7260,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -8026,7 +8031,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -8796,7 +8802,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -9564,7 +9571,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -10332,7 +10340,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -11100,7 +11109,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -13757,7 +13767,8 @@
           "en": "Short answers about themes and publishing.",
           "ar": "إجابات موجزة عن القوالب والنشر."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -13975,7 +13986,8 @@
           "en": "Quotes prepared by scope; a price list will appear here once published.",
           "ar": "عروض أسعار تُعدّ حسب النطاق، وستظهر قائمة الأسعار هنا عند نشرها."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -14108,7 +14120,8 @@
           "en": "The quote process.",
           "ar": "مسار عرض السعر."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -14904,7 +14917,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -15672,7 +15686,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -16441,7 +16456,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -17196,7 +17212,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -17964,7 +17981,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -18732,7 +18750,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -19487,7 +19506,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -20242,7 +20262,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -20997,7 +21018,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -21765,7 +21787,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -22520,7 +22543,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -23289,7 +23313,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -24044,7 +24069,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -24812,7 +24838,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -25580,7 +25607,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -26335,7 +26363,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -27077,7 +27106,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -27819,7 +27849,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -28587,7 +28618,8 @@
           "en": "A legal note and frequently asked questions.",
           "ar": "ملاحظة قانونية وأسئلة شائعة."
         },
-        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)"
+        "linecolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 18%, transparent)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "data": [
         {
@@ -28639,18 +28671,18 @@
     {
       "name": "Page Desing 5",
       "desing": {
-        "backgroundcolor": "var(--mx-site-primary, #CC1F1B)",
-        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "coloractive": "var(--mx-site-primary-contrast, #ffffff)",
         "menu-active": "var(--mx-site-primary, #CC1F1B)",
-        "bgcolor": "var(--mx-site-surface, #ffffff)",
-        "color": "var(--mx-site-text, #1b1b1b)",
-        "colortitle": "var(--mx-site-text, #1b1b1b)",
-        "coloractive": "var(--mx-site-primary, #CC1F1B)",
         "height": "200",
         "opacity": "0.5",
         "font-size": "32",
+        "backgroundcolor": "var(--mx-site-primary, #CC1F1B)",
+        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-surface, #ffffff)",
         "border_radius": "8px",
         "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "var(--mx-site-text, #1b1b1b)",
+        "colortitle": "var(--mx-site-text, #1b1b1b)",
         "ui": {
           "tr": {
             "home": "Anasayfa",
@@ -28692,7 +28724,8 @@
           "tr": "Ürün navigasyonu",
           "en": "Product navigation",
           "ar": "تنقل المنتج"
-        }
+        },
+        "activetext": "var(--mx-site-primary-contrast, #ffffff)"
       },
       "category": "page",
       "description": "Sayfa basligi, yan menu ve icerik alani. Urun detayinda breadcrumb, olcu kartlari, teklif/WhatsApp CTA, onceki/sonraki urun navigasyonu. Kategori menusu ve responsive slide-in menu.",
@@ -28703,6 +28736,93 @@
       "local": "body",
       "data": [],
       "index": 141
+    },
+    {
+      "name": "Footer 9 — Kurumsal",
+      "desing": {
+        "showlang": true,
+        "bgcolor": "var(--mx-site-surface-2, #1f2937)",
+        "color": "var(--mx-site-text, #f3f4f6)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #f3f4f6) 72%, transparent)",
+        "accent": "var(--mx-site-primary, #CC1F1B)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #f3f4f6) 18%, transparent)",
+        "logo_maxh": "56px",
+        "logo_plate": true,
+        "about": {
+          "ar": "منذ عام 2014 في غازي عنتاب: مواقع إلكترونية مؤسسية وتطبيقات للهاتف المحمول وبنية تجارة إلكترونية — سريعة وآمنة وقابلة للقياس.",
+          "en": "Since 2014 in Gaziantep: corporate websites, mobile apps and e-commerce infrastructure — fast, secure, measurable.",
+          "tr": "2014'ten beri Gaziantep'te kurumsal web sitesi, mobil uygulama ve e-ticaret altyapısı — hızlı, güvenli, ölçülebilir."
+        },
+        "title_pages": {
+          "tr": "Sayfalar",
+          "en": "Pages",
+          "ar": "الصفحات"
+        },
+        "title_contact": {
+          "tr": "İletişim",
+          "en": "Contact",
+          "ar": "اتصل بنا"
+        },
+        "title_social": {
+          "tr": "Bizi Takip Edin",
+          "en": "Follow Us",
+          "ar": "تابعنا"
+        },
+        "address": "Gaziantep, Türkiye",
+        "phone": "0531 679 10 14",
+        "email": "info@webyapar.com",
+        "social": [
+          {
+            "ad": "Instagram",
+            "url": "https://www.instagram.com/webyapar"
+          },
+          {
+            "ad": "LinkedIn",
+            "url": "https://www.linkedin.com/company/webyapar"
+          }
+        ],
+        "legal": [
+          {
+            "href": "gizlilikpolitikasi",
+            "text": {
+              "ar": "سياسة الخصوصية",
+              "en": "Privacy Policy",
+              "tr": "Gizlilik Politikası"
+            }
+          },
+          {
+            "href": "kisiselveriler",
+            "text": {
+              "ar": "البيانات الشخصية",
+              "en": "Personal Data",
+              "tr": "Kişisel Veriler"
+            }
+          },
+          {
+            "href": "yasaluyari",
+            "text": {
+              "ar": "إشعار قانوني",
+              "en": "Legal Notice",
+              "tr": "Yasal Uyarı"
+            }
+          }
+        ],
+        "rightsText": {
+          "tr": "Tüm hakları saklıdır.",
+          "en": "All rights reserved.",
+          "ar": "جميع الحقوق محفوظة."
+        },
+        "maxpages": 7
+      },
+      "category": "footer",
+      "data": [],
+      "description": "Kurumsal alt bilgi (footer): 4 sütun — marka (logo + kısa metin), sayfalar, iletişim (address/phone/email; boşsa setting.phone/email, hiçbiri yoksa sütun gizli), sosyal (social: [{ad,url}]; boşsa gizli). Alt şerit: telif (yıl otomatik), yasal bağlantılar (legal: [{text,href}], dil önekli), dil seçici. Renkler yalnız desing anahtarı + var(--mx-site-*, fallback): token'sız sitede fallback, colorScheme:auto sitede koyu mod uyumlu. logo_maxh / logo_plate footer-3 ile aynı.",
+      "version": "1.0.0",
+      "icon": "footer",
+      "id": "cj4bi4",
+      "path": "footer-9",
+      "local": "footer",
+      "index": 142
     }
   ]
 }
