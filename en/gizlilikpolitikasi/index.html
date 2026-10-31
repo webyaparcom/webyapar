@@ -38,20 +38,20 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/fonts/poppins.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/rubik.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/css.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=d2nqr" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/fonts/poppins.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/rubik.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/css.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=fmor2" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=d2nqr" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=fmor2" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=d2nqr" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=fmor2" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=d2nqr" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=d2nqr" />
-  <link rel="shortcut icon" href="/img/icon.png?v=d2nqr" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=fmor2" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=fmor2" />
+  <link rel="shortcut icon" href="/img/icon.png?v=fmor2" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -132,7 +132,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=d2nqr">
+<link rel="stylesheet" href="style.css?v=fmor2">
 </head>
 
 <body>
@@ -167,7 +167,7 @@
   <div class="h0000Children">
     <div class="h0000body">
       <a href="/en/" aria-label="Home - Webyapar" title="Home - Webyapar">
-        <img src="/img/logo.png?v=k19l1" class="h0000bodylogo" alt="Webyapar Logo" loading="lazy" />
+        <img src="/img/logo.png?v=zle4o" class="h0000bodylogo" alt="Webyapar Logo" loading="lazy" />
       </a>
     </div>
     <button class="h0000menumobil" type="button" aria-label="Toggle Menu" aria-expanded="false" aria-controls="h0000menulist">
@@ -260,7 +260,161 @@
   }, 100);
 </script>
 </div>
-  <div id="content"></div>
+  <div id="content"><div class="b0000-title f36">
+  <h1>Privacy Policy</h1>
+</div>
+<div class="b0000">
+  <button
+    type="button"
+    class="b0000-menu-btn"
+    aria-expanded="false"
+    aria-controls="b0000-menu"
+  >
+    <span class="b0000-menu-btn-label">Menu</span>
+    <span class="material-symbols-outlined b0000-icon" aria-hidden="true">menu</span>
+  </button>
+  <div class="b0000-menu-overlay" id="b0000-menu-overlay" aria-hidden="true"></div>
+  <nav class="b0000-menu" id="b0000-menu" aria-label="Menu">
+    <button class="b0000-menu-close" type="button" aria-label="Close Menu" aria-controls="b0000-menu">
+      <span class="material-symbols-outlined" aria-hidden="true">close</span>
+    </button>
+    <a class="b0000-menu-link" href="/en/misyon/">Mission</a><a class="b0000-menu-link" href="/en/vizyon/">Vision</a><a class="b0000-menu-link" href="/en/kalitepolitikamiz/">Quality Policy</a><a class="b0000-menu-link active" href="/en/gizlilikpolitikasi/">Privacy Policy</a><a class="b0000-menu-link" href="/en/kisiselveriler/">Personal Data</a><a class="b0000-menu-link" href="/en/kullanicahaklari/">User Rights</a><a class="b0000-menu-link" href="/en/yasaluyari/">Legal Notice</a>
+  </nav>
+  <div class="b0000-main">
+    
+    
+    <div class="b0000-body"><h2>Privacy Policy</h2><p>Webyapar (webyapar.com) processes only the technical data a visitor needs for the site to work. Analytics and marketing cookies are off by default; you can change your choices from the cookie banner.</p><p>When you write to us by WhatsApp or e-mail, the details you send are used only to answer your request and are not shared with third parties.</p><p>Questions: info@webyapar.com</p></div>
+    
+  </div>
+</div>
+
+<script>
+  setTimeout(function() {
+    var menuToggleBtn = document.querySelector(".b0000-menu-btn");
+    var menu = document.querySelector(".b0000-menu");
+    var overlay = document.querySelector(".b0000-menu-overlay");
+    var closeButton = document.querySelector(".b0000-menu-close");
+
+    if (!menuToggleBtn || !menu) {
+      return;
+    }
+
+    var mql = window.matchMedia("(max-width: 1024px)");
+
+    function openMenu() {
+      menu.classList.add("active");
+      if (overlay) {
+        overlay.classList.add("active");
+        overlay.setAttribute("aria-hidden", "false");
+      }
+      document.body.style.overflow = "hidden";
+    }
+
+    function closeMenu() {
+      menu.classList.remove("active");
+      if (overlay) {
+        overlay.classList.remove("active");
+        overlay.setAttribute("aria-hidden", "true");
+      }
+      document.body.style.overflow = "";
+      if (menuToggleBtn) {
+        menuToggleBtn.focus();
+      }
+    }
+
+    menuToggleBtn.addEventListener("click", function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (menu.classList.contains("active")) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    });
+
+    if (closeButton) {
+      closeButton.addEventListener("click", function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        closeMenu();
+      });
+    }
+
+    if (overlay) {
+      overlay.addEventListener("click", function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        closeMenu();
+      });
+    }
+
+    menu.addEventListener("click", function(event) {
+      var link = event.target.closest("a");
+      var closeBtn = event.target.closest(".b0000-menu-close");
+      if (link && !closeBtn) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener("keydown", function(e) {
+      if (e.key === "Escape" && menu.classList.contains("active")) {
+        closeMenu();
+      }
+    });
+
+    menuToggleBtn.addEventListener("keydown", function(e) {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        if (menu.classList.contains("active")) {
+          closeMenu();
+        } else {
+          openMenu();
+        }
+      }
+    });
+
+    function handleBreakpoint() {
+      if (!mql.matches) {
+        menu.classList.remove("active");
+        if (overlay) {
+          overlay.classList.remove("active");
+          overlay.setAttribute("aria-hidden", "true");
+        }
+        document.body.style.overflow = "";
+      }
+    }
+
+    if (typeof mql.addEventListener === "function") {
+      mql.addEventListener("change", handleBreakpoint);
+    } else if (typeof mql.addListener === "function") {
+      mql.addListener(handleBreakpoint);
+    }
+    handleBreakpoint();
+
+    var topButtons = document.querySelectorAll(".b0000-top");
+    var bi;
+    for (bi = 0; bi < topButtons.length; bi++) {
+      topButtons[bi].addEventListener("click", function(e) {
+        e.stopPropagation();
+        var group = this.closest(".b0000-menu-group");
+        if (!group) {
+          return;
+        }
+        var sub = group.querySelector(".b0000-sub");
+        var isOpen = group.classList.toggle("open");
+        this.classList.toggle("active", isOpen);
+        var icon = this.querySelector(".b0000-icon");
+        if (icon) {
+          icon.textContent = isOpen ? "expand_less" : "expand_more";
+        }
+        if (sub) {
+          sub.classList.toggle("show", isOpen);
+        }
+      });
+    }
+  }, 100);
+</script>
+</div>
   <div id="footer"><footer class="footer">
   <div class="footer-top">
     <div class="footer-logo">
@@ -270,6 +424,7 @@
       <li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/">Home</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/temalar/">Themes</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/sektorler/">Industries</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/hizmetler/">Services</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/fiyatlar/">Pricing</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/iletisim/">Contact</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/saas-web-sitesi/">SaaS website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/elektronik-eticaret-sitesi/">Electronics e-commerce site</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/moda-eticaret-sitesi/">Fashion e-commerce site</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/haber-rehber-web-sitesi/">News and city-guide website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/dernek-web-sitesi/">Association website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/radyo-web-sitesi/">Radio website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/is-makinesi-web-sitesi/">Construction-machinery hire website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/arac-kiralama-web-sitesi/">Car-rental website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/oto-yedek-parca-web-sitesi/">Auto parts website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/dis-ticaret-web-sitesi/">Foreign-trade website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/enerji-web-sitesi/">Energy and solar website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/lojistik-web-sitesi/">Logistics website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/cicekci-web-sitesi/">Florist website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/spor-salonu-web-sitesi/">Gym website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/okul-web-sitesi/">School website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/ajans-web-sitesi/">Agency website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/oto-galeri-web-sitesi/">Car dealership website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/otel-web-sitesi/">Hotel website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/hukuk-burosu-web-sitesi/">Law firm website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/portfolyo-web-sitesi/">Photographer portfolio website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/guzellik-merkezi-web-sitesi/">Beauty salon website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/insaat-web-sitesi/">Construction website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/gida-eticaret-sitesi/">Food online store</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/kuyumcu-eticaret-sitesi/">Jewelry online store</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/dekorasyon-eticaret-sitesi/">Interior decor online store</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/sanayi-web-sitesi/">Industrial website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/emlak-web-sitesi/">Real estate website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/klinik-web-sitesi/">Clinic website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/restoran-web-sitesi/">Restaurant website</a></li><li class="f0000-menu__item"><a class="f0000-menu_link" href="/en/demo/">Live demo</a></li>
     </ul>
   </div>
+  <div class="footer-contact"><a href="tel:05316791014" dir="ltr">0531 679 10 14</a><span class="footer-contact__sep" aria-hidden="true">&middot;</span><a href="mailto:info@webyapar.com">info@webyapar.com</a></div>
   <div class="footer-bottom">
     <nav class="wm-langbar" aria-label="Language Selector"><ul><li class="wm-lang-item"><a href="/tr/gizlilikpolitikasi/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item wm-lang-active"><a href="/en/gizlilikpolitikasi/" hreflang="en" lang="en" aria-current="true">EN</a></li><li class="wm-lang-item"><a href="/ar/gizlilikpolitikasi/" hreflang="ar" lang="ar">AR</a></li></ul></nav>
     <p>&copy; Webyapar 2026. All rights reserved.</p>
@@ -281,10 +436,10 @@
   <script>(function(){try{var s=new URLSearchParams(location.search).get("tema");var N={"restoran":"Kervan Sofrası","klinik":"Berrak Tıp Merkezi","emlak":"Anka Gayrimenkul","sanayi":"Orvak Makina","dekor":"Meşe Ev","kuyumcu":"Zümra Kuyum","gida":"Yeşil Kervan","insaat":"Kalesu Yapı","guzellik":"Sedef Studio","portfolyo":"Deniz Altan","hukuk":"Kaya Hukuk Bürosu","otel":"Zeytinlik Butik Otel","otogaleri":"Anadolu Oto Galeri","ajans":"Pusula Ajans","egitim":"Bilgi Fidanı Okulları","spor":"Ritim Spor Merkezi","cicekci":"Gül Dalı Çiçekçilik","lojistik":"Anadolu Hat Lojistik","enerji":"Güneşhat Enerji","disticaret":"Pazar Köprüsü","yedekparca":"Dişli Oto Yedek Parça","arackiralama":"Yol Arkadaşı Rent a Car","ismakinesi":"Sarıkazan İş Makineleri","radyo":"Dalga FM","stk":"Yeşil Umut Derneği","haber":"Şehir Gündemi","moda":"Lâl Moda","elektronik":"Voltaj Elektronik","saas":"Akışpano"};if(!s||!N[s])return;var d=(document.documentElement.lang||"tr").slice(0,2);var M={tr:"Merhaba, “"+N[s]+"” temasını istiyorum.",en:"Hello, I would like the “"+N[s]+"” theme.",ar:"مرحبًا، أودّ الحصول على قالب «"+N[s]+"»."};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^="https://wa.me/"]');for(var i=0;i<a.length;i++){a[i].href="https://wa.me/905316791014?text="+t;}}catch(e){}})();</script>
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=d2nqr"></script>
-  <script defer src="/src/mx-store.js?v=d2nqr"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=d2nqr"></script>
-  <script defer src="/src/cookie.js?v=d2nqr"></script>
+  <script defer src="/src/mx-ui.js?v=fmor2"></script>
+  <script defer src="/src/mx-store.js?v=fmor2"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=fmor2"></script>
+  <script defer src="/src/cookie.js?v=fmor2"></script>
 
 </body>
 

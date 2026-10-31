@@ -18,7 +18,7 @@
       "path": "misyon",
       "icon": "flag",
       "category": "",
-      "status": "stop",
+      "status": "play",
       "desing": {
         "header": [],
         "body": [],
@@ -41,7 +41,7 @@
       "path": "vizyon",
       "icon": "visibility",
       "category": "",
-      "status": "stop",
+      "status": "play",
       "desing": {
         "header": [],
         "body": [],
@@ -64,7 +64,7 @@
       "path": "kalitepolitikamiz",
       "icon": "verified",
       "category": "",
-      "status": "stop",
+      "status": "play",
       "desing": {
         "header": [],
         "body": [],
@@ -164,5 +164,12 @@
       },
       "index": 6
     }
-  ]
+  ],
+  "desing": {
+    "header": [],
+    "body": [
+      "3ffr9m"
+    ],
+    "footer": []
+  }
 }

@@ -16,7 +16,7 @@
   "path": "kalitepolitikamiz",
   "icon": "verified",
   "category": "",
-  "status": "stop",
+  "status": "play",
   "desing": {
     "header": [],
     "body": [],
@@ -25,9 +25,9 @@
   "index": 2,
   "url": "",
   "text": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "<h2>Kalite Politikamız</h2><p>Webyapar olarak kaliteyi, teslim ettiğimiz her dijital ürünün güvenli, erişilebilir, hızlı ve sürdürülebilir olması olarak tanımlıyoruz. Yönetim sistemlerimiz ISO 9001 (kalite), ISO 27001 (bilgi güvenliği) ve ISO 42001 (yapay zekâ yönetimi) baş denetçi yetkinliğiyle kurulur ve izlenir.</p><h3>Taahhütlerimiz</h3><ul><li><strong>Standartlara uyum:</strong> Her site ve uygulama; performans, erişilebilirlik, SEO ve güvenlik ölçütlerinden geçmeden yayına alınmaz.</li><li><strong>Veri güvenliği:</strong> Kişisel veriler KVKK'ya uygun işlenir; erişim yetkileri asgari düzeyde tutulur, yedekler düzenli alınır.</li><li><strong>Şeffaflık:</strong> Proje süreci, kapsam ve teslim tarihleri yazılı olarak paylaşılır; değişiklikler kayıt altında ilerler.</li><li><strong>Sürekli iyileştirme:</strong> Müşteri geri bildirimleri, canlı ölçümler ve iç denetimler düzenli olarak değerlendirilir; bulgular ürün ve süreçlere yansıtılır.</li><li><strong>Yetkin ekip:</strong> Ekibimiz güncel teknolojiler, siber güvenlik ve yapay zekâ konularında sürekli eğitim alır.</li></ul><p>Bu politika tüm çalışanlarımız ve iş ortaklarımız için bağlayıcıdır; yılda en az bir kez gözden geçirilir.</p>",
+    "en": "<h2>Quality Policy</h2><p>At Webyapar, we define quality as every digital product we deliver being secure, accessible, fast and sustainable. Our management systems are established and monitored with lead-auditor competence in ISO 9001 (quality), ISO 27001 (information security) and ISO 42001 (AI management).</p><h3>Our Commitments</h3><ul><li><strong>Compliance with standards:</strong> No website or application goes live before passing performance, accessibility, SEO and security checks.</li><li><strong>Data security:</strong> Personal data is processed in line with data-protection law; access rights are kept to a minimum and backups are taken regularly.</li><li><strong>Transparency:</strong> Project process, scope and delivery dates are shared in writing; changes are tracked.</li><li><strong>Continuous improvement:</strong> Customer feedback, live measurements and internal audits are reviewed regularly; findings are reflected in products and processes.</li><li><strong>Competent team:</strong> Our team receives ongoing training in current technologies, cybersecurity and artificial intelligence.</li></ul><p>This policy is binding for all our employees and business partners and is reviewed at least once a year.</p>",
+    "ar": "<h2>سياسة الجودة</h2><p>نعرّف الجودة في Webyapar بأن يكون كل منتج رقمي نسلّمه آمناً وسهل الوصول وسريعاً ومستداماً. تُبنى أنظمة الإدارة لدينا وتُراقب بكفاءة كبير مدققين في ISO 9001 (الجودة) وISO 27001 (أمن المعلومات) وISO 42001 (إدارة الذكاء الاصطناعي).</p><h3>التزاماتنا</h3><ul><li><strong>الامتثال للمعايير:</strong> لا يُنشر أي موقع أو تطبيق قبل اجتياز فحوصات الأداء وإمكانية الوصول وتحسين محركات البحث والأمان.</li><li><strong>أمن البيانات:</strong> تُعالج البيانات الشخصية وفق قانون حماية البيانات؛ تُحصر صلاحيات الوصول في الحد الأدنى وتُؤخذ النسخ الاحتياطية بانتظام.</li><li><strong>الشفافية:</strong> تُشارك مراحل المشروع ونطاقه ومواعيد التسليم كتابياً؛ وتُوثَّق التغييرات.</li><li><strong>التحسين المستمر:</strong> تُراجع ملاحظات العملاء والقياسات الحية والتدقيقات الداخلية بانتظام وتنعكس نتائجها على المنتجات والعمليات.</li><li><strong>فريق كفء:</strong> يتلقى فريقنا تدريباً مستمراً في التقنيات الحديثة والأمن السيبراني والذكاء الاصطناعي.</li></ul><p>هذه السياسة ملزمة لجميع موظفينا وشركائنا وتُراجع مرة واحدة على الأقل سنوياً.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
@@ -35,5 +35,5 @@
     "ar": "سياسة الجودة"
   },
   "date": "2026-10-30T20:48:16.725Z",
-  "update": "2026-10-30T22:40:52.944Z"
+  "update": "2026-10-31T07:39:17.217Z"
 }

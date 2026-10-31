@@ -16,7 +16,7 @@
   "path": "misyon",
   "icon": "flag",
   "category": "",
-  "status": "stop",
+  "status": "play",
   "desing": {
     "header": [],
     "body": [],
@@ -25,9 +25,9 @@
   "index": 0,
   "url": "",
   "text": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "<h2>Misyonumuz</h2><p>Webyapar Yazılım ve Danışmanlık olarak misyonumuz, her ölçekten işletmenin dijital varlığını hızlı, güvenli ve ölçülebilir biçimde kurmaktır. 2014'ten bu yana Gaziantep merkezli ekibimizle 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve pazaryeri entegrasyonu teslim ettik.</p><p>Yaptığımız her işte üç ilkeyi gözetiriz:</p><ul><li><strong>Hız:</strong> Sektöre hazır tema setimiz ve otomatik yayın altyapımızla siteler günler içinde yayına girer.</li><li><strong>Güven:</strong> KVKK uyumu, çerez yönetimi, SSL ve düzenli yedekleme her projede standarttır.</li><li><strong>Ölçülebilirlik:</strong> Arama motoru görünürlüğü, hız puanları ve dönüşüm verileriyle sonucu birlikte izleriz.</li></ul><p>Amacımız yalnızca bir site teslim etmek değil; müşterilerimizin dijitalde kalıcı ve sürdürülebilir bir büyüme ortağı olmaktır.</p>",
+    "en": "<h2>Our Mission</h2><p>At Webyapar Software &amp; Consulting, our mission is to build the digital presence of businesses of every size quickly, securely and measurably. Since 2014, our Gaziantep-based team has delivered more than 200 corporate websites, 10+ mobile applications and marketplace integrations.</p><p>Three principles guide every project:</p><ul><li><strong>Speed:</strong> With our industry-ready theme set and automated publishing pipeline, sites go live within days.</li><li><strong>Trust:</strong> Data-protection compliance, cookie management, SSL and regular backups are standard in every project.</li><li><strong>Measurability:</strong> We track search visibility, performance scores and conversion data together with you.</li></ul><p>Our goal is not just to deliver a website, but to be a lasting and sustainable digital growth partner for our clients.</p>",
+    "ar": "<h2>مهمتنا</h2><p>مهمتنا في Webyapar للبرمجيات والاستشارات هي بناء الحضور الرقمي للشركات بمختلف أحجامها بسرعة وأمان وبشكل قابل للقياس. منذ عام 2014، قدّم فريقنا ومقره غازي عنتاب أكثر من 200 موقع إلكتروني مؤسسي وأكثر من 10 تطبيقات للهاتف المحمول وتكاملات مع الأسواق الإلكترونية.</p><p>ثلاثة مبادئ توجّه كل مشروع:</p><ul><li><strong>السرعة:</strong> بفضل مجموعة القوالب الجاهزة حسب القطاع وبنية النشر الآلي، تنطلق المواقع خلال أيام.</li><li><strong>الثقة:</strong> الامتثال لحماية البيانات وإدارة ملفات تعريف الارتباط وشهادة SSL والنسخ الاحتياطي المنتظم معايير أساسية في كل مشروع.</li><li><strong>القابلية للقياس:</strong> نتابع معكم الظهور في محركات البحث ودرجات الأداء وبيانات التحويل.</li></ul><p>هدفنا ليس تسليم موقع فحسب، بل أن نكون شريك نمو رقمي دائم ومستدام لعملائنا.</p>"
   },
   "title": {
     "tr": "Misyon",
@@ -35,5 +35,5 @@
     "ar": "المهمة"
   },
   "date": "2026-10-30T20:48:16.725Z",
-  "update": "2026-10-30T22:40:52.932Z"
+  "update": "2026-10-31T07:39:17.180Z"
 }

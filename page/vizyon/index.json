@@ -16,7 +16,7 @@
   "path": "vizyon",
   "icon": "visibility",
   "category": "",
-  "status": "stop",
+  "status": "play",
   "desing": {
     "header": [],
     "body": [],
@@ -25,9 +25,9 @@
   "index": 1,
   "url": "",
   "text": {
-    "tr": "",
-    "en": "",
-    "ar": ""
+    "tr": "<h2>Vizyonumuz</h2><p>Vizyonumuz, Türkiye'de ve bölgede KOBİ'lerin dijitale geçişini en kolay hale getiren yazılım ortağı olmaktır. Web sitesi, mobil uygulama ve e-ticaret altyapısını tek bir yönetim düzleminden sunarak işletmelerin teknolojiyle değil, işleriyle uğraşmasını sağlamayı hedefliyoruz.</p><p>Önümüzdeki dönemde odaklandığımız başlıklar:</p><ul><li>Sektöre özel hazır tema ve demo setini sürekli genişletmek,</li><li>Yapay zekâ destekli içerik, görsel ve denetim araçlarını üretim sürecine entegre etmek,</li><li>Erişilebilirlik, performans ve güvenlik standartlarını her yeni projede yükseltmek,</li><li>Çok dilli (Türkçe, İngilizce, Arapça) yayınla müşterilerimizin ihracat pazarlarına açılmasını kolaylaştırmak.</li></ul><p>Başarıyı, müşterilerimizin dijitalde elde ettiği somut sonuçlarla ölçüyoruz.</p>",
+    "en": "<h2>Our Vision</h2><p>Our vision is to be the software partner that makes digital transformation easiest for SMEs in Türkiye and the region. By offering websites, mobile apps and e-commerce infrastructure from a single management plane, we aim to let businesses focus on their work rather than on technology.</p><p>Our focus areas for the coming period:</p><ul><li>Continuously expanding our industry-specific theme and demo set,</li><li>Integrating AI-assisted content, visual and audit tools into the production process,</li><li>Raising accessibility, performance and security standards with every new project,</li><li>Helping our clients reach export markets through multilingual (Turkish, English, Arabic) publishing.</li></ul><p>We measure success by the tangible digital results our clients achieve.</p>",
+    "ar": "<h2>رؤيتنا</h2><p>رؤيتنا أن نكون شريك البرمجيات الذي يجعل التحول الرقمي أسهل ما يمكن للشركات الصغيرة والمتوسطة في تركيا والمنطقة. من خلال تقديم المواقع الإلكترونية وتطبيقات الهاتف المحمول وبنية التجارة الإلكترونية من لوحة إدارة واحدة، نهدف إلى أن تنشغل الشركات بأعمالها لا بالتقنية.</p><p>محاور تركيزنا في المرحلة المقبلة:</p><ul><li>التوسع المستمر في مجموعة القوالب والعروض التجريبية الخاصة بكل قطاع،</li><li>دمج أدوات المحتوى والصور والتدقيق المدعومة بالذكاء الاصطناعي في عملية الإنتاج،</li><li>رفع معايير إمكانية الوصول والأداء والأمان في كل مشروع جديد،</li><li>تسهيل وصول عملائنا إلى أسواق التصدير عبر النشر متعدد اللغات (التركية والإنجليزية والعربية).</li></ul><p>نقيس النجاح بالنتائج الرقمية الملموسة التي يحققها عملاؤنا.</p>"
   },
   "title": {
     "tr": "Vizyon",
@@ -35,5 +35,5 @@
     "ar": "الرؤية"
   },
   "date": "2026-10-30T20:48:16.725Z",
-  "update": "2026-10-30T22:40:52.938Z"
+  "update": "2026-10-31T07:39:17.196Z"
 }

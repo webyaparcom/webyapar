@@ -1846,12 +1846,31 @@ https://webyapar.com/tr/misyon/
 
 Misyon
 
+Misyon
+Misyonumuz
+Webyapar Yazılım ve Danışmanlık olarak misyonumuz, her ölçekten işletmenin dijital varlığını hızlı, güvenli ve ölçülebilir biçimde kurmaktır. 2014'ten bu yana Gaziantep merkezli ekibimizle 200'den fazla kurumsal web sitesi, 10'dan fazla mobil uygulama ve pazaryeri entegrasyonu teslim ettik.
+Yaptığımız her işte üç ilkeyi gözetiriz:
+Hız: Sektöre hazır tema setimiz ve otomatik yayın altyapımızla siteler günler içinde yayına girer.
+Güven: KVKK uyumu, çerez yönetimi, SSL ve düzenli yedekleme her projede standarttır.
+Ölçülebilirlik: Arama motoru görünürlüğü, hız puanları ve dönüşüm verileriyle sonucu birlikte izleriz.
+Amacımız yalnızca bir site teslim etmek değil; müşterilerimizin dijitalde kalıcı ve sürdürülebilir bir büyüme ortağı olmaktır.
+
 ---
 
 ## Vizyon
 https://webyapar.com/tr/vizyon/
 
 Vizyon
+
+Vizyon
+Vizyonumuz
+Vizyonumuz, Türkiye'de ve bölgede KOBİ'lerin dijitale geçişini en kolay hale getiren yazılım ortağı olmaktır. Web sitesi, mobil uygulama ve e-ticaret altyapısını tek bir yönetim düzleminden sunarak işletmelerin teknolojiyle değil, işleriyle uğraşmasını sağlamayı hedefliyoruz.
+Önümüzdeki dönemde odaklandığımız başlıklar:
+Sektöre özel hazır tema ve demo setini sürekli genişletmek,
+Yapay zekâ destekli içerik, görsel ve denetim araçlarını üretim sürecine entegre etmek,
+Erişilebilirlik, performans ve güvenlik standartlarını her yeni projede yükseltmek,
+Çok dilli (Türkçe, İngilizce, Arapça) yayınla müşterilerimizin ihracat pazarlarına açılmasını kolaylaştırmak.
+Başarıyı, müşterilerimizin dijitalde elde ettiği somut sonuçlarla ölçüyoruz.
 
 ---
 
@@ -1860,12 +1879,29 @@ https://webyapar.com/tr/kalitepolitikamiz/
 
 Kalite politikamız
 
+Kalite Politikamız
+Kalite Politikamız
+Webyapar olarak kaliteyi, teslim ettiğimiz her dijital ürünün güvenli, erişilebilir, hızlı ve sürdürülebilir olması olarak tanımlıyoruz. Yönetim sistemlerimiz ISO 9001 (kalite), ISO 27001 (bilgi güvenliği) ve ISO 42001 (yapay zekâ yönetimi) baş denetçi yetkinliğiyle kurulur ve izlenir.
+Taahhütlerimiz
+Standartlara uyum: Her site ve uygulama; performans, erişilebilirlik, SEO ve güvenlik ölçütlerinden geçmeden yayına alınmaz.
+Veri güvenliği: Kişisel veriler KVKK'ya uygun işlenir; erişim yetkileri asgari düzeyde tutulur, yedekler düzenli alınır.
+Şeffaflık: Proje süreci, kapsam ve teslim tarihleri yazılı olarak paylaşılır; değişiklikler kayıt altında ilerler.
+Sürekli iyileştirme: Müşteri geri bildirimleri, canlı ölçümler ve iç denetimler düzenli olarak değerlendirilir; bulgular ürün ve süreçlere yansıtılır.
+Yetkin ekip: Ekibimiz güncel teknolojiler, siber güvenlik ve yapay zekâ konularında sürekli eğitim alır.
+Bu politika tüm çalışanlarımız ve iş ortaklarımız için bağlayıcıdır; yılda en az bir kez gözden geçirilir.
+
 ---
 
 ## Gizlilik Politikası
 https://webyapar.com/tr/gizlilikpolitikasi/
 
 Gizlilik politikası
+
+Gizlilik Politikası
+Gizlilik Politikası
+Webyapar (webyapar.com), ziyaretçilerinden yalnızca sitenin çalışması için gerekli teknik verileri işler. Analitik ve pazarlama çerezleri varsayılan olarak kapalıdır; tercihlerinizi çerez bandından değiştirebilirsiniz.
+İletişim için WhatsApp ya da e-posta ile bize yazdığınızda ilettiğiniz bilgiler yalnızca talebinizi yanıtlamak için kullanılır ve üçüncü taraflarla paylaşılmaz.
+Sorularınız için: info@webyapar.com
 
 ---
 
@@ -1874,6 +1910,11 @@ https://webyapar.com/tr/kisiselveriler/
 
 Kişisel verilerin korunması
 
+Kişisel Veriler
+Kişisel Verilerin Korunması
+6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında veri sorumlusu Webyapar’dır (Gaziantep, Türkiye). Bu site form üzerinden veri toplamaz; WhatsApp ya da e-posta ile ilettiğiniz bilgiler talebinizi yanıtlamak amacıyla işlenir.
+Verilerinize ilişkin başvuru ve haklarınız için info@webyapar.com adresine yazabilirsiniz.
+
 ---
 
 ## Kullanıcı Hakları
@@ -1881,9 +1922,17 @@ https://webyapar.com/tr/kullanicahaklari/
 
 Kullanıcı hakları
 
+Kullanıcı Hakları
+Kullanıcı Hakları
+KVKK madde 11 uyarınca verilerinizin işlenip işlenmediğini öğrenme, düzeltme, silme ve itiraz haklarına sahipsiniz. Başvurularınızı info@webyapar.com adresine iletebilirsiniz.
+
 ---
 
 ## Yasal Uyarı
 https://webyapar.com/tr/yasaluyari/
 
 Yasal uyarı
+
+Yasal Uyarı
+Yasal Uyarı
+Bu sitedeki demo siteler (örn. restoran.webyapar.com) kurgusal markalar, kişiler, adresler ve fiyatlarla hazırlanmış örneklerdir; gerçek bir işletmeyi temsil etmez ve gerçek ödeme almaz. Sektör sayfalarındaki yasal notlar genel bilgidir, hukuki danışmanlık yerine geçmez.
