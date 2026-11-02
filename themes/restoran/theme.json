@@ -1,0 +1,12 @@
+{
+  "name": "Restoran",
+  "description": "restoran teması",
+  "version": "1.0.0",
+  "slug": "restoran",
+  "modules": {
+    "ana-sayfa": "restoran-ana-sayfa",
+    "menu": "restoran-menu",
+    "hakkimizda": "restoran-hakkimizda",
+    "iletisim": "restoran-iletisim"
+  }
+}

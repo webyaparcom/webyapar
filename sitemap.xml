@@ -163,6 +163,36 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://webyapar.com/tr/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/en/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/ar/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://webyapar.com/tr/iletisim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/iletisim/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/iletisim/" />
@@ -1093,6 +1123,36 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://webyapar.com/tr/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/en/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/ar/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/hakkimizda/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://webyapar.com/tr/vizyon/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/vizyon/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/vizyon/" />
@@ -1269,6 +1329,36 @@
         <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/yasaluyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/yasaluyari/" />
         <lastmod>2026-10-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/tr/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/en/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://webyapar.com/ar/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://webyapar.com/en/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>

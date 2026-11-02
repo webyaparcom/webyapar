@@ -1,0 +1,12 @@
+{
+  "name": "Kuyumcu",
+  "description": "kuyumcu teması",
+  "version": "1.0.0",
+  "slug": "kuyumcu",
+  "modules": {
+    "ana-sayfa": "kuyumcu-ana-sayfa",
+    "menu": "kuyumcu-menu",
+    "hakkimizda": "kuyumcu-hakkimizda",
+    "iletisim": "kuyumcu-iletisim"
+  }
+}

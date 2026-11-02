@@ -123,6 +123,7 @@ https://webyapar.com/tr/temalar/
 
 Kurumsal, e-ticaret ve galeri türünde 29 sektör teması; tür ve sektöre göre süzün, canlı demoyu deneyin.
 
+Hazır web sitesi temaları — Webyapar
 Tema ara
 Sırala En yeni Ad (A–Z) Sektör (A–Z) Tür
 Tür
@@ -413,6 +414,7 @@ https://webyapar.com/tr/sektorler/
 
 Restoran, klinik, emlak, sanayi, dekorasyon, kuyumcu, gıda, inşaat, güzellik ve portfolyo için hazır web sitesi temaları.
 
+Sektörlere göre web sitesi — Webyapar
 Sektörünüze uygun temayı seçin
 Canlı demoları gezin, beğendiğinizi isteyin; kalanını biz hallederiz.
 Temaları gör Teklif al
@@ -424,6 +426,7 @@ https://webyapar.com/tr/hizmetler/
 
 Hazır tema, özel tasarım, e-ticaret kurulumu, yayın ve bakım hizmetleri.
 
+Hizmetler — Webyapar
 Hizmetlerimiz
 Hazır temadan özel projeye, yayından bakıma.
 Hazır tema
@@ -445,6 +448,7 @@ https://webyapar.com/tr/fiyatlar/
 
 Hazır tema, özel tasarım ve e-ticaret kurulumu için teklif al.
 
+Fiyatlar — Webyapar
 Fiyatlar
 Size uygun paketi seçin
 Kapsama göre hazırlanan teklifler; fiyat listesi yayımlandığında burada yer alacak.
@@ -487,11 +491,33 @@ WhatsApp ile yaz E-posta gönder
 
 ---
 
+## Kurumsal
+https://webyapar.com/tr/hakkimizda/
+
+Webyapar kimligi, gizlilik ve yasal bilgilendirme.
+
+Hakkımızda
+Hakkımızda
+Webyapar; hazır temalar, webmodules envanteri, e-ticaret kurulumları ve özel proje yönetimini tek ürün yüzeyinde sunar. Gaziantep merkezli ekibimiz Matrix operasyon omurgası ve Webmaker stüdyosu ile çalışır.
+Ne sunuyoruz
+Temalar ve modüller seç-uygula mantığıyla çalışır; e-ticaret kurulumları gerçek mağaza senaryolarını görünür kılar.
+Özel projelerde hero kompozisyonu, içerik ve yayın döngüsü markaya özel kurulur; Matrix proje id ile takip edilir.
+Amacımız ajans sözleri değil; çalışan, bağlanabilir bir sistem.
+Nasıl çalışırız
+İhtiyacı netleştirir, uygun tema veya e-ticaret kurulumunu işaretler, gerekirse özel kapsama alırız. İletişim: 0531 679 10 14 · info@webyapar.com.
+Gerçek ürün yüzeyi
+Tema + modül katalogu
+E-ticaret kurulumları
+Özel proje teslimi
+
+---
+
 ## İletişim
 https://webyapar.com/tr/iletisim/
 
 Webyapar ile WhatsApp, telefon ya da e-posta üzerinden iletişime geçin.
 
+İletişim — Webyapar
 Bize ulaşın
 0531 679 10 14
 WhatsApp
@@ -1857,6 +1883,27 @@ Amacımız yalnızca bir site teslim etmek değil; müşterilerimizin dijitalde 
 
 ---
 
+## Hakkımızda
+https://webyapar.com/tr/hakkimizda/
+
+Webyapar; Matrix ve Webmaker ile tema, modul, e-ticaret kurulum ve ozel proje yonetimi sunar.
+
+Hakkımızda
+Hakkımızda
+Webyapar; hazır temalar, webmodules envanteri, e-ticaret kurulumları ve özel proje yönetimini tek ürün yüzeyinde sunar. Gaziantep merkezli ekibimiz Matrix operasyon omurgası ve Webmaker stüdyosu ile çalışır.
+Ne sunuyoruz
+Temalar ve modüller seç-uygula mantığıyla çalışır; e-ticaret kurulumları gerçek mağaza senaryolarını görünür kılar.
+Özel projelerde hero kompozisyonu, içerik ve yayın döngüsü markaya özel kurulur; Matrix proje id ile takip edilir.
+Amacımız ajans sözleri değil; çalışan, bağlanabilir bir sistem.
+Nasıl çalışırız
+İhtiyacı netleştirir, uygun tema veya e-ticaret kurulumunu işaretler, gerekirse özel kapsama alırız. İletişim: 0531 679 10 14 · info@webyapar.com.
+Gerçek ürün yüzeyi
+Tema + modül katalogu
+E-ticaret kurulumları
+Özel proje teslimi
+
+---
+
 ## Vizyon
 https://webyapar.com/tr/vizyon/
 
@@ -1936,3 +1983,45 @@ Yasal uyarı
 Yasal Uyarı
 Yasal Uyarı
 Bu sitedeki demo siteler (örn. restoran.webyapar.com) kurgusal markalar, kişiler, adresler ve fiyatlarla hazırlanmış örneklerdir; gerçek bir işletmeyi temsil etmez ve gerçek ödeme almaz. Sektör sayfalarındaki yasal notlar genel bilgidir, hukuki danışmanlık yerine geçmez.
+
+---
+
+## Çerez Politikası
+https://webyapar.com/tr/cerez-politikasi/
+
+Bu politika, Webyapar tarafından işletilen webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi…
+
+Çerez Politikası
+Çerez Politikası
+Bu politika, Webyapar tarafından işletilen webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar. Çerezler aracılığıyla elde edilen kişisel veriler 6698 sayılı Kişisel Verilerin Korunması Kanunu’na uygun olarak işlenir.
+Çerez nedir?
+Çerezler, bir internet sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınıza kaydedilen küçük metin dosyalarıdır. Oturumunuzun sürdürülmesi, tercihlerinizin hatırlanması ve sitenin nasıl kullanıldığının anlaşılması gibi amaçlara hizmet eder. Çerezler, tarayıcı kapatıldığında silinen oturum çerezleri veya belirli bir süre cihazda kalan kalıcı çerezler olabilir.
+Kullandığımız çerez türleri
+Sitemizde aşağıdaki kategorilerde çerezler kullanılabilir:
+Zorunlu çerezler: Sitenin temel işlevlerinin, güvenliğin ve oturumun sağlanması için gereklidir; devre dışı bırakılmaları sitenin çalışmasını engelleyebilir.
+İşlevsel çerezler: Dil, bölge veya görünüm gibi tercihlerinizi hatırlayarak daha kişisel bir deneyim sunar.
+Analitik çerezler: Ziyaretçilerin siteyi nasıl kullandığını toplu olarak ölçerek sitenin iyileştirilmesine yardımcı olur.
+Pazarlama çerezleri: İlgi alanlarınıza uygun içerik ve reklamların gösterilmesi amacıyla kullanılır.
+Onay ve tercihlerin yönetimi
+Zorunlu çerezler dışındaki çerezler yalnızca açık rızanız alınarak kullanılır. Sitemizi ilk ziyaretinizde gösterilen çerez bildirimi üzerinden tercihlerinizi belirleyebilir, verdiğiniz onayı dilediğiniz zaman geri alabilirsiniz.
+Ayrıca tarayıcınızın ayarlar bölümündeki gizlilik veya site verileri seçenekleri aracılığıyla çerezleri görüntüleyebilir, silebilir ya da engelleyebilirsiniz. Çerezleri tamamen engellemeniz hâlinde sitenin bazı bölümleri beklendiği gibi çalışmayabilir.
+Haklarınız
+Çerezler aracılığıyla işlenen kişisel verilerinize ilişkin olarak Kanun’un 11. maddesindeki haklarınızı kullanmak için info@webyapar.com adresine başvurabilirsiniz.
+Son güncelleme: 2026-11-02. Kullandığımız çerezlerde değişiklik olduğunda bu politika güncellenir.
+Çerez Politikası
+Çerez Politikası
+Bu politika, Webyapar tarafından işletilen webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar. Çerezler aracılığıyla elde edilen kişisel veriler 6698 sayılı Kişisel Verilerin Korunması Kanunu’na uygun olarak işlenir.
+Çerez nedir?
+Çerezler, bir internet sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınıza kaydedilen küçük metin dosyalarıdır. Oturumunuzun sürdürülmesi, tercihlerinizin hatırlanması ve sitenin nasıl kullanıldığının anlaşılması gibi amaçlara hizmet eder. Çerezler, tarayıcı kapatıldığında silinen oturum çerezleri veya belirli bir süre cihazda kalan kalıcı çerezler olabilir.
+Kullandığımız çerez türleri
+Sitemizde aşağıdaki kategorilerde çerezler kullanılabilir:
+Zorunlu çerezler: Sitenin temel işlevlerinin, güvenliğin ve oturumun sağlanması için gereklidir; devre dışı bırakılmaları sitenin çalışmasını engelleyebilir.
+İşlevsel çerezler: Dil, bölge veya görünüm gibi tercihlerinizi hatırlayarak daha kişisel bir deneyim sunar.
+Analitik çerezler: Ziyaretçilerin siteyi nasıl kullandığını toplu olarak ölçerek sitenin iyileştirilmesine yardımcı olur.
+Pazarlama çerezleri: İlgi alanlarınıza uygun içerik ve reklamların gösterilmesi amacıyla kullanılır.
+Onay ve tercihlerin yönetimi
+Zorunlu çerezler dışındaki çerezler yalnızca açık rızanız alınarak kullanılır. Sitemizi ilk ziyaretinizde gösterilen çerez bildirimi üzerinden tercihlerinizi belirleyebilir, verdiğiniz onayı dilediğiniz zaman geri alabilirsiniz.
+Ayrıca tarayıcınızın ayarlar bölümündeki gizlilik veya site verileri seçenekleri aracılığıyla çerezleri görüntüleyebilir, silebilir ya da engelleyebilirsiniz. Çerezleri tamamen engellemeniz hâlinde sitenin bazı bölümleri beklendiği gibi çalışmayabilir.
+Haklarınız
+Çerezler aracılığıyla işlenen kişisel verilerinize ilişkin olarak Kanun’un 11. maddesindeki haklarınızı kullanmak için info@webyapar.com adresine başvurabilirsiniz.
+Son güncelleme: 2026-11-02. Kullandığımız çerezlerde değişiklik olduğunda bu politika güncellenir.

@@ -1,0 +1,11 @@
+{
+  "name": "Portfolyo",
+  "description": "portfolyo teması",
+  "version": "1.0.0",
+  "modules": {
+    "ana-sayfa": "portfolyo-ana-sayfa",
+    "menu": "portfolyo-menu",
+    "hakkimizda": "portfolyo-hakkimizda",
+    "iletisim": "portfolyo-iletisim"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Gida",
+  "description": "gida teması",
+  "version": "1.0.0",
+  "modules": {
+    "ana-sayfa": "gida-ana-sayfa",
+    "menu": "gida-menu",
+    "hakkimizda": "gida-hakkimizda",
+    "iletisim": "gida-iletisim"
+  }
+}

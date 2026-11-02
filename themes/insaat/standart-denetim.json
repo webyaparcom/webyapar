@@ -1,0 +1,12 @@
+{
+  "theme": "insaat",
+  "checked_at": "2026-10-31T21:57:00Z",
+  "standart": true,
+  "modules": {
+    "ana-sayfa": true,
+    "menu": true,
+    "hakkimizda": true,
+    "iletisim": true
+  },
+  "status": "success"
+}

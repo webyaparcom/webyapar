@@ -1,0 +1,11 @@
+{
+  "name": "Klinik",
+  "description": "klinik teması",
+  "version": "1.0.0",
+  "modules": {
+    "ana-sayfa": "klinik-ana-sayfa",
+    "menu": "klinik-menu",
+    "hakkimizda": "klinik-hakkimizda",
+    "iletisim": "klinik-iletisim"
+  }
+}

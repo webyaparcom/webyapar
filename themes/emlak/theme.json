@@ -1,0 +1,12 @@
+{
+  "name": "Emlak",
+  "description": "emlak teması",
+  "version": "1.0.0",
+  "slug": "emlak",
+  "modules": {
+    "ana-sayfa": "emlak-ana-sayfa",
+    "menu": "emlak-menu",
+    "hakkimizda": "emlak-hakkimizda",
+    "iletisim": "emlak-iletisim"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Sanayi",
+  "description": "sanayi teması",
+  "version": "1.0.0",
+  "modules": {
+    "ana-sayfa": "sanayi-ana-sayfa",
+    "menu": "sanayi-menu",
+    "hakkimizda": "sanayi-hakkimizda",
+    "iletisim": "sanayi-iletisim"
+  }
+}

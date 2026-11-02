@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة"
+  },
+  "status": "play",
+  "category": "",
+  "id": "yvi9dlb59o",
+  "url": "",
+  "path": "kurumsal",
+  "index": 4,
+  "icon": "business",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "pathnext": "hakkimizda",
+  "description": {
+    "tr": "Webyapar kimligi, gizlilik ve yasal bilgilendirme. Kisa ve guven veren kurumsal katman.",
+    "en": "Webyapar identity, privacy and legal information.",
+    "ar": "هوية Webyapar والخصوصية والمعلومات القانونية."
+  },
+  "title": {
+    "tr": "Kurumsal",
+    "en": "Corporate",
+    "ar": "الشركة"
+  },
+  "keyword": {
+    "tr": "hakkimizda, gizlilik, yasal, webyapar"
+  },
+  "update": "2026-11-02T11:17:31.768Z",
+  "date": "2026-08-22",
+  "text": {
+    "tr": "<article class=\"hub-article\"><h2>Kurumsal</h2><p>Webyapar kimligi, gizlilik ve yasal bilgilendirme. Kisa ve guven veren kurumsal katman.</p><h3>Neler bulursunuz</h3><p>Kart listesinden ornekleri inceleyin; her kayit gercek kullanim senaryosu ve teslimat ozeti tasir.</p><p>Amacimiz gosteris degil: secim yapmanizi kolaylastiran calisan bir katalog sunmak.</p><p>Detay sayfalarinda kapsam, hedef kitle ve bagli webmodules referanslari yer alir.</p><h3>Nasıl ilerleriz</h3><p>Ihtiyaci netlestirir, uygun tema veya kurulumu secer, ozel gelistirme gerekirse ayri kapsama aliriz.</p><ul><li>Net katalog</li><li>Gercek urun dili</li><li>Hizli iletisim</li><li>Olculebilir teslim</li></ul></article>"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "iletisim",
+  "description": "iletisim modülü",
+  "version": "1.0.0",
+  "type": "webmodule",
+  "path": "/restoran/iletisim",
+  "slug": "restoran-iletisim"
+}

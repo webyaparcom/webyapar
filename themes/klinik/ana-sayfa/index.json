@@ -1,0 +1,8 @@
+{
+  "name": "ana-sayfa",
+  "description": "ana-sayfa modülü",
+  "version": "1.0.0",
+  "type": "webmodule",
+  "path": "/klinik/ana-sayfa",
+  "slug": "klinik-ana-sayfa"
+}

@@ -27,6 +27,29 @@
       "index": 0
     },
     {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About Us",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "index": 1,
+      "icon": "home",
+      "description": {
+        "tr": "Webyapar; Matrix ve Webmaker ile tema, modul, e-ticaret kurulum ve ozel proje yonetimi sunar.",
+        "en": "Webyapar offers themes, module management, e-commerce setups and custom projects with Matrix and Webmaker.",
+        "ar": "تقدم Webyapar القوالب وإدارة الوحدات وإعدادات التجارة الإلكترونية والمشاريع الخاصة عبر Matrix وWebmaker."
+      },
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
       "id": "vizyon",
       "name": {
         "tr": "Vizyon",
@@ -163,6 +186,31 @@
         "footer": []
       },
       "index": 6
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası",
+        "en": "Cookie Policy",
+        "ar": "سياسة ملفات تعريف الارتباط"
+      },
+      "description": {
+        "tr": "Bu politika, Webyapar tarafından işletilen webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi…",
+        "en": "Which cookies are used on this website, for what purposes, and how you can manage your preferences.",
+        "ar": "ما هي ملفات تعريف الارتباط المستخدمة في هذا الموقع، ولأي أغراض، وكيف يمكنكم إدارة تفضيلاتكم."
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "dwc4lc"
+        ],
+        "footer": []
+      },
+      "index": 8
     }
   ],
   "desing": {

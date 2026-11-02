@@ -1,0 +1,8 @@
+{
+  "name": "hakkimizda",
+  "description": "hakkimizda modülü",
+  "version": "1.0.0",
+  "type": "webmodule",
+  "path": "/emlak/hakkimizda",
+  "slug": "emlak-hakkimizda"
+}

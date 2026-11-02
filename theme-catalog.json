@@ -1,0 +1,90 @@
+{
+  "themes": {
+    "restoran": {
+      "key": "restoran",
+      "name": "Restoran",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "klinik": {
+      "key": "klinik",
+      "name": "Klinik",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "emlak": {
+      "key": "emlak",
+      "name": "Emlak",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "sanayi": {
+      "key": "sanayi",
+      "name": "Sanayi",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "dekor": {
+      "key": "dekor",
+      "name": "Dekor",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "kuyumcu": {
+      "key": "kuyumcu",
+      "name": "Kuyumcu",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "gida": {
+      "key": "gida",
+      "name": "G\u0131da",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "insaat": {
+      "key": "insaat",
+      "name": "\u0130n\u015faat",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "guzellik": {
+      "key": "guzellik",
+      "name": "G\u00fczellik",
+      "type": "theme",
+      "version": "1.0.0"
+    },
+    "portfolyo": {
+      "key": "portfolyo",
+      "name": "Portfolyo",
+      "type": "theme",
+      "version": "1.0.0"
+    }
+  },
+  "modules": {
+    "nlvqzs": {
+      "key": "nlvqzs",
+      "name": "Ana Sayfa",
+      "type": "page",
+      "version": "1.0.0"
+    },
+    "mqq2ko": {
+      "key": "mqq2ko",
+      "name": "Men\u00fc",
+      "type": "page",
+      "version": "1.0.0"
+    },
+    "l5xy67": {
+      "key": "l5xy67",
+      "name": "Hakk\u0131m\u0131zda",
+      "type": "page",
+      "version": "1.0.0"
+    },
+    "u8pk02": {
+      "key": "u8pk02",
+      "name": "\u0130leti\u015fim",
+      "type": "page",
+      "version": "1.0.0"
+    }
+  }
+}

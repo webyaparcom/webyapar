@@ -1,0 +1,12 @@
+{
+  "name": "Guzellik",
+  "description": "guzellik teması",
+  "version": "1.0.0",
+  "slug": "guzellik",
+  "modules": {
+    "ana-sayfa": "guzellik-ana-sayfa",
+    "menu": "guzellik-menu",
+    "hakkimizda": "guzellik-hakkimizda",
+    "iletisim": "guzellik-iletisim"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Dekor",
+  "description": "dekor teması",
+  "version": "1.0.0",
+  "modules": {
+    "ana-sayfa": "dekor-ana-sayfa",
+    "menu": "dekor-menu",
+    "hakkimizda": "dekor-hakkimizda",
+    "iletisim": "dekor-iletisim"
+  }
+}

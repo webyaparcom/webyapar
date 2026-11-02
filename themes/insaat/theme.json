@@ -1,0 +1,12 @@
+{
+  "name": "Insaat",
+  "description": "insaat teması",
+  "version": "1.0.0",
+  "slug": "insaat",
+  "modules": {
+    "ana-sayfa": "insaat-ana-sayfa",
+    "menu": "insaat-menu",
+    "hakkimizda": "insaat-hakkimizda",
+    "iletisim": "insaat-iletisim"
+  }
+}

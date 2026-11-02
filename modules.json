@@ -105,7 +105,8 @@
           "ar": "احجز طاولة"
         },
         "btn2_url": "rezervasyon",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "hero",
@@ -1836,7 +1837,8 @@
           "tr": "Birlikte çalıştığımız müşterilerimizin deneyimleri.",
           "en": "Experiences from the customers we work with.",
           "ar": "تجارب العملاء الذين عملنا معهم."
-        }
+        },
+        "accentText": "#ffffff"
       },
       "version": "1.0.0",
       "icon": "format_quote",
@@ -1925,7 +1927,8 @@
           "ar": "تواصل معنا"
         },
         "margin": "30px 0px 30px 0px",
-        "linkcolor": "var(--mx-site-primary, #2563eb)"
+        "linkcolor": "var(--mx-site-primary, #2563eb)",
+        "stil": ""
       },
       "version": "1.0.0",
       "icon": "contact_mail",
@@ -2023,7 +2026,8 @@
           "tr": "Kurumsal",
           "en": "Corporate",
           "ar": "المؤسسة"
-        }
+        },
+        "stil": ""
       },
       "version": "1.1.0",
       "icon": "business",
@@ -3504,7 +3508,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=restoran",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -4275,7 +4280,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=klinik",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -5044,7 +5050,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=emlak",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -5814,7 +5821,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=sanayi",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -6584,7 +6592,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=dekor",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -7355,7 +7364,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=kuyumcu",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -8126,7 +8136,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=gida",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -8897,7 +8908,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=insaat",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -9666,7 +9678,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=guzellik",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -10435,7 +10448,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=portfolyo",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -11208,7 +11222,8 @@
           "tr": "29|Sektör teması|3|Dil|3|Tür|100|% statik",
           "en": "29|Industry themes|3|Languages|3|Types|100|% static",
           "ar": "29|قالب لقطاع|3|لغات|3|أنواع|100|% ثابت"
-        }
+        },
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -13689,7 +13704,8 @@
         "numbercolor": "#ffffff",
         "labelcolor": "rgba(255,255,255,.88)",
         "iconsize": "56px",
-        "iconbox": "88px"
+        "iconbox": "88px",
+        "stil": ""
       },
       "data": [
         {
@@ -13857,7 +13873,8 @@
           "en": "Get a quote",
           "ar": "احصل على عرض"
         },
-        "btn2Url": "iletisim"
+        "btn2Url": "iletisim",
+        "stil": ""
       },
       "category": "cta",
       "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir.",
@@ -14186,7 +14203,8 @@
           "en": "Send an e-mail",
           "ar": "أرسل بريدًا إلكترونيًا"
         },
-        "btn2Url": "mailto:info@webyapar.com"
+        "btn2Url": "mailto:info@webyapar.com",
+        "stil": ""
       },
       "category": "cta",
       "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir.",
@@ -14243,7 +14261,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=hukuk",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -15012,7 +15031,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=otel",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -15781,7 +15801,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=otogaleri",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -16551,7 +16572,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=ajans",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -17307,7 +17329,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=egitim",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -18076,7 +18099,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=spor",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -18845,7 +18869,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=cicekci",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -19601,7 +19626,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=lojistik",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -20357,7 +20383,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=enerji",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -21113,7 +21140,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=disticaret",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -21882,7 +21910,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=yedekparca",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -22638,7 +22667,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=arackiralama",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -23408,7 +23438,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=ismakinesi",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -24164,7 +24195,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=radyo",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -24933,7 +24965,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=stk",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -25702,7 +25735,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=haber",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -26458,7 +26492,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=moda",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -27201,7 +27236,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=elektronik",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -27944,7 +27980,8 @@
           "ar": "اطلب هذا القالب"
         },
         "btn2_url": "iletisim?tema=saas",
-        "stats": ""
+        "stats": "",
+        "stil": ""
       },
       "category": "hero",
       "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim).",
@@ -28725,7 +28762,8 @@
           "en": "Product navigation",
           "ar": "تنقل المنتج"
         },
-        "activetext": "var(--mx-site-primary-contrast, #ffffff)"
+        "activetext": "var(--mx-site-primary-contrast, #ffffff)",
+        "stil": ""
       },
       "category": "page",
       "description": "Sayfa basligi, yan menu ve icerik alani. Urun detayinda breadcrumb, olcu kartlari, teklif/WhatsApp CTA, onceki/sonraki urun navigasyonu. Kategori menusu ve responsive slide-in menu.",
@@ -28823,6 +28861,29 @@
       "path": "footer-9",
       "local": "footer",
       "index": 142
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "dwc4lc",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 143
     }
   ]
 }

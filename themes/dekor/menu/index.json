@@ -1,0 +1,8 @@
+{
+  "name": "menu",
+  "description": "menu modülü",
+  "version": "1.0.0",
+  "type": "webmodule",
+  "path": "/dekor/menu",
+  "slug": "dekor-menu"
+}

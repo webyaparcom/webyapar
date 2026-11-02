@@ -106,6 +106,31 @@
     },
     {
       "name": {
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "ar": "الشركة"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 4,
+      "icon": "business",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Webyapar kimligi, gizlilik ve yasal bilgilendirme. Kisa ve guven veren kurumsal katman.",
+        "en": "Webyapar identity, privacy and legal information.",
+        "ar": "هوية Webyapar والخصوصية والمعلومات القانونية."
+      }
+    },
+    {
+      "name": {
         "tr": "İletişim",
         "en": "Contact",
         "ar": "اتصل بنا"

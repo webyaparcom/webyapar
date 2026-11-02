@@ -10,6 +10,7 @@ Web: https://webyapar.com/tr/ · Telefon: 0531 679 10 14 · E-posta: info@webyap
 - [Sektörler](https://webyapar.com/tr/sektorler/): Restoran, klinik, emlak, sanayi, dekorasyon, kuyumcu, gıda, inşaat, güzellik ve portfolyo için hazır web sitesi temaları.
 - [Hizmetler](https://webyapar.com/tr/hizmetler/): Hazır tema, özel tasarım, e-ticaret kurulumu, yayın ve bakım hizmetleri.
 - [Fiyatlar](https://webyapar.com/tr/fiyatlar/): Hazır tema, özel tasarım ve e-ticaret kurulumu için teklif al.
+- [Kurumsal](https://webyapar.com/tr/hakkimizda/): Webyapar kimligi, gizlilik ve yasal bilgilendirme.
 - [İletişim](https://webyapar.com/tr/iletisim/): Webyapar ile WhatsApp, telefon ya da e-posta üzerinden iletişime geçin.
 - [SaaS web sitesi](https://webyapar.com/tr/saas-web-sitesi/): Özellikler, fiyatlar, demo talebi ve veri güvenliği; otomatik yenileme ve KVKK bilgisi açık.
 - [Elektronik e-ticaret sitesi](https://webyapar.com/tr/elektronik-eticaret-sitesi/): Ses, giyilebilir ve bilgisayar ürünleri, sepet ve demo ödeme akışı; 2 yıl garanti ve iade koşulları açık.
@@ -42,12 +43,14 @@ Web: https://webyapar.com/tr/ · Telefon: 0531 679 10 14 · E-posta: info@webyap
 - [Restoran web sitesi](https://webyapar.com/tr/restoran-web-sitesi/): Menü, alerjen bilgisi, masa rezervasyonu ve şubeler tek yerde: misafirleriniz ne yiyeceğini ve nasıl yer ayırtacağını saniyeler içinde bulsun.
 - [Canlı demo](https://webyapar.com/tr/demo/): Temayı masaüstü, tablet ve mobil görünümde canlı deneyin.
 - [Misyon](https://webyapar.com/tr/misyon/): Misyon
+- [Hakkımızda](https://webyapar.com/tr/hakkimizda/): Webyapar; Matrix ve Webmaker ile tema, modul, e-ticaret kurulum ve ozel proje yonetimi sunar.
 - [Vizyon](https://webyapar.com/tr/vizyon/): Vizyon
 - [Kalite Politikamız](https://webyapar.com/tr/kalitepolitikamiz/): Kalite politikamız
 - [Gizlilik Politikası](https://webyapar.com/tr/gizlilikpolitikasi/): Gizlilik politikası
 - [Kişisel Veriler](https://webyapar.com/tr/kisiselveriler/): Kişisel verilerin korunması
 - [Kullanıcı Hakları](https://webyapar.com/tr/kullanicahaklari/): Kullanıcı hakları
 - [Yasal Uyarı](https://webyapar.com/tr/yasaluyari/): Yasal uyarı
+- [Çerez Politikası](https://webyapar.com/tr/cerez-politikasi/): Bu politika, Webyapar tarafından işletilen webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi…
 
 ## Diger
 - [sitemap.xml](https://webyapar.com/sitemap.xml): tum URL listesi

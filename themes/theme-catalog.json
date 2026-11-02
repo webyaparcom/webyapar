@@ -1,0 +1,126 @@
+{
+  "themes": [
+    {
+      "slug": "restoran",
+      "name": "Restoran",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "nlvqzs",
+        "menu": "mqq2ko",
+        "hakkimizda": "l5xy67",
+        "iletisim": "u8pk02"
+      }
+    },
+    {
+      "slug": "kuyumcu",
+      "name": "Kuyumcu",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "kuyumcu-ana-sayfa",
+        "menu": "kuyumcu-menu",
+        "hakkimizda": "kuyumcu-hakkimizda",
+        "iletisim": "kuyumcu-iletisim"
+      }
+    },
+    {
+      "slug": "gida",
+      "name": "Gıda",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "gida-ana-sayfa",
+        "menu": "gida-menu",
+        "hakkimizda": "gida-hakkimizda",
+        "iletisim": "gida-iletisim"
+      }
+    },
+    {
+      "slug": "insaat",
+      "name": "İnşaat",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "insaat-ana-sayfa",
+        "menu": "insaat-menu",
+        "hakkimizda": "insaat-hakkimizda",
+        "iletisim": "insaat-iletisim"
+      }
+    },
+    {
+      "slug": "guzellik",
+      "name": "Güzellik",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "guzellik-ana-sayfa",
+        "menu": "guzellik-menu",
+        "hakkimizda": "guzellik-hakkimizda",
+        "iletisim": "guzellik-iletisim"
+      }
+    },
+    {
+      "slug": "portfolyo",
+      "name": "Portfolyo",
+      "description": "",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "portfolyo-ana-sayfa",
+        "menu": "portfolyo-menu",
+        "hakkimizda": "portfolyo-hakkimizda",
+        "iletisim": "portfolyo-iletisim"
+      }
+    },
+    {
+      "slug": "klinik",
+      "name": "Klinik",
+      "description": "Klinik teması",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "klinik-ana-sayfa",
+        "menu": "klinik-menu",
+        "hakkimizda": "klinik-hakkimizda",
+        "iletisim": "klinik-iletisim"
+      }
+    },
+    {
+      "slug": "emlak",
+      "name": "Emlak",
+      "description": "Emlak teması",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "emlak-ana-sayfa",
+        "menu": "emlak-menu",
+        "hakkimizda": "emlak-hakkimizda",
+        "iletisim": "emlak-iletisim"
+      }
+    },
+    {
+      "slug": "sanayi",
+      "name": "Sanayi",
+      "description": "Sanayi teması",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "sanayi-ana-sayfa",
+        "menu": "sanayi-menu",
+        "hakkimizda": "sanayi-hakkimizda",
+        "iletisim": "sanayi-iletisim"
+      }
+    },
+    {
+      "slug": "dekor",
+      "name": "Dekor",
+      "description": "Dekor teması",
+      "version": "1.0.0",
+      "modules": {
+        "ana-sayfa": "dekor-ana-sayfa",
+        "menu": "dekor-menu",
+        "hakkimizda": "dekor-hakkimizda",
+        "iletisim": "dekor-iletisim"
+      }
+    }
+  ],
+  "created_at": "2026-10-31T21:57:00Z",
+  "version": "1.0"
+}
