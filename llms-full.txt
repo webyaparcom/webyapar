@@ -13,14 +13,15 @@ Hazır web sitesi temaları
 Sektörünüze hazır web sitesi — canlı deneyin
 29 sektör için tasarlanmış kurumsal, e-ticaret ve galeri temaları. Üç dilde (TR · EN · AR), mobil uyumlu; beğendiğinizi markanıza uyarlıyoruz.
 Temaları gör Sektörler
-29
-Sektör teması
-3
-Dil
-3
-Tür
-100
-% statik
+E-ticaret temaları
+Ürününüzü vitrinden satışa
+Sepet, ödeme ve sipariş takibi hazır mağaza temaları. Ürünlerinizi ekleyin, kampanyalarınızı kurun; mağazanız üç dilde ve mobil uyumlu açılsın.
+Mağaza temaları Fiyatlar
+Galeri ve tanıtım temaları
+Markanızı çerçevelenmiş işlerle anlatın
+Otel, ajans, mimarlık ve portfolyo için görsel ağırlıklı galeri temaları. Projelerinizi, mekânlarınızı ve ekibinizi ilk bakışta okunur kılın.
+Galeri temaları Teklif alın
+01 / 03 Kurumsal
 Tema ara
 Sırala En yeni Ad (A–Z) Sektör (A–Z) Tür
 Tür

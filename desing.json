@@ -1,79 +1,79 @@
 {
-  "header": [
-    "k9pp01"
+ "header": [
+  "k9pp01"
+ ],
+ "body": [
+  "s1xy01",
+  "anztrj",
+  "1r4u9l",
+  "8miidd",
+  "zqhcyj",
+  "zzd4a6"
+ ],
+ "footer": [
+  "cj4bi4"
+ ],
+ "headerdefault": [
+  "k9pp01"
+ ],
+ "bodydefault": [],
+ "footerdefault": [
+  "cj4bi4"
+ ],
+ "headtop": "",
+ "headbottom": "<script>(function(){try{var s=new URLSearchParams(location.search).get(\"tema\");var N={\"restoran\":\"Kervan Sofrası\",\"klinik\":\"Berrak Tıp Merkezi\",\"emlak\":\"Anka Gayrimenkul\",\"sanayi\":\"Orvak Makina\",\"dekor\":\"Meşe Ev\",\"kuyumcu\":\"Zümra Kuyum\",\"gida\":\"Yeşil Kervan\",\"insaat\":\"Kalesu Yapı\",\"guzellik\":\"Sedef Studio\",\"portfolyo\":\"Deniz Altan\",\"hukuk\":\"Kaya Hukuk Bürosu\",\"otel\":\"Zeytinlik Butik Otel\",\"otogaleri\":\"Anadolu Oto Galeri\",\"ajans\":\"Pusula Ajans\",\"egitim\":\"Bilgi Fidanı Okulları\",\"spor\":\"Ritim Spor Merkezi\",\"cicekci\":\"Gül Dalı Çiçekçilik\",\"lojistik\":\"Anadolu Hat Lojistik\",\"enerji\":\"Güneşhat Enerji\",\"disticaret\":\"Pazar Köprüsü\",\"yedekparca\":\"Dişli Oto Yedek Parça\",\"arackiralama\":\"Yol Arkadaşı Rent a Car\",\"ismakinesi\":\"Sarıkazan İş Makineleri\",\"radyo\":\"Dalga FM\",\"stk\":\"Yeşil Umut Derneği\",\"haber\":\"Şehir Gündemi\",\"moda\":\"Lâl Moda\",\"elektronik\":\"Voltaj Elektronik\",\"saas\":\"Akışpano\"};if(!s||!N[s])return;var d=(document.documentElement.lang||\"tr\").slice(0,2);var M={tr:\"Merhaba, “\"+N[s]+\"” temasını istiyorum.\",en:\"Hello, I would like the “\"+N[s]+\"” theme.\",ar:\"مرحبًا، أودّ الحصول على قالب «\"+N[s]+\"».\"};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^=\"https://wa.me/\"]');for(var i=0;i<a.length;i++){a[i].href=\"https://wa.me/905316791014?text=\"+t;}}catch(e){}})();</script>",
+ "colors": {
+  "lite": [
+   {
+    "name": "--color1--",
+    "value": "#FFFFFF"
+   },
+   {
+    "name": "--color2--",
+    "value": "#F6F4F3"
+   },
+   {
+    "name": "--bg--",
+    "value": "#FFFFFF"
+   },
+   {
+    "name": "--text--",
+    "value": "#1A1717"
+   },
+   {
+    "name": "--button--",
+    "value": "#CC1F1B"
+   },
+   {
+    "name": "--buttonText--",
+    "value": "#FFFFFF"
+   }
   ],
-  "body": [
-    "l5xy67",
-    "anztrj",
-    "1r4u9l",
-    "8miidd",
-    "zqhcyj",
-    "zzd4a6"
-  ],
-  "footer": [
-    "cj4bi4"
-  ],
-  "headerdefault": [
-    "k9pp01"
-  ],
-  "bodydefault": [],
-  "footerdefault": [
-    "cj4bi4"
-  ],
-  "headtop": "",
-  "headbottom": "<script>(function(){try{var s=new URLSearchParams(location.search).get(\"tema\");var N={\"restoran\":\"Kervan Sofrası\",\"klinik\":\"Berrak Tıp Merkezi\",\"emlak\":\"Anka Gayrimenkul\",\"sanayi\":\"Orvak Makina\",\"dekor\":\"Meşe Ev\",\"kuyumcu\":\"Zümra Kuyum\",\"gida\":\"Yeşil Kervan\",\"insaat\":\"Kalesu Yapı\",\"guzellik\":\"Sedef Studio\",\"portfolyo\":\"Deniz Altan\",\"hukuk\":\"Kaya Hukuk Bürosu\",\"otel\":\"Zeytinlik Butik Otel\",\"otogaleri\":\"Anadolu Oto Galeri\",\"ajans\":\"Pusula Ajans\",\"egitim\":\"Bilgi Fidanı Okulları\",\"spor\":\"Ritim Spor Merkezi\",\"cicekci\":\"Gül Dalı Çiçekçilik\",\"lojistik\":\"Anadolu Hat Lojistik\",\"enerji\":\"Güneşhat Enerji\",\"disticaret\":\"Pazar Köprüsü\",\"yedekparca\":\"Dişli Oto Yedek Parça\",\"arackiralama\":\"Yol Arkadaşı Rent a Car\",\"ismakinesi\":\"Sarıkazan İş Makineleri\",\"radyo\":\"Dalga FM\",\"stk\":\"Yeşil Umut Derneği\",\"haber\":\"Şehir Gündemi\",\"moda\":\"Lâl Moda\",\"elektronik\":\"Voltaj Elektronik\",\"saas\":\"Akışpano\"};if(!s||!N[s])return;var d=(document.documentElement.lang||\"tr\").slice(0,2);var M={tr:\"Merhaba, “\"+N[s]+\"” temasını istiyorum.\",en:\"Hello, I would like the “\"+N[s]+\"” theme.\",ar:\"مرحبًا، أودّ الحصول على قالب «\"+N[s]+\"».\"};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^=\"https://wa.me/\"]');for(var i=0;i<a.length;i++){a[i].href=\"https://wa.me/905316791014?text=\"+t;}}catch(e){}})();</script>",
-  "colors": {
-    "lite": [
-      {
-        "name": "--color1--",
-        "value": "#FFFFFF"
-      },
-      {
-        "name": "--color2--",
-        "value": "#F6F4F3"
-      },
-      {
-        "name": "--bg--",
-        "value": "#FFFFFF"
-      },
-      {
-        "name": "--text--",
-        "value": "#1A1717"
-      },
-      {
-        "name": "--button--",
-        "value": "#CC1F1B"
-      },
-      {
-        "name": "--buttonText--",
-        "value": "#FFFFFF"
-      }
-    ],
-    "dark": [
-      {
-        "name": "--color1--",
-        "value": "#1F1A1A"
-      },
-      {
-        "name": "--color2--",
-        "value": "#1F1A1A"
-      },
-      {
-        "name": "--bg--",
-        "value": "#131010"
-      },
-      {
-        "name": "--text--",
-        "value": "#F2EEEE"
-      },
-      {
-        "name": "--button--",
-        "value": "#FF5A55"
-      },
-      {
-        "name": "--buttonText--",
-        "value": "#131010"
-      }
-    ]
-  }
+  "dark": [
+   {
+    "name": "--color1--",
+    "value": "#1F1A1A"
+   },
+   {
+    "name": "--color2--",
+    "value": "#1F1A1A"
+   },
+   {
+    "name": "--bg--",
+    "value": "#131010"
+   },
+   {
+    "name": "--text--",
+    "value": "#F2EEEE"
+   },
+   {
+    "name": "--button--",
+    "value": "#FF5A55"
+   },
+   {
+    "name": "--buttonText--",
+    "value": "#131010"
+   }
+  ]
+ }
 }
