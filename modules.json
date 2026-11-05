@@ -56,6 +56,71 @@
       "index": 1
     },
     {
+      "name": "Menü Portal 1",
+      "path": "menu-portal-1",
+      "local": "header",
+      "category": "menu",
+      "id": "k9pp01",
+      "desing": {
+        "menubg": "var(--mx-site-bg, #ffffff)",
+        "menutext": "var(--mx-site-text, #1b1b1b)",
+        "menuhoverbg": "color-mix(in srgb, var(--mx-site-primary, #CC1F1B) 10%, transparent)",
+        "logo": "logo.png",
+        "height": "72px",
+        "accent": "var(--mx-site-primary, #CC1F1B)",
+        "siteadi": "gizli",
+        "girishref": "musteri/giris",
+        "loginText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
+        },
+        "panoText": {
+          "tr": "Pano",
+          "en": "Dashboard",
+          "ar": "لوحة"
+        },
+        "bakiyeText": {
+          "tr": "Bakiye & Hizmetler",
+          "en": "Balance & Services",
+          "ar": "الرصيد والخدمات"
+        },
+        "faturalarText": {
+          "tr": "Faturalar",
+          "en": "Invoices",
+          "ar": "الفواتير"
+        },
+        "odemeText": {
+          "tr": "Ödeme",
+          "en": "Payment",
+          "ar": "الدفع"
+        },
+        "taleplerText": {
+          "tr": "Talepler",
+          "en": "Requests",
+          "ar": "الطلبات"
+        },
+        "profilText": {
+          "tr": "Profil",
+          "en": "Profile",
+          "ar": "الملف الشخصي"
+        },
+        "cikisText": {
+          "tr": "Çıkış",
+          "en": "Log out",
+          "ar": "خروج"
+        },
+        "uyeAria": {
+          "tr": "Üye menüsü",
+          "en": "Member menu",
+          "ar": "قائمة العضو"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "menu",
+      "index": 1
+    },
+    {
       "name": "Hero 1",
       "path": "hero-1",
       "local": "body",
