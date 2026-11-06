@@ -21,9 +21,7 @@
   "status": "play",
   "desing": {
     "header": [],
-    "body": [
-      "dwc4lc"
-    ],
+    "body": [],
     "footer": []
   },
   "index": 8,
@@ -39,7 +37,7 @@
     "ar": "سياسة ملفات تعريف الارتباط"
   },
   "date": "2026-11-02T12:09:57.592Z",
-  "update": "2026-11-02T12:34:33.170Z",
+  "update": "2026-11-06T08:32:38.900Z",
   "sablonIzi": "ea668369e15401e0",
   "sablonIziDil": {
     "en": "9902963b80c22af7",
