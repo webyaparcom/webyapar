@@ -7,11 +7,11 @@
 <title>404 — Webyapar</title>
 </head>
 <body>
-<link rel="stylesheet" href="/src/rubik.css?v=p38uz" />
+<link rel="stylesheet" href="/src/rubik.css?v=cg1oh" />
 <nav>
   <div href="/" class="menu">
     <a href="/" class="website_name"
-      ><img src="/img/logo.png?v=p38uz" width="300" alt="Webyapar Logo"
+      ><img src="/img/logo.png?v=cg1oh" width="300" alt="Webyapar Logo"
     /></a>
   </div>
 </nav>
@@ -829,10 +829,8 @@
   setTimeout(function() {
     var currentPath = window.location.pathname;
     var rtlLanguages = ['ar', 'he', 'fa']; // RTL diller: Arapça, İbranice, Farsça
-
     var langMatch = currentPath.match(/^\/([a-z]{2})\//);
     var currentLang = langMatch ? langMatch[1] : '';
-
     if (rtlLanguages.indexOf(currentLang) !== -1) {
       document.documentElement.setAttribute('dir', 'rtl');
     } else {
