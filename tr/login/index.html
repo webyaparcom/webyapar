@@ -38,20 +38,20 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/fonts/poppins.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/rubik.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/css.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=f7fxf" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/fonts/poppins.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/rubik.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/css.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=q8wxx" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=f7fxf" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=q8wxx" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=f7fxf" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=q8wxx" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=f7fxf" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=f7fxf" />
-  <link rel="shortcut icon" href="/img/icon.png?v=f7fxf" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=q8wxx" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=q8wxx" />
+  <link rel="shortcut icon" href="/img/icon.png?v=q8wxx" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -105,7 +105,7 @@
         "@type": "ImageObject",
         "url": "https://webyapar.com/img/logo.png"
       },
-      "dateModified": "2026-11-06T12:18:41.000Z",
+      "dateModified": "2026-11-06T15:30:07.241Z",
       "breadcrumb": {
         "@id": "https://webyapar.com/tr/login/#breadcrumb"
       }
@@ -132,7 +132,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=f7fxf">
+<link rel="stylesheet" href="style.css?v=q8wxx">
 </head>
 
 <body>
@@ -157,7 +157,7 @@
   <div id="header"><header class="mnu1-bar" role="banner" dir="ltr" data-mnu1-kok>
   <div class="mnu1-ic">
     <a class="mnu1-marka" href="/tr/" aria-label="Anasayfa - Webyapar" title="Anasayfa - Webyapar">
-      <img src="/img/logo.png?v=ar83v" class="mnu1-logo" alt="Webyapar Logo"  loading="lazy"/>
+      <img src="/img/logo.png?v=kn0tw" class="mnu1-logo" alt="Webyapar Logo"  loading="lazy"/>
       <span class="mnu1-ad" data-mnu1-ad="gizli" dir="auto">Webyapar</span>
     </a>
     <nav class="mnu1-nav" aria-label="Navigasyon">
@@ -399,12 +399,10 @@
 <p class="wylogin-kvkk">Bilgileriniz yalnız talebinizi değerlendirmek için kullanılır · <a href="/tr/user/kvkk">KVKK aydınlatma metni</a></p>
 </div>
 <div class="wylogin-panel" role="tabpanel" id="wylogin-panel-sifre" aria-labelledby="wylogin-sekme-sifre" hidden>
-<h2>Şifremi unuttum</h2><p>Portalda kayıtlı e-posta adresinizi ve adınızı yazın; kimliğinizi doğrulayıp şifrenizi yeniden belirlemeniz için size ulaşalım.</p>
+<h2>Şifremi unuttum</h2><p>Portalda kayıtlı e-posta adresinizi ya da telefon numaranızı yazın; kimliğinizi doğrulayıp şifrenizi yeniden belirlemeniz için size ulaşalım.</p>
 <form method="POST" action="/tr/user/sifre-unuttum" data-belirtec="sifre">
 <input type="hidden" name="csrf" value="">
-<div><label for="wylogin-s-eposta">E-posta</label><input id="wylogin-s-eposta" name="eposta" type="email" autocomplete="email" maxlength="254" required></div>
-<div><label for="wylogin-s-ad">Ad Soyad</label><input id="wylogin-s-ad" name="ad" type="text" autocomplete="name" maxlength="120" required></div>
-<div><label for="wylogin-s-telefon">Telefon <span>(isteğe bağlı)</span></label><input id="wylogin-s-telefon" name="telefon" type="tel" autocomplete="tel" maxlength="30"></div>
+<div><label for="wylogin-s-iletisim">E-posta veya telefon numarası</label><input id="wylogin-s-iletisim" name="iletisim" type="text" autocomplete="username" maxlength="254" required></div>
 <button type="submit" class="wylogin-dugme">Gönder</button>
 </form>
 <p class="wylogin-kvkk">Bilgileriniz yalnız talebinizi değerlendirmek için kullanılır · <a href="/tr/user/kvkk">KVKK aydınlatma metni</a></p>
@@ -552,10 +550,10 @@
   <script>(function(){try{var s=new URLSearchParams(location.search).get("tema");var N={"restoran":"Kervan Sofrası","klinik":"Berrak Tıp Merkezi","emlak":"Anka Gayrimenkul","sanayi":"Orvak Makina","dekor":"Meşe Ev","kuyumcu":"Zümra Kuyum","gida":"Yeşil Kervan","insaat":"Kalesu Yapı","guzellik":"Sedef Studio","portfolyo":"Deniz Altan","hukuk":"Kaya Hukuk Bürosu","otel":"Zeytinlik Butik Otel","otogaleri":"Anadolu Oto Galeri","ajans":"Pusula Ajans","egitim":"Bilgi Fidanı Okulları","spor":"Ritim Spor Merkezi","cicekci":"Gül Dalı Çiçekçilik","lojistik":"Anadolu Hat Lojistik","enerji":"Güneşhat Enerji","disticaret":"Pazar Köprüsü","yedekparca":"Dişli Oto Yedek Parça","arackiralama":"Yol Arkadaşı Rent a Car","ismakinesi":"Sarıkazan İş Makineleri","radyo":"Dalga FM","stk":"Yeşil Umut Derneği","haber":"Şehir Gündemi","moda":"Lâl Moda","elektronik":"Voltaj Elektronik","saas":"Akışpano"};if(!s||!N[s])return;var d=(document.documentElement.lang||"tr").slice(0,2);var M={tr:"Merhaba, “"+N[s]+"” temasını istiyorum.",en:"Hello, I would like the “"+N[s]+"” theme.",ar:"مرحبًا، أودّ الحصول على قالب «"+N[s]+"»."};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^="https://wa.me/"]');for(var i=0;i<a.length;i++){a[i].href="https://wa.me/905316791014?text="+t;}}catch(e){}})();</script>
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=f7fxf"></script>
-  <script defer src="/src/mx-store.js?v=f7fxf"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=f7fxf"></script>
-  <script defer src="/src/cookie.js?v=f7fxf"></script>
+  <script defer src="/src/mx-ui.js?v=q8wxx"></script>
+  <script defer src="/src/mx-store.js?v=q8wxx"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=q8wxx"></script>
+  <script defer src="/src/cookie.js?v=q8wxx"></script>
 
 </body>
 
