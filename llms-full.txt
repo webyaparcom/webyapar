@@ -415,7 +415,64 @@ https://webyapar.com/tr/sektorler/
 
 Restoran, klinik, emlak, sanayi, dekorasyon, kuyumcu, gıda, inşaat, güzellik ve portfolyo için hazır web sitesi temaları.
 
-Sektörlere göre web sitesi — Webyapar
+Restoran web sitesi
+Menü, alerjen bilgisi, masa rezervasyonu ve şubeler tek yerde: misafirleriniz ne yiyeceğini ve nasıl yer ayırtacağını saniyeler içinde bulsun. İncele
+Klinik web sitesi
+Branşlar, hekim tanıtımı ve randevu talebi güven veren, sakin bir tasarımda; hasta bilgilendirmesi açık ve anlaşılır. İncele
+Emlak web sitesi
+İlan listesi, filtre, harita ve talep formu: alıcı aradığı ilanı hızlıca bulsun, siz de nitelikli talep alın. İncele
+Sanayi web sitesi
+Ürün grupları, teknik tablolar, sertifikalar ve teklif talebi: kurumsal alıcıya aradığı bilgiyi baştan verin. İncele
+Dekorasyon e-ticaret sitesi
+Ürün vitrini, sepet ve ödeme akışıyla uçtan uca denenebilen statik mağaza; sepet tarayıcıda tutulur. İncele
+Kuyumcu e-ticaret sitesi
+Ürün vitrini, altın fiyat bandı, sepet ve demo ödeme: değerli ürünler için sade ve güven veren bir mağaza. İncele
+Gıda e-ticaret sitesi
+Kategori filtreli ürün listesi, içerik ve alerjen etiketi, sepet ve demo ödeme: paketli gıda satışı için hazır vitrin. İncele
+İnşaat web sitesi
+Proje portföyü, filtreli referanslar, öncesi-sonrası ilerleme galerisi ve teknik tablolar: işinizi görerek anlatın. İncele
+Güzellik merkezi web sitesi
+Hizmet listesi ve fiyatlar, uzman ekip, öncesi-sonrası galeri ve randevu: güzellik merkezi için sıcak ve şık bir vitrin. İncele
+Fotoğrafçı portfolyo web sitesi
+Kategori filtreli galeri, tam ekran görüntüleyici, çekim paketleri ve rezervasyon: işleriniz ön planda, ürün satan değil sanat gösteren bir site. İncele
+Hukuk bürosu web sitesi
+Çalışma alanları, ön görüşme talebi ve meslek kuralları sakin bir tasarımda; reklam yasağına uygun, sade bir yapı. İncele
+Otel web sitesi
+Odalar, olanaklar, konaklama talebi ve iptal koşulları tek yerde; belge numarası ve cayma bilgisi açık yazılı. İncele
+Oto galeri web sitesi
+Filtreli araç ilanları, ekspertiz randevusu ve satış koşulları; her ilanda yetki belgesi numarası görünür. İncele
+Ajans web sitesi
+Hizmetler, örnek işler ve teklif talebi; işlerin görselleri önde, arayüz geri planda. İncele
+Okul web sitesi
+Kademeler, önkayıt görüşmesi, akademik takvim ve kurum izin bilgileri; çocuk görseli olmadan güvenli bir anlatım. İncele
+Spor salonu web sitesi
+Dersler, ders programı, üyelik paketleri ve deneme dersi; fesih, dondurma ve yenileme koşulları açık. İncele
+Çiçekçi web sitesi
+Buketler, aranjmanlar, teslimat penceresi ve sipariş talebi; çabuk bozulan mal için cayma bilgisi açık. İncele
+Lojistik web sitesi
+Hizmetler, teklif talebi ve belgeler; yetki belgesi türleri her teklifte ve belgeler sayfasında açık. İncele
+Enerji ve GES web sitesi
+GES ve elektrik taahhüt hizmetleri, keşif randevusu ve belgeler; tahminler açıkça varsayım olarak işaretli. İncele
+Dış ticaret web sitesi
+Ürün grupları, hedef pazarlar, sertifikalar ve teklif talebi; Türkçe, İngilizce ve Arapça birlikte. İncele
+Oto yedek parça web sitesi
+Parça grupları, stok sorma ve garanti-iade bilgisi; OEM ve eşdeğer parça açıkça etiketli. İncele
+Araç kiralama web sitesi
+Filtreli kiralık araçlar, rezervasyon talebi ve kiralama koşulları; depozito ve iptal baştan açık. İncele
+İş makinesi kiralama web sitesi
+Makine parkı, keşif randevusu ve kiralama koşulları; periyodik kontrol ve operatör belgeleri açık. İncele
+Radyo web sitesi
+Programlar, yayın akışı, reklam talebi ve künye; lisans bilgileri açık. (Demoda ses yayını yoktur.) İncele
+Dernek web sitesi
+Faaliyetler, gönüllü olma, şeffaflık ve bağış bilgisi; üye listesi ve telefonlar yayımlanmaz. İncele
+Haber ve şehir rehberi web sitesi
+Kategoriler, künye ve haber gönderimi; künye ana sayfadan erişilir, her haberde ilk yayın ve güncelleme tarihi yer alır. İncele
+Moda e-ticaret sitesi
+Giyim ve aksesuar vitrini, sepet ve demo ödeme akışı; iade ve iç giyim istisnası açık yazılı. İncele
+Elektronik e-ticaret sitesi
+Ses, giyilebilir ve bilgisayar ürünleri, sepet ve demo ödeme akışı; 2 yıl garanti ve iade koşulları açık. İncele
+SaaS web sitesi
+Özellikler, fiyatlar, demo talebi ve veri güvenliği; otomatik yenileme ve KVKK bilgisi açık. İncele
 Sektörünüze uygun temayı seçin
 Canlı demoları gezin, beğendiğinizi isteyin; kalanını biz hallederiz.
 Temaları gör Teklif al

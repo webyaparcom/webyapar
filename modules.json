@@ -29117,6 +29117,268 @@
       "version": "1.0.0",
       "icon": "view_carousel",
       "index": 144
+    },
+    {
+      "name": "Sektör Vitrini",
+      "desing": {
+        "max": "1200px",
+        "radius": "14px",
+        "bgcolor": "var(--mx-site-surface-2, #f6f4f3)",
+        "cardbg": "var(--mx-site-surface, #ffffff)",
+        "mediabg": "var(--mx-site-surface-2, #f6f4f3)",
+        "titlecolor": "var(--mx-site-text, #1b1b1b)",
+        "textcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-surface, #ffffff))",
+        "accent": "var(--mx-site-primary, #CC1F1B)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "headingTag": "h1",
+        "page": "page",
+        "parent": "",
+        "sort": "desc",
+        "filtre": true,
+        "eticaretKelime": "eticaret",
+        "title": {
+          "tr": "Sektörlere göre web sitesi",
+          "en": "Websites by industry",
+          "ar": "مواقع حسب القطاع"
+        },
+        "description": {
+          "tr": "Sektörünüze uygun hazır tema: açılış sayfasını inceleyin, canlı demoyu deneyin.",
+          "en": "A ready-made theme for your industry: read the overview and try the live demo.",
+          "ar": "قالب جاهز لقطاعك: اطّلع على الصفحة التعريفية وجرّب العرض المباشر."
+        },
+        "ctaText": {
+          "tr": "İncele",
+          "en": "Explore",
+          "ar": "استكشف"
+        },
+        "filterLabel": {
+          "tr": "Site türüne göre süz",
+          "en": "Filter by site type",
+          "ar": "التصفية حسب نوع الموقع"
+        },
+        "allText": {
+          "tr": "Tümü",
+          "en": "All",
+          "ar": "الكل"
+        },
+        "kurumsalText": {
+          "tr": "Kurumsal web",
+          "en": "Corporate website",
+          "ar": "موقع مؤسسي"
+        },
+        "eticaretText": {
+          "tr": "E-ticaret",
+          "en": "E-commerce",
+          "ar": "متجر إلكتروني"
+        },
+        "resultCount": {
+          "tr": {
+            "other": "{n} sektör gösteriliyor"
+          },
+          "en": {
+            "one": "Showing {n} industry",
+            "other": "Showing {n} industries"
+          },
+          "ar": {
+            "zero": "لا توجد قطاعات",
+            "one": "يُعرض قطاع واحد",
+            "two": "يُعرض قطاعان",
+            "few": "يُعرض {n} قطاعات",
+            "many": "يُعرض {n} قطاعًا",
+            "other": "يُعرض {n} قطاع"
+          }
+        }
+      },
+      "data": [
+        {
+          "page": "saas-web-sitesi",
+          "img": "/img/hero-saas.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "elektronik-eticaret-sitesi",
+          "img": "/img/hero-elektronik.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "moda-eticaret-sitesi",
+          "img": "/img/hero-moda.webp",
+          "w": 3840,
+          "h": 2160
+        },
+        {
+          "page": "haber-rehber-web-sitesi",
+          "img": "/img/hero-haber.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "dernek-web-sitesi",
+          "img": "/img/hero-stk.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "radyo-web-sitesi",
+          "img": "/img/hero-radyo.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "is-makinesi-web-sitesi",
+          "img": "/img/hero-ismakinesi.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "arac-kiralama-web-sitesi",
+          "img": "/img/hero-arackiralama.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "oto-yedek-parca-web-sitesi",
+          "img": "/img/hero-yedekparca.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "dis-ticaret-web-sitesi",
+          "img": "/img/hero-disticaret.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "enerji-web-sitesi",
+          "img": "/img/hero-enerji.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "lojistik-web-sitesi",
+          "img": "/img/hero-lojistik.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "cicekci-web-sitesi",
+          "img": "/img/hero-cicekci.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "spor-salonu-web-sitesi",
+          "img": "/img/hero-spor.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "okul-web-sitesi",
+          "img": "/img/hero-egitim.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "ajans-web-sitesi",
+          "img": "/img/hero-ajans.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "oto-galeri-web-sitesi",
+          "img": "/img/hero-otogaleri.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "otel-web-sitesi",
+          "img": "/img/hero-otel.webp",
+          "w": 3840,
+          "h": 2160
+        },
+        {
+          "page": "hukuk-burosu-web-sitesi",
+          "img": "/img/hero-hukuk.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "portfolyo-web-sitesi",
+          "img": "/img/hero-portfolyo.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "guzellik-merkezi-web-sitesi",
+          "img": "/img/hero-guzellik.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "insaat-web-sitesi",
+          "img": "/img/hero-insaat.webp",
+          "w": 3840,
+          "h": 2160
+        },
+        {
+          "page": "gida-eticaret-sitesi",
+          "img": "/img/hero-gida.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "kuyumcu-eticaret-sitesi",
+          "img": "/img/hero-kuyumcu.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "dekorasyon-eticaret-sitesi",
+          "img": "/img/hero-dekor.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "sanayi-web-sitesi",
+          "img": "/img/hero-sanayi.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "emlak-web-sitesi",
+          "img": "/img/hero-emlak.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "klinik-web-sitesi",
+          "img": "/img/hero-klinik.webp",
+          "w": 1920,
+          "h": 1080
+        },
+        {
+          "page": "restoran-web-sitesi",
+          "img": "/img/hero-restoran.webp",
+          "w": 1920,
+          "h": 1080
+        }
+      ],
+      "category": "page-list",
+      "description": "Sektör vitrini: bir üst sayfanın (varsayılan: modülün bulunduğu sayfa) yayındaki alt sayfalarını görselli kart ızgarası olarak basar — ad ve açıklama sayfanın kendisinden (name/description), görsel data[] eşlemesinden ({ page, img, w, h }). Kartlar sunucuda kaçışlı basılır (JS'siz görünür); isteğe bağlı «Tümü · Kurumsal web · E-ticaret» çipleri istemcide süzer (?tur= adreste kalır). 16/10 görsel, 2 satır açıklama, tam tıklanabilir kart, 4/3/2/1 sütun, RTL ve koyu kip uyumlu.",
+      "version": "1.0.0",
+      "icon": "storefront",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "webmakerdata.page + data (görsel eşlemesi)"
+      },
+      "id": "61uhs6",
+      "path": "sektor-vitrin",
+      "local": "body",
+      "index": 146
     }
   ]
 }
