@@ -23,14 +23,17 @@
     outline: 2px solid var(--mnu1-vurgu);
     outline-offset: 2px;
   }
+  
   .mnu1-ic {
+    position: relative;
     width: min(100%, var(--max, 1280px));
-    height: 72px;
+    height: 88px;
+    min-height: 72px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 24px;
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 28px;
   }
   .mnu1-marka {
     display: inline-flex;
@@ -43,9 +46,9 @@
   }
   .mnu1-logo {
     display: block;
-    height: 40px;
+    height: 36px;
     width: auto;
-    max-width: 200px;
+    max-width: 180px;
     object-fit: contain;
     object-position: left center;
   }
@@ -56,25 +59,29 @@
     clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
   }
   .mnu1-nav { flex: 1; min-width: 0; display: flex; justify-content: center; }
-  .mnu1-linkler { display: flex; align-items: center; gap: 4px; }
+  
+  .mnu1-linkler { display: flex; align-items: center; justify-content: space-between; gap: 8px; width: 100%; max-width: 760px; }
   .mnu1-link {
     position: relative;
     display: inline-block;
-    padding: 8px 12px;
-    font-size: 15px;
+    padding: 10px 12px;
+    font-size: 14px;
     font-weight: 500;
+    line-height: 1.3;
     color: inherit;
     text-decoration: none;
     white-space: nowrap;
     border-radius: 8px;
+    transition: color 0.2s ease;
   }
+  .mnu1-link:hover { color: var(--mnu1-vurgu); }
   
   .mnu1-link::after {
     content: "";
     position: absolute;
     left: 12px;
     right: 12px;
-    bottom: 2px;
+    bottom: 4px;
     height: 2px;
     border-radius: 2px;
     background: var(--mnu1-vurgu);
@@ -85,18 +92,42 @@
   .mnu1-link:hover::after, .mnu1-link:focus-visible::after { transform: scaleX(1); }
   .mnu1-link.mnu1-aktif { color: var(--mnu1-vurgu); font-weight: 700; }
   .mnu1-link.mnu1-aktif::after { height: 3px; transform: scaleX(1); }
+  
   .mnu1-sag { display: flex; align-items: center; gap: 16px; flex: none; }
-  .mnu1-diller { display: flex; align-items: center; font-size: 13px; font-weight: 600; }
+  .mnu1-diller {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    padding: 3px;
+    border: 1px solid var(--mnu1-cizgi);
+    border-radius: 999px;
+    background: color-mix(in srgb, var(--mnu1-yazi) 6%, transparent);
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 1;
+  }
   .mnu1-diller:empty { display: none; }
-  .mnu1-diller li + li::before { content: "\00B7"; padding: 0 6px; color: var(--mnu1-soluk); }
-  .mnu1-dil { color: var(--mnu1-soluk); text-decoration: none; padding: 4px 2px; border-radius: 4px; }
-  .mnu1-dil:hover { color: var(--mnu1-yazi); }
-  .mnu1-dil.mnu1-dil-aktif { color: var(--mnu1-vurgu); }
+  .mnu1-diller li { display: flex; }
+  .mnu1-dil {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 36px;
+    padding: 8px 9px;
+    border-radius: 999px;
+    color: var(--mnu1-soluk);
+    text-decoration: none;
+    letter-spacing: 0.04em;
+    transition: background-color 0.2s ease, color 0.2s ease;
+  }
+  .mnu1-dil:hover { color: var(--mnu1-yazi); background: var(--mnu1-hover); }
+  .mnu1-dil.mnu1-dil-aktif { background: var(--mnu1-vurgu); color: var(--mx-site-primary-contrast, #fff); }
   .mnu1-giris {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    padding: 10px 18px;
+    min-height: 42px;
+    padding: 10px 20px;
     border-radius: 10px;
     background: var(--mnu1-vurgu);
     color: var(--mx-site-primary-contrast, #fff);
@@ -113,7 +144,8 @@
     box-shadow: 0 6px 14px color-mix(in srgb, var(--mnu1-vurgu) 28%, transparent);
   }
   .mnu1-giris:active { transform: none; box-shadow: none; }
-  .mnu1-uye { position: relative; }
+  
+  .mnu1-uye { position: static; }
   .mnu1-cip {
     display: inline-flex;
     align-items: center;
@@ -146,16 +178,16 @@
   .mnu1-isim {
     font-size: 14px;
     font-weight: 600;
-    max-width: 160px;
+    max-width: 96px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   .mnu1-dropdown {
     position: absolute;
-    top: calc(100% + 8px);
-    right: 0;
-    min-width: 230px;
+    top: calc(100% + 1px);
+    right: 24px;
+    min-width: 240px;
     padding: 8px;
     border-radius: 12px;
     border: 1px solid var(--mnu1-cizgi);
@@ -168,6 +200,7 @@
   @keyframes mnu1-belir { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: none; } }
   .mnu1-kartbas { display: flex; align-items: center; gap: 10px; padding: 8px 10px 10px; }
   .mnu1-kimlik { display: flex; flex-direction: column; min-width: 0; }
+  .mnu1-kimlik .mnu1-isim { max-width: 200px; }
   .mnu1-eposta {
     font-size: 12px;
     color: var(--mnu1-soluk);
@@ -208,19 +241,19 @@
   .mnu1-hamburger, .mnu1-ortu, .mnu1-drawer { display: none; }
 
   
-  @media (min-width: 1024px) and (max-width: 1279px) {
-    .mnu1-ic { gap: 14px; padding: 0 16px; }
-    .mnu1-logo { max-width: 150px; height: 34px; }
-    .mnu1-link { padding: 8px 7px; font-size: 14px; }
-    .mnu1-link::after { left: 7px; right: 7px; }
+  @media (min-width: 1200px) and (max-width: 1279.98px) {
+    .mnu1-ic { gap: 24px; padding: 0 20px; }
+    .mnu1-logo { max-width: 150px; height: 32px; }
+    .mnu1-link { padding: 10px 10px; }
+    .mnu1-link::after { left: 10px; right: 10px; }
     .mnu1-sag { gap: 12px; }
-    .mnu1-giris { padding: 10px 14px; }
-    .mnu1-isim { max-width: 110px; }
+    .mnu1-giris { padding: 10px 16px; }
+    .mnu1-dropdown { right: 20px; }
   }
 
   
-  @media (max-width: 1023.98px) {
-    .mnu1-ic { height: 64px; padding: 0 12px 0 16px; gap: 12px; }
+  @media (max-width: 1199.98px) {
+    .mnu1-ic { height: 68px; min-height: 0; padding: 0 12px 0 16px; gap: 12px; }
     .mnu1-nav, .mnu1-sag { display: none; }
     .mnu1-marka { flex: 1; }
     .mnu1-logo { height: 34px; max-width: 160px; }
@@ -229,8 +262,8 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 44px;
-      height: 44px;
+      width: 48px;
+      height: 48px;
       margin-left: auto;
       padding: 0;
       border: 0;
@@ -250,14 +283,14 @@
     .mnu1-drawer {
       display: flex;
       flex-direction: column;
-      gap: 8px;
+      gap: 4px;
       position: fixed;
       top: 0;
       right: 0;
-      width: min(320px, 85%);
+      width: min(340px, 88%);
       height: 100%;
       height: 100dvh;
-      padding: 8px 20px 24px;
+      padding: 10px 20px 28px;
       overflow-y: auto;
       background: var(--mnu1-zemin);
       color: var(--mnu1-yazi);
@@ -268,13 +301,13 @@
       transition: transform 0.25s ease, visibility 0s linear 0.25s;
     }
     .mnu1-drawer.mnu1-acik { transform: none; visibility: visible; transition: transform 0.25s ease; }
-    .mnu1-drawerbas { display: flex; justify-content: flex-end; }
+    .mnu1-drawerbas { display: flex; justify-content: flex-end; margin-bottom: 8px; }
     .mnu1-kapat {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      width: 44px;
-      height: 44px;
+      width: 48px;
+      height: 48px;
       border: 0;
       border-radius: 10px;
       background: transparent;
@@ -282,18 +315,44 @@
       cursor: pointer;
     }
     .mnu1-kapat:hover { background: var(--mnu1-hover); }
-    .mnu1-drawerlinkler { flex-direction: column; align-items: stretch; gap: 0; }
-    .mnu1-drawerlinkler .mnu1-link { display: block; padding: 12px 4px; font-size: 16px; border-radius: 0; }
-    .mnu1-drawerlinkler .mnu1-link::after { left: 4px; right: auto; width: 32px; bottom: 6px; }
-    .mnu1-drawerdiller { padding: 12px 4px 4px; font-size: 14px; }
-    .mnu1-tam { display: flex; width: 100%; margin-top: 8px; padding: 12px 18px; }
-    .mnu1-draweruye .mnu1-kartbas { padding: 8px 4px 4px; }
+    
+    .mnu1-drawerlinkler { flex-direction: column; align-items: stretch; gap: 4px; }
+    .mnu1-drawerlinkler .mnu1-link {
+      display: flex;
+      align-items: center;
+      min-height: 48px;
+      padding: 12px 16px;
+      font-size: 16px;
+      border-radius: 10px;
+    }
+    .mnu1-drawerlinkler .mnu1-link:hover { background: var(--mnu1-hover); }
+    .mnu1-drawerlinkler .mnu1-link.mnu1-aktif { background: var(--mnu1-hover); }
+    .mnu1-drawerlinkler .mnu1-link::after { left: auto; right: auto; inset-inline-start: 0; top: 12px; bottom: 12px; width: 3px; height: auto; transform: scaleY(0); transform-origin: center; }
+    .mnu1-drawerlinkler .mnu1-link:hover::after, .mnu1-drawerlinkler .mnu1-link:focus-visible::after { transform: scaleY(1); }
+    .mnu1-drawerlinkler .mnu1-link.mnu1-aktif::after { width: 3px; height: auto; transform: scaleY(1); }
+    
+    .mnu1-drawerayrac { margin: 12px 0; }
+    
+    .mnu1-drawersag { display: flex; flex-direction: column; gap: 16px; }
+    .mnu1-drawerdiller { width: 100%; padding: 4px; font-size: 14px; }
+    .mnu1-drawerdiller li { flex: 1; }
+    .mnu1-drawerdiller .mnu1-dil { flex: 1; min-height: 44px; }
+    .mnu1-tam { display: flex; width: 100%; min-height: 52px; padding: 14px 18px; font-size: 16px; border-radius: 12px; }
+    
+    .mnu1-draweruye { display: flex; flex-direction: column; gap: 4px; margin-top: 16px; }
+    .mnu1-draweruye .mnu1-kartbas {
+      padding: 12px;
+      border-radius: 12px;
+      background: color-mix(in srgb, var(--mnu1-yazi) 6%, transparent);
+      margin-bottom: 4px;
+    }
     .mnu1-draweruye .mnu1-isim { max-width: 210px; font-size: 15px; }
-    .mnu1-draweruye .mnu1-uyelink { padding: 11px 4px; font-size: 15px; }
+    .mnu1-draweruye .mnu1-uyelink { min-height: 48px; padding: 12px 16px; font-size: 15px; border-radius: 10px; }
     .mnu1-cikistam {
       margin-top: 12px;
-      padding: 12px 18px;
-      border-radius: 10px;
+      min-height: 52px;
+      padding: 14px 18px;
+      border-radius: 12px;
       background: var(--mnu1-vurgu);
       color: var(--mx-site-primary-contrast, #fff);
       text-align: center;

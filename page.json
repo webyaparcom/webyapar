@@ -1022,6 +1022,32 @@
         "footer": []
       },
       "index": 34
+    },
+    {
+      "id": "login",
+      "name": {
+        "tr": "Üye Girişi",
+        "en": "Login",
+        "ar": "تسجيل الدخول"
+      },
+      "description": {
+        "tr": "Webyapar müşteri portalına giriş yapın, üyelik talebi gönderin ya da şifre yenileme isteyin.",
+        "en": "Sign in to the Webyapar customer portal, send a membership request or ask for a password reset.",
+        "ar": "سجّل الدخول إلى بوابة عملاء Webyapar أو أرسل طلب عضوية أو اطلب إعادة تعيين كلمة المرور."
+      },
+      "path": "login",
+      "icon": "login",
+      "category": "",
+      "status": "play",
+      "menu": false,
+      "desing": {
+        "header": [],
+        "body": [
+          "dwc4lc"
+        ],
+        "footer": []
+      },
+      "index": 36
     }
   ],
   "desc": []

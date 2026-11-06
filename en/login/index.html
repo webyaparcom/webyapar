@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+  <title>Login — Webyapar</title>
+  <meta name="description" content="Sign in to the Webyapar customer portal, send a membership request or ask for a password reset." />
+  <meta name="keywords" content="webyapar login, customer portal, register, forgot password" />
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="canonical" href="https://webyapar.com/en/login/" />
+  <link rel="alternate" hreflang="tr" href="https://webyapar.com/tr/login/" />
+  <link rel="alternate" hreflang="en" href="https://webyapar.com/en/login/" />
+  <link rel="alternate" hreflang="ar" href="https://webyapar.com/ar/login/" />
+  <link rel="alternate" hreflang="x-default" href="https://webyapar.com/tr/login/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Login — Webyapar" />
+  <meta property="og:description" content="Sign in to the Webyapar customer portal, send a membership request or ask for a password reset." />
+  <meta property="og:url" content="https://webyapar.com/en/login/" />
+  <meta property="og:image" content="https://webyapar.com/img/logo.png" />
+  <meta property="og:image:alt" content="Login" />
+  <meta property="og:site_name" content="Webyapar" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="tr_TR" />
+  <meta property="og:locale:alternate" content="ar_SA" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Login — Webyapar" />
+  <meta name="twitter:description" content="Sign in to the Webyapar customer portal, send a membership request or ask for a password reset." />
+  <meta name="twitter:image" content="https://webyapar.com/img/logo.png" />
+
+  <meta name="theme-color" content="#CC1F1B" />
+  <meta name="mx-api-base" content="none" />
+  <link rel="manifest" href="/manifest.json" />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/fonts/poppins.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/rubik.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/css.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=dyjli" />
+  
+  <link rel="stylesheet" href="/src/mx-ui.css?v=dyjli" />
+  <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=dyjli" />
+  
+  <link rel="stylesheet" href="/src/cookie.css?v=dyjli" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=dyjli" />
+  <link rel="shortcut icon" href="/img/icon.png?v=dyjli" type="image/png" />
+  <link rel="apple-touch-icon" href="/img/icon.png" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://webyapar.com/#website",
+      "url": "https://webyapar.com/",
+      "name": "Webyapar",
+      "description": "Webyapar: ready-made corporate, e-commerce and gallery website themes for 29 industries. Live demos, Turkish · English · Arabic, mobile-ready.",
+      "inLanguage": "en",
+      "publisher": {
+        "@id": "https://webyapar.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://webyapar.com/#organization",
+      "name": "Webyapar",
+      "url": "https://webyapar.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://webyapar.com/img/logo.png"
+      },
+      "image": "https://webyapar.com/img/logo.png",
+      "description": "Webyapar: ready-made corporate, e-commerce and gallery website themes for 29 industries. Live demos, Turkish · English · Arabic, mobile-ready.",
+      "telephone": "0531 679 10 14",
+      "email": "info@webyapar.com",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer service",
+        "telephone": "0531 679 10 14",
+        "email": "info@webyapar.com"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://webyapar.com/en/login/#webpage",
+      "url": "https://webyapar.com/en/login/",
+      "name": "Login",
+      "description": "Sign in to the Webyapar customer portal, send a membership request or ask for a password reset.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://webyapar.com/#website"
+      },
+      "about": {
+        "@id": "https://webyapar.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://webyapar.com/img/logo.png"
+      },
+      "dateModified": "2026-11-06T12:18:41.000Z",
+      "breadcrumb": {
+        "@id": "https://webyapar.com/en/login/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://webyapar.com/en/login/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Webyapar",
+          "item": "https://webyapar.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Login",
+          "item": "https://webyapar.com/en/login/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  
+<link rel="stylesheet" href="style.css?v=dyjli">
+</head>
+
+<body>
+  <a class="mx-skip-link" href="#content">Skip to content</a>
+  <script>
+    (function () {
+      window.user = window.user || { id: null, email: null, name: null, isLoggedIn: false, loginMethod: null };
+      var emptySnapshot = { empty: true, forEach: function () {} };
+      var emptyDoc = { exists: false, data: function () { return null; } };
+      if (typeof window.dataAddWeb !== "function") window.dataAddWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataDeleteWeb !== "function") window.dataDeleteWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataUpdateWeb !== "function") window.dataUpdateWeb = function () { return Promise.resolve(); };
+      if (typeof window.dataGetWeb !== "function") window.dataGetWeb = function () { return Promise.resolve(emptyDoc); };
+      if (typeof window.dataListWeb !== "function") window.dataListWeb = function () { return Promise.resolve(emptySnapshot); };
+      if (typeof window.authStateListenerWeb !== "function") {
+        window.authStateListenerWeb = function (cb) {
+          if (typeof cb === "function") setTimeout(function () { cb(null); }, 0);
+        };
+      }
+    })();
+  </script>
+  <div id="header"><header class="mnu1-bar" role="banner" dir="ltr" data-mnu1-kok>
+  <div class="mnu1-ic">
+    <a class="mnu1-marka" href="/en/" aria-label="Home - Webyapar" title="Home - Webyapar">
+      <img src="/img/logo.png?v=h83sa" class="mnu1-logo" alt="Webyapar Logo"  loading="lazy"/>
+      <span class="mnu1-ad" data-mnu1-ad="gizli" dir="auto">Webyapar</span>
+    </a>
+    <nav class="mnu1-nav" aria-label="Navigation">
+      <ul class="mnu1-linkler"><li><a href="/en/" class="mnu1-link" dir="auto">Home</a></li><li><a href="/en/temalar/" class="mnu1-link" dir="auto">Themes</a></li><li><a href="/en/sektorler/" class="mnu1-link" dir="auto">Industries</a></li><li><a href="/en/hizmetler/" class="mnu1-link" dir="auto">Services</a></li><li><a href="/en/fiyatlar/" class="mnu1-link" dir="auto">Pricing</a></li><li><a href="/en/hakkimizda/" class="mnu1-link" dir="auto">Corporate</a></li><li><a href="/en/iletisim/" class="mnu1-link" dir="auto">Contact</a></li></ul>
+    </nav>
+    <div class="mnu1-sag">
+      <ul class="mnu1-diller" aria-label="Language Selector"><li><a href="/tr/login/" class="mnu1-dil" hreflang="tr" lang="tr" aria-label="Language Selector: tr">TR</a></li><li><a href="/en/login/" class="mnu1-dil mnu1-dil-aktif" aria-current="true" hreflang="en" lang="en" aria-label="Language Selector: en">EN</a></li><li><a href="/ar/login/" class="mnu1-dil" hreflang="ar" lang="ar" aria-label="Language Selector: ar">AR</a></li></ul>
+      <a class="mnu1-giris" href="/tr/login" data-mnu1-misafir dir="auto">Login</a>
+      <div class="mnu1-uye" data-mnu1-uye hidden>
+        <button type="button" class="mnu1-cip" aria-expanded="false" aria-controls="mnu1-dropdown" aria-label="Member menu">
+          <span class="mnu1-avatar" data-mnu1-bas aria-hidden="true"></span>
+          <span class="mnu1-isim" data-mnu1-isim dir="auto"></span>
+          <svg class="mnu1-chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 9l6 6 6-6"/></svg>
+        </button>
+        <div class="mnu1-dropdown" id="mnu1-dropdown" hidden>
+          <div class="mnu1-kartbas">
+            <span class="mnu1-avatar" data-mnu1-bas aria-hidden="true"></span>
+            <span class="mnu1-kimlik">
+              <span class="mnu1-isim" data-mnu1-isim dir="auto"></span>
+              <span class="mnu1-eposta" data-mnu1-eposta dir="ltr"></span>
+            </span>
+          </div>
+          <ul class="mnu1-uyelinkler"><li><a href="/musteri" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span dir="auto">Dashboard</span></a></li><li><a href="/musteri/cari" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="6" width="18" height="14" rx="2"/><path d="M3 10h18M16 15h2M7 6V4h10v2"/></svg><span dir="auto">Balance & Services</span></a></li><li><a href="/musteri/faturalar" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h7M9 17h5"/></svg><span dir="auto">Invoices</span></a></li><li><a href="/musteri/odeme" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20M6 15h4"/></svg><span dir="auto">Payment</span></a></li><li><a href="/musteri/talep" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg><span dir="auto">Requests</span></a></li><li><a href="/musteri/profil" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg><span dir="auto">Profile</span></a></li></ul>
+          <hr class="mnu1-ayrac" />
+          <button type="button" class="mnu1-cikis" data-mnu1-cikis dir="auto">Log out</button>
+        </div>
+      </div>
+    </div>
+    <button type="button" class="mnu1-hamburger" aria-expanded="false" aria-haspopup="dialog" aria-controls="mnu1-drawer" aria-label="Toggle Menu">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <div class="mnu1-ortu" data-mnu1-ortu hidden></div>
+  <div class="mnu1-drawer" id="mnu1-drawer" role="dialog" aria-modal="true" aria-label="Navigation" aria-hidden="true">
+    <div class="mnu1-drawerbas">
+      <button type="button" class="mnu1-kapat" aria-label="Close Menu">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+    <nav class="mnu1-bolum" aria-label="Navigation">
+      <ul class="mnu1-linkler mnu1-drawerlinkler"><li><a href="/en/" class="mnu1-link" dir="auto">Home</a></li><li><a href="/en/temalar/" class="mnu1-link" dir="auto">Themes</a></li><li><a href="/en/sektorler/" class="mnu1-link" dir="auto">Industries</a></li><li><a href="/en/hizmetler/" class="mnu1-link" dir="auto">Services</a></li><li><a href="/en/fiyatlar/" class="mnu1-link" dir="auto">Pricing</a></li><li><a href="/en/hakkimizda/" class="mnu1-link" dir="auto">Corporate</a></li><li><a href="/en/iletisim/" class="mnu1-link" dir="auto">Contact</a></li></ul>
+    </nav>
+    <hr class="mnu1-ayrac mnu1-drawerayrac" />
+    <div class="mnu1-bolum mnu1-drawersag">
+      <ul class="mnu1-diller mnu1-drawerdiller" aria-label="Language Selector"><li><a href="/tr/login/" class="mnu1-dil" hreflang="tr" lang="tr" aria-label="Language Selector: tr">TR</a></li><li><a href="/en/login/" class="mnu1-dil mnu1-dil-aktif" aria-current="true" hreflang="en" lang="en" aria-label="Language Selector: en">EN</a></li><li><a href="/ar/login/" class="mnu1-dil" hreflang="ar" lang="ar" aria-label="Language Selector: ar">AR</a></li></ul>
+      <a class="mnu1-giris mnu1-tam" href="/tr/login" data-mnu1-misafir dir="auto">Login</a>
+    </div>
+    <div class="mnu1-draweruye" data-mnu1-uye hidden>
+      <div class="mnu1-kartbas">
+        <span class="mnu1-avatar" data-mnu1-bas aria-hidden="true"></span>
+        <span class="mnu1-kimlik">
+          <span class="mnu1-isim" data-mnu1-isim dir="auto"></span>
+          <span class="mnu1-eposta" data-mnu1-eposta dir="ltr"></span>
+        </span>
+      </div>
+      <ul class="mnu1-uyelinkler"><li><a href="/musteri" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg><span dir="auto">Dashboard</span></a></li><li><a href="/musteri/cari" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="3" y="6" width="18" height="14" rx="2"/><path d="M3 10h18M16 15h2M7 6V4h10v2"/></svg><span dir="auto">Balance & Services</span></a></li><li><a href="/musteri/faturalar" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 13h7M9 17h5"/></svg><span dir="auto">Invoices</span></a></li><li><a href="/musteri/odeme" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20M6 15h4"/></svg><span dir="auto">Payment</span></a></li><li><a href="/musteri/talep" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M4 5h16v11H9l-5 4z"/><path d="M8 9h8M8 12h5"/></svg><span dir="auto">Requests</span></a></li><li><a href="/musteri/profil" class="mnu1-uyelink"><svg class="mnu1-ikon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg><span dir="auto">Profile</span></a></li></ul>
+      <button type="button" class="mnu1-cikis mnu1-cikistam" data-mnu1-cikis dir="auto">Log out</button>
+    </div>
+  </div>
+</header>
+
+<script>
+  
+  (function () {
+    var kok = document.querySelector("[data-mnu1-kok]");
+    if (!kok || kok.getAttribute("data-mnu1-bagli")) return;
+    kok.setAttribute("data-mnu1-bagli", "1");
+    var belge = document.documentElement;
+    var hamburger = kok.querySelector(".mnu1-hamburger");
+    var drawer = kok.querySelector(".mnu1-drawer");
+    var ortu = kok.querySelector("[data-mnu1-ortu]");
+    var kapat = kok.querySelector(".mnu1-kapat");
+    var cip = kok.querySelector(".mnu1-cip");
+    var dropdown = kok.querySelector(".mnu1-dropdown");
+    var eskiTasma = "";
+
+    function her(secici, fn) {
+      var l = document.querySelectorAll(secici);
+      for (var i = 0; i < l.length; i++) fn(l[i]);
+    }
+
+    function cekmeceAcik() { return drawer.classList.contains("mnu1-acik"); }
+    function cekmeceAc() {
+      drawer.classList.add("mnu1-acik");
+      drawer.setAttribute("aria-hidden", "false");
+      ortu.hidden = false;
+      hamburger.setAttribute("aria-expanded", "true");
+      eskiTasma = document.body.style.overflow;
+      document.body.style.overflow = "hidden";
+      kapat.focus();
+    }
+    function cekmeceKapat(odakla) {
+      if (!cekmeceAcik()) return;
+      drawer.classList.remove("mnu1-acik");
+      drawer.setAttribute("aria-hidden", "true");
+      ortu.hidden = true;
+      hamburger.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = eskiTasma;
+      if (odakla) hamburger.focus();
+    }
+
+    function listeAcik() { return !dropdown.hidden; }
+    function listeAc() {
+      dropdown.hidden = false;
+      cip.setAttribute("aria-expanded", "true");
+    }
+    function listeKapat(odakla) {
+      if (!listeAcik()) return;
+      dropdown.hidden = true;
+      cip.setAttribute("aria-expanded", "false");
+      if (odakla) cip.focus();
+    }
+
+    
+    function odaklanabilir() {
+      var l = drawer.querySelectorAll("a[href], button:not([disabled])");
+      var s = [];
+      for (var i = 0; i < l.length; i++) {
+        if (!l[i].closest("[hidden]") && l[i].getClientRects().length) s.push(l[i]);
+      }
+      return s;
+    }
+    drawer.addEventListener("keydown", function (e) {
+      if (e.key !== "Tab" || !cekmeceAcik()) return;
+      var s = odaklanabilir();
+      if (!s.length) return;
+      var ilk = s[0], son = s[s.length - 1];
+      if (e.shiftKey && (document.activeElement === ilk || !drawer.contains(document.activeElement))) { e.preventDefault(); son.focus(); }
+      else if (!e.shiftKey && (document.activeElement === son || !drawer.contains(document.activeElement))) { e.preventDefault(); ilk.focus(); }
+    });
+
+    hamburger.addEventListener("click", function () {
+      if (cekmeceAcik()) cekmeceKapat(true); else cekmeceAc();
+    });
+    kapat.addEventListener("click", function () { cekmeceKapat(true); });
+    ortu.addEventListener("click", function () { cekmeceKapat(true); });
+    cip.addEventListener("click", function () {
+      if (listeAcik()) listeKapat(false); else listeAc();
+    });
+    document.addEventListener("click", function (e) {
+      if (listeAcik() && !cip.parentNode.contains(e.target)) listeKapat(false);
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key !== "Escape") return;
+      if (listeAcik()) listeKapat(true);
+      if (cekmeceAcik()) cekmeceKapat(true);
+    });
+    
+    if (window.matchMedia) {
+      var genis = window.matchMedia("(min-width: 1200px)");
+      var genisDinle = function (m) { if (m.matches) cekmeceKapat(false); };
+      if (genis.addEventListener) genis.addEventListener("change", genisDinle); else if (genis.addListener) genis.addListener(genisDinle);
+    }
+
+    function uyeAc(v) {
+      var eposta = String(v.kullanici.eposta || "");
+      var isim = String((v.cari && (v.cari.yetkili || v.cari.unvan)) || eposta).trim();
+      var ilk = Array.from(isim)[0] || "?";
+      var bas = ilk.toLocaleUpperCase(belge.lang || undefined);
+      her("[data-mnu1-isim]", function (e) { e.textContent = isim; });
+      her("[data-mnu1-eposta]", function (e) { e.textContent = eposta; });
+      her("[data-mnu1-bas]", function (e) { e.textContent = bas; });
+      her("[data-mnu1-misafir]", function (e) { e.hidden = true; });
+      her("[data-mnu1-uye]", function (e) { e.hidden = false; });
+    }
+
+    function cikis(e) {
+      var b = e.currentTarget;
+      b.disabled = true;
+      var dil = /^[a-z]{2}$/.test(belge.lang || "") ? belge.lang : "";
+      fetch("/api/portal/cikis", { method: "POST", credentials: "same-origin", headers: { accept: "application/json" } })
+        .catch(function () {})
+        .then(function () {
+          setTimeout(function () { window.location.href = "/" + (dil ? dil + "/" : ""); }, 300);
+        });
+    }
+    her("[data-mnu1-cikis]", function (b) { b.addEventListener("click", cikis); });
+
+    function uyeSor() {
+      if (!window.fetch) return;
+      fetch("/api/portal/ben", { credentials: "same-origin", headers: { accept: "application/json" } })
+        .then(function (r) {
+          var tur = r.headers.get("content-type") || "";
+          return r.ok && tur.indexOf("json") !== -1 ? r.json() : null;
+        })
+        .then(function (d) {
+          
+          if (!d || d.ok === false) return;
+          var v = d.data && typeof d.data === "object" ? d.data : d;
+          if (v && v.kullanici) uyeAc(v);
+        })
+        .catch(function () {});
+    }
+    
+    var bosta = window.requestIdleCallback
+      ? function (f) { window.requestIdleCallback(f, { timeout: 1500 }); }
+      : function (f) { setTimeout(f, 1); };
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", function () { bosta(uyeSor); });
+    } else {
+      bosta(uyeSor);
+    }
+  })();
+</script>
+</div>
+  <div id="content"><div class="b0000-title f36">
+  <h1>Login</h1>
+</div>
+
+<div class="b0000">
+<section class="wylogin" id="wylogin" data-metin="{&quot;goster&quot;: &quot;Show&quot;, &quot;gizle&quot;: &quot;Hide&quot;, &quot;b1&quot;: &quot;Sign In&quot;, &quot;bekle&quot;: &quot;Signing in…&quot;, &quot;hata&quot;: &quot;Incorrect e-mail or password.&quot;, &quot;cok&quot;: &quot;Too many attempts. Please try again in 15 minutes.&quot;, &quot;ag&quot;: &quot;Could not connect. Please try again.&quot;, &quot;eksik&quot;: &quot;E-mail and password are required.&quot;, &quot;gonder&quot;: &quot;Sending…&quot;}">
+<div class="wylogin-kart">
+<div class="wylogin-sekmeler" role="tablist" aria-label="Sign-in options">
+<button type="button" class="wylogin-sekme" role="tab" id="wylogin-sekme-giris" data-sekme="giris" aria-controls="wylogin-panel-giris" aria-selected="true">Sign In</button>
+<button type="button" class="wylogin-sekme" role="tab" id="wylogin-sekme-uye-ol" data-sekme="uye-ol" aria-controls="wylogin-panel-uye-ol" aria-selected="false" tabindex="-1">Register</button>
+<button type="button" class="wylogin-sekme" role="tab" id="wylogin-sekme-sifre" data-sekme="sifre" aria-controls="wylogin-panel-sifre" aria-selected="false" tabindex="-1">Forgot password</button>
+</div>
+<div class="wylogin-panel" role="tabpanel" id="wylogin-panel-giris" aria-labelledby="wylogin-sekme-giris">
+<h2>Customer portal sign-in</h2><p>Sign in to your Webyapar customer panel with your e-mail address and password.</p>
+<form id="wylogin-giris-form" method="post" action="/api/portal/giris" novalidate>
+<p class="wylogin-mesaj" id="wylogin-mesaj" role="alert" hidden></p>
+<div><label for="wylogin-eposta">E-mail</label><input id="wylogin-eposta" name="eposta" type="email" autocomplete="username" inputmode="email" maxlength="254" required></div>
+<div><label for="wylogin-sifre">Password</label><div class="wylogin-sifre"><input id="wylogin-sifre" name="sifre" type="password" autocomplete="current-password" maxlength="128" required><button type="button" class="wylogin-goster" aria-controls="wylogin-sifre" aria-pressed="false">Show</button></div></div>
+<button type="submit" class="wylogin-dugme">Sign In</button>
+</form>
+<p class="wylogin-alt"><a href="#sifre" data-git="sifre">Forgot your password?</a></p>
+<p class="wylogin-alt">No account yet? <a href="#uye-ol" data-git="uye-ol">Send a membership request</a></p>
+</div>
+<div class="wylogin-panel" role="tabpanel" id="wylogin-panel-uye-ol" aria-labelledby="wylogin-sekme-uye-ol" hidden>
+<h2>Membership request</h2><p>Leave your details; the Webyapar team reviews your request and gets back to you within 7 days. Your portal account is opened with the invitation link we send.</p>
+<form method="POST" action="/musteri/uyelik-talebi" data-belirtec="uyelik">
+<input type="hidden" name="csrf" value="">
+<div><label for="wylogin-u-ad">Full name</label><input id="wylogin-u-ad" name="ad" type="text" autocomplete="name" maxlength="120" required></div>
+<div><label for="wylogin-u-eposta">E-mail</label><input id="wylogin-u-eposta" name="eposta" type="email" autocomplete="email" maxlength="254" required></div>
+<div><label for="wylogin-u-sirket">Company</label><input id="wylogin-u-sirket" name="sirket" type="text" autocomplete="organization" maxlength="160" required></div>
+<div><label for="wylogin-u-notu">Note <span>(optional)</span></label><textarea id="wylogin-u-notu" name="notu" maxlength="2000"></textarea></div>
+<button type="submit" class="wylogin-dugme">Register</button>
+</form>
+<p class="wylogin-kvkk">Your details are used only to evaluate your request · <a href="/musteri/kvkk">Privacy notice (KVKK)</a></p>
+</div>
+<div class="wylogin-panel" role="tabpanel" id="wylogin-panel-sifre" aria-labelledby="wylogin-sekme-sifre" hidden>
+<h2>Forgot password</h2><p>Enter the e-mail address registered in the portal and your name; we will contact you to verify your identity so you can set a new password.</p>
+<form method="POST" action="/musteri/sifre-unuttum" data-belirtec="sifre">
+<input type="hidden" name="csrf" value="">
+<div><label for="wylogin-s-eposta">E-mail</label><input id="wylogin-s-eposta" name="eposta" type="email" autocomplete="email" maxlength="254" required></div>
+<div><label for="wylogin-s-ad">Full name</label><input id="wylogin-s-ad" name="ad" type="text" autocomplete="name" maxlength="120" required></div>
+<div><label for="wylogin-s-telefon">Phone <span>(optional)</span></label><input id="wylogin-s-telefon" name="telefon" type="tel" autocomplete="tel" maxlength="30"></div>
+<button type="submit" class="wylogin-dugme">Send</button>
+</form>
+<p class="wylogin-kvkk">Your details are used only to evaluate your request · <a href="/musteri/kvkk">Privacy notice (KVKK)</a></p>
+</div>
+</div>
+</section>
+<script>
+(function () {
+  var kok = document.getElementById("wylogin");
+  if (!kok) return;
+  var M = JSON.parse(kok.getAttribute("data-metin"));
+  var trMi = (document.documentElement.lang || "tr").slice(0, 2) === "tr";
+  var sekmeler = kok.querySelectorAll(".wylogin-sekme");
+  var BELIRTEC = { uyelik: "/musteri/uyelik", sifre: "/musteri/sifre-unuttum" };
+
+  function belirtecAl(form, bitti) {
+    var tur = form.getAttribute("data-belirtec");
+    var alan = form.querySelector("input[name=csrf]");
+    if (!tur || !alan || alan.value) { if (bitti) bitti(); return; }
+    fetch(BELIRTEC[tur], { credentials: "include", headers: { "Accept": "text/html" } })
+      .then(function (r) { return r.ok ? r.text() : ""; })
+      .then(function (html) {
+        var d = new DOMParser().parseFromString(html, "text/html");
+        var g = d.querySelector("input[name=csrf]");
+        if (g && g.value) alan.value = g.value;
+      })
+      .catch(function () {})
+      .then(function () { if (bitti) bitti(); });
+  }
+
+  function sec(ad, odak) {
+    for (var i = 0; i < sekmeler.length; i++) {
+      var s = sekmeler[i];
+      var acik = s.getAttribute("data-sekme") === ad;
+      s.setAttribute("aria-selected", acik ? "true" : "false");
+      s.tabIndex = acik ? 0 : -1;
+      var p = document.getElementById(s.getAttribute("aria-controls"));
+      p.hidden = !acik;
+      if (acik) {
+        var f = p.querySelector("form");
+        if (f) belirtecAl(f);
+        if (odak) s.focus();
+      }
+    }
+  }
+  for (var i = 0; i < sekmeler.length; i++) {
+    sekmeler[i].addEventListener("click", function () { sec(this.getAttribute("data-sekme")); });
+    sekmeler[i].addEventListener("keydown", function (e) {
+      if (e.key !== "ArrowRight" && e.key !== "ArrowLeft") return;
+      var dizi = Array.prototype.slice.call(sekmeler);
+      var n = dizi.indexOf(this);
+      var ileri = (e.key === "ArrowRight") !== (document.documentElement.dir === "rtl");
+      var y = dizi[(n + (ileri ? 1 : dizi.length - 1)) % dizi.length];
+      sec(y.getAttribute("data-sekme"), true);
+      e.preventDefault();
+    });
+  }
+  var gecis = kok.querySelectorAll("[data-git]");
+  for (var j = 0; j < gecis.length; j++) {
+    gecis[j].addEventListener("click", function (e) { e.preventDefault(); sec(this.getAttribute("data-git"), true); });
+  }
+  var ilk = (location.hash || "").replace("#", "");
+  sec(ilk === "uye-ol" || ilk === "sifre" ? ilk : "giris");
+
+  var goster = kok.querySelector(".wylogin-goster");
+  goster.addEventListener("click", function () {
+    var inp = document.getElementById("wylogin-sifre");
+    var gizli = inp.type === "password";
+    inp.type = gizli ? "text" : "password";
+    goster.textContent = gizli ? M.gizle : M.goster;
+    goster.setAttribute("aria-pressed", gizli ? "true" : "false");
+  });
+
+  var gf = document.getElementById("wylogin-giris-form");
+  var mesaj = document.getElementById("wylogin-mesaj");
+  var dugme = gf.querySelector("button[type=submit]");
+  function hata(metin) { mesaj.textContent = metin; mesaj.hidden = false; dugme.disabled = false; dugme.textContent = M.b1; }
+  gf.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var eposta = gf.eposta.value.trim();
+    var sifre = gf.sifre.value;
+    if (!eposta || !sifre) { hata(M.eksik); return; }
+    mesaj.hidden = true;
+    dugme.disabled = true;
+    dugme.textContent = M.bekle;
+    fetch("/api/portal/giris", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ eposta: eposta, sifre: sifre }),
+      credentials: "include"
+    }).then(function (res) {
+      if (res.ok) { window.location.href = "/musteri"; return; }
+      return res.json().catch(function () { return {}; }).then(function (j) {
+        var sunucu = j && (j.hata || j.mesaj || j.error);
+        if (trMi && sunucu) hata(sunucu);
+        else hata(res.status === 429 ? M.cok : M.hata);
+      });
+    }).catch(function () { hata(M.ag); });
+  });
+
+  var formlar = kok.querySelectorAll("form[data-belirtec]");
+  for (var k = 0; k < formlar.length; k++) {
+    formlar[k].addEventListener("submit", function (e) {
+      var f = this;
+      var b = f.querySelector("button[type=submit]");
+      if (f.getAttribute("data-gonderiliyor")) { e.preventDefault(); return; }
+      if (f.querySelector("input[name=csrf]").value) { f.setAttribute("data-gonderiliyor", "1"); b.disabled = true; b.textContent = M.gonder; return; }
+      e.preventDefault();
+      f.setAttribute("data-gonderiliyor", "1");
+      b.disabled = true;
+      b.textContent = M.gonder;
+      belirtecAl(f, function () { f.submit(); });
+    });
+  }
+})();
+</script></div>
+
+</div>
+  <div id="footer"><footer class="f0000-f9" role="contentinfo">
+  <div class="f0000-f9__main f0000-f9__main--c4">
+    <div class="f0000-f9__col f0000-f9__brand">
+      <a href="/en/" class="f0000-f9__logo f0000-f9__logo--plate" aria-label="Home - Webyapar">
+        <img src="/img/logo.png" alt="Webyapar Logo" loading="lazy" />
+      </a>
+      <p class="f0000-f9__about">Since 2014 in Gaziantep: corporate websites, mobile apps and e-commerce infrastructure — fast, secure, measurable.</p>
+    </div>
+    <nav class="f0000-f9__col f0000-f9__pages" aria-label="Navigation">
+      <h3 class="f0000-f9__title">Pages</h3>
+      <ul class="f0000-f9__list">
+        <li><a class="f0000-f9__link" href="/en/">Home</a></li><li><a class="f0000-f9__link" href="/en/temalar/">Themes</a></li><li><a class="f0000-f9__link" href="/en/sektorler/">Industries</a></li><li><a class="f0000-f9__link" href="/en/hizmetler/">Services</a></li><li><a class="f0000-f9__link" href="/en/fiyatlar/">Pricing</a></li><li><a class="f0000-f9__link" href="/en/hakkimizda/">Corporate</a></li><li><a class="f0000-f9__link" href="/en/iletisim/">Contact</a></li><li><a class="f0000-f9__link" href="/en/saas-web-sitesi/">SaaS website</a></li>
+      </ul>
+    </nav>
+    <div class="f0000-f9__col f0000-f9__contact"><h3 class="f0000-f9__title">Contact</h3><ul class="f0000-f9__list"><li><span class="material-symbols-outlined" aria-hidden="true">location_on</span><span>Gaziantep, Türkiye</span></li><li><span class="material-symbols-outlined" aria-hidden="true">call</span><a class="f0000-f9__link" href="tel:05316791014" dir="ltr">0531 679 10 14</a></li><li><span class="material-symbols-outlined" aria-hidden="true">mail</span><a class="f0000-f9__link" href="mailto:info@webyapar.com">info@webyapar.com</a></li></ul></div>
+    <div class="f0000-f9__col f0000-f9__social-col"><h3 class="f0000-f9__title">Follow Us</h3><div class="f0000-f9__social"><a class="f0000-f9__chip" href="https://www.instagram.com/webyapar" target="_blank" rel="noopener noreferrer">Instagram</a><a class="f0000-f9__chip" href="https://www.linkedin.com/company/webyapar" target="_blank" rel="noopener noreferrer">LinkedIn</a></div></div>
+  </div>
+  <div class="f0000-f9__bottom">
+    <p class="f0000-f9__rights">&copy; 2026 Webyapar. All rights reserved.</p>
+    <ul class="f0000-f9__legal"><li><a class="f0000-f9__link" href="/en/gizlilikpolitikasi/">Privacy Policy</a></li><li><a class="f0000-f9__link" href="/en/kisiselveriler/">Personal Data</a></li><li><a class="f0000-f9__link" href="/en/yasaluyari/">Legal Notice</a></li></ul>
+    <nav class="wm-langbar" aria-label="Language Selector"><ul><li class="wm-lang-item"><a href="/tr/login/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item wm-lang-active"><a href="/en/login/" hreflang="en" lang="en" aria-current="true">EN</a></li><li class="wm-lang-item"><a href="/ar/login/" hreflang="ar" lang="ar">AR</a></li></ul></nav>
+  </div>
+</footer>
+
+<nav class="wm-yasal" aria-label="Company &amp; Legal" style="box-sizing:border-box;width:100%;max-width:100%;padding:12px 16px;background:var(--mx-site-bg, #FFFFFF);color:var(--mx-site-text, #f3f4f6);display:flex;flex-wrap:wrap;gap:4px 16px;align-items:center;justify-content:center;text-align:center;overflow-wrap:anywhere"><strong style="color:var(--mx-site-text, #f3f4f6)">Company &amp; Legal</strong><a href="/en/misyon/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Mission</a><a href="/en/vizyon/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Vision</a><a href="/en/kalitepolitikamiz/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Quality Policy</a><a href="/en/kullanicahaklari/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">User Rights</a><a href="/en/cerez-politikasi/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Cookie Policy</a></nav></div>
+
+  <script>(function(){try{var s=new URLSearchParams(location.search).get("tema");var N={"restoran":"Kervan Sofrası","klinik":"Berrak Tıp Merkezi","emlak":"Anka Gayrimenkul","sanayi":"Orvak Makina","dekor":"Meşe Ev","kuyumcu":"Zümra Kuyum","gida":"Yeşil Kervan","insaat":"Kalesu Yapı","guzellik":"Sedef Studio","portfolyo":"Deniz Altan","hukuk":"Kaya Hukuk Bürosu","otel":"Zeytinlik Butik Otel","otogaleri":"Anadolu Oto Galeri","ajans":"Pusula Ajans","egitim":"Bilgi Fidanı Okulları","spor":"Ritim Spor Merkezi","cicekci":"Gül Dalı Çiçekçilik","lojistik":"Anadolu Hat Lojistik","enerji":"Güneşhat Enerji","disticaret":"Pazar Köprüsü","yedekparca":"Dişli Oto Yedek Parça","arackiralama":"Yol Arkadaşı Rent a Car","ismakinesi":"Sarıkazan İş Makineleri","radyo":"Dalga FM","stk":"Yeşil Umut Derneği","haber":"Şehir Gündemi","moda":"Lâl Moda","elektronik":"Voltaj Elektronik","saas":"Akışpano"};if(!s||!N[s])return;var d=(document.documentElement.lang||"tr").slice(0,2);var M={tr:"Merhaba, “"+N[s]+"” temasını istiyorum.",en:"Hello, I would like the “"+N[s]+"” theme.",ar:"مرحبًا، أودّ الحصول على قالب «"+N[s]+"»."};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^="https://wa.me/"]');for(var i=0;i<a.length;i++){a[i].href="https://wa.me/905316791014?text="+t;}}catch(e){}})();</script>
+
+  <script defer src="/src/swiper-bundle.min.js"></script>
+  <script defer src="/src/mx-ui.js?v=dyjli"></script>
+  <script defer src="/src/mx-store.js?v=dyjli"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=dyjli"></script>
+  <script defer src="/src/cookie.js?v=dyjli"></script>
+
+</body>
+
+</html>

@@ -30,6 +30,12 @@
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
           "ar": "(يفتح في علامة تبويب جديدة)"
+        },
+        "girisHref": "",
+        "girisText": {
+          "tr": "Üye Girişi",
+          "en": "Login",
+          "ar": "تسجيل الدخول"
         }
       },
       "version": "1.0.0",
@@ -66,10 +72,10 @@
         "menutext": "var(--mx-site-text, #1b1b1b)",
         "menuhoverbg": "color-mix(in srgb, var(--mx-site-primary, #CC1F1B) 10%, transparent)",
         "logo": "logo.png",
-        "height": "72px",
+        "height": "88px",
         "accent": "var(--mx-site-primary, #CC1F1B)",
         "siteadi": "gizli",
-        "girishref": "musteri/giris",
+        "girishref": "tr/login",
         "loginText": {
           "tr": "Üye Girişi",
           "en": "Login",
@@ -28930,11 +28936,11 @@
     {
       "name": "Page Desing 2",
       "desing": {
-        "height": "100",
+        "height": "140",
         "opacity": "0.5",
-        "font-size": "50",
-        "backgroundcolor": "#000",
-        "textcolor": "#fff",
+        "font-size": "34",
+        "backgroundcolor": "var(--mx-site-primary, #CC1F1B)",
+        "textcolor": "var(--mx-site-primary-contrast, #ffffff)",
         "category": "page"
       },
       "category": "page",
