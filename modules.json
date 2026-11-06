@@ -75,7 +75,7 @@
         "height": "88px",
         "accent": "var(--mx-site-primary, #CC1F1B)",
         "siteadi": "gizli",
-        "girishref": "tr/login",
+        "girishref": "login",
         "loginText": {
           "tr": "Üye Girişi",
           "en": "Login",
