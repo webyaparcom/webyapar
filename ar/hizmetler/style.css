@@ -327,7 +327,7 @@
   .b0000-values-badge {
     display: inline-block;
     padding: 6px 18px;
-    background: #2E6BFF;
+    background: #CC1F1B;
     color: #ffffff;
     border-radius: 50px;
     font-size: 13px;
@@ -388,7 +388,7 @@
     margin: 0 auto 16px;
     border-radius: 50%;
     background: rgba(46, 107, 255, 0.12);
-    color: var(--mx-site-primary, #2563eb);
+    color: var(--mx-site-primary, #CC1F1B);
     display: flex;
     align-items: center;
     justify-content: center;

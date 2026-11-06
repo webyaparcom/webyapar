@@ -428,16 +428,17 @@ https://webyapar.com/tr/hizmetler/
 Hazır tema, özel tasarım, e-ticaret kurulumu, yayın ve bakım hizmetleri.
 
 Hizmetler — Webyapar
+Web tasarım stüdyosu
 Hizmetlerimiz
-Hazır temadan özel projeye, yayından bakıma.
+Hazır temadan özel projeye, e-ticaret kurulumundan yayına ve bakıma — markanıza uygun, üç dilli ve mobil uyumlu web çözümleri.
 Hazır tema
-29 sektör için tasarlanmış, üç dilli ve mobil uyumlu temalardan biri markanıza uyarlanır.
+29 sektör için tasarlanmış, üç dilli (TR · EN · AR) ve mobil uyumlu temalardan birini seçin. Marka renklerinizi, logonuzu ve metinlerinizi uyarlayıp aynı gün yayına alın; kurumsal, e-ticaret ve galeri şablonlarından hangisi işinize uygunsa onunla başlıyoruz.
 Özel tasarım
-Markanıza özel sayfa yapısı, modüller ve görsel dil; sıfırdan ya da bir temadan türetilerek.
+Referansınızdaki işi ya da markanızın dilinden yola çıkarak sıfırdan sayfa yapısı, modül ve görsel dil tasarlıyoruz. Hazır temaya sığmayan her detay — ürün vitrini, hizmet haritası, başvuru akışı — markanıza göre biçimlendirilir; sonuçta yalnızca size özgü bir web sitesi kalır.
 E-ticaret kurulumu
-Ürün vitrini, sepet ve sipariş akışı; ödeme sağlayıcısı ihtiyacınıza göre ayrıca bağlanır.
+Ürün kataloğu, sepet, sipariş ve müşteri hesaplarını tek çatı altında kurarız. Ödeme sağlayıcınızı, kargo entegrasyonunuzu ve stok akışınızı ihtiyacınıza göre bağlar; kampanya, indirim ve kupon kurgusu mağazanızın iş modeline göre ayarlanır.
 Yayın ve bakım
-Alan adı bağlama, https, içerik güncellemeleri ve yeni sayfa/modül eklemeleri.
+Alan adı bağlama, https, e-posta ve performans optimizasyonuyla sitenizi güvenle yayına alırız. İçerik güncellemeleri, yeni sayfa ve modül eklemeleri, yedekleme ve güvenlik taramaları düzenli bakım kapsamında sürer — siz işinize odaklanın, web sitenize biz bakarız.
 Sektörünüze uygun temayı seçin
 Canlı demoları gezin, beğendiğinizi isteyin; kalanını biz hallederiz.
 Temaları gör Teklif al
