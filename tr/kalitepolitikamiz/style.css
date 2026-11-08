@@ -778,6 +778,8 @@
 
   .b0000-pd5-cta-wa {
     background: #fff;
+    
+    background: light-dark(#fff, var(--mx-site-surface, #fff));
     color: var(--mx-site-text, #1b1b1b);
     border: 1px solid rgba(30, 48, 70, 0.12);
   }
@@ -806,6 +808,7 @@
     gap: 10px;
     padding: 12px 14px;
     background: #fff;
+    background: light-dark(#fff, var(--mx-site-surface, #fff)); 
     border: 1px solid rgba(30, 48, 70, 0.08);
     border-radius: 8px;
     text-decoration: none;

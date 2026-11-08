@@ -12413,6 +12413,342 @@
               "en": "Electronics",
               "ar": "الإلكترونيات"
             }
+          },
+          {
+            "id": "ambalaj",
+            "name": {
+              "tr": "Ambalaj",
+              "en": "Packaging",
+              "ar": "التغليف"
+            }
+          },
+          {
+            "id": "arge",
+            "name": {
+              "tr": "Ar-Ge",
+              "en": "R&D",
+              "ar": "البحث والتطوير"
+            }
+          },
+          {
+            "id": "ayakkabi",
+            "name": {
+              "tr": "Ayakkabı",
+              "en": "Footwear",
+              "ar": "الأحذية"
+            }
+          },
+          {
+            "id": "baget",
+            "name": {
+              "tr": "Fırın",
+              "en": "Bakery",
+              "ar": "المخبز"
+            }
+          },
+          {
+            "id": "banyo",
+            "name": {
+              "tr": "Banyo & Tadilat",
+              "en": "Bathroom & Renovation",
+              "ar": "الحمامات والتجديد"
+            }
+          },
+          {
+            "id": "burc",
+            "name": {
+              "tr": "Burç & Danışmanlık",
+              "en": "Astrology",
+              "ar": "الأبراج"
+            }
+          },
+          {
+            "id": "butik",
+            "name": {
+              "tr": "Butik",
+              "en": "Boutique",
+              "ar": "البوتيك"
+            }
+          },
+          {
+            "id": "caybagci",
+            "name": {
+              "tr": "Çay Bahçesi",
+              "en": "Tea Garden",
+              "ar": "حديقة الشاي"
+            }
+          },
+          {
+            "id": "dans",
+            "name": {
+              "tr": "Dans & Müzik Kursu",
+              "en": "Dance & Music Class",
+              "ar": "دروس الرقص والموسيقى"
+            }
+          },
+          {
+            "id": "doktor",
+            "name": {
+              "tr": "Poliklinik",
+              "en": "Polyclinic",
+              "ar": "العيادة"
+            }
+          },
+          {
+            "id": "doner",
+            "name": {
+              "tr": "Dönerci",
+              "en": "Doner Shop",
+              "ar": "مطعم الدونر"
+            }
+          },
+          {
+            "id": "elektrik",
+            "name": {
+              "tr": "Elektrik",
+              "en": "Electrical",
+              "ar": "الكهرباء"
+            }
+          },
+          {
+            "id": "fotograf",
+            "name": {
+              "tr": "Fotoğraf Stüdyosu",
+              "en": "Photo Studio",
+              "ar": "استوديو التصوير"
+            }
+          },
+          {
+            "id": "fuar",
+            "name": {
+              "tr": "Fuar & Etkinlik",
+              "en": "Fairs & Events",
+              "ar": "المعارض والفعاليات"
+            }
+          },
+          {
+            "id": "gebelik",
+            "name": {
+              "tr": "Gebelik & Doğum",
+              "en": "Pregnancy & Birth",
+              "ar": "الحمل والولادة"
+            }
+          },
+          {
+            "id": "girisim",
+            "name": {
+              "tr": "Girişim (SaaS)",
+              "en": "Startup (SaaS)",
+              "ar": "شركة ناشئة"
+            }
+          },
+          {
+            "id": "havuzservis",
+            "name": {
+              "tr": "Fitness & Havuz",
+              "en": "Fitness & Pool",
+              "ar": "اللياقة والمسبح"
+            }
+          },
+          {
+            "id": "kafekahve",
+            "name": {
+              "tr": "Kafe",
+              "en": "Cafe",
+              "ar": "المقهى"
+            }
+          },
+          {
+            "id": "kamu",
+            "name": {
+              "tr": "Ofis & Tedarik",
+              "en": "Office & Supply",
+              "ar": "المكتب والتوريد"
+            }
+          },
+          {
+            "id": "kargo",
+            "name": {
+              "tr": "Kargo & Dağıtım",
+              "en": "Cargo & Delivery",
+              "ar": "الشحن والتوزيع"
+            }
+          },
+          {
+            "id": "kartvizit",
+            "name": {
+              "tr": "Baskı & Kartvizit",
+              "en": "Print & Cards",
+              "ar": "الطباعة وبطاقات الأعمال"
+            }
+          },
+          {
+            "id": "kebapci",
+            "name": {
+              "tr": "Kebapçı",
+              "en": "Kebab House",
+              "ar": "مطعم الكباب"
+            }
+          },
+          {
+            "id": "kolej",
+            "name": {
+              "tr": "Kolej",
+              "en": "College",
+              "ar": "الكلية"
+            }
+          },
+          {
+            "id": "konut",
+            "name": {
+              "tr": "Emlak Danışmanlığı",
+              "en": "Property Advisory",
+              "ar": "الاستشارات العقارية"
+            }
+          },
+          {
+            "id": "kose",
+            "name": {
+              "tr": "Yapı Kimyasalları",
+              "en": "Construction Chemicals",
+              "ar": "كيماويات البناء"
+            }
+          },
+          {
+            "id": "kuafor",
+            "name": {
+              "tr": "Kuaför & Berber",
+              "en": "Hair & Barber",
+              "ar": "الحلاقة والتجميل"
+            }
+          },
+          {
+            "id": "kuyuyemis",
+            "name": {
+              "tr": "Fırın & Şerbet",
+              "en": "Bakery & Sherbet",
+              "ar": "المخبز والشراب"
+            }
+          },
+          {
+            "id": "lokanta",
+            "name": {
+              "tr": "Lokanta",
+              "en": "Eatery",
+              "ar": "المطعم الشعبي"
+            }
+          },
+          {
+            "id": "magaza",
+            "name": {
+              "tr": "Teknoloji Mağazası",
+              "en": "Tech Store",
+              "ar": "متجر التقنية"
+            }
+          },
+          {
+            "id": "mali",
+            "name": {
+              "tr": "Mali Müşavirlik",
+              "en": "Accounting & Advisory",
+              "ar": "المحاسبة والاستشارات"
+            }
+          },
+          {
+            "id": "masaj",
+            "name": {
+              "tr": "Masaj",
+              "en": "Massage",
+              "ar": "التدليك"
+            }
+          },
+          {
+            "id": "mobilya",
+            "name": {
+              "tr": "Mobilya & Mutfak",
+              "en": "Furniture & Kitchen",
+              "ar": "الأثاث والمطابخ"
+            }
+          },
+          {
+            "id": "muzik",
+            "name": {
+              "tr": "Müzik Stüdyosu",
+              "en": "Music Studio",
+              "ar": "استوديو الموسيقى"
+            }
+          },
+          {
+            "id": "otopark",
+            "name": {
+              "tr": "Otopark",
+              "en": "Car Park",
+              "ar": "موقف السيارات"
+            }
+          },
+          {
+            "id": "oyun",
+            "name": {
+              "tr": "Oyun Stüdyosu",
+              "en": "Game Studio",
+              "ar": "استوديو الألعاب"
+            }
+          },
+          {
+            "id": "radyoloji",
+            "name": {
+              "tr": "Radyoloji",
+              "en": "Radiology",
+              "ar": "الأشعة"
+            }
+          },
+          {
+            "id": "spa",
+            "name": {
+              "tr": "Spa & Hamam",
+              "en": "Spa & Hammam",
+              "ar": "السبا والحمام"
+            }
+          },
+          {
+            "id": "tarim",
+            "name": {
+              "tr": "Tarım",
+              "en": "Agriculture",
+              "ar": "الزراعة"
+            }
+          },
+          {
+            "id": "turizm",
+            "name": {
+              "tr": "Turizm & Konaklama",
+              "en": "Tourism & Stay",
+              "ar": "السياحة والإقامة"
+            }
+          },
+          {
+            "id": "veteriner",
+            "name": {
+              "tr": "Veteriner",
+              "en": "Veterinary",
+              "ar": "البيطري"
+            }
+          },
+          {
+            "id": "yapimarket",
+            "name": {
+              "tr": "Yapı Market",
+              "en": "Hardware Store",
+              "ar": "متجر مواد البناء"
+            }
+          },
+          {
+            "id": "yuzme",
+            "name": {
+              "tr": "Yüzme Kursu",
+              "en": "Swimming Class",
+              "ar": "دروس السباحة"
+            }
           }
         ],
         "featureDefs": [
@@ -13265,6 +13601,2224 @@
             "en": "A software-product site with features, pricing, a demo request and a data-security page.",
             "ar": "موقع منتج برمجي بصفحات الميزات والأسعار وطلب العرض التجريبي وأمن البيانات."
           }
+        },
+        {
+          "slug": "ambalaj",
+          "name": {
+            "tr": "Pakira Ambalaj",
+            "en": "Pakira Ambalaj",
+            "ar": "Pakira Ambalaj"
+          },
+          "sector": "ambalaj",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ambalaj-1440.webp",
+          "shotMobile": "/img/shots/ambalaj-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Karton, cam ve plastik ambalaj üretimi.",
+            "en": "Cardboard, glass and plastic packaging production.",
+            "ar": "تصنيع التغليف من الكرتون والزجاج والبلاستيك."
+          }
+        },
+        {
+          "slug": "arackiralama-2",
+          "name": {
+            "tr": "Rota Filo",
+            "en": "Rota Filo",
+            "ar": "Rota Filo"
+          },
+          "sector": "arackiralama",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/arackiralama-2-1440.webp",
+          "shotMobile": "/img/shots/arackiralama-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Rota Filo: günlük ve uzun dönem araç kiralama, havalimanı teslim ve açık kiralama koşulları. (Demo site)",
+            "en": "Rota Filo: daily and long-term car rental, airport pick-up and clear rental terms. (Demo site).",
+            "ar": "روتا فيلو: تأجير يومي وطويل الأمد واستلام من المطار وشروط تأجير واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "arackiralama-3",
+          "name": {
+            "tr": "Kuzey Rent",
+            "en": "Kuzey Rent",
+            "ar": "Kuzey Rent"
+          },
+          "sector": "arackiralama",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/arackiralama-3-1440.webp",
+          "shotMobile": "/img/shots/arackiralama-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kuzey Rent: günlük ve uzun dönem araç kiralama, havalimanı teslim ve açık kiralama koşulları. (Demo site)",
+            "en": "Kuzey Rent: daily and long-term car rental, airport pick-up and clear rental terms. (Demo site).",
+            "ar": "كوزي رنت: تأجير يومي وطويل الأمد واستلام من المطار وشروط تأجير واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "arge",
+          "name": {
+            "tr": "Vira Ar-Ge",
+            "en": "Vira Ar-Ge",
+            "ar": "Vira Ar-Ge"
+          },
+          "sector": "arge",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/arge-1440.webp",
+          "shotMobile": "/img/shots/arge-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Donanım ve yazılım prototip geliştirme.",
+            "en": "Hardware and software prototype development.",
+            "ar": "تطوير نماذج أولية من العتاد والبرمجيات."
+          }
+        },
+        {
+          "slug": "ayakkabi",
+          "name": {
+            "tr": "Kadife Deri",
+            "en": "Kadife Deri",
+            "ar": "Kadife Deri"
+          },
+          "sector": "ayakkabi",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ayakkabi-1440.webp",
+          "shotMobile": "/img/shots/ayakkabi-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Deri ayakkabı ve aksesuar atölyesi.",
+            "en": "Leather footwear and accessories workshop.",
+            "ar": "ورشة أحذية وملحقات من الجلد."
+          }
+        },
+        {
+          "slug": "baget",
+          "name": {
+            "tr": "Altın Baget",
+            "en": "Altın Baget",
+            "ar": "Altın Baget"
+          },
+          "sector": "baget",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/baget-1440.webp",
+          "shotMobile": "/img/shots/baget-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Sıcak ekmek ve tatlı fırını.",
+            "en": "Hot bread and pastry oven.",
+            "ar": "فرن خبز وحلا ساخن."
+          }
+        },
+        {
+          "slug": "banyo",
+          "name": {
+            "tr": "Krom Banyo",
+            "en": "Krom Banyo",
+            "ar": "Krom Banyo"
+          },
+          "sector": "banyo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/banyo-1440.webp",
+          "shotMobile": "/img/shots/banyo-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Banyo ve mutfak tadilatı.",
+            "en": "Bathroom and kitchen renovation.",
+            "ar": "تجديد الحمام والمطبخ."
+          }
+        },
+        {
+          "slug": "burc",
+          "name": {
+            "tr": "Yıldız Köşkü",
+            "en": "Yıldız Köşkü",
+            "ar": "Yıldız Köşkü"
+          },
+          "sector": "burc",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/burc-1440.webp",
+          "shotMobile": "/img/shots/burc-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Burç ve rüya danışmanlığı.",
+            "en": "Zodiac and dream consulting.",
+            "ar": "استشارات الأبراج وتحليل الأحلام."
+          }
+        },
+        {
+          "slug": "butik",
+          "name": {
+            "tr": "Ipek Butik",
+            "en": "Ipek Butik",
+            "ar": "Ipek Butik"
+          },
+          "sector": "butik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/butik-1440.webp",
+          "shotMobile": "/img/shots/butik-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Özel dikim butik.",
+            "en": "Custom-tailored boutique.",
+            "ar": "بودينغ بقصّة خاصة."
+          }
+        },
+        {
+          "slug": "caybagci",
+          "name": {
+            "tr": "Çay Molası",
+            "en": "Çay Molası",
+            "ar": "Çay Molası"
+          },
+          "sector": "caybagci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/caybagci-1440.webp",
+          "shotMobile": "/img/shots/caybagci-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Demlik çay ve tatlı.",
+            "en": "Pot tea and sweets.",
+            "ar": "شاي مغلي وحلويات."
+          }
+        },
+        {
+          "slug": "cicekci-2",
+          "name": {
+            "tr": "Gülce Çiçek Evi",
+            "en": "Gülce Çiçek Evi",
+            "ar": "Gülce Çiçek Evi"
+          },
+          "sector": "cicekci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/cicekci-2-1440.webp",
+          "shotMobile": "/img/shots/cicekci-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Gülce Çiçek Evi: mevsimlik buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+            "en": "Gulce Flower House: seasonal bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site).",
+            "ar": "بيت غولجه للزهور: باقات موسمية وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "cicekci-3",
+          "name": {
+            "tr": "Sarı Papatya Çiçekçilik",
+            "en": "Sarı Papatya Çiçekçilik",
+            "ar": "Sarı Papatya Çiçekçilik"
+          },
+          "sector": "cicekci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/cicekci-3-1440.webp",
+          "shotMobile": "/img/shots/cicekci-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Sarı Papatya Çiçekçilik: renkli buketler, aranjmanlar, düğün ve organizasyon çiçekleri; aynı gün teslimat talebi. (Demo site)",
+            "en": "Sari Papatya Florist: colourful bouquets, arrangements, wedding and event flowers; same-day delivery requests. (Demo site).",
+            "ar": "ساري باباتيا للزهور: باقات ملونة وتنسيقات وزهور الأعراس والفعاليات مع طلب التسليم في اليوم نفسه. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "dans",
+          "name": {
+            "tr": "Nota Dans",
+            "en": "Nota Dans",
+            "ar": "Nota Dans"
+          },
+          "sector": "dans",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/dans-1440.webp",
+          "shotMobile": "/img/shots/dans-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Dans ve müzik dersi.",
+            "en": "Dance and music lessons.",
+            "ar": "دروس رقص وموسيقى."
+          }
+        },
+        {
+          "slug": "disticaret-2",
+          "name": {
+            "tr": "Liman Global Ticaret",
+            "en": "Liman Global Ticaret",
+            "ar": "Liman Global Ticaret"
+          },
+          "sector": "disticaret",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/disticaret-2-1440.webp",
+          "shotMobile": "/img/shots/disticaret-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Liman Global Ticaret: kuru gıda, tekstil ve ambalaj ihracatı; hedef pazarlar, sertifikalar ve teklif talebi. (Demo site)",
+            "en": "Liman Global Ticaret: export of dried foods, textiles and packaging; target markets, certificates and quote requests. (Demo site).",
+            "ar": "ليمان غلوبال للتجارة: تصدير الأغذية المجففة والمنسوجات والتغليف مع الأسواق المستهدفة والشهادات وطلب عرض سعر. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "disticaret-3",
+          "name": {
+            "tr": "Anka Trade",
+            "en": "Anka Trade",
+            "ar": "Anka Trade"
+          },
+          "sector": "disticaret",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/disticaret-3-1440.webp",
+          "shotMobile": "/img/shots/disticaret-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Anka Trade: kuru gıda, tekstil ve ambalaj ihracatı; hedef pazarlar, sertifikalar ve üç dilde teklif talebi. (Demo site)",
+            "en": "Anka Trade: export of dried foods, textiles and packaging; target markets, certificates and quote requests in three languages. (Demo site).",
+            "ar": "أنقا تريد: تصدير الأغذية المجففة والمنسوجات والتغليف مع الأسواق المستهدفة والشهادات وطلب عرض سعر بثلاث لغات. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "doktor",
+          "name": {
+            "tr": "Aile Poliklinik",
+            "en": "Aile Poliklinik",
+            "ar": "Aile Poliklinik"
+          },
+          "sector": "doktor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/doktor-1440.webp",
+          "shotMobile": "/img/shots/doktor-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Muayene ve test.",
+            "en": "Examination and tests.",
+            "ar": "فحص واختبارات."
+          }
+        },
+        {
+          "slug": "doner",
+          "name": {
+            "tr": "Fıçı Döner",
+            "en": "Fıçı Döner",
+            "ar": "Fıçı Döner"
+          },
+          "sector": "doner",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/doner-1440.webp",
+          "shotMobile": "/img/shots/doner-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Fırın döner ve pide.",
+            "en": "Oven doner and pide.",
+            "ar": "دونات مخبوزة وبيرة."
+          }
+        },
+        {
+          "slug": "egitim-2",
+          "name": {
+            "tr": "Meşe Koleji",
+            "en": "Meşe Koleji",
+            "ar": "Meşe Koleji"
+          },
+          "sector": "egitim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/egitim-2-1440.webp",
+          "shotMobile": "/img/shots/egitim-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Meşe Koleji: anaokulundan liseye küçük sınıflar, önkayıt görüşmesi ve akademik takvim. (Demo site)",
+            "en": "Mese College: small classes from kindergarten to high school, pre-enrolment meetings and the academic calendar. (Demo site).",
+            "ar": "ميشه كوليج: صفوف صغيرة من الروضة إلى الثانوية ولقاء التسجيل المسبق والتقويم الأكاديمي. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "egitim-3",
+          "name": {
+            "tr": "Ufuk Okulları",
+            "en": "Ufuk Okulları",
+            "ar": "Ufuk Okulları"
+          },
+          "sector": "egitim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/egitim-3-1440.webp",
+          "shotMobile": "/img/shots/egitim-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ufuk Okulları: anaokulundan liseye dört kademe, 12 kişilik sınıflar, önkayıt görüşmesi ve akademik takvim. (Demo site)",
+            "en": "Ufuk Schools: four levels from kindergarten to high school, classes of 12, pre-enrolment meetings and the academic calendar. (Demo site).",
+            "ar": "مدارس أوفوك: أربع مراحل من الروضة إلى الثانوية وصفوف من 12 طالبًا ولقاء التسجيل المسبق والتقويم الأكاديمي. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "elektrik",
+          "name": {
+            "tr": "Volt Elektrik",
+            "en": "Volt Elektrik",
+            "ar": "Volt Elektrik"
+          },
+          "sector": "elektrik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/elektrik-1440.webp",
+          "shotMobile": "/img/shots/elektrik-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Elektrik projesi ve tesisat.",
+            "en": "Electrical project and wiring.",
+            "ar": "مشروع كهري وتوصيل."
+          }
+        },
+        {
+          "slug": "elektronik-2",
+          "name": {
+            "tr": "VoltBazaar",
+            "en": "VoltBazaar",
+            "ar": "VoltBazaar"
+          },
+          "sector": "elektronik",
+          "type": "e-ticaret",
+          "url": "",
+          "shotDesktop": "/img/shots/elektronik-2-1440.webp",
+          "shotMobile": "/img/shots/elektronik-2-390.webp",
+          "features": [
+            "sepet",
+            "odeme-demo",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "VoltBazaar: kulaklık, akıllı saat, bilgisayar ve aksesuarlar — 2 yıl garanti ve açık iade koşulları. (Demo site)",
+            "en": "VoltBazaar: headphones, smartwatches, computers and accessories — 2-year warranty and clear return terms. (Demo site).",
+            "ar": "فولتاج للإلكترونيات: سماعات وساعات ذكية وحواسيب وإكسسوارات — ضمان سنتين وشروط إرجاع واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "elektronik-3",
+          "name": {
+            "tr": "Tekno Nokta",
+            "en": "Tekno Nokta",
+            "ar": "Tekno Nokta"
+          },
+          "sector": "elektronik",
+          "type": "e-ticaret",
+          "url": "",
+          "shotDesktop": "/img/shots/elektronik-3-1440.webp",
+          "shotMobile": "/img/shots/elektronik-3-390.webp",
+          "features": [
+            "sepet",
+            "odeme-demo",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Tekno Nokta: kulaklık, akıllı saat, bilgisayar ve aksesuarlar — 2 yıl garanti ve açık iade koşulları. (Demo site)",
+            "en": "Tekno Nokta: headphones, smartwatches, computers and accessories — 2-year warranty and clear return terms. (Demo site).",
+            "ar": "فولتاج للإلكترونيات: سماعات وساعات ذكية وحواسيب وإكسسوارات — ضمان سنتين وشروط إرجاع واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "emlak-2",
+          "name": {
+            "tr": "Kuzey Yaka",
+            "en": "Kuzey Yaka",
+            "ar": "Kuzey Yaka"
+          },
+          "sector": "emlak",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/emlak-2-1440.webp",
+          "shotMobile": "/img/shots/emlak-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kuzey Yaka Gayrimenkul: seçkin satılık ve kiralık konut, villa, arsa ve işyeri portföyü; her ilanda yetki belgesi numarası. (Demo site)",
+            "en": "Kuzey Yaka Real Estate: a curated portfolio of homes, villas, plots and commercial units for sale and rent, with an authorization number on every listing. (Demo site).",
+            "ar": "كوزي ياكا العقارية: محفظة مختارة من المساكن والفلل والأراضي والوحدات التجارية للبيع والإيجار، مع رقم شهادة التفويض في كل إعلان. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "emlak-3",
+          "name": {
+            "tr": "Yuva Nokta",
+            "en": "Yuva Nokta",
+            "ar": "Yuva Nokta"
+          },
+          "sector": "emlak",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/emlak-3-1440.webp",
+          "shotMobile": "/img/shots/emlak-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Yuva Nokta: ilk ev alıcısı ve kiracı dostu satılık-kiralık ilanlar; her ilanda yetki belgesi numarası, çevrimiçi gösterim randevusu. (Demo site)",
+            "en": "Yuva Nokta: first-time-buyer and tenant friendly listings for sale and rent; authorization number on every listing, online viewing appointments. (Demo site).",
+            "ar": "يوفا نقطة: إعلانات بيع وإيجار مناسبة لمشتري المنزل الأول والمستأجرين؛ رقم شهادة التفويض في كل إعلان وحجز معاينة عبر الإنترنت. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "enerji-2",
+          "name": {
+            "tr": "Volt Hat Enerji",
+            "en": "Volt Hat Enerji",
+            "ar": "Volt Hat Enerji"
+          },
+          "sector": "enerji",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/enerji-2-1440.webp",
+          "shotMobile": "/img/shots/enerji-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Volt Hat Enerji: GES kurulumu, elektrik taahhüt ve bakım-izleme; teklif talebi ve belgeler. (Demo site)",
+            "en": "Volt Hat Enerji: solar installation, electrical contracting and maintenance-monitoring; quote requests and certificates. (Demo site).",
+            "ar": "فولت هات للطاقة: تركيب محطات شمسية ومقاولات كهربائية وصيانة ومراقبة مع طلب عرض سعر وشهادات. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "enerji-3",
+          "name": {
+            "tr": "Mavi Güneş Enerji",
+            "en": "Mavi Güneş Enerji",
+            "ar": "Mavi Güneş Enerji"
+          },
+          "sector": "enerji",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/enerji-3-1440.webp",
+          "shotMobile": "/img/shots/enerji-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mavi Güneş Enerji: çatı GES, şarj istasyonu ve depolama ön etüdü, elektrik taahhüt; teklif talebi ve belgeler. (Demo site)",
+            "en": "Mavi Güneş Enerji: rooftop solar, EV charging and storage pre-study, electrical contracting; quote requests and certificates. (Demo site).",
+            "ar": "مافي غونيش للطاقة: محطات شمسية على الأسطح ومحطات شحن ودراسة تخزين ومقاولات كهربائية مع طلب عرض سعر وشهادات. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "fotograf",
+          "name": {
+            "tr": "Kare Fotoğraf",
+            "en": "Kare Fotoğraf",
+            "ar": "Kare Fotoğraf"
+          },
+          "sector": "fotograf",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/fotograf-1440.webp",
+          "shotMobile": "/img/shots/fotograf-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Seans ve video.",
+            "en": "Sessions and video.",
+            "ar": "جلسات وفيديو."
+          }
+        },
+        {
+          "slug": "fuar",
+          "name": {
+            "tr": "Etkinlik Sahnesi",
+            "en": "Etkinlik Sahnesi",
+            "ar": "Etkinlik Sahnesi"
+          },
+          "sector": "fuar",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/fuar-1440.webp",
+          "shotMobile": "/img/shots/fuar-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Fuar ve etkinlik kurulumu.",
+            "en": "Expo and event setup.",
+            "ar": "تجهيز معارض وفعاليات."
+          }
+        },
+        {
+          "slug": "gebelik",
+          "name": {
+            "tr": "Anne Kısım",
+            "en": "Anne Kısım",
+            "ar": "Anne Kısım"
+          },
+          "sector": "gebelik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/gebelik-1440.webp",
+          "shotMobile": "/img/shots/gebelik-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Gebelik ve doğum.",
+            "en": "Pregnancy and birth.",
+            "ar": "حمل وولادة."
+          }
+        },
+        {
+          "slug": "girisim",
+          "name": {
+            "tr": "Bulut Panel",
+            "en": "Bulut Panel",
+            "ar": "Bulut Panel"
+          },
+          "sector": "girisim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/girisim-1440.webp",
+          "shotMobile": "/img/shots/girisim-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ürün ve API.",
+            "en": "Product and API.",
+            "ar": "منتج وواجهات برمجية."
+          }
+        },
+        {
+          "slug": "guzeellik",
+          "name": {
+            "tr": "Ten Güzellik",
+            "en": "Ten Güzellik",
+            "ar": "Ten Güzellik"
+          },
+          "sector": "guzellik",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/guzeellik-1440.webp",
+          "shotMobile": "/img/shots/guzeellik-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Cilt ve masaj bakımı.",
+            "en": "Skin and massage care.",
+            "ar": "عناية بجلد ومساج."
+          }
+        },
+        {
+          "slug": "guzellik-2",
+          "name": {
+            "tr": "Nar Atölye",
+            "en": "Nar Atölye",
+            "ar": "Nar Atölye"
+          },
+          "sector": "guzellik",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/guzellik-2-1440.webp",
+          "shotMobile": "/img/shots/guzellik-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Nar Atölye: saç, tırnak, cilt bakımı, makyaj ve masaj; KDV dahil fiyat listesi, uzman ve saat seçmeli online randevu, ön bilgilendirme. Yalnızca estetik amaçlı bakım. (Demo site)",
+            "en": "Nar Atolye: hair, nails, skin care, make-up and massage; a price list incl. VAT, online booking by specialist and time, pre-visit information. Cosmetic care only. (Demo site).",
+            "ar": "نار أتوليه: شعر وأظافر وعناية بالبشرة ومكياج وتدليك، مع قائمة أسعار شاملة الضريبة وحجز عبر الإنترنت ومعلومات قبل الزيارة. عناية تجميلية فقط. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "guzellik-3",
+          "name": {
+            "tr": "Lila Studio",
+            "en": "Lila Studio",
+            "ar": "Lila Studio"
+          },
+          "sector": "guzellik",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/guzellik-3-1440.webp",
+          "shotMobile": "/img/shots/guzellik-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Lila Studio: saç, tırnak, cilt bakımı, makyaj ve masaj; KDV dahil fiyat listesi, uzman ve saat seçmeli online randevu, ön bilgilendirme. Yalnızca estetik amaçlı bakım. (Demo site)",
+            "en": "Lila Studio: hair, nails, skin care, make-up and massage; a price list incl. VAT, online booking by specialist and time, pre-visit information. Cosmetic care only. (Demo site).",
+            "ar": "ليلا ستوديو: شعر وأظافر وعناية بالبشرة ومكياج وتدليك، مع قائمة أسعار شاملة الضريبة وحجز عبر الإنترنت ومعلومات قبل الزيارة. عناية تجميلية فقط. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "haber-2",
+          "name": {
+            "tr": "Kent Sayfası",
+            "en": "Kent Sayfası",
+            "ar": "Kent Sayfası"
+          },
+          "sector": "haber",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/haber-2-1440.webp",
+          "shotMobile": "/img/shots/haber-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kent Sayfası: yerel haber ve şehir rehberi; künye ana sayfadan erişilir, her haberde yayın tarihi yer alır. (Demo site — haberler kurgusaldır)",
+            "en": "Kent Sayfasi: local news and city guide; the masthead is reachable from the home page and every story shows its publication date. (Demo site — stories are fictional).",
+            "ar": "كنت صايفاسي: أخبار محلية ودليل المدينة؛ تُتاح بيانات الإدارة من الصفحة الرئيسية ويظهر تاريخ النشر في كل خبر. (موقع تجريبي — الأخبار افتراضية)."
+          }
+        },
+        {
+          "slug": "haber-3",
+          "name": {
+            "tr": "Nokta Haber",
+            "en": "Nokta Haber",
+            "ar": "Nokta Haber"
+          },
+          "sector": "haber",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/haber-3-1440.webp",
+          "shotMobile": "/img/shots/haber-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Nokta Haber: yerel haber ve şehir rehberi; künye ana sayfadan erişilir, her haberde yayın tarihi yer alır. (Demo site — haberler kurgusaldır)",
+            "en": "Nokta Haber: local news and city guide; the masthead is reachable from the home page and every story shows its publication date. (Demo site — stories are fictional).",
+            "ar": "نقطة خبر: أخبار محلية ودليل المدينة؛ تُتاح بيانات الإدارة من الصفحة الرئيسية ويظهر تاريخ النشر في كل خبر. (موقع تجريبي — الأخبار افتراضية)."
+          }
+        },
+        {
+          "slug": "havuzservis",
+          "name": {
+            "tr": "Fit Havuz",
+            "en": "Fit Havuz",
+            "ar": "Fit Havuz"
+          },
+          "sector": "havuzservis",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/havuzservis-1440.webp",
+          "shotMobile": "/img/shots/havuzservis-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Fitness ve havuz.",
+            "en": "Fitness and pool.",
+            "ar": "لياقة ومسبح."
+          }
+        },
+        {
+          "slug": "insaat-2",
+          "name": {
+            "tr": "Mavera Yapı",
+            "en": "Mavera Yapı",
+            "ar": "Mavera Yapı"
+          },
+          "sector": "insaat",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/insaat-2-1440.webp",
+          "shotMobile": "/img/shots/insaat-2-390.webp",
+          "features": [
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mavera Yapı: konut ve ticari projeler, sözleşmeli teslim tarihi, aylık şantiye ilerlemesi ve kat planları. Görseller temsilidir. (Demo site)",
+            "en": "Mavera Yapi: housing and commercial projects, contractual delivery dates, monthly site progress and floor plans. Images are representative. (Demo site).",
+            "ar": "مافيرا يابي: مشاريع سكنية وتجارية وموعد تسليم تعاقدي وتقدّم شهري للموقع ومخططات الطوابق. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "insaat-3",
+          "name": {
+            "tr": "Sarnıç Yapı",
+            "en": "Sarnıç Yapı",
+            "ar": "Sarnıç Yapı"
+          },
+          "sector": "insaat",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/insaat-3-1440.webp",
+          "shotMobile": "/img/shots/insaat-3-390.webp",
+          "features": [
+            "galeri",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Sarnıç Yapı: konut ve ticari projeler, sözleşmeli teslim, daire tipi karşılaştırması ve aynı kadrajdan şantiye ilerlemesi. Görseller temsilidir. (Demo site)",
+            "en": "Sarnic Yapi: housing and commercial projects, contractual delivery, unit type comparison and site progress from the same viewpoint. Images are representative. (Demo site).",
+            "ar": "صارنيتش يابي: مشاريع سكنية وتجارية وتسليم تعاقدي ومقارنة أنواع الشقق وتقدّم الموقع من الزاوية نفسها. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "ismakinesi-2",
+          "name": {
+            "tr": "Demir Kule Makine",
+            "en": "Demir Kule Makine",
+            "ar": "Demir Kule Makine"
+          },
+          "sector": "ismakinesi",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ismakinesi-2-1440.webp",
+          "shotMobile": "/img/shots/ismakinesi-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Demir Kule Makine: ekskavatör, vinç ve yükleyici kiralama; operatörlü hizmet, periyodik kontrollü ekipman. (Demo site)",
+            "en": "Demir Kule Machinery: excavator, crane and loader hire; operated service, periodically inspected equipment. (Demo site).",
+            "ar": "دمير كوله للآليات: تأجير حفارات ورافعات وجرافات بخدمة مع مشغّل ومعدات خاضعة للفحص الدوري. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "ismakinesi-3",
+          "name": {
+            "tr": "Kızıl Vinç",
+            "en": "Kızıl Vinç",
+            "ar": "Kızıl Vinç"
+          },
+          "sector": "ismakinesi",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ismakinesi-3-1440.webp",
+          "shotMobile": "/img/shots/ismakinesi-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kızıl Vinç: ekskavatör, vinç ve yükleyici kiralama; operatörlü hizmet, periyodik kontrollü ekipman. (Demo site)",
+            "en": "Kizil Vinc Machinery: excavator, crane and loader hire; operated service, periodically inspected equipment. (Demo site).",
+            "ar": "قزل فينتش للآليات: تأجير حفارات ورافعات وجرافات بخدمة مع مشغّل ومعدات خاضعة للفحص الدوري. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "kafekahve",
+          "name": {
+            "tr": "Kafe Nokta",
+            "en": "Kafe Nokta",
+            "ar": "Kafe Nokta"
+          },
+          "sector": "kafekahve",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kafekahve-1440.webp",
+          "shotMobile": "/img/shots/kafekahve-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kavrum kahve ve tatlı.",
+            "en": "Roasted coffee and sweets.",
+            "ar": "قهوة محمصة وحلويات."
+          }
+        },
+        {
+          "slug": "kamu",
+          "name": {
+            "tr": "Ekvit Ofis",
+            "en": "Ekvit Ofis",
+            "ar": "Ekvit Ofis"
+          },
+          "sector": "kamu",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kamu-1440.webp",
+          "shotMobile": "/img/shots/kamu-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ofis ve tedarik.",
+            "en": "Office and supplies.",
+            "ar": "مكتب وتوريد."
+          }
+        },
+        {
+          "slug": "kargo",
+          "name": {
+            "tr": "Nakliye Kargo",
+            "en": "Nakliye Kargo",
+            "ar": "Nakliye Kargo"
+          },
+          "sector": "kargo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kargo-1440.webp",
+          "shotMobile": "/img/shots/kargo-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kargo ve dağıtım.",
+            "en": "Cargo and delivery.",
+            "ar": "شحن وتوصيل."
+          }
+        },
+        {
+          "slug": "kartvizit",
+          "name": {
+            "tr": "Baskı Atölye",
+            "en": "Baskı Atölye",
+            "ar": "Baskı Atölye"
+          },
+          "sector": "kartvizit",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kartvizit-1440.webp",
+          "shotMobile": "/img/shots/kartvizit-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Baskı ve kartvizit.",
+            "en": "Print and cards.",
+            "ar": "طباعة وبطاقات."
+          }
+        },
+        {
+          "slug": "kebapci",
+          "name": {
+            "tr": "Kömür Kebap",
+            "en": "Kömür Kebap",
+            "ar": "Kömür Kebap"
+          },
+          "sector": "kebapci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kebapci-1440.webp",
+          "shotMobile": "/img/shots/kebapci-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Izgara ve pide.",
+            "en": "Grill and pide.",
+            "ar": "شواء وبيرة."
+          }
+        },
+        {
+          "slug": "klinik-2",
+          "name": {
+            "tr": "Nokta Tıp",
+            "en": "Nokta Tıp",
+            "ar": "Nokta Tıp"
+          },
+          "sector": "klinik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/klinik-2-1440.webp",
+          "shotMobile": "/img/shots/klinik-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Nokta Tıp: sekiz branşta uzman hekim, randevu esaslı muayene ve erişilebilir bir merkez. (Demo site)",
+            "en": "Nokta Tip: specialist physicians in eight departments, appointment-based examination and an accessible centre. (Demo site).",
+            "ar": "نقطة الطبي: أطباء متخصصون في ثمانية أقسام، وفحص بالمواعيد، ومركز مهيأ للجميع. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "klinik-3",
+          "name": {
+            "tr": "Mavi Yonca",
+            "en": "Mavi Yonca",
+            "ar": "Mavi Yonca"
+          },
+          "sector": "klinik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/klinik-3-1440.webp",
+          "shotMobile": "/img/shots/klinik-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mavi Yonca Aile Sağlığı: çocuk, aile hekimliği ve kadın sağlığı başta sekiz branş; randevu esaslı, erişilebilir bir merkez. (Demo site)",
+            "en": "Mavi Yonca Family Health: eight departments led by paediatrics, family medicine and women’s health; an appointment-based, accessible centre. (Demo site).",
+            "ar": "مافي يونجا لصحة الأسرة: ثمانية أقسام في مقدمتها طب الأطفال وطب الأسرة وصحة المرأة؛ مركز بالمواعيد ومهيأ للجميع. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "kolej",
+          "name": {
+            "tr": "Fen Koleji",
+            "en": "Fen Koleji",
+            "ar": "Fen Koleji"
+          },
+          "sector": "kolej",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kolej-1440.webp",
+          "shotMobile": "/img/shots/kolej-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ders ve deneme.",
+            "en": "Classes and exams.",
+            "ar": "دروس وامتحانات."
+          }
+        },
+        {
+          "slug": "konut",
+          "name": {
+            "tr": "Emlak Danışman",
+            "en": "Emlak Danışman",
+            "ar": "Emlak Danışman"
+          },
+          "sector": "konut",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/konut-1440.webp",
+          "shotMobile": "/img/shots/konut-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Satış ve kiralama.",
+            "en": "Sales and rental.",
+            "ar": "بيع وكراء."
+          }
+        },
+        {
+          "slug": "kose",
+          "name": {
+            "tr": "Kore Yapı",
+            "en": "Kore Yapı",
+            "ar": "Kore Yapı"
+          },
+          "sector": "kose",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kose-1440.webp",
+          "shotMobile": "/img/shots/kose-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Cephe ve kimya ürünü.",
+            "en": "Facade and chemical products.",
+            "ar": "واجهة ومنتجات كيميائية."
+          }
+        },
+        {
+          "slug": "kuafor",
+          "name": {
+            "tr": "Sakal & Saç",
+            "en": "Sakal & Saç",
+            "ar": "Sakal & Saç"
+          },
+          "sector": "kuafor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kuafor-1440.webp",
+          "shotMobile": "/img/shots/kuafor-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Saç ve sakal işi.",
+            "en": "Hair and beard work.",
+            "ar": "عمل شعر ولحية."
+          }
+        },
+        {
+          "slug": "kuyuyemis",
+          "name": {
+            "tr": "Taze Ekmek",
+            "en": "Taze Ekmek",
+            "ar": "Taze Ekmek"
+          },
+          "sector": "kuyuyemis",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kuyuyemis-1440.webp",
+          "shotMobile": "/img/shots/kuyuyemis-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Tuzlu hamur ve şerbet.",
+            "en": "Savory dough and syrup.",
+            "ar": "عجن مملح وحلويات."
+          }
+        },
+        {
+          "slug": "lojistik-2",
+          "name": {
+            "tr": "Yeşil Yol Lojistik",
+            "en": "Yeşil Yol Lojistik",
+            "ar": "Yeşil Yol Lojistik"
+          },
+          "sector": "lojistik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/lojistik-2-1440.webp",
+          "shotMobile": "/img/shots/lojistik-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Yeşil Yol Lojistik: yurt içi ve yurt dışı nakliye, depolama ve evden eve taşıma; teklif talebi ve yetki belgeleri. (Demo site)",
+            "en": "Yesil Yol Logistics: domestic and international freight, warehousing and home moves; quote requests and licences. (Demo site).",
+            "ar": "يشيل يول للوجستيات: نقل داخلي ودولي وتخزين ونقل أثاث مع طلب عرض سعر وتراخيص. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "lojistik-3",
+          "name": {
+            "tr": "Kervan Ekspres",
+            "en": "Kervan Ekspres",
+            "ar": "Kervan Ekspres"
+          },
+          "sector": "lojistik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/lojistik-3-1440.webp",
+          "shotMobile": "/img/shots/lojistik-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kervan Ekspres: parsiyel ve komple nakliye, kargo-kurye, depolama ve evden eve taşıma; teklif talebi ve yetki belgeleri. (Demo site)",
+            "en": "Kervan Express: part-load and full-load freight, parcel-courier, warehousing and home moves; quote requests and licences. (Demo site).",
+            "ar": "كروان إكسبرس: نقل جزئي وكامل وطرود وبريد سريع وتخزين ونقل أثاث مع طلب عرض سعر وتراخيص. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "lokanta",
+          "name": {
+            "tr": "Bahçe Lokanta",
+            "en": "Bahçe Lokanta",
+            "ar": "Bahçe Lokanta"
+          },
+          "sector": "lokanta",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/lokanta-1440.webp",
+          "shotMobile": "/img/shots/lokanta-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ev yemeği ve tatlı.",
+            "en": "Home cooking and sweets.",
+            "ar": "أكل منزلي وحلويات."
+          }
+        },
+        {
+          "slug": "magaza",
+          "name": {
+            "tr": "Tekno Mağaza",
+            "en": "Tekno Mağaza",
+            "ar": "Tekno Mağaza"
+          },
+          "sector": "magaza",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/magaza-1440.webp",
+          "shotMobile": "/img/shots/magaza-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Cihaz ve aksesuar.",
+            "en": "Devices and accessories.",
+            "ar": "أجهزة وإكسسوارات."
+          }
+        },
+        {
+          "slug": "mali",
+          "name": {
+            "tr": "Eksen Finans",
+            "en": "Eksen Finans",
+            "ar": "Eksen Finans"
+          },
+          "sector": "mali",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/mali-1440.webp",
+          "shotMobile": "/img/shots/mali-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Muhasebe ve danışmanlık.",
+            "en": "Accounting and advisory.",
+            "ar": "محاسبة واستشارية."
+          }
+        },
+        {
+          "slug": "masaj",
+          "name": {
+            "tr": "Sedir Masaj",
+            "en": "Sedir Masaj",
+            "ar": "Sedir Masaj"
+          },
+          "sector": "masaj",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/masaj-1440.webp",
+          "shotMobile": "/img/shots/masaj-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Sedir Masaj: klasik, derin doku ve aromaterapi masajı; randevulu, sakin seanslar. (Demo site)",
+            "en": "Sedir Massage: classic, deep-tissue and aromatherapy massage; calm sessions by appointment. (Demo site).",
+            "ar": "سدير للتدليك: تدليك كلاسيكي وتدليك الأنسجة العميقة وتدليك بالزيوت العطرية؛ جلسات هادئة بموعد مسبق. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "mobilya",
+          "name": {
+            "tr": "Masif Mobilya",
+            "en": "Masif Mobilya",
+            "ar": "Masif Mobilya"
+          },
+          "sector": "mobilya",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/mobilya-1440.webp",
+          "shotMobile": "/img/shots/mobilya-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mobilya ve mutfak.",
+            "en": "Furniture and kitchen.",
+            "ar": "أثاث ومطبخ."
+          }
+        },
+        {
+          "slug": "moda-2",
+          "name": {
+            "tr": "Lale Atelier",
+            "en": "Lale Atelier",
+            "ar": "Lale Atelier"
+          },
+          "sector": "moda",
+          "type": "e-ticaret",
+          "url": "",
+          "shotDesktop": "/img/shots/moda-2-1440.webp",
+          "shotMobile": "/img/shots/moda-2-390.webp",
+          "features": [
+            "sepet",
+            "odeme-demo",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Lale Atelier: keten, yün ve denim parçalarla zamansız giyim — kadın ve erkek koleksiyonları, 14 gün iade. (Demo site)",
+            "en": "Lal Moda: timeless clothing in linen, wool and denim — women’s and men’s collections, 14-day returns. (Demo site).",
+            "ar": "لال مودا: ملابس خالدة من الكتان والصوف والدنيم — مجموعات نسائية ورجالية وإرجاع خلال 14 يومًا. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "moda-3",
+          "name": {
+            "tr": "Yün Studio",
+            "en": "Yün Studio",
+            "ar": "Yün Studio"
+          },
+          "sector": "moda",
+          "type": "e-ticaret",
+          "url": "",
+          "shotDesktop": "/img/shots/moda-3-1440.webp",
+          "shotMobile": "/img/shots/moda-3-390.webp",
+          "features": [
+            "sepet",
+            "odeme-demo",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Yün Studio: keten, yün ve denim parçalarla zamansız giyim — kadın ve erkek koleksiyonları, 14 gün iade. (Demo site)",
+            "en": "Lal Moda: timeless clothing in linen, wool and denim — women’s and men’s collections, 14-day returns. (Demo site).",
+            "ar": "لال مودا: ملابس خالدة من الكتان والصوف والدنيم — مجموعات نسائية ورجالية وإرجاع خلال 14 يومًا. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "muzik",
+          "name": {
+            "tr": "Frekans Stüdyo",
+            "en": "Frekans Stüdyo",
+            "ar": "Frekans Stüdyo"
+          },
+          "sector": "muzik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/muzik-1440.webp",
+          "shotMobile": "/img/shots/muzik-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kayıt ve miksaj.",
+            "en": "Recording and mixing.",
+            "ar": "تسجيل ومكساج."
+          }
+        },
+        {
+          "slug": "otopark",
+          "name": {
+            "tr": "Park Nokta",
+            "en": "Park Nokta",
+            "ar": "Park Nokta"
+          },
+          "sector": "otopark",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/otopark-1440.webp",
+          "shotMobile": "/img/shots/otopark-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Otopark ve güvenlik.",
+            "en": "Parking and security.",
+            "ar": "موقف وأمان."
+          }
+        },
+        {
+          "slug": "oyun",
+          "name": {
+            "tr": "Kare Studio",
+            "en": "Kare Studio",
+            "ar": "Kare Studio"
+          },
+          "sector": "oyun",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/oyun-1440.webp",
+          "shotMobile": "/img/shots/oyun-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Oyun ve 3D içerik.",
+            "en": "Games and 3D content.",
+            "ar": "ألعاب ومحتوى ثلاثي الأبعاد."
+          }
+        },
+        {
+          "slug": "portfolyo-2",
+          "name": {
+            "tr": "Atölye Mono",
+            "en": "Atölye Mono",
+            "ar": "Atölye Mono"
+          },
+          "sector": "portfolyo",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/portfolyo-2-1440.webp",
+          "shotMobile": "/img/shots/portfolyo-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Atölye Mono: Gaziantep merkezli kurgusal fotoğraf stüdyosu. Portre, sokak, mimari ve ürün fotoğrafçılığı; çekim paketleri ve çevrimiçi rezervasyon. (Demo site)",
+            "en": "Atolye Mono: a fictional photography studio based in Gaziantep. Portrait, street, architecture and product photography; shoot packages and online booking. (Demo site).",
+            "ar": "أتوليه مونو: استوديو تصوير افتراضي مقره غازي عنتاب. تصوير بورتريه وشوارع وعمارة ومنتجات، مع باقات تصوير وحجز عبر الإنترنت. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "portfolyo-3",
+          "name": {
+            "tr": "Gölge ve Işık",
+            "en": "Gölge ve Işık",
+            "ar": "Gölge ve Işık"
+          },
+          "sector": "portfolyo",
+          "type": "galeri",
+          "url": "",
+          "shotDesktop": "/img/shots/portfolyo-3-1440.webp",
+          "shotMobile": "/img/shots/portfolyo-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Gölge ve Işık: Gaziantep merkezli kurgusal fotoğrafçı Nehir Kaya. Portre, sokak, mimari ve ürün fotoğrafçılığı; çekim paketleri ve çevrimiçi rezervasyon. (Demo site)",
+            "en": "Golge ve Isik: fictional photographer Nehir Kaya, based in Gaziantep. Portrait, street, architecture and product photography; shoot packages and online booking. (Demo site).",
+            "ar": "غولغه وإيشيك: المصوّرة الافتراضية نهير كايا من غازي عنتاب. تصوير بورتريه وشوارع وعمارة ومنتجات، مع باقات تصوير وحجز عبر الإنترنت. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "radyo-2",
+          "name": {
+            "tr": "Mercan FM",
+            "en": "Mercan FM",
+            "ar": "Mercan FM"
+          },
+          "sector": "radyo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/radyo-2-1440.webp",
+          "shotMobile": "/img/shots/radyo-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mercan FM: yayın akışı, programlar ve reklam talebi; künye ve lisans bilgileri açık. (Demo site — ses yayını yoktur)",
+            "en": "Mercan FM: broadcast schedule, programmes and advertising requests; masthead and licence details are open. (Demo site — no audio stream).",
+            "ar": "مرجان إف إم: جدول البث والبرامج وطلب الإعلان مع بيانات الإدارة والترخيص المعلنة. (موقع تجريبي — لا يوجد بث صوتي)."
+          }
+        },
+        {
+          "slug": "radyo-3",
+          "name": {
+            "tr": "Gece Frekansı",
+            "en": "Gece Frekansı",
+            "ar": "Gece Frekansı"
+          },
+          "sector": "radyo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/radyo-3-1440.webp",
+          "shotMobile": "/img/shots/radyo-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Gece Frekansı: yayın akışı, programlar ve reklam talebi; künye ve lisans bilgileri açık. (Demo site — ses yayını yoktur)",
+            "en": "Gece Frekansı: broadcast schedule, programmes and advertising requests; masthead and licence details are open. (Demo site — no audio stream).",
+            "ar": "غيجه فريكانسي: جدول البث والبرامج وطلب الإعلان مع بيانات الإدارة والترخيص المعلنة. (موقع تجريبي — لا يوجد بث صوتي)."
+          }
+        },
+        {
+          "slug": "radyoloji",
+          "name": {
+            "tr": "Net Görüntü",
+            "en": "Net Görüntü",
+            "ar": "Net Görüntü"
+          },
+          "sector": "radyoloji",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/radyoloji-1440.webp",
+          "shotMobile": "/img/shots/radyoloji-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Görüntüleme ve rapor.",
+            "en": "Imaging and reports.",
+            "ar": "تصوير وتقرير."
+          }
+        },
+        {
+          "slug": "restoran-2",
+          "name": {
+            "tr": "Ateşhane",
+            "en": "Ateşhane",
+            "ar": "Ateşhane"
+          },
+          "sector": "restoran",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/restoran-2-1440.webp",
+          "shotMobile": "/img/shots/restoran-2-390.webp",
+          "features": [
+            "randevu",
+            "qr-menu",
+            "alerjen",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Ateşhane: meşe közünde mangal ve taş fırın lezzetleri; alerjen kodlu menü ve çevrimiçi masa rezervasyonu. (Demo site)",
+            "en": "Ateshane: charcoal grill and stone-oven dishes over oak embers, with an allergen-coded menu and online table booking. (Demo site).",
+            "ar": "أتيشهانه: أطباق المشواة والفرن الحجري على جمر السنديان، مع قائمة برموز مسببات الحساسية وحجز طاولات عبر الإنترنت. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "restoran-3",
+          "name": {
+            "tr": "Zeytindalı",
+            "en": "Zeytindalı",
+            "ar": "Zeytindalı"
+          },
+          "sector": "restoran",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/restoran-3-1440.webp",
+          "shotMobile": "/img/shots/restoran-3-390.webp",
+          "features": [
+            "randevu",
+            "qr-menu",
+            "alerjen",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Zeytindalı: zeytin bahçesinde mevsim mutfağı; üreticisi adıyla yazılan menü, alerjen kartı ve çevrimiçi masa rezervasyonu. (Demo site)",
+            "en": "Zeytindali: seasonal cooking in an olive garden, with a menu that names its growers, an allergen card and online table booking. (Demo site).",
+            "ar": "زيتينداله: مطبخ موسمي في حديقة زيتون، مع قائمة تذكر منتجيها وبطاقة مسببات الحساسية وحجز طاولات عبر الإنترنت. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "saas-2",
+          "name": {
+            "tr": "Dalgaboard",
+            "en": "Dalgaboard",
+            "ar": "Dalgaboard"
+          },
+          "sector": "saas",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/saas-2-1440.webp",
+          "shotMobile": "/img/shots/saas-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 8,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Dalgaboard: ekipler için proje ve görev yönetimi yazılımı; özellikler, fiyatlar, veri güvenliği ve demo talebi. (Demo site — gerçek kayıt yoktur)",
+            "en": "Dalgaboard: project and task management software for teams; features, pricing, data security and demo requests. (Demo site — no real sign-up).",
+            "ar": "دالغابورد: برنامج إدارة المشاريع والمهام للفرق مع الميزات والأسعار وأمن البيانات وطلب عرض تجريبي. (موقع تجريبي — لا يوجد تسجيل فعلي)."
+          }
+        },
+        {
+          "slug": "saas-3",
+          "name": {
+            "tr": "Düzkanban",
+            "en": "Düzkanban",
+            "ar": "Düzkanban"
+          },
+          "sector": "saas",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/saas-3-1440.webp",
+          "shotMobile": "/img/shots/saas-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 8,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Düzkanban: ekipler için proje ve görev yönetimi yazılımı; özellikler, fiyatlar, veri güvenliği ve demo talebi. (Demo site — gerçek kayıt yoktur)",
+            "en": "Düzkanban: project and task management software for teams; features, pricing, data security and demo requests. (Demo site — no real sign-up).",
+            "ar": "دوزكانبان: برنامج إدارة المشاريع والمهام للفرق مع الميزات والأسعار وأمن البيانات وطلب عرض تجريبي. (موقع تجريبي — لا يوجد تسجيل فعلي)."
+          }
+        },
+        {
+          "slug": "spa",
+          "name": {
+            "tr": "Kayrak Spa",
+            "en": "Kayrak Spa",
+            "ar": "Kayrak Spa"
+          },
+          "sector": "spa",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/spa-1440.webp",
+          "shotMobile": "/img/shots/spa-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Kayrak Spa: geleneksel hamam, masaj ve yüz bakımı.",
+            "en": "Kayrak Spa: traditional hammam, massage and facial care.",
+            "ar": "كايراك سبا: حمّام تقليدي وتدليك وعناية بالوجه."
+          }
+        },
+        {
+          "slug": "spor-2",
+          "name": {
+            "tr": "Nabız Fitness Kulübü",
+            "en": "Nabız Fitness Kulübü",
+            "ar": "Nabız Fitness Kulübü"
+          },
+          "sector": "spor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/spor-2-1440.webp",
+          "shotMobile": "/img/shots/spor-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Nabız Fitness Kulübü: serbest ağırlık, grup dersleri, havuz, üyelik paketleri ve deneme dersi; üyelik koşulları açık. (Demo site)",
+            "en": "Nabiz Fitness Club: free weights, group classes, a pool, membership packages and a trial class; membership terms are clear. (Demo site).",
+            "ar": "نادي نبض للياقة: أوزان حرة وحصص جماعية ومسبح وباقات عضوية وحصة تجريبية مع شروط عضوية واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "spor-3",
+          "name": {
+            "tr": "Mor Salon Stüdyo",
+            "en": "Mor Salon Stüdyo",
+            "ar": "Mor Salon Stüdyo"
+          },
+          "sector": "spor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/spor-3-1440.webp",
+          "shotMobile": "/img/shots/spor-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mor Salon Stüdyo: küçük grup dersleri, havuz, üyelik paketleri ve deneme dersi; üyelik koşulları açık. (Demo site)",
+            "en": "Mor Salon Studio: small-group classes, a pool, membership packages and a trial class; membership terms are clear. (Demo site).",
+            "ar": "استوديو مور صالون: حصص بمجموعات صغيرة ومسبح وباقات عضوية وحصة تجريبية مع شروط عضوية واضحة. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "stk-2",
+          "name": {
+            "tr": "Toprak Kökleri Derneği",
+            "en": "Toprak Kökleri Derneği",
+            "ar": "Toprak Kökleri Derneği"
+          },
+          "sector": "stk",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/stk-2-1440.webp",
+          "shotMobile": "/img/shots/stk-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Toprak Kökleri Derneği: çevre ve fidan dikimi çalışmaları, gönüllülük ve şeffaf bağış bilgisi. (Demo site — gerçek bağış alınmaz)",
+            "en": "Toprak Kokleri Association: environment and tree-planting work, volunteering and transparent donation information. (Demo site — no real donations).",
+            "ar": "جمعية جذور التربة: أعمال البيئة وزراعة الأشجار والتطوع ومعلومات تبرع شفافة. (موقع تجريبي — لا تُقبل تبرعات حقيقية)."
+          }
+        },
+        {
+          "slug": "stk-3",
+          "name": {
+            "tr": "Mavi Nehir Vakfı",
+            "en": "Mavi Nehir Vakfı",
+            "ar": "Mavi Nehir Vakfı"
+          },
+          "sector": "stk",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/stk-3-1440.webp",
+          "shotMobile": "/img/shots/stk-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mavi Nehir Vakfı: çevre ve fidan dikimi çalışmaları, gönüllülük ve şeffaf bağış bilgisi. (Demo site — gerçek bağış alınmaz)",
+            "en": "Mavi Nehir Foundation: environment and tree-planting work, volunteering and transparent donation information. (Demo site — no real donations).",
+            "ar": "مؤسسة النهر الأزرق: أعمال البيئة وزراعة الأشجار والتطوع ومعلومات تبرع شفافة. (موقع تجريبي — لا تُقبل تبرعات حقيقية)."
+          }
+        },
+        {
+          "slug": "tarim",
+          "name": {
+            "tr": "Doğa Tarım",
+            "en": "Doğa Tarım",
+            "ar": "Doğa Tarım"
+          },
+          "sector": "tarim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/tarim-1440.webp",
+          "shotMobile": "/img/shots/tarim-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Üretim ve hasat.",
+            "en": "Production and harvest.",
+            "ar": "إنتاج وحصاد."
+          }
+        },
+        {
+          "slug": "turizm",
+          "name": {
+            "tr": "Otel Sahil",
+            "en": "Otel Sahil",
+            "ar": "Otel Sahil"
+          },
+          "sector": "turizm",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/turizm-1440.webp",
+          "shotMobile": "/img/shots/turizm-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Konaklama ve kahvaltı.",
+            "en": "Stay and breakfast.",
+            "ar": "إقامة وفطور."
+          }
+        },
+        {
+          "slug": "veteriner",
+          "name": {
+            "tr": "Pati Klinik",
+            "en": "Pati Klinik",
+            "ar": "Pati Klinik"
+          },
+          "sector": "veteriner",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/veteriner-1440.webp",
+          "shotMobile": "/img/shots/veteriner-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Muayene ve aşı.",
+            "en": "Examination and vaccine.",
+            "ar": "فحص ولقاح."
+          }
+        },
+        {
+          "slug": "yapimarket",
+          "name": {
+            "tr": "Beton Market",
+            "en": "Beton Market",
+            "ar": "Beton Market"
+          },
+          "sector": "yapimarket",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yapimarket-1440.webp",
+          "shotMobile": "/img/shots/yapimarket-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Malzeme ve ekipman.",
+            "en": "Materials and equipment.",
+            "ar": "مواد ومعدات."
+          }
+        },
+        {
+          "slug": "yedekparca-2",
+          "name": {
+            "tr": "Mavi Dingil Oto Parça",
+            "en": "Mavi Dingil Oto Parça",
+            "ar": "Mavi Dingil Oto Parça"
+          },
+          "sector": "yedekparca",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yedekparca-2-1440.webp",
+          "shotMobile": "/img/shots/yedekparca-2-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Mavi Dingil Oto Parça: fren, filtre, motor ve süspansiyon parçaları; OEM ve eşdeğer parça açıkça etiketli, stok sorma. (Demo site)",
+            "en": "Mavi Dingil Auto Parts: brake, filter, engine and suspension parts; OEM and equivalent parts clearly labelled, stock enquiries. (Demo site).",
+            "ar": "مافي دينغيل لقطع غيار السيارات: قطع الفرامل والفلاتر والمحرك والتعليق مع وسم واضح للقطع OEM والمكافئة وطلب الاستعلام عن المخزون. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "yedekparca-3",
+          "name": {
+            "tr": "Yeşil Vites Yedek Parça",
+            "en": "Yeşil Vites Yedek Parça",
+            "ar": "Yeşil Vites Yedek Parça"
+          },
+          "sector": "yedekparca",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yedekparca-3-1440.webp",
+          "shotMobile": "/img/shots/yedekparca-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Yeşil Vites Yedek Parça: fren, filtre, motor ve süspansiyon parçaları; OEM ve eşdeğer etiketi, stok sorma, 14 gün iade. (Demo site)",
+            "en": "Yesil Vites Auto Parts: brake, filter, engine and suspension parts; OEM and equivalent labels, stock enquiries, 14-day returns. (Demo site).",
+            "ar": "يشيل فيتس لقطع الغيار: قطع الفرامل والفلاتر والمحرك والتعليق مع وسم OEM ومكافئ والاستعلام عن المخزون والإرجاع خلال 14 يومًا. (موقع تجريبي)."
+          }
+        },
+        {
+          "slug": "yuzme",
+          "name": {
+            "tr": "Dalga Yüzme",
+            "en": "Dalga Yüzme",
+            "ar": "Dalga Yüzme"
+          },
+          "sector": "yuzme",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yuzme-1440.webp",
+          "shotMobile": "/img/shots/yuzme-390.webp",
+          "features": [
+            "galeri",
+            "harita",
+            "whatsapp"
+          ],
+          "modules": [],
+          "pages": 7,
+          "date": "2026-11-08",
+          "summary": {
+            "tr": "Yüzme dersi.",
+            "en": "Swim lessons.",
+            "ar": "دروس سباحة."
+          }
         }
       ],
       "id": "9zy8xj",
@@ -13668,6 +16222,771 @@
             "ar": "Akışpano"
           },
           "url": "https://saas.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "ambalaj",
+          "name": {
+            "tr": "Pakira Ambalaj",
+            "en": "Pakira Ambalaj",
+            "ar": "Pakira Ambalaj"
+          },
+          "url": "https://ambalaj.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "arackiralama-2",
+          "name": {
+            "tr": "Rota Filo",
+            "en": "Rota Filo",
+            "ar": "Rota Filo"
+          },
+          "url": "https://arackiralama-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "arackiralama-3",
+          "name": {
+            "tr": "Kuzey Rent",
+            "en": "Kuzey Rent",
+            "ar": "Kuzey Rent"
+          },
+          "url": "https://arackiralama-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "arge",
+          "name": {
+            "tr": "Vira Ar-Ge",
+            "en": "Vira Ar-Ge",
+            "ar": "Vira Ar-Ge"
+          },
+          "url": "https://arge.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "ayakkabi",
+          "name": {
+            "tr": "Kadife Deri",
+            "en": "Kadife Deri",
+            "ar": "Kadife Deri"
+          },
+          "url": "https://ayakkabi.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "baget",
+          "name": {
+            "tr": "Altın Baget",
+            "en": "Altın Baget",
+            "ar": "Altın Baget"
+          },
+          "url": "https://baget.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "banyo",
+          "name": {
+            "tr": "Krom Banyo",
+            "en": "Krom Banyo",
+            "ar": "Krom Banyo"
+          },
+          "url": "https://banyo.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "burc",
+          "name": {
+            "tr": "Yıldız Köşkü",
+            "en": "Yıldız Köşkü",
+            "ar": "Yıldız Köşkü"
+          },
+          "url": "https://burc.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "butik",
+          "name": {
+            "tr": "Ipek Butik",
+            "en": "Ipek Butik",
+            "ar": "Ipek Butik"
+          },
+          "url": "https://butik.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "caybagci",
+          "name": {
+            "tr": "Çay Molası",
+            "en": "Çay Molası",
+            "ar": "Çay Molası"
+          },
+          "url": "https://caybagci.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "cicekci-2",
+          "name": {
+            "tr": "Gülce Çiçek Evi",
+            "en": "Gülce Çiçek Evi",
+            "ar": "Gülce Çiçek Evi"
+          },
+          "url": "https://cicekci-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "cicekci-3",
+          "name": {
+            "tr": "Sarı Papatya Çiçekçilik",
+            "en": "Sarı Papatya Çiçekçilik",
+            "ar": "Sarı Papatya Çiçekçilik"
+          },
+          "url": "https://cicekci-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "dans",
+          "name": {
+            "tr": "Nota Dans",
+            "en": "Nota Dans",
+            "ar": "Nota Dans"
+          },
+          "url": "https://dans.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "disticaret-2",
+          "name": {
+            "tr": "Liman Global Ticaret",
+            "en": "Liman Global Ticaret",
+            "ar": "Liman Global Ticaret"
+          },
+          "url": "https://disticaret-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "disticaret-3",
+          "name": {
+            "tr": "Anka Trade",
+            "en": "Anka Trade",
+            "ar": "Anka Trade"
+          },
+          "url": "https://disticaret-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "doktor",
+          "name": {
+            "tr": "Aile Poliklinik",
+            "en": "Aile Poliklinik",
+            "ar": "Aile Poliklinik"
+          },
+          "url": "https://doktor.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "doner",
+          "name": {
+            "tr": "Fıçı Döner",
+            "en": "Fıçı Döner",
+            "ar": "Fıçı Döner"
+          },
+          "url": "https://doner.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "egitim-2",
+          "name": {
+            "tr": "Meşe Koleji",
+            "en": "Meşe Koleji",
+            "ar": "Meşe Koleji"
+          },
+          "url": "https://egitim-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "egitim-3",
+          "name": {
+            "tr": "Ufuk Okulları",
+            "en": "Ufuk Okulları",
+            "ar": "Ufuk Okulları"
+          },
+          "url": "https://egitim-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "elektrik",
+          "name": {
+            "tr": "Volt Elektrik",
+            "en": "Volt Elektrik",
+            "ar": "Volt Elektrik"
+          },
+          "url": "https://elektrik.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "elektronik-2",
+          "name": {
+            "tr": "VoltBazaar",
+            "en": "VoltBazaar",
+            "ar": "VoltBazaar"
+          },
+          "url": "https://elektronik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "elektronik-3",
+          "name": {
+            "tr": "Tekno Nokta",
+            "en": "Tekno Nokta",
+            "ar": "Tekno Nokta"
+          },
+          "url": "https://elektronik-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "emlak-2",
+          "name": {
+            "tr": "Kuzey Yaka",
+            "en": "Kuzey Yaka",
+            "ar": "Kuzey Yaka"
+          },
+          "url": "https://emlak-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "emlak-3",
+          "name": {
+            "tr": "Yuva Nokta",
+            "en": "Yuva Nokta",
+            "ar": "Yuva Nokta"
+          },
+          "url": "https://emlak-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "enerji-2",
+          "name": {
+            "tr": "Volt Hat Enerji",
+            "en": "Volt Hat Enerji",
+            "ar": "Volt Hat Enerji"
+          },
+          "url": "https://enerji-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "enerji-3",
+          "name": {
+            "tr": "Mavi Güneş Enerji",
+            "en": "Mavi Güneş Enerji",
+            "ar": "Mavi Güneş Enerji"
+          },
+          "url": "https://enerji-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "fotograf",
+          "name": {
+            "tr": "Kare Fotoğraf",
+            "en": "Kare Fotoğraf",
+            "ar": "Kare Fotoğraf"
+          },
+          "url": "https://fotograf.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "fuar",
+          "name": {
+            "tr": "Etkinlik Sahnesi",
+            "en": "Etkinlik Sahnesi",
+            "ar": "Etkinlik Sahnesi"
+          },
+          "url": "https://fuar.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "gebelik",
+          "name": {
+            "tr": "Anne Kısım",
+            "en": "Anne Kısım",
+            "ar": "Anne Kısım"
+          },
+          "url": "https://gebelik.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "girisim",
+          "name": {
+            "tr": "Bulut Panel",
+            "en": "Bulut Panel",
+            "ar": "Bulut Panel"
+          },
+          "url": "https://girisim.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "guzeellik",
+          "name": {
+            "tr": "Ten Güzellik",
+            "en": "Ten Güzellik",
+            "ar": "Ten Güzellik"
+          },
+          "url": "https://guzeellik.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "guzellik-2",
+          "name": {
+            "tr": "Nar Atölye",
+            "en": "Nar Atölye",
+            "ar": "Nar Atölye"
+          },
+          "url": "https://guzellik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "guzellik-3",
+          "name": {
+            "tr": "Lila Studio",
+            "en": "Lila Studio",
+            "ar": "Lila Studio"
+          },
+          "url": "https://guzellik-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "haber-2",
+          "name": {
+            "tr": "Kent Sayfası",
+            "en": "Kent Sayfası",
+            "ar": "Kent Sayfası"
+          },
+          "url": "https://haber-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "haber-3",
+          "name": {
+            "tr": "Nokta Haber",
+            "en": "Nokta Haber",
+            "ar": "Nokta Haber"
+          },
+          "url": "https://haber-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "havuzservis",
+          "name": {
+            "tr": "Fit Havuz",
+            "en": "Fit Havuz",
+            "ar": "Fit Havuz"
+          },
+          "url": "https://havuzservis.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "insaat-2",
+          "name": {
+            "tr": "Mavera Yapı",
+            "en": "Mavera Yapı",
+            "ar": "Mavera Yapı"
+          },
+          "url": "https://insaat-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "insaat-3",
+          "name": {
+            "tr": "Sarnıç Yapı",
+            "en": "Sarnıç Yapı",
+            "ar": "Sarnıç Yapı"
+          },
+          "url": "https://insaat-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "ismakinesi-2",
+          "name": {
+            "tr": "Demir Kule Makine",
+            "en": "Demir Kule Makine",
+            "ar": "Demir Kule Makine"
+          },
+          "url": "https://ismakinesi-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "ismakinesi-3",
+          "name": {
+            "tr": "Kızıl Vinç",
+            "en": "Kızıl Vinç",
+            "ar": "Kızıl Vinç"
+          },
+          "url": "https://ismakinesi-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kafekahve",
+          "name": {
+            "tr": "Kafe Nokta",
+            "en": "Kafe Nokta",
+            "ar": "Kafe Nokta"
+          },
+          "url": "https://kafekahve.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kamu",
+          "name": {
+            "tr": "Ekvit Ofis",
+            "en": "Ekvit Ofis",
+            "ar": "Ekvit Ofis"
+          },
+          "url": "https://kamu.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kargo",
+          "name": {
+            "tr": "Nakliye Kargo",
+            "en": "Nakliye Kargo",
+            "ar": "Nakliye Kargo"
+          },
+          "url": "https://kargo.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kartvizit",
+          "name": {
+            "tr": "Baskı Atölye",
+            "en": "Baskı Atölye",
+            "ar": "Baskı Atölye"
+          },
+          "url": "https://kartvizit.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kebapci",
+          "name": {
+            "tr": "Kömür Kebap",
+            "en": "Kömür Kebap",
+            "ar": "Kömür Kebap"
+          },
+          "url": "https://kebapci.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "klinik-2",
+          "name": {
+            "tr": "Nokta Tıp",
+            "en": "Nokta Tıp",
+            "ar": "Nokta Tıp"
+          },
+          "url": "https://klinik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "klinik-3",
+          "name": {
+            "tr": "Mavi Yonca",
+            "en": "Mavi Yonca",
+            "ar": "Mavi Yonca"
+          },
+          "url": "https://klinik-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kolej",
+          "name": {
+            "tr": "Fen Koleji",
+            "en": "Fen Koleji",
+            "ar": "Fen Koleji"
+          },
+          "url": "https://kolej.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "konut",
+          "name": {
+            "tr": "Emlak Danışman",
+            "en": "Emlak Danışman",
+            "ar": "Emlak Danışman"
+          },
+          "url": "https://konut.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kose",
+          "name": {
+            "tr": "Kore Yapı",
+            "en": "Kore Yapı",
+            "ar": "Kore Yapı"
+          },
+          "url": "https://kose.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kuafor",
+          "name": {
+            "tr": "Sakal & Saç",
+            "en": "Sakal & Saç",
+            "ar": "Sakal & Saç"
+          },
+          "url": "https://kuafor.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kuyuyemis",
+          "name": {
+            "tr": "Taze Ekmek",
+            "en": "Taze Ekmek",
+            "ar": "Taze Ekmek"
+          },
+          "url": "https://kuyuyemis.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "lojistik-2",
+          "name": {
+            "tr": "Yeşil Yol Lojistik",
+            "en": "Yeşil Yol Lojistik",
+            "ar": "Yeşil Yol Lojistik"
+          },
+          "url": "https://lojistik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "lojistik-3",
+          "name": {
+            "tr": "Kervan Ekspres",
+            "en": "Kervan Ekspres",
+            "ar": "Kervan Ekspres"
+          },
+          "url": "https://lojistik-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "lokanta",
+          "name": {
+            "tr": "Bahçe Lokanta",
+            "en": "Bahçe Lokanta",
+            "ar": "Bahçe Lokanta"
+          },
+          "url": "https://lokanta.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "magaza",
+          "name": {
+            "tr": "Tekno Mağaza",
+            "en": "Tekno Mağaza",
+            "ar": "Tekno Mağaza"
+          },
+          "url": "https://magaza.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "mali",
+          "name": {
+            "tr": "Eksen Finans",
+            "en": "Eksen Finans",
+            "ar": "Eksen Finans"
+          },
+          "url": "https://mali.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "masaj",
+          "name": {
+            "tr": "Sedir Masaj",
+            "en": "Sedir Masaj",
+            "ar": "Sedir Masaj"
+          },
+          "url": "https://masaj.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "mobilya",
+          "name": {
+            "tr": "Masif Mobilya",
+            "en": "Masif Mobilya",
+            "ar": "Masif Mobilya"
+          },
+          "url": "https://mobilya.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "moda-2",
+          "name": {
+            "tr": "Lale Atelier",
+            "en": "Lale Atelier",
+            "ar": "Lale Atelier"
+          },
+          "url": "https://moda-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "moda-3",
+          "name": {
+            "tr": "Yün Studio",
+            "en": "Yün Studio",
+            "ar": "Yün Studio"
+          },
+          "url": "https://moda-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "muzik",
+          "name": {
+            "tr": "Frekans Stüdyo",
+            "en": "Frekans Stüdyo",
+            "ar": "Frekans Stüdyo"
+          },
+          "url": "https://muzik.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "otopark",
+          "name": {
+            "tr": "Park Nokta",
+            "en": "Park Nokta",
+            "ar": "Park Nokta"
+          },
+          "url": "https://otopark.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "oyun",
+          "name": {
+            "tr": "Kare Studio",
+            "en": "Kare Studio",
+            "ar": "Kare Studio"
+          },
+          "url": "https://oyun.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "portfolyo-2",
+          "name": {
+            "tr": "Atölye Mono",
+            "en": "Atölye Mono",
+            "ar": "Atölye Mono"
+          },
+          "url": "https://portfolyo-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "portfolyo-3",
+          "name": {
+            "tr": "Gölge ve Işık",
+            "en": "Gölge ve Işık",
+            "ar": "Gölge ve Işık"
+          },
+          "url": "https://portfolyo-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "radyo-2",
+          "name": {
+            "tr": "Mercan FM",
+            "en": "Mercan FM",
+            "ar": "Mercan FM"
+          },
+          "url": "https://radyo-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "radyo-3",
+          "name": {
+            "tr": "Gece Frekansı",
+            "en": "Gece Frekansı",
+            "ar": "Gece Frekansı"
+          },
+          "url": "https://radyo-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "radyoloji",
+          "name": {
+            "tr": "Net Görüntü",
+            "en": "Net Görüntü",
+            "ar": "Net Görüntü"
+          },
+          "url": "https://radyoloji.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "restoran-2",
+          "name": {
+            "tr": "Ateşhane",
+            "en": "Ateşhane",
+            "ar": "Ateşhane"
+          },
+          "url": "https://restoran-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "restoran-3",
+          "name": {
+            "tr": "Zeytindalı",
+            "en": "Zeytindalı",
+            "ar": "Zeytindalı"
+          },
+          "url": "https://restoran-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "saas-2",
+          "name": {
+            "tr": "Dalgaboard",
+            "en": "Dalgaboard",
+            "ar": "Dalgaboard"
+          },
+          "url": "https://saas-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "saas-3",
+          "name": {
+            "tr": "Düzkanban",
+            "en": "Düzkanban",
+            "ar": "Düzkanban"
+          },
+          "url": "https://saas-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "spa",
+          "name": {
+            "tr": "Kayrak Spa",
+            "en": "Kayrak Spa",
+            "ar": "Kayrak Spa"
+          },
+          "url": "https://spa.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "spor-2",
+          "name": {
+            "tr": "Nabız Fitness Kulübü",
+            "en": "Nabız Fitness Kulübü",
+            "ar": "Nabız Fitness Kulübü"
+          },
+          "url": "https://spor-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "spor-3",
+          "name": {
+            "tr": "Mor Salon Stüdyo",
+            "en": "Mor Salon Stüdyo",
+            "ar": "Mor Salon Stüdyo"
+          },
+          "url": "https://spor-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "stk-2",
+          "name": {
+            "tr": "Toprak Kökleri Derneği",
+            "en": "Toprak Kökleri Derneği",
+            "ar": "Toprak Kökleri Derneği"
+          },
+          "url": "https://stk-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "stk-3",
+          "name": {
+            "tr": "Mavi Nehir Vakfı",
+            "en": "Mavi Nehir Vakfı",
+            "ar": "Mavi Nehir Vakfı"
+          },
+          "url": "https://stk-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "tarim",
+          "name": {
+            "tr": "Doğa Tarım",
+            "en": "Doğa Tarım",
+            "ar": "Doğa Tarım"
+          },
+          "url": "https://tarim.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "turizm",
+          "name": {
+            "tr": "Otel Sahil",
+            "en": "Otel Sahil",
+            "ar": "Otel Sahil"
+          },
+          "url": "https://turizm.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "veteriner",
+          "name": {
+            "tr": "Pati Klinik",
+            "en": "Pati Klinik",
+            "ar": "Pati Klinik"
+          },
+          "url": "https://veteriner.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yapimarket",
+          "name": {
+            "tr": "Beton Market",
+            "en": "Beton Market",
+            "ar": "Beton Market"
+          },
+          "url": "https://yapimarket.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yedekparca-2",
+          "name": {
+            "tr": "Mavi Dingil Oto Parça",
+            "en": "Mavi Dingil Oto Parça",
+            "ar": "Mavi Dingil Oto Parça"
+          },
+          "url": "https://yedekparca-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yedekparca-3",
+          "name": {
+            "tr": "Yeşil Vites Yedek Parça",
+            "en": "Yeşil Vites Yedek Parça",
+            "ar": "Yeşil Vites Yedek Parça"
+          },
+          "url": "https://yedekparca-3.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yuzme",
+          "name": {
+            "tr": "Dalga Yüzme",
+            "en": "Dalga Yüzme",
+            "ar": "Dalga Yüzme"
+          },
+          "url": "https://yuzme.webyapar.com/{lang}/"
         }
       ],
       "id": "y55xlg",
