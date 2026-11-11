@@ -38,20 +38,20 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/fonts/poppins.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/rubik.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/css.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=rypj6" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/fonts/poppins.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/fonts/ibm-plex-sans-arabic.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/rubik.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/css.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=jc42c" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=rypj6" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=jc42c" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=rypj6" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=jc42c" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=rypj6" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=rypj6" />
-  <link rel="shortcut icon" href="/img/icon.png?v=rypj6" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=jc42c" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=jc42c" />
+  <link rel="shortcut icon" href="/img/icon.png?v=jc42c" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -162,7 +162,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=rypj6">
+<link rel="stylesheet" href="style.css?v=jc42c">
 </head>
 
 <body>
@@ -187,7 +187,7 @@
   <div id="header"><header class="mnu1-bar" role="banner" dir="ltr" data-mnu1-kok>
   <div class="mnu1-ic">
     <a class="mnu1-marka" href="/tr/" aria-label="Anasayfa - Webyapar" title="Anasayfa - Webyapar">
-      <img src="/img/logo.png?v=xowmo" class="mnu1-logo" alt="Webyapar Logo"  loading="lazy"/>
+      <img src="/img/logo.png?v=vvddy" class="mnu1-logo" alt="Webyapar Logo"  loading="lazy"/>
       <span class="mnu1-ad" data-mnu1-ad="gizli" dir="auto">Webyapar</span>
     </a>
     <nav class="mnu1-nav" aria-label="Navigasyon">
@@ -385,8 +385,8 @@
     var bosta = window.requestIdleCallback
       ? function (f) { window.requestIdleCallback(f, { timeout: 1500 }); }
       : function (f) { setTimeout(f, 1); };
-    if (document.readyState === "loading") {
-      document.addEventListener("DOMContentLoaded", function () { bosta(uyeSor); });
+    if (document.readyState !== "complete") {
+      window.addEventListener("load", function () { bosta(uyeSor); });
     } else {
       bosta(uyeSor);
     }
@@ -701,16 +701,31 @@
     <nav class="wm-langbar" aria-label="Dil Seçici"><ul><li class="wm-lang-item wm-lang-active"><a href="/tr/gida-eticaret-sitesi/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/gida-eticaret-sitesi/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/ar/gida-eticaret-sitesi/" hreflang="ar" lang="ar">AR</a></li></ul></nav>
   </div>
 </footer>
+<nav class="f0000-f9__bar" aria-label="Hızlı erişim"><a href="tel:05316791014" dir="ltr"><span class="material-symbols-outlined" aria-hidden="true">call</span>Ara</a><a href="mailto:info@webyapar.com"><span class="material-symbols-outlined" aria-hidden="true">mail</span>E-posta</a><button type="button" class="f0000-f9__bar-dil" aria-haspopup="true" aria-expanded="false"><span class="material-symbols-outlined" aria-hidden="true">language</span>Dil · TR</button></nav><div class="f0000-f9__sheet" hidden><div class="f0000-f9__sheet-ic"></div></div>
+<script>
+(function () {
+  var b = document.querySelector(".f0000-f9__bar-dil"), sh = document.querySelector(".f0000-f9__sheet");
+  if (!b || !sh) { return; }
+  function kapa() { sh.hidden = true; b.setAttribute("aria-expanded", "false"); }
+  b.addEventListener("click", function () {
+    var ic = sh.firstElementChild;
+    if (ic && !ic.firstChild) { var src = document.querySelector('[class*="-dil-acilir"] .wm-langbar') || document.querySelector(".f0000-f9__bottom .wm-langbar") || document.querySelector(".wm-langbar"); if (src) { ic.appendChild(src.cloneNode(true)); } else { b.hidden = true; return; } }
+    var ac = sh.hidden; sh.hidden = !ac; b.setAttribute("aria-expanded", ac ? "true" : "false");
+  });
+  sh.addEventListener("click", function (e) { if (e.target === sh) { kapa(); } });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
+})();
+</script>
 
 <nav class="wm-yasal" aria-label="Kurumsal ve Yasal" style="box-sizing:border-box;width:100%;max-width:100%;padding:12px 16px;background:var(--mx-site-bg, #FFFFFF);color:var(--mx-site-text, #f3f4f6);display:flex;flex-wrap:wrap;gap:4px 16px;align-items:center;justify-content:center;text-align:center;overflow-wrap:anywhere"><strong style="color:var(--mx-site-text, #f3f4f6)">Kurumsal ve Yasal</strong><a href="/tr/misyon/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Misyon</a><a href="/tr/vizyon/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Vizyon</a><a href="/tr/kalitepolitikamiz/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Kalite Politikamız</a><a href="/tr/kullanicahaklari/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Kullanıcı Hakları</a><a href="/tr/cerez-politikasi/" style="color:var(--mx-site-text, #f3f4f6);padding:6px 0;text-decoration:underline;min-width:0">Çerez Politikası</a></nav></div>
 
   <script>(function(){try{var s=new URLSearchParams(location.search).get("tema");var N={"restoran":"Kervan Sofrası","klinik":"Berrak Tıp Merkezi","emlak":"Anka Gayrimenkul","sanayi":"Orvak Makina","dekor":"Meşe Ev","kuyumcu":"Zümra Kuyum","gida":"Yeşil Kervan","insaat":"Kalesu Yapı","guzellik":"Sedef Studio","portfolyo":"Deniz Altan","hukuk":"Kaya Hukuk Bürosu","otel":"Zeytinlik Butik Otel","otogaleri":"Anadolu Oto Galeri","ajans":"Pusula Ajans","egitim":"Bilgi Fidanı Okulları","spor":"Ritim Spor Merkezi","cicekci":"Gül Dalı Çiçekçilik","lojistik":"Anadolu Hat Lojistik","enerji":"Güneşhat Enerji","disticaret":"Pazar Köprüsü","yedekparca":"Dişli Oto Yedek Parça","arackiralama":"Yol Arkadaşı Rent a Car","ismakinesi":"Sarıkazan İş Makineleri","radyo":"Dalga FM","stk":"Yeşil Umut Derneği","haber":"Şehir Gündemi","moda":"Lâl Moda","elektronik":"Voltaj Elektronik","saas":"Akışpano"};if(!s||!N[s])return;var d=(document.documentElement.lang||"tr").slice(0,2);var M={tr:"Merhaba, “"+N[s]+"” temasını istiyorum.",en:"Hello, I would like the “"+N[s]+"” theme.",ar:"مرحبًا، أودّ الحصول على قالب «"+N[s]+"»."};var t=encodeURIComponent(M[d]||M.tr);var a=document.querySelectorAll('a[href^="https://wa.me/"]');for(var i=0;i<a.length;i++){a[i].href="https://wa.me/905316791014?text="+t;}}catch(e){}})();</script>
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=rypj6"></script>
-  <script defer src="/src/mx-store.js?v=rypj6"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=rypj6"></script>
-  <script defer src="/src/cookie.js?v=rypj6"></script>
+  <script defer src="/src/mx-ui.js?v=jc42c"></script>
+  <script defer src="/src/mx-store.js?v=jc42c"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=jc42c"></script>
+  <script defer src="/src/cookie.js?v=jc42c"></script>
 
 </body>
 
