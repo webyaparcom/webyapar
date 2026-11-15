@@ -12833,7 +12833,17 @@
               "ar": "دفع تجريبي"
             }
           }
-        ]
+        ],
+        "moreText": {
+          "tr": "Tüm sektörleri göster",
+          "en": "Show all industries",
+          "ar": "عرض كل القطاعات"
+        },
+        "lessText": {
+          "tr": "Daha az göster",
+          "en": "Show less",
+          "ar": "عرض أقل"
+        }
       },
       "data": [
         {
