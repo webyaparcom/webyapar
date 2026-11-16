@@ -1194,7 +1194,7 @@
 
   .f0000-f9__bottom .wm-langbar ul {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap; 
     gap: 6px;
     list-style: none;
     margin: 0;
@@ -1279,6 +1279,8 @@
   .f0000-f9__bar-oge[aria-current="page"] .f0000-f9__bar-ad { font-weight: 700; }
   @media (max-width: 768px) {
     .f0000-f9 { padding-bottom: 72px; }
+    
+    :root:has(.f0000-f9__bar) { --mx-altbar-h: 58px; }
     .f0000-f9__bar { display: flex; position: fixed; inset-inline: 0; bottom: 0; z-index: 9990; background: var(--mx-site-surface-2, #1f2937); border-top: 2px solid var(--mx-site-primary, #CC1F1B); box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.22); padding-bottom: env(safe-area-inset-bottom, 0); }
   }
 
