@@ -13638,6 +13638,31 @@
           }
         },
         {
+          "slug": "ajans-3",
+          "name": {
+            "tr": "Lodos Ajans",
+            "en": "Lodos Ajans",
+            "ar": "Lodos Ajans"
+          },
+          "sector": "ajans",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ajans-3-1440.webp",
+          "shotMobile": "/img/shots/ajans-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Lodos Ajans: kurumsal kimlik, ambalaj, kampanya ve kısa video işleri yapan kurgusal bir kreatif ajans; önce işler. Demo site; içerik kurgusaldır.",
+            "en": "Lodos Ajans: a fictional creative agency for identity, packaging, campaigns and short video; the work comes first. Demo site; content is fictional.",
+            "ar": "لودوس أجانس: وكالة إبداعية افتراضية للهوية المؤسسية والتغليف والحملات والفيديو القصير؛ الأعمال أولًا. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "ambalaj",
           "name": {
             "tr": "Pakira Ambalaj",
@@ -14081,6 +14106,31 @@
           }
         },
         {
+          "slug": "doktor-3",
+          "name": {
+            "tr": "Erguvan Tıp Merkezi",
+            "en": "Erguvan Tıp Merkezi",
+            "ar": "Erguvan Tıp Merkezi"
+          },
+          "sector": "doktor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/doktor-3-1440.webp",
+          "shotMobile": "/img/shots/doktor-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Erguvan Tıp Merkezi: dahiliye, kardiyoloji, çocuk ve kadın sağlığı, KBB ve laboratuvar; ölçülen bekleme ve sonuç süreleriyle randevulu muayene. Demo site; içerik kurgusaldır.",
+            "en": "Erguvan Medical Centre: internal medicine, cardiology, paediatrics, women’s health, ENT and laboratory; appointment-based visits with measured waiting and result times. Demo site; content is fictional.",
+            "ar": "مركز إرغوان الطبي: الطب الباطني وأمراض القلب وطب الأطفال وصحة المرأة والأنف والأذن والحنجرة والمختبر؛ فحوص بالمواعيد مع أوقات انتظار ونتائج مُقاسة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "doner",
           "name": {
             "tr": "Fıçı Döner",
@@ -14206,6 +14256,31 @@
             "tr": "Faz Elektrik: arıza, pano, tesisat ve şarj ünitesi için üç adımda online teklif; 07:00–23:00 saha ekibi. Demo site; içerik kurgusaldır.",
             "en": "Faz Electric: an online quote in three steps for faults, panels, wiring and EV chargers; field crews 07:00–23:00. Demo site; content is fictional.",
             "ar": "فاز للكهرباء: عرض سعر عبر الإنترنت في ثلاث خطوات للأعطال واللوحات والتمديدات وشواحن السيارات؛ فرق ميدانية من 07:00 إلى 23:00. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "elektrik-3",
+          "name": {
+            "tr": "Amper Elektrik",
+            "en": "Amper Elektrik",
+            "ar": "Amper Elektrik"
+          },
+          "sector": "elektrik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/elektrik-3-1440.webp",
+          "shotMobile": "/img/shots/elektrik-3-390.webp",
+          "features": [
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Amper Elektrik: tesisat, pano, topraklama, şarj ünitesi ve çatı GES bağlantısı; her işte ölçüm tutanağı. Demo site; içerik kurgusaldır.",
+            "en": "Amper Electric: wiring, panels, earthing, EV chargers and rooftop solar connection; a measurement record with every job. Demo site; content is fictional.",
+            "ar": "أمبير للكهرباء: تمديدات ولوحات وتأريض وشواحن سيارات وربط الطاقة الشمسية على الأسطح؛ محضر قياس مع كل عمل. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -14414,6 +14489,32 @@
             "tr": "Tuz Atelier: siyah-beyaz portre, belgesel, natürmort ve manzara fotoğrafı; arşiv baskı. Demo site; görseller temsilîdir.",
             "en": "Tuz Atelier: black-and-white portrait, documentary, still life and landscape photography; archival prints. Demo site; images are representative.",
             "ar": "توز أتيليه: تصوير بالأبيض والأسود للبورتريه والوثائقي والطبيعة الصامتة والمناظر، مع طباعة أرشيفية. موقع تجريبي؛ الصور تمثيلية."
+          }
+        },
+        {
+          "slug": "fotograf-3",
+          "name": {
+            "tr": "Mira Fotoğraf Evi",
+            "en": "Mira Fotoğraf Evi",
+            "ar": "Mira Fotoğraf Evi"
+          },
+          "sector": "fotograf",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/fotograf-3-1440.webp",
+          "shotMobile": "/img/shots/fotograf-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Mira Fotoğraf Evi: portre, aile, ürün ve mekân fotoğrafı; tek sayfada çekim hikâyesi, albümler ve paketler. Demo site; görseller temsilîdir.",
+            "en": "Mira Photo House: portrait, family, product and interior photography; the shoot story, albums and packages on one page. Demo site; images are representative.",
+            "ar": "ميرا للتصوير: تصوير البورتريه والعائلة والمنتجات والأماكن؛ قصة الجلسة والألبومات والباقات في صفحة واحدة. موقع تجريبي؛ الصور تمثيلية."
           }
         },
         {
@@ -14676,6 +14777,31 @@
           }
         },
         {
+          "slug": "hukuk-3",
+          "name": {
+            "tr": "Sütun Hukuk",
+            "en": "Sütun Hukuk",
+            "ar": "Sütun Hukuk"
+          },
+          "sector": "hukuk",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/hukuk-3-1440.webp",
+          "shotMobile": "/img/shots/hukuk-3-390.webp",
+          "features": [
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Sütun Hukuk: ticaret, iş ve gayrimenkul hukukunda bilgilendirme ve ön görüşme; üç görüşme noktası. Demo site; içerik kurgusaldır.",
+            "en": "Sutun Law: information and initial consultations on commercial, employment and property law; three meeting points. Demo site; content is fictional.",
+            "ar": "سوتون للمحاماة: معلومات واستشارات أولية في القانون التجاري وقانون العمل والعقارات؛ ثلاث نقاط لقاء. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "insaat-2",
           "name": {
             "tr": "Mavera Yapı",
@@ -14830,6 +14956,31 @@
           }
         },
         {
+          "slug": "kafekahve-3",
+          "name": {
+            "tr": "Çini Kahve",
+            "en": "Çini Kahve",
+            "ar": "Çini Kahve"
+          },
+          "sector": "kafekahve",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kafekahve-3-1440.webp",
+          "shotMobile": "/img/shots/kafekahve-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Çini Kahve Durakları: kale altı, istasyon ve kampüste üç küçük kahve durağı; yolda içilecek filtre, espresso ve Türk kahvesi. Demo site; içerik kurgusaldır.",
+            "en": "Cini Coffee Stops: three small coffee stops at the castle gate, the station and the campus; filter, espresso and Turkish coffee for the road. Demo site; content is fictional.",
+            "ar": "محطات تشيني للقهوة: ثلاث محطات قهوة صغيرة عند سفح القلعة والمحطة والحرم الجامعي؛ قهوة مقطرة وإسبريسو وقهوة تركية للطريق. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "kamu",
           "name": {
             "tr": "Ekvit Ofis",
@@ -14903,6 +15054,30 @@
             "tr": "Menzil Kargo: takip numarasıyla anlık durum, desi ile ücret hesabı ve adresten alım. Demo site; içerik kurgusaldır.",
             "en": "Menzil Cargo: live status by tracking number, price by volumetric weight and pick-up from your address. Demo site; content is fictional.",
             "ar": "منزل للشحن: حالة فورية برقم التتبع، وحساب السعر بالوزن الحجمي، واستلام من عنوانك. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "kargo-3",
+          "name": {
+            "tr": "Durak Kargo",
+            "en": "Durak Kargo",
+            "ar": "Durak Kargo"
+          },
+          "sector": "kargo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kargo-3-1440.webp",
+          "shotMobile": "/img/shots/kargo-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Durak Kargo: size en yakın şube, nöbetçi şube ve gönderinin yolculuğu tek sayfada. Demo site; içerik kurgusaldır.",
+            "en": "Durak Cargo: your nearest branch, the duty branch and your parcel’s journey on one page. Demo site; content is fictional.",
+            "ar": "دوراك للشحن: أقرب فرع إليك والفرع المناوب ورحلة شحنتك في صفحة واحدة. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -15061,6 +15236,31 @@
           }
         },
         {
+          "slug": "kolej-3",
+          "name": {
+            "tr": "Pusula Koleji",
+            "en": "Pusula Koleji",
+            "ar": "Pusula Koleji"
+          },
+          "sector": "kolej",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kolej-3-1440.webp",
+          "shotMobile": "/img/shots/kolej-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Pusula Koleji: anaokulundan liseye ön başvuru, uyum haftaları ve kayıt kontrol listesi. Demo site; içerik kurgusaldır.",
+            "en": "Pusula College: pre-application from kindergarten to high school, settling-in weeks and an enrolment checklist. Demo site; content is fictional.",
+            "ar": "كلية بوصلة: طلب مسبق من رياض الأطفال حتى الثانوية، وأسابيع التكيّف، وقائمة تحقق للتسجيل. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "konut",
           "name": {
             "tr": "Emlak Danışman",
@@ -15165,6 +15365,31 @@
           }
         },
         {
+          "slug": "kuafor-3",
+          "name": {
+            "tr": "Ayna Atölye",
+            "en": "Ayna Atölye",
+            "ar": "Ayna Atölye"
+          },
+          "sector": "kuafor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kuafor-3-1440.webp",
+          "shotMobile": "/img/shots/kuafor-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Ayna Atölye: kesim, renk, bakım ve tırnak; önce/sonra galerisi, hizmet sepetiyle randevu ve KDV dahil kurgusal fiyatlar. Demo site; görseller temsilîdir.",
+            "en": "Ayna Atelier: cuts, colour, care and nails; a before/after gallery, booking with a service basket and fictional prices incl. VAT. Demo site; images are representative.",
+            "ar": "آينا أتيليه: قص ولون وعناية وأظافر؛ معرض قبل/بعد وحجز بسلة خدمات وأسعار افتراضية شاملة الضريبة. موقع تجريبي؛ الصور تمثيلية."
+          }
+        },
+        {
           "slug": "kuyumcu-2",
           "name": {
             "tr": "Mihri Kuyum",
@@ -15186,6 +15411,31 @@
             "tr": "Mihri Kuyum: ayarı damgalı altın yüzük, kolye, bilezik ve küpe vitrini; fiyat için danışın, ölçü ayarı atölyede. Demo site; içerik kurgusaldır.",
             "en": "Mihri Jewellers: a showcase of hallmarked gold rings, necklaces, bangles and earrings; price on request, sizing in our workshop. Demo site; content is fictional.",
             "ar": "مهري للمجوهرات: معرض لخواتم وقلائد وأساور وأقراط ذهبية مدموغة العيار؛ السعر عند الاستفسار وتعديل المقاس في الورشة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "kuyumcu-3",
+          "name": {
+            "tr": "Lal Kuyum",
+            "en": "Lal Kuyum",
+            "ar": "Lal Kuyum"
+          },
+          "sector": "kuyumcu",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kuyumcu-3-1440.webp",
+          "shotMobile": "/img/shots/kuyumcu-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Lal Kuyum Atölyesi: bakırcılar çarşısında el işi altın; ölçüye yüzük, bilezik onarımı, altın ekspertizi ve bozdurma. Demo site; fiyatlar temsilîdir, içerik kurgusaldır.",
+            "en": "Lal Jewellery Atelier: handmade gold in the coppersmiths' bazaar; rings to size, bangle repair, gold appraisal and buy-back. Demo site; prices are representative, content is fictional.",
+            "ar": "أتيليه لال للمجوهرات: ذهب مصنوع يدويًا في سوق النحّاسين؛ خواتم حسب المقاس وإصلاح الأساور وتقييم الذهب وشراؤه. موقع تجريبي؛ الأسعار تمثيلية والمحتوى افتراضي."
           }
         },
         {
@@ -15369,6 +15619,32 @@
           }
         },
         {
+          "slug": "mali-3",
+          "name": {
+            "tr": "Mizan Mali Müşavirlik",
+            "en": "Mizan Mali Müşavirlik",
+            "ar": "Mizan Mali Müşavirlik"
+          },
+          "sector": "mali",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/mali-3-1440.webp",
+          "shotMobile": "/img/shots/mali-3-390.webp",
+          "features": [
+            "randevu",
+            "filtre",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Mizan Mali Müşavirlik: beyanname, bordro, defter kayıtları ve şirket kuruluşu; beyanname takvimi ve ofis randevusu. Demo site; içerik kurgusaldır.",
+            "en": "Mizan Accounting: tax returns, payroll, bookkeeping and company formation; tax calendar and office appointments. Demo site; content is fictional.",
+            "ar": "ميزان للمحاسبة: الإقرارات الضريبية والرواتب ومسك الدفاتر وتأسيس الشركات؛ تقويم الإقرارات ومواعيد المكتب. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "masaj",
           "name": {
             "tr": "Sedir Masaj",
@@ -15442,6 +15718,30 @@
             "tr": "Kavak Ev: oturma, yemek ve yatak odası koleksiyonları; üç showroomda dokunarak seçin, eve teslim ve kurulum dahil. Demo site; içerik kurgusaldır.",
             "en": "Kavak Home: living, dining and bedroom collections; choose by touch in three showrooms, with home delivery and assembly. Demo site; content is fictional.",
             "ar": "بيت كاواك: مجموعات لغرف الجلوس والطعام والنوم؛ اختر باللمس في ثلاث صالات عرض مع التوصيل والتركيب. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "mobilya-3",
+          "name": {
+            "tr": "Ilgın Atölye",
+            "en": "Ilgın Atölye",
+            "ar": "Ilgın Atölye"
+          },
+          "sector": "mobilya",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/mobilya-3-1440.webp",
+          "shotMobile": "/img/shots/mobilya-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Ilgın Atölye: ölçüye ısmarlama masa, kitaplık, gardırop ve TV ünitesi; malzemeyi birlikte seçer, haftalık takvimle üretiriz. Demo site; içerik kurgusaldır.",
+            "en": "Ilgin Atelier: made-to-measure tables, bookcases, wardrobes and TV units; we choose the material together and build on a weekly schedule. Demo site; content is fictional.",
+            "ar": "أتيليه إلغين: طاولات ومكتبات وخزائن ملابس ووحدات تلفاز حسب المقاس؛ نختار الخامة معًا ونصنع وفق جدول أسبوعي. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -15548,6 +15848,31 @@
           }
         },
         {
+          "slug": "otel-3",
+          "name": {
+            "tr": "Begonvil Otel",
+            "en": "Begonvil Otel",
+            "ar": "Begonvil Otel"
+          },
+          "sector": "otel",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/otel-3-1440.webp",
+          "shotMobile": "/img/shots/otel-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Begonvil Otel: Bozcaada’da begonvilli avlusu, havuzu ve zeytin bahçesiyle 18 odalı kurgusal ada oteli; odalar, konuk puanları ve konaklama talebi. Demo site; içerik kurgusaldır.",
+            "en": "Begonvil Hotel: a fictional 18-room island hotel on Bozcaada with a bougainvillea courtyard, pool and olive garden; rooms, guest ratings and stay requests. Demo site; content is fictional.",
+            "ar": "فندق بيغونفيل: فندق جزيرة افتراضي من 18 غرفة في بوزجاادا بفناء من الجهنمية ومسبح وبستان زيتون؛ الغرف وتقييمات الضيوف وطلب الإقامة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "otogaleri-2",
           "name": {
             "tr": "Rota Otomotiv",
@@ -15570,6 +15895,30 @@
             "tr": "Rota Otomotiv: ekspertizli ikinci el araç ilanları; kasa, yakıt ve bütçeye göre süzün, takas ve ekspertiz randevusu alın. Demo site; içerik kurgusaldır.",
             "en": "Rota Motors: inspected used-car listings; filter by body, fuel and budget, and book a trade-in or inspection. Demo site; content is fictional.",
             "ar": "روتا للسيارات: إعلانات سيارات مستعملة مفحوصة؛ صفِّ حسب الهيكل والوقود والميزانية واحجز موعد مقايضة أو فحص. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "otogaleri-3",
+          "name": {
+            "tr": "Selvi Otomotiv",
+            "en": "Selvi Otomotiv",
+            "ar": "Selvi Otomotiv"
+          },
+          "sector": "otogaleri",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/otogaleri-3-1440.webp",
+          "shotMobile": "/img/shots/otogaleri-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Selvi Otomotiv: ekspertiz raporlu ikinci el araç; ilan numarasıyla sorgu, takas değerleme ve ekspertiz–tramer–kasko sözlüğü. Demo site; içerik kurgusaldır.",
+            "en": "Selvi Motors: used cars with inspection reports; look up by listing number, trade-in valuation and an inspection–claims–insurance glossary. Demo site; content is fictional.",
+            "ar": "سلفي للسيارات: سيارات مستعملة بتقارير فحص؛ استعلام برقم الإعلان وتقييم المقايضة ومسرد للفحص وسجل الحوادث والتأمين. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -16096,6 +16445,31 @@
           }
         },
         {
+          "slug": "veteriner-3",
+          "name": {
+            "tr": "Patiyol Veteriner",
+            "en": "Patiyol Veteriner",
+            "ar": "Patiyol Veteriner"
+          },
+          "sector": "veteriner",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/veteriner-3-1440.webp",
+          "shotMobile": "/img/shots/veteriner-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 6,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Patiyol Veteriner: Gaziantep’te üç şubede kedi, köpek ve küçük evcil hayvanlar için muayene, aşı, kısırlaştırma ve bakım. Size en yakın şubeyi bulun. Demo site; içerik kurgusaldır.",
+            "en": "Patiyol Veterinary: examinations, vaccines, neutering and care for cats, dogs and small pets at three branches in Gaziantep. Find your nearest branch. Demo site; content is fictional.",
+            "ar": "باتي يول البيطرية: فحوص ولقاحات وتعقيم ورعاية للقطط والكلاب والحيوانات الأليفة الصغيرة في ثلاثة فروع في غازي عنتاب. اعثر على أقرب فرع إليك. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "yapimarket",
           "name": {
             "tr": "Beton Market",
@@ -16612,6 +16986,15 @@
           "url": "https://ajans-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "ajans-3",
+          "name": {
+            "tr": "Lodos Ajans",
+            "en": "Lodos Ajans",
+            "ar": "Lodos Ajans"
+          },
+          "url": "https://ajans-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "ambalaj",
           "name": {
             "tr": "Pakira Ambalaj",
@@ -16765,6 +17148,15 @@
           "url": "https://doktor-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "doktor-3",
+          "name": {
+            "tr": "Erguvan Tıp Merkezi",
+            "en": "Erguvan Tıp Merkezi",
+            "ar": "Erguvan Tıp Merkezi"
+          },
+          "url": "https://doktor-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "doner",
           "name": {
             "tr": "Fıçı Döner",
@@ -16808,6 +17200,15 @@
             "ar": "Faz Elektrik"
           },
           "url": "https://elektrik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "elektrik-3",
+          "name": {
+            "tr": "Amper Elektrik",
+            "en": "Amper Elektrik",
+            "ar": "Amper Elektrik"
+          },
+          "url": "https://elektrik-3.webyapar.com/{lang}/"
         },
         {
           "slug": "elektronik-2",
@@ -16880,6 +17281,15 @@
             "ar": "Tuz Atelier"
           },
           "url": "https://fotograf-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "fotograf-3",
+          "name": {
+            "tr": "Mira Fotoğraf Evi",
+            "en": "Mira Fotoğraf Evi",
+            "ar": "Mira Fotoğraf Evi"
+          },
+          "url": "https://fotograf-3.webyapar.com/{lang}/"
         },
         {
           "slug": "fuar",
@@ -16972,6 +17382,15 @@
           "url": "https://hukuk-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "hukuk-3",
+          "name": {
+            "tr": "Sütun Hukuk",
+            "en": "Sütun Hukuk",
+            "ar": "Sütun Hukuk"
+          },
+          "url": "https://hukuk-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "insaat-2",
           "name": {
             "tr": "Mavera Yapı",
@@ -17026,6 +17445,15 @@
           "url": "https://kafekahve-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "kafekahve-3",
+          "name": {
+            "tr": "Çini Kahve",
+            "en": "Çini Kahve",
+            "ar": "Çini Kahve"
+          },
+          "url": "https://kafekahve-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "kamu",
           "name": {
             "tr": "Ekvit Ofis",
@@ -17051,6 +17479,15 @@
             "ar": "Menzil Kargo"
           },
           "url": "https://kargo-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kargo-3",
+          "name": {
+            "tr": "Durak Kargo",
+            "en": "Durak Kargo",
+            "ar": "Durak Kargo"
+          },
+          "url": "https://kargo-3.webyapar.com/{lang}/"
         },
         {
           "slug": "kartvizit",
@@ -17107,6 +17544,15 @@
           "url": "https://kolej-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "kolej-3",
+          "name": {
+            "tr": "Pusula Koleji",
+            "en": "Pusula Koleji",
+            "ar": "Pusula Koleji"
+          },
+          "url": "https://kolej-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "konut",
           "name": {
             "tr": "Emlak Danışman",
@@ -17143,6 +17589,15 @@
           "url": "https://kuafor-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "kuafor-3",
+          "name": {
+            "tr": "Ayna Atölye",
+            "en": "Ayna Atölye",
+            "ar": "Ayna Atölye"
+          },
+          "url": "https://kuafor-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "kuyumcu-2",
           "name": {
             "tr": "Mihri Kuyum",
@@ -17150,6 +17605,15 @@
             "ar": "Mihri Kuyum"
           },
           "url": "https://kuyumcu-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kuyumcu-3",
+          "name": {
+            "tr": "Lal Kuyum",
+            "en": "Lal Kuyum",
+            "ar": "Lal Kuyum"
+          },
+          "url": "https://kuyumcu-3.webyapar.com/{lang}/"
         },
         {
           "slug": "kuyuyemis",
@@ -17215,6 +17679,15 @@
           "url": "https://mali-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "mali-3",
+          "name": {
+            "tr": "Mizan Mali Müşavirlik",
+            "en": "Mizan Mali Müşavirlik",
+            "ar": "Mizan Mali Müşavirlik"
+          },
+          "url": "https://mali-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "masaj",
           "name": {
             "tr": "Sedir Masaj",
@@ -17240,6 +17713,15 @@
             "ar": "Kavak Ev"
           },
           "url": "https://mobilya-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "mobilya-3",
+          "name": {
+            "tr": "Ilgın Atölye",
+            "en": "Ilgın Atölye",
+            "ar": "Ilgın Atölye"
+          },
+          "url": "https://mobilya-3.webyapar.com/{lang}/"
         },
         {
           "slug": "moda-2",
@@ -17278,6 +17760,15 @@
           "url": "https://otel-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "otel-3",
+          "name": {
+            "tr": "Begonvil Otel",
+            "en": "Begonvil Otel",
+            "ar": "Begonvil Otel"
+          },
+          "url": "https://otel-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "otogaleri-2",
           "name": {
             "tr": "Rota Otomotiv",
@@ -17285,6 +17776,15 @@
             "ar": "Rota Otomotiv"
           },
           "url": "https://otogaleri-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "otogaleri-3",
+          "name": {
+            "tr": "Selvi Otomotiv",
+            "en": "Selvi Otomotiv",
+            "ar": "Selvi Otomotiv"
+          },
+          "url": "https://otogaleri-3.webyapar.com/{lang}/"
         },
         {
           "slug": "otopark",
@@ -17465,6 +17965,15 @@
             "ar": "Kumru Veteriner Kliniği"
           },
           "url": "https://veteriner-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "veteriner-3",
+          "name": {
+            "tr": "Patiyol Veteriner",
+            "en": "Patiyol Veteriner",
+            "ar": "Patiyol Veteriner"
+          },
+          "url": "https://veteriner-3.webyapar.com/{lang}/"
         },
         {
           "slug": "yapimarket",

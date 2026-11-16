@@ -410,6 +410,14 @@ Proje filtresi
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Ajans Kurumsal
+Lodos Ajans
+Lodos Ajans: kurumsal kimlik, ambalaj, kampanya ve kısa video işleri yapan kurgusal bir kreatif ajans; önce işler. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
 Ambalaj Kurumsal
 Pakira Ambalaj
 Karton, cam ve plastik ambalaj üretimi.
@@ -564,6 +572,14 @@ Randevu
 Harita
 7 sayfa
 Demoyu gör Bu temayı iste
+Poliklinik Kurumsal
+Erguvan Tıp Merkezi
+Erguvan Tıp Merkezi: dahiliye, kardiyoloji, çocuk ve kadın sağlığı, KBB ve laboratuvar; ölçülen bekleme ve sonuç süreleriyle randevulu muayene. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
 Dönerci Kurumsal
 Fıçı Döner
 Fırın döner ve pide.
@@ -606,6 +622,14 @@ Faz Elektrik: arıza, pano, tesisat ve şarj ünitesi için üç adımda online 
 Dahil olanlar
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Elektrik Kurumsal
+Amper Elektrik
+Amper Elektrik: tesisat, pano, topraklama, şarj ünitesi ve çatı GES bağlantısı; her işte ölçüm tutanağı. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Proje filtresi
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Elektronik E-ticaret
 VoltBazaar
@@ -678,6 +702,15 @@ Tuz Atelier: siyah-beyaz portre, belgesel, natürmort ve manzara fotoğrafı; ar
 Dahil olanlar
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Fotoğraf Stüdyosu Kurumsal
+Mira Fotoğraf Evi
+Mira Fotoğraf Evi: portre, aile, ürün ve mekân fotoğrafı; tek sayfada çekim hikâyesi, albümler ve paketler. Demo site; görseller temsilîdir.
+Dahil olanlar
+Randevu
+Galeri
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Fuar & Etkinlik Kurumsal
 Etkinlik Sahnesi
@@ -768,6 +801,14 @@ Randevu
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Hukuk Kurumsal
+Sütun Hukuk
+Sütun Hukuk: ticaret, iş ve gayrimenkul hukukunda bilgilendirme ve ön görüşme; üç görüşme noktası. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Proje filtresi
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 İnşaat Galeri
 Mavera Yapı
 Mavera Yapı: konut ve ticari projeler, sözleşmeli teslim tarihi, aylık şantiye ilerlemesi ve kat planları. Görseller temsilidir. (Demo site)
@@ -820,6 +861,14 @@ Dahil olanlar
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Kafe Kurumsal
+Çini Kahve
+Çini Kahve Durakları: kale altı, istasyon ve kampüste üç küçük kahve durağı; yolda içilecek filtre, espresso ve Türk kahvesi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Ofis & Tedarik Kurumsal
 Ekvit Ofis
 Ofis ve tedarik.
@@ -844,6 +893,13 @@ Menzil Kargo: takip numarasıyla anlık durum, desi ile ücret hesabı ve adrest
 Dahil olanlar
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Kargo & Dağıtım Kurumsal
+Durak Kargo
+Durak Kargo: size en yakın şube, nöbetçi şube ve gönderinin yolculuğu tek sayfada. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Baskı & Kartvizit Kurumsal
 Baskı Atölye
@@ -898,6 +954,14 @@ Proje filtresi
 Harita
 7 sayfa
 Demoyu gör Bu temayı iste
+Kolej Kurumsal
+Pusula Koleji
+Pusula Koleji: anaokulundan liseye ön başvuru, uyum haftaları ve kayıt kontrol listesi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Emlak Danışmanlığı Kurumsal
 Emlak Danışman
 Satış ve kiralama.
@@ -934,12 +998,28 @@ Proje filtresi
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Kuaför & Berber Kurumsal
+Ayna Atölye
+Ayna Atölye: kesim, renk, bakım ve tırnak; önce/sonra galerisi, hizmet sepetiyle randevu ve KDV dahil kurgusal fiyatlar. Demo site; görseller temsilîdir.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Kuyumcu Kurumsal
 Mihri Kuyum
 Mihri Kuyum: ayarı damgalı altın yüzük, kolye, bilezik ve küpe vitrini; fiyat için danışın, ölçü ayarı atölyede. Demo site; içerik kurgusaldır.
 Dahil olanlar
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Kuyumcu Kurumsal
+Lal Kuyum
+Lal Kuyum Atölyesi: bakırcılar çarşısında el işi altın; ölçüye yüzük, bilezik onarımı, altın ekspertizi ve bozdurma. Demo site; fiyatlar temsilîdir, içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Fırın & Şerbet Kurumsal
 Taze Ekmek
@@ -1002,6 +1082,15 @@ Dahil olanlar
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Mali Müşavirlik Kurumsal
+Mizan Mali Müşavirlik
+Mizan Mali Müşavirlik: beyanname, bordro, defter kayıtları ve şirket kuruluşu; beyanname takvimi ve ofis randevusu. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Proje filtresi
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
 Masaj Kurumsal
 Sedir Masaj
 Sedir Masaj: klasik, derin doku ve aromaterapi masajı; randevulu, sakin seanslar. (Demo site)
@@ -1026,6 +1115,13 @@ Kavak Ev: oturma, yemek ve yatak odası koleksiyonları; üç showroomda dokunar
 Dahil olanlar
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Mobilya & Mutfak Kurumsal
+Ilgın Atölye
+Ilgın Atölye: ölçüye ısmarlama masa, kitaplık, gardırop ve TV ünitesi; malzemeyi birlikte seçer, haftalık takvimle üretiriz. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+5 sayfa
 Demoyu gör Bu temayı iste
 Moda E-ticaret
 Lale Atelier
@@ -1062,6 +1158,14 @@ Randevu
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Otel Kurumsal
+Begonvil Otel
+Begonvil Otel: Bozcaada’da begonvilli avlusu, havuzu ve zeytin bahçesiyle 18 odalı kurgusal ada oteli; odalar, konuk puanları ve konaklama talebi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
 Oto galeri Kurumsal
 Rota Otomotiv
 Rota Otomotiv: ekspertizli ikinci el araç ilanları; kasa, yakıt ve bütçeye göre süzün, takas ve ekspertiz randevusu alın. Demo site; içerik kurgusaldır.
@@ -1069,6 +1173,13 @@ Dahil olanlar
 Proje filtresi
 Harita
 6 sayfa
+Demoyu gör Bu temayı iste
+Oto galeri Kurumsal
+Selvi Otomotiv
+Selvi Otomotiv: ekspertiz raporlu ikinci el araç; ilan numarasıyla sorgu, takas değerleme ve ekspertiz–tramer–kasko sözlüğü. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Otopark Kurumsal
 Park Nokta
@@ -1248,6 +1359,14 @@ Demoyu gör Bu temayı iste
 Veteriner Kurumsal
 Kumru Veteriner Kliniği
 Kumru Veteriner Kliniği: kedi ve köpekler için muayene, aşı takvimi ve kontrol randevuları. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
+Veteriner Kurumsal
+Patiyol Veteriner
+Patiyol Veteriner: Gaziantep’te üç şubede kedi, köpek ve küçük evcil hayvanlar için muayene, aşı, kısırlaştırma ve bakım. Size en yakın şubeyi bulun. Demo site; içerik kurgusaldır.
 Dahil olanlar
 Randevu
 Harita
