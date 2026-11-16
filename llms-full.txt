@@ -402,6 +402,14 @@ Galeri
 Harita
 8 sayfa
 Demoyu gör Bu temayı iste
+Ajans Kurumsal
+Ritim Kreatif
+Ritim Kreatif: marka stratejisi, kimlik, kampanya ve içerik üretimi yapan kurgusal bir editoryal ajans. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Proje filtresi
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
 Ambalaj Kurumsal
 Pakira Ambalaj
 Karton, cam ve plastik ambalaj üretimi.
@@ -548,6 +556,14 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Poliklinik Kurumsal
+Nehir Aile Kliniği
+Nehir Aile Kliniği: aile hekimliği muayenesi, çocuk izlemi ve kronik hastalık takibi için çevrim içi randevu. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+7 sayfa
+Demoyu gör Bu temayı iste
 Dönerci Kurumsal
 Fıçı Döner
 Fırın döner ve pide.
@@ -583,6 +599,13 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Elektrik Kurumsal
+Faz Elektrik
+Faz Elektrik: arıza, pano, tesisat ve şarj ünitesi için üç adımda online teklif; 07:00–23:00 saha ekibi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Elektronik E-ticaret
 VoltBazaar
@@ -648,6 +671,13 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Fotoğraf Stüdyosu Kurumsal
+Tuz Atelier
+Tuz Atelier: siyah-beyaz portre, belgesel, natürmort ve manzara fotoğrafı; arşiv baskı. Demo site; görseller temsilîdir.
+Dahil olanlar
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Fuar & Etkinlik Kurumsal
 Etkinlik Sahnesi
@@ -730,6 +760,14 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Hukuk Kurumsal
+Defne Hukuk
+Defne Hukuk: aile, miras ve gayrimenkul hukukunda bilgilendirme ve ön görüşme. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
 İnşaat Galeri
 Mavera Yapı
 Mavera Yapı: konut ve ticari projeler, sözleşmeli teslim tarihi, aylık şantiye ilerlemesi ve kat planları. Görseller temsilidir. (Demo site)
@@ -775,6 +813,13 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Kafe Kurumsal
+Telve Kahve Evi
+Telve Kahve Evi: Türk kahvesi, menengiç, demleme kahve, serpme kahvaltı ve fıstıklı tatlılar; üç şube. Demo site; içerik ve fiyatlar kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
 Ofis & Tedarik Kurumsal
 Ekvit Ofis
 Ofis ve tedarik.
@@ -792,6 +837,13 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Kargo & Dağıtım Kurumsal
+Menzil Kargo
+Menzil Kargo: takip numarasıyla anlık durum, desi ile ücret hesabı ve adresten alım. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Baskı & Kartvizit Kurumsal
 Baskı Atölye
@@ -838,6 +890,14 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Kolej Kurumsal
+Atlas Koleji
+Atlas Koleji: ortaokul ve lisede ders programı, kulüpler, akademik takvim ve ön kayıt. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Proje filtresi
+Harita
+7 sayfa
+Demoyu gör Bu temayı iste
 Emlak Danışmanlığı Kurumsal
 Emlak Danışman
 Satış ve kiralama.
@@ -864,6 +924,22 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Kuaför & Berber Kurumsal
+Lina Saç Stüdyosu
+Lina Saç Stüdyosu: kesim, renk, örgü ve gelin saçı için çevrim içi randevu. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Proje filtresi
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
+Kuyumcu Kurumsal
+Mihri Kuyum
+Mihri Kuyum: ayarı damgalı altın yüzük, kolye, bilezik ve küpe vitrini; fiyat için danışın, ölçü ayarı atölyede. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Fırın & Şerbet Kurumsal
 Taze Ekmek
@@ -919,6 +995,13 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Mali Müşavirlik Kurumsal
+Vade Mali Ofis
+Vade Mali Ofis: muhasebe, beyanname, bordro ve şirket kuruluşu için ön görüşme ve teklif talebi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
 Masaj Kurumsal
 Sedir Masaj
 Sedir Masaj: klasik, derin doku ve aromaterapi masajı; randevulu, sakin seanslar. (Demo site)
@@ -936,6 +1019,13 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Mobilya & Mutfak Kurumsal
+Kavak Ev
+Kavak Ev: oturma, yemek ve yatak odası koleksiyonları; üç showroomda dokunarak seçin, eve teslim ve kurulum dahil. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Moda E-ticaret
 Lale Atelier
@@ -963,6 +1053,22 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Otel Kurumsal
+Badem Taş Konak
+Badem Taş Konak: Datça’da badem ve zeytin ağaçları arasında 16 odalı taş konak; odalar, olanaklar ve konaklama talebi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+6 sayfa
+Demoyu gör Bu temayı iste
+Oto galeri Kurumsal
+Rota Otomotiv
+Rota Otomotiv: ekspertizli ikinci el araç ilanları; kasa, yakıt ve bütçeye göre süzün, takas ve ekspertiz randevusu alın. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Proje filtresi
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Otopark Kurumsal
 Park Nokta
@@ -1138,6 +1244,14 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Veteriner Kurumsal
+Kumru Veteriner Kliniği
+Kumru Veteriner Kliniği: kedi ve köpekler için muayene, aşı takvimi ve kontrol randevuları. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+6 sayfa
 Demoyu gör Bu temayı iste
 Yapı Market Kurumsal
 Beton Market
