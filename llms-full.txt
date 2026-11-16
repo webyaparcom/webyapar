@@ -473,6 +473,14 @@ Galeri
 Harita
 5 sayfa
 Demoyu gör Bu temayı iste
+Ayakkabı Kurumsal
+Adımlık
+Adımlık: Gaziantep’te şehir ayakkabısı mağazası; sneaker, loafer, babet ve bot. Kombin destesi, taban katmanları ve numara kartı. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
 Fırın Kurumsal
 Altın Baget
 Sıcak ekmek ve tatlı fırını.
@@ -486,6 +494,15 @@ Fırın Kurumsal
 Somunhane
 Somunhane: Gaziantep’te taş fırın baget, sabah tabağı ve ofis kutusu. Tahtadaki fiyatlar, fırın sırası saatleri ve WhatsApp sipariş. Demo site; içerik kurgusaldır.
 Dahil olanlar
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
+Fırın Kurumsal
+Kabuk Baget
+Kabuk Baget: Şehitkamil'de taş fırın baget ve katman katman sandviç; yarım, tam ya da paylaşım boyu, gel-al saati WhatsApp'tan. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Galeri
 Harita
 5 sayfa
 Demoyu gör Bu temayı iste
@@ -506,6 +523,14 @@ Randevu
 Galeri
 Harita
 5 sayfa
+Demoyu gör Bu temayı iste
+Banyo & Tadilat Kurumsal
+Duru Banyo
+Duru Banyo: Eskişehir’de banyo yenileme — üç adımlı teklif formu, haftalık iş takvimi, kat planına göre banyo tipi ve proje arşivi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Burç & Danışmanlık Kurumsal
 Yıldız Köşkü
@@ -533,6 +558,14 @@ Galeri
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Butik Kurumsal
+Ardıç Butik
+Ardıç Butik: Şahinbey’de hazır giyim butiği; sezon kataloğu, beden cetveli, ücretsiz prova ve tadilat. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Çay Bahçesi Kurumsal
 Çay Molası
 Demlik çay ve tatlı.
@@ -549,6 +582,15 @@ Dahil olanlar
 Galeri
 Harita
 5 sayfa
+Demoyu gör Bu temayı iste
+Çay Bahçesi Kurumsal
+İnce Belli
+İnce Belli: Moda’da tek salonlu çay evi; yamaçtan bardağa bir çayın yolculuğu, taze dem, ikramlar ve saat çarkıyla masa ayırtma. Demo site; içerik kurgusal, görseller temsilîdir.
+Dahil olanlar
+Randevu
+Galeri
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Çiçekçi Kurumsal
 Gülce Çiçek Evi
@@ -585,6 +627,14 @@ Randevu
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Dans & Müzik Kursu Kurumsal
+Pist Dans
+Pist Dans Kolektifi: Kadıköy’de yetişkinler için lindy hop, salsa, kizomba, Arjantin tangosu ve çağdaş dans. Seviye merdiveni, haftalık ders tablosu ve ücretsiz deneme dersi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Dekorasyon Kurumsal
 Kalem Stüdyo
 Kalem İç Mimarlık Stüdyosu: Ankara’da konut ve küçük ticari mekânlar için iç mimarlık, dekorasyon ve uygulama yönetimi. Demo site; içerik kurgusaldır.
@@ -593,6 +643,14 @@ Randevu
 Galeri
 Harita
 5 sayfa
+Demoyu gör Bu temayı iste
+Dekorasyon Kurumsal
+Pervaz
+Pervaz Ev Defteri: Kadıköy’de dekorasyon stüdyosu ve ev dergisi — iki sayfalık oda hikâyeleri, odanın katmanları, haftalık takvim ve oda planından danışma. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Dış ticaret Kurumsal
 Liman Global Ticaret
@@ -652,6 +710,14 @@ Fener Döner: İncilipınar'da 04:00'e kadar açık yaprak döner büfesi; dür�
 Dahil olanlar
 Harita
 4 sayfa
+Demoyu gör Bu temayı iste
+Dönerci Kurumsal
+Sarmal Döner
+Sarmal Döner: Şahinbey'de gündüz dürüm salonu; yaprak döner, dürüm ve tabaklar, canlı açık/kapalı levhası ve telefonla sipariş. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Eğitim Kurumsal
 Meşe Koleji
@@ -802,10 +868,27 @@ Randevu
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Gebelik & Doğum Kurumsal
+Fidan Gebelik Evi
+Fidan Gebelik Evi: İzmir Karşıyaka’da gebelik takibi, ultrason randevusu, doğuma hazırlık akşamları ve emzirme danışmanlığı; kırk haftayı hafta hafta anlatan rehber. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Gıda Kurumsal
 Sofrana Antep
 Sofrana Antep: Gaziantep’te fıstık ezmesi, iç fıstık, pekmez, reçel, baklava, bal ve zeytinyağı üretimi. Toptan, otel-restoran ve özel etiket için ürün kataloğu. Demo site; içerik kurgusaldır.
 Dahil olanlar
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Gıda Kurumsal
+Kabukçu
+Kabukçu Kavurma Evi: Gaziantep’te Antep fıstığı, fındık, badem, leblebi ve kaju kavurma atölyesi. Toptan, otel-restoran, hediye kutusu ve etkinlik kavurma standı. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
@@ -1005,6 +1088,14 @@ Dahil olanlar
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Kebapçı Kurumsal
+Safran Kebap
+Safran Kebap: 1987'den beri Tahtani'de meşe kömürü ocakbaşı; kırk yılın hikâyesi, porsiyon tahtası ve telefonla masa ayırtma. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Klinik Kurumsal
 Nokta Tıp
 Nokta Tıp: sekiz branşta uzman hekim, randevu esaslı muayene ve erişilebilir bir merkez. (Demo site)
@@ -1064,6 +1155,13 @@ Dahil olanlar
 Galeri
 Harita
 4 sayfa
+Demoyu gör Bu temayı iste
+Emlak Danışmanlığı Kurumsal
+Kademe Teras
+Kademe Teras Konutları: Konyaaltı’nda teraslı konut projesi — rakamlarla proje künyesi, yıl ekseninde inşaat takvimi, puanlı alıcı yorumları ve adım adım satın alma süreci. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+5 sayfa
 Demoyu gör Bu temayı iste
 Yapı Kimyasalları Kurumsal
 Kore Yapı
@@ -1131,6 +1229,14 @@ Dahil olanlar
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Fırın & Şerbet Kurumsal
+Kese Kuruyemiş
+Kese Kuruyemiş: Kemeraltı’nda her sabah kavrulan fıstık, fındık, leblebi ve kabak çekirdeği; hazır keseler, gramla karışık ve WhatsApp’tan sipariş fişi. Demo site; fiyatlar kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Lojistik Kurumsal
 Yeşil Yol Lojistik
 Yeşil Yol Lojistik: yurt içi ve yurt dışı nakliye, depolama ve evden eve taşıma; teklif talebi ve yetki belgeleri. (Demo site)
@@ -1165,6 +1271,13 @@ Dahil olanlar
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Lokanta Kurumsal
+Üç Kapı Lokantası
+Üç Kapı Lokantası: Bursa’da üç şubeli ev yemeği lokantası; şube adresleri, günün kara tahtası, mevsim takvimi ve örnek fiyatlar. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Teknoloji Mağazası Kurumsal
 Tekno Mağaza
 Cihaz ve aksesuar.
@@ -1180,6 +1293,14 @@ Voltaj Mağaza: dizüstü, ses, giyilebilir, güç ve oyun ürünleriyle teknolo
 Dahil olanlar
 Harita
 4 sayfa
+Demoyu gör Bu temayı iste
+Teknoloji Mağazası Kurumsal
+Kavşak Teknoloji
+Kavşak Teknoloji: Gaziantep’te üç şubeli teknoloji mağazası; dizüstü, ses, giyilebilir ve aksesuar. Size en yakın şubeyi bulun, yol tarifi alın, stok sorun. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+5 sayfa
 Demoyu gör Bu temayı iste
 Mali Müşavirlik Kurumsal
 Eksen Finans
@@ -1222,6 +1343,15 @@ Dahil olanlar
 Randevu
 Harita
 5 sayfa
+Demoyu gör Bu temayı iste
+Masaj Kurumsal
+Kehribar Masaj
+Kehribar Masaj Odası: İzmir Alsancak’ta akşam saatlerine kadar açık, loş ışıklı masaj odası; dakikası belli ritüeller ve saat eksenli randevu. Demo site; Görseller temsilîdir; içerik ve fiyatlar kurgusaldır.
+Dahil olanlar
+Randevu
+Galeri
+Harita
+4 sayfa
 Demoyu gör Bu temayı iste
 Mobilya & Mutfak Kurumsal
 Masif Mobilya
@@ -1375,6 +1505,14 @@ Randevu
 Harita
 6 sayfa
 Demoyu gör Bu temayı iste
+Radyoloji Kurumsal
+Lumen Radyoloji
+Lumen Radyoloji: Ankara Çankaya’da MR, tomografi, röntgen, ultrason, mamografi ve kemik yoğunluğu; rapor süresi, bekleme ve kalite kontrol sayılarını açıkça paylaşan görüntüleme merkezi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Restoran Kurumsal
 Ateşhane
 Ateşhane: meşe közünde mangal ve taş fırın lezzetleri; alerjen kodlu menü ve çevrimiçi masa rezervasyonu. (Demo site)
@@ -1422,6 +1560,14 @@ Dahil olanlar
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
+Sanayi Kurumsal
+Eksen Redüktör
+Eksen Redüktör: Bursa’da helisel, konik-helisel, planet ve servo redüktör üretimi; her redüktör yük altında denenir. Eksen Defteri’nde ürün kuşakları, test standı ve saha keşfi. Demo site; rakamlar kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Spa & Hamam Kurumsal
 Kayrak Spa
 Kayrak Spa: geleneksel hamam, masaj ve yüz bakımı.
@@ -1437,6 +1583,14 @@ Zeytinlik Hamam & Spa: Gaziantep’te taş hamam, kese-köpük, zeytinyağlı ma
 Dahil olanlar
 Randevu
 Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Spa & Hamam Kurumsal
+Akçakum Tuz Spa
+Akçakum Tuz Spa: Bodrum’da tuz odası, hamam, köpük, kese ve yüz bakımı; hizmet sepetiyle randevu, süreleri önceden belli ritüeller. Demo site; görseller temsilîdir.
+Dahil olanlar
+Randevu
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
@@ -1493,6 +1647,14 @@ Galeri
 Harita
 3 sayfa
 Demoyu gör Bu temayı iste
+Tarım Kurumsal
+Toprakbil
+Toprakbil Tarım: Çumra’da toprak analiz laboratuvarı ve sertifikalı tohum işleme. Numune takvimi, analiz parametreleri, parsel kayıtları. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+5 sayfa
+Demoyu gör Bu temayı iste
 Turizm & Konaklama Kurumsal
 Otel Sahil
 Konaklama ve kahvaltı.
@@ -1507,6 +1669,15 @@ Seyyah Rota
 Seyyah Rota: Ayvalık’ta zeytinlikler arasında dokuz odalı taş konak ve rehberli köy rotaları. Gece aralığıyla rezervasyon talebi. Demo site; içerik kurgusaldır.
 Dahil olanlar
 Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Turizm & Konaklama Kurumsal
+Kayaev Göreme
+Kayaev Göreme: kayaya oyulmuş yedi odalı butik konak; albümler, gün planı, mevsim takvimi ve oda/deneyim rezervasyon talebi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Galeri
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste
@@ -1576,6 +1747,13 @@ Martı Yüzme Okulu
 Martı Yüzme Okulu: 4 yaştan yetişkine küçük gruplarla yüzme dersleri, haftalık seans tablosu ve çevrim içi kayıt talebi. Her seansta cankurtaran gözetimi. Demo site; içerik kurgusaldır.
 Dahil olanlar
 Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Yüzme Kursu Kurumsal
+Pruva Kulvar
+Pruva Kulvar: Antalya Muratpaşa’da altı kulvarlı kapalı havuzda çocuk ve yetişkin yüzme dersleri; gün × saat ders tablosu, seviye merdiveni, tek seans ve abonelik biletleri. Demo site; içerik kurgusaldır.
+Dahil olanlar
 Harita
 4 sayfa
 Demoyu gör Bu temayı iste

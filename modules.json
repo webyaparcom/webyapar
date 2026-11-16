@@ -13820,6 +13820,31 @@
           }
         },
         {
+          "slug": "ayakkabi-3",
+          "name": {
+            "tr": "Adımlık",
+            "en": "Adımlık",
+            "ar": "Adımlık"
+          },
+          "sector": "ayakkabi",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ayakkabi-3-1440.webp",
+          "shotMobile": "/img/shots/ayakkabi-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Adımlık: Gaziantep’te şehir ayakkabısı mağazası; sneaker, loafer, babet ve bot. Kombin destesi, taban katmanları ve numara kartı. Demo site; içerik kurgusaldır.",
+            "en": "Adimlik: a city-shoe store in Gaziantep with trainers, loafers, flats and boots. An outfit deck, sole layers and a size card. Demo site; content is fictional.",
+            "ar": "أديملك: متجر أحذية للمدينة في غازي عنتاب؛ أحذية رياضية ولوفر وباليرينا وبوت. مجموعة إطلالات وطبقات النعل وبطاقة المقاس. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "baget",
           "name": {
             "tr": "Altın Baget",
@@ -13867,6 +13892,32 @@
             "tr": "Somunhane: Gaziantep’te taş fırın baget, sabah tabağı ve ofis kutusu. Tahtadaki fiyatlar, fırın sırası saatleri ve WhatsApp sipariş. Demo site; içerik kurgusaldır.",
             "en": "Somunhane: stone-oven baguettes, breakfast plates and office boxes in Gaziantep. Prices on the board, bake-queue hours and WhatsApp ordering. Demo site; content is fictional.",
             "ar": "سومون خانه: باغيت من الفرن الحجري وأطباق فطور وصناديق للمكاتب في غازي عنتاب. أسعار على اللوح وساعات طابور الفرن وطلب عبر واتساب. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "baget-3",
+          "name": {
+            "tr": "Kabuk Baget",
+            "en": "Kabuk Baget",
+            "ar": "Kabuk Baget"
+          },
+          "sector": "baget",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/baget-3-1440.webp",
+          "shotMobile": "/img/shots/baget-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kabuk Baget: Şehitkamil'de taş fırın baget ve katman katman sandviç; yarım, tam ya da paylaşım boyu, gel-al saati WhatsApp'tan. Demo site; içerik kurgusaldır.",
+            "en": "Kabuk Baget: stone-oven baguettes and layered sandwiches in Sehitkamil; half, full or sharing size, with pick-up times booked on WhatsApp. Demo site; content is fictional.",
+            "ar": "كابوك باغيت: باغيت من الفرن الحجري وسندويشات بطبقات في شهيد كامل؛ نصف أو كامل أو حجم للمشاركة، مع حجز وقت الاستلام عبر واتساب. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -13919,6 +13970,31 @@
             "tr": "Mozaik Banyo Atölyesi: İzmir’de banyo ve ıslak hacim yenileme — çizim, su yalıtımı, seramik ve montaj tek atölyeden. Demo site; içerik kurgusaldır.",
             "en": "Mozaik Bathroom Workshop: bathroom and wet-room renovation in Izmir — drawings, waterproofing, tiling and fitting from one workshop. Demo site; content is fictional.",
             "ar": "ورشة موزاييك للحمّامات: تجديد الحمّامات والمساحات الرطبة في إزمير — رسم وعزل مائي وبلاط وتركيب من ورشة واحدة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "banyo-3",
+          "name": {
+            "tr": "Duru Banyo",
+            "en": "Duru Banyo",
+            "ar": "Duru Banyo"
+          },
+          "sector": "banyo",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/banyo-3-1440.webp",
+          "shotMobile": "/img/shots/banyo-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Duru Banyo: Eskişehir’de banyo yenileme — üç adımlı teklif formu, haftalık iş takvimi, kat planına göre banyo tipi ve proje arşivi. Demo site; içerik kurgusaldır.",
+            "en": "Duru Bathrooms: bathroom renovation in Eskisehir — a three-step quote form, a weekly work schedule, bathroom types by floor plan and a project archive. Demo site; content is fictional.",
+            "ar": "دورو للحمّامات: تجديد الحمّامات في إسكي شهير — نموذج عرض سعر من ثلاث خطوات وجدول عمل أسبوعي وأنواع الحمّامات حسب المخطط وأرشيف المشاريع. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -13999,6 +14075,31 @@
           }
         },
         {
+          "slug": "butik-3",
+          "name": {
+            "tr": "Ardıç Butik",
+            "en": "Ardıç Butik",
+            "ar": "Ardıç Butik"
+          },
+          "sector": "butik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/butik-3-1440.webp",
+          "shotMobile": "/img/shots/butik-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Ardıç Butik: Şahinbey’de hazır giyim butiği; sezon kataloğu, beden cetveli, ücretsiz prova ve tadilat. Demo site; içerik kurgusaldır.",
+            "en": "Ardic Butik: a ready-to-wear boutique in Sahinbey with a season catalogue, size chart, free fittings and alterations. Demo site; content is fictional.",
+            "ar": "أرديتش بوتيك: متجر ملابس جاهزة في شاهين بيه؛ كتالوج الموسم وجدول المقاسات وقياس وتعديل مجانيان. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "caybagci",
           "name": {
             "tr": "Çay Molası",
@@ -14047,6 +14148,32 @@
             "tr": "Semaver Bahçeleri: Rize’de sahilde, kale yamacında ve yaylada üç çay bahçesi. Mevsim bardağı takvimi, bahçe saatleri ve masaya semaver. Demo site; içerik kurgusaldır.",
             "en": "Semaver Gardens: three tea gardens in Rize, by the sea, on the castle slope and in the highlands. A seasonal cup calendar, garden hours and a samovar at your table. Demo site; content is fictional.",
             "ar": "حدائق السماور: ثلاث حدائق شاي في ريزه، على الساحل وعلى سفح القلعة وفي الهضبة. تقويم أكواب الموسم وساعات الحدائق وسماور على طاولتك. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "caybagci-3",
+          "name": {
+            "tr": "İnce Belli",
+            "en": "İnce Belli",
+            "ar": "İnce Belli"
+          },
+          "sector": "caybagci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/caybagci-3-1440.webp",
+          "shotMobile": "/img/shots/caybagci-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "İnce Belli: Moda’da tek salonlu çay evi; yamaçtan bardağa bir çayın yolculuğu, taze dem, ikramlar ve saat çarkıyla masa ayırtma. Demo site; içerik kurgusal, görseller temsilîdir.",
+            "en": "Ince Belli: a one-room tea house in Moda; the journey of tea from slope to glass, fresh brews, treats and table booking with a time wheel. Demo site; content is fictional, images are representative.",
+            "ar": "إنجه بلّي: بيت شاي بقاعة واحدة في مودا؛ رحلة الشاي من المنحدر إلى الكأس، وتخمير طازج وضيافة وحجز طاولة بعجلة الوقت. موقع تجريبي؛ المحتوى افتراضي والصور تمثيلية."
           }
         },
         {
@@ -14153,6 +14280,31 @@
           }
         },
         {
+          "slug": "dans-3",
+          "name": {
+            "tr": "Pist Dans",
+            "en": "Pist Dans",
+            "ar": "Pist Dans"
+          },
+          "sector": "dans",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/dans-3-1440.webp",
+          "shotMobile": "/img/shots/dans-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Pist Dans Kolektifi: Kadıköy’de yetişkinler için lindy hop, salsa, kizomba, Arjantin tangosu ve çağdaş dans. Seviye merdiveni, haftalık ders tablosu ve ücretsiz deneme dersi. Demo site; içerik kurgusaldır.",
+            "en": "Pist Dance Collective: lindy hop, salsa, kizomba, Argentine tango and contemporary dance for adults in Kadikoy. A level ladder, a weekly timetable and a free trial class. Demo site; content is fictional.",
+            "ar": "تجمّع بيست للرقص: ليندي هوب وسالسا وكيزومبا وتانغو أرجنتيني ورقص معاصر للبالغين في كاديكوي. سلّم مستويات وجدول أسبوعي ودرس تجريبي مجاني. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "dekor-2",
           "name": {
             "tr": "Kalem Stüdyo",
@@ -14176,6 +14328,31 @@
             "tr": "Kalem İç Mimarlık Stüdyosu: Ankara’da konut ve küçük ticari mekânlar için iç mimarlık, dekorasyon ve uygulama yönetimi. Demo site; içerik kurgusaldır.",
             "en": "Kalem Interior Studio: interior architecture, decoration and site management for homes and small commercial spaces in Ankara. Demo site; content is fictional.",
             "ar": "استوديو كالم للعمارة الداخلية: عمارة داخلية وديكور وإدارة تنفيذ للمنازل والمساحات التجارية الصغيرة في أنقرة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "dekor-3",
+          "name": {
+            "tr": "Pervaz",
+            "en": "Pervaz",
+            "ar": "Pervaz"
+          },
+          "sector": "dekor",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/dekor-3-1440.webp",
+          "shotMobile": "/img/shots/dekor-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Pervaz Ev Defteri: Kadıköy’de dekorasyon stüdyosu ve ev dergisi — iki sayfalık oda hikâyeleri, odanın katmanları, haftalık takvim ve oda planından danışma. Demo site; içerik kurgusaldır.",
+            "en": "Pervaz Home Journal: a decoration studio and home magazine in Kadikoy — two-page room stories, the layers of a room, a weekly schedule and consults by room plan. Demo site; content is fictional.",
+            "ar": "دفتر بيت برفاز: استوديو ديكور ومجلة منزلية في قاضي كوي — قصص غرف على صفحتين وطبقات الغرفة وجدول أسبوعي واستشارة حسب مخطط الغرفة. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -14354,6 +14531,31 @@
             "tr": "Fener Döner: İncilipınar'da 04:00'e kadar açık yaprak döner büfesi; dürüm, yarım ekmek, porsiyon ve iskender, WhatsApp'tan sipariş. Demo site; içerik kurgusaldır.",
             "en": "Fener Doner: a sliced-doner counter in Incilipinar open until 04:00; wraps, half loaves, plates and iskender, ordered on WhatsApp. Demo site; content is fictional.",
             "ar": "فنر دونر: كشك دونر شرائح في إنجيلي بينار مفتوح حتى الساعة 04:00؛ لفائف ونصف رغيف وأطباق وإسكندر مع الطلب عبر واتساب. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "doner-3",
+          "name": {
+            "tr": "Sarmal Döner",
+            "en": "Sarmal Döner",
+            "ar": "Sarmal Döner"
+          },
+          "sector": "doner",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/doner-3-1440.webp",
+          "shotMobile": "/img/shots/doner-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Sarmal Döner: Şahinbey'de gündüz dürüm salonu; yaprak döner, dürüm ve tabaklar, canlı açık/kapalı levhası ve telefonla sipariş. Demo site; içerik kurgusaldır.",
+            "en": "Sarmal Doner: a daytime wrap house in Sahinbey; sliced doner, wraps and plates, a live open/closed sign and phone orders. Demo site; content is fictional.",
+            "ar": "سرمال دونر: صالة لفائف نهارية في شاهين بيه؛ دونر شرائح ولفائف وأطباق، مع لافتة مفتوح/مغلق حيّة وطلبات بالهاتف. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -14795,6 +14997,32 @@
           }
         },
         {
+          "slug": "gebelik-3",
+          "name": {
+            "tr": "Fidan Gebelik Evi",
+            "en": "Fidan Gebelik Evi",
+            "ar": "Fidan Gebelik Evi"
+          },
+          "sector": "gebelik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/gebelik-3-1440.webp",
+          "shotMobile": "/img/shots/gebelik-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Fidan Gebelik Evi: İzmir Karşıyaka’da gebelik takibi, ultrason randevusu, doğuma hazırlık akşamları ve emzirme danışmanlığı; kırk haftayı hafta hafta anlatan rehber. Demo site; içerik kurgusaldır.",
+            "en": "Fidan Pregnancy House: pregnancy follow-up, ultrasound visits, birth-preparation evenings and breastfeeding support in Karsiyaka, Izmir, with a week-by-week guide to all forty weeks. Demo site; content is fictional.",
+            "ar": "بيت فيدان للحمل: متابعة الحمل ومواعيد الموجات فوق الصوتية وأمسيات التحضير للولادة واستشارات الرضاعة في كارشيياكا بإزمير، مع دليل يشرح الأسابيع الأربعين أسبوعًا بأسبوع. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "gida-2",
           "name": {
             "tr": "Sofrana Antep",
@@ -14816,6 +15044,31 @@
             "tr": "Sofrana Antep: Gaziantep’te fıstık ezmesi, iç fıstık, pekmez, reçel, baklava, bal ve zeytinyağı üretimi. Toptan, otel-restoran ve özel etiket için ürün kataloğu. Demo site; içerik kurgusaldır.",
             "en": "Sofrana Antep: pistachio paste, shelled pistachios, molasses, jam, baklava, honey and olive oil made in Gaziantep. Product catalogue for wholesale, hotels, restaurants and private label. Demo site; content is fictional.",
             "ar": "سوفرانا عنتاب: إنتاج معجون الفستق والفستق المقشور والدبس والمربى والبقلاوة والعسل وزيت الزيتون في غازي عنتاب. كتالوج منتجات للجملة والفنادق والمطاعم والعلامات الخاصة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "gida-3",
+          "name": {
+            "tr": "Kabukçu",
+            "en": "Kabukçu",
+            "ar": "Kabukçu"
+          },
+          "sector": "gida",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/gida-3-1440.webp",
+          "shotMobile": "/img/shots/gida-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kabukçu Kavurma Evi: Gaziantep’te Antep fıstığı, fındık, badem, leblebi ve kaju kavurma atölyesi. Toptan, otel-restoran, hediye kutusu ve etkinlik kavurma standı. Demo site; içerik kurgusaldır.",
+            "en": "Kabukçu Roastery: a Gaziantep workshop roasting pistachios, hazelnuts, almonds, chickpeas and cashews. Wholesale, hotels and restaurants, gift boxes and an event roasting stand. Demo site; content is fictional.",
+            "ar": "محمصة كابوكجو: ورشة في غازي عنتاب لتحميص الفستق الحلبي والبندق واللوز والحمص والكاجو. بيع بالجملة وللفنادق والمطاعم وعلب هدايا وركن تحميص للمناسبات. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -15406,6 +15659,31 @@
           }
         },
         {
+          "slug": "kebapci-3",
+          "name": {
+            "tr": "Safran Kebap",
+            "en": "Safran Kebap",
+            "ar": "Safran Kebap"
+          },
+          "sector": "kebapci",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kebapci-3-1440.webp",
+          "shotMobile": "/img/shots/kebapci-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Safran Kebap: 1987'den beri Tahtani'de meşe kömürü ocakbaşı; kırk yılın hikâyesi, porsiyon tahtası ve telefonla masa ayırtma. Demo site; içerik kurgusaldır.",
+            "en": "Safran Kebap: an oak-charcoal grill house in Tahtani since 1987; forty years of story, a portion board and table bookings by phone. Demo site; content is fictional.",
+            "ar": "زعفران كباب: مشواة على فحم البلوط في تحتاني منذ عام 1987؛ حكاية أربعين عامًا ولوح حصص وحجز الطاولات بالهاتف. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "klinik-2",
           "name": {
             "tr": "Nokta Tıp",
@@ -15582,6 +15860,30 @@
             "tr": "Çınarlı Bahçe Konutları: Bursa Nilüfer’de dört bloklu, bahçe merkezli konut projesi. Kat ve daire seçimi, konum ve ulaşım. Demo site; içerik kurgusaldır.",
             "en": "Cinarli Bahce Residences: a four-block, garden-centred housing project in Nilufer, Bursa. Choose floor and flat, see location and transport. Demo site; content is fictional.",
             "ar": "مساكن تشينارلي باهتشه: مشروع سكني من أربعة مبانٍ حول حديقة في نيلوفر، بورصة. اختيار الطابق والشقة والموقع والمواصلات. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "konut-3",
+          "name": {
+            "tr": "Kademe Teras",
+            "en": "Kademe Teras",
+            "ar": "Kademe Teras"
+          },
+          "sector": "konut",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/konut-3-1440.webp",
+          "shotMobile": "/img/shots/konut-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kademe Teras Konutları: Konyaaltı’nda teraslı konut projesi — rakamlarla proje künyesi, yıl ekseninde inşaat takvimi, puanlı alıcı yorumları ve adım adım satın alma süreci. Demo site; içerik kurgusaldır.",
+            "en": "Kademe Terrace Residences: a terraced housing project in Konyaalti — the project in figures, a construction timeline, rated buyer reviews and a step-by-step purchase process. Demo site; content is fictional.",
+            "ar": "مساكن كاديمه تراس: مشروع سكني بشرفات مدرّجة في كونيالتي — بطاقة المشروع بالأرقام وجدول البناء على محور السنوات وتقييمات المشترين وعملية الشراء خطوة بخطوة. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -15787,6 +16089,31 @@
           }
         },
         {
+          "slug": "kuyuyemis-3",
+          "name": {
+            "tr": "Kese Kuruyemiş",
+            "en": "Kese Kuruyemiş",
+            "ar": "Kese Kuruyemiş"
+          },
+          "sector": "kuyuyemis",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kuyuyemis-3-1440.webp",
+          "shotMobile": "/img/shots/kuyuyemis-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kese Kuruyemiş: Kemeraltı’nda her sabah kavrulan fıstık, fındık, leblebi ve kabak çekirdeği; hazır keseler, gramla karışık ve WhatsApp’tan sipariş fişi. Demo site; fiyatlar kurgusaldır.",
+            "en": "Kese Nuts: pistachios, hazelnuts, roasted chickpeas and pumpkin seeds roasted every morning in Kemeralti; ready pouches, mixes by the gram and an order slip via WhatsApp. Demo site; prices are fictional.",
+            "ar": "كيسه للمكسرات: فستق وبندق وحمص محمّص وبذور يقطين تُحمَّص كل صباح في كمرألتي؛ أكياس جاهزة وخلطات بالغرام وقسيمة طلب عبر واتساب. موقع تجريبي؛ الأسعار افتراضية."
+          }
+        },
+        {
           "slug": "lojistik-2",
           "name": {
             "tr": "Yeşil Yol Lojistik",
@@ -15889,6 +16216,30 @@
           }
         },
         {
+          "slug": "lokanta-3",
+          "name": {
+            "tr": "Üç Kapı Lokantası",
+            "en": "Üç Kapı Lokantası",
+            "ar": "Üç Kapı Lokantası"
+          },
+          "sector": "lokanta",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/lokanta-3-1440.webp",
+          "shotMobile": "/img/shots/lokanta-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Üç Kapı Lokantası: Bursa’da üç şubeli ev yemeği lokantası; şube adresleri, günün kara tahtası, mevsim takvimi ve örnek fiyatlar. Demo site; içerik kurgusaldır.",
+            "en": "Üç Kapı Lokantası: a home-cooking restaurant with three branches in Bursa; branch addresses, today’s chalkboard, a seasonal calendar and example prices. Demo site; content is fictional.",
+            "ar": "لوكانتا أوتش كابي: مطعم أكل منزلي له ثلاثة فروع في بورصة؛ عناوين الفروع ولوح اليوم وتقويم المواسم وأسعار نموذجية. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "magaza",
           "name": {
             "tr": "Tekno Mağaza",
@@ -15936,6 +16287,31 @@
             "tr": "Voltaj Mağaza: dizüstü, ses, giyilebilir, güç ve oyun ürünleriyle teknoloji mağazası. Aradığınız ürünün reyonunu haritadan bulun, stok için yazın. Demo site; içerik kurgusaldır.",
             "en": "Voltaj Mağaza: an electronics store with laptop, audio, wearable, power and gaming products. Find the right aisle on the store map and message us about stock. Demo site; content is fictional.",
             "ar": "فولتاج: متجر تقنية بمنتجات الحواسيب المحمولة والصوتيات والأجهزة القابلة للارتداء والطاقة والألعاب. اعثر على الممر المناسب في خريطة المتجر وراسلنا عن المخزون. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "magaza-3",
+          "name": {
+            "tr": "Kavşak Teknoloji",
+            "en": "Kavşak Teknoloji",
+            "ar": "Kavşak Teknoloji"
+          },
+          "sector": "magaza",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/magaza-3-1440.webp",
+          "shotMobile": "/img/shots/magaza-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kavşak Teknoloji: Gaziantep’te üç şubeli teknoloji mağazası; dizüstü, ses, giyilebilir ve aksesuar. Size en yakın şubeyi bulun, yol tarifi alın, stok sorun. Demo site; içerik kurgusaldır.",
+            "en": "Kavsak Teknoloji: an electronics store with three branches in Gaziantep: laptops, audio, wearables and accessories. Find the nearest branch, get directions, ask about stock. Demo site; content is fictional.",
+            "ar": "كافشاك تكنولوجي: متجر إلكترونيات بثلاثة فروع في غازي عنتاب؛ حواسيب محمولة وصوتيات وأجهزة قابلة للارتداء وإكسسوارات. اعثر على أقرب فرع واحصل على الاتجاهات واسأل عن المخزون. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -16063,6 +16439,32 @@
             "tr": "Nehir Masaj Evi: Antalya Muratpaşa’da klasik, sıcak taş, aromaterapi ve ayak masajı; paketinizi seçin, gün ve saati çarktan belirleyin. Demo site; içerik ve fiyatlar kurgusaldır.",
             "en": "Nehir Massage House: classic, hot stone, aromatherapy and foot massage in Muratpasa, Antalya; choose your package and pick a day and time on the wheel. Demo site; content and prices are fictional.",
             "ar": "بيت نهير للتدليك: تدليك كلاسيكي وبالحجارة الساخنة وبالزيوت العطرية وتدليك القدمين في مورات باشا، أنطاليا؛ اختر باقتك وحدّد اليوم والوقت من العجلة. موقع تجريبي؛ المحتوى والأسعار افتراضية."
+          }
+        },
+        {
+          "slug": "masaj-3",
+          "name": {
+            "tr": "Kehribar Masaj",
+            "en": "Kehribar Masaj",
+            "ar": "Kehribar Masaj"
+          },
+          "sector": "masaj",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/masaj-3-1440.webp",
+          "shotMobile": "/img/shots/masaj-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kehribar Masaj Odası: İzmir Alsancak’ta akşam saatlerine kadar açık, loş ışıklı masaj odası; dakikası belli ritüeller ve saat eksenli randevu. Demo site; Görseller temsilîdir; içerik ve fiyatlar kurgusaldır.",
+            "en": "Kehribar Massage Room: a dim-lit massage room in Alsancak, Izmir, open into the evening; rituals timed to the minute and a time-axis booking. Demo site; Images are representative; content and prices are fictional.",
+            "ar": "غرفة كهرمان للتدليك: غرفة تدليك بإضاءة خافتة في ألسانجاك بإزمير تفتح حتى المساء؛ طقوس محددة بالدقيقة وحجز على محور زمني. موقع تجريبي؛ الصور تمثيلية؛ والمحتوى والأسعار افتراضية."
           }
         },
         {
@@ -16524,6 +16926,31 @@
           }
         },
         {
+          "slug": "radyoloji-3",
+          "name": {
+            "tr": "Lumen Radyoloji",
+            "en": "Lumen Radyoloji",
+            "ar": "Lumen Radyoloji"
+          },
+          "sector": "radyoloji",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/radyoloji-3-1440.webp",
+          "shotMobile": "/img/shots/radyoloji-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Lumen Radyoloji: Ankara Çankaya’da MR, tomografi, röntgen, ultrason, mamografi ve kemik yoğunluğu; rapor süresi, bekleme ve kalite kontrol sayılarını açıkça paylaşan görüntüleme merkezi. Demo site; içerik kurgusaldır.",
+            "en": "Lumen Radiology: MRI, CT, X-ray, ultrasound, mammography and bone density in Cankaya, Ankara; an imaging centre that openly shares its report times, waiting times and quality-control figures. Demo site; content is fictional.",
+            "ar": "لومن للأشعة: رنين مغناطيسي وأشعة مقطعية وسينية وموجات فوق صوتية وماموغرام وكثافة العظام في تشانكايا بأنقرة؛ مركز تصوير يشارك علنًا أرقام مدة التقارير والانتظار وضبط الجودة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "restoran-2",
           "name": {
             "tr": "Ateşhane",
@@ -16656,6 +17083,31 @@
           }
         },
         {
+          "slug": "sanayi-3",
+          "name": {
+            "tr": "Eksen Redüktör",
+            "en": "Eksen Redüktör",
+            "ar": "Eksen Redüktör"
+          },
+          "sector": "sanayi",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/sanayi-3-1440.webp",
+          "shotMobile": "/img/shots/sanayi-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Eksen Redüktör: Bursa’da helisel, konik-helisel, planet ve servo redüktör üretimi; her redüktör yük altında denenir. Eksen Defteri’nde ürün kuşakları, test standı ve saha keşfi. Demo site; rakamlar kurgusaldır.",
+            "en": "Eksen Reducer: helical, bevel-helical, planetary and servo gearboxes made in Bursa; every unit is tested under load. The Eksen Notebook covers product generations, the test bench and site visits. Demo site; figures are fictional.",
+            "ar": "إكسن للمخفّضات: تصنيع علب تروس حلزونية ومخروطية حلزونية وكوكبية ومؤازرة في بورصة؛ ويُختبر كل مخفّض تحت الحمل. يعرض دفتر إكسن أجيال المنتجات ومنصة الاختبار والزيارات الميدانية. موقع تجريبي؛ الأرقام افتراضية."
+          }
+        },
+        {
           "slug": "spa",
           "name": {
             "tr": "Kayrak Spa",
@@ -16705,6 +17157,31 @@
             "tr": "Zeytinlik Hamam & Spa: Gaziantep’te taş hamam, kese-köpük, zeytinyağlı masaj ve yüz bakımı ritüelleri. En yakın boş saati seçin. Demo site; içerik kurgusaldır.",
             "en": "Zeytinlik Hammam & Spa: stone hammam, scrub and foam, olive-oil massage and facial rituals in Gaziantep. Pick the nearest free slot. Demo site; content is fictional.",
             "ar": "زيتونلك حمّام وسبا: حمّام حجري وتقشير ورغوة وتدليك بزيت الزيتون وطقوس للعناية بالوجه في غازي عنتاب. اختر أقرب موعد متاح. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "spa-3",
+          "name": {
+            "tr": "Akçakum Tuz Spa",
+            "en": "Akçakum Tuz Spa",
+            "ar": "Akçakum Tuz Spa"
+          },
+          "sector": "spa",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/spa-3-1440.webp",
+          "shotMobile": "/img/shots/spa-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Akçakum Tuz Spa: Bodrum’da tuz odası, hamam, köpük, kese ve yüz bakımı; hizmet sepetiyle randevu, süreleri önceden belli ritüeller. Demo site; görseller temsilîdir.",
+            "en": "Akcakum Salt Spa: a salt room, hammam, foam, scrub and facials in Bodrum; booking with a service basket and rituals with timings set in advance. Demo site; images are representative.",
+            "ar": "أكتشاكوم سولت سبا: غرفة ملح وحمّام ورغوة وتقشير وعناية بالوجه في بودروم؛ حجز بسلة خدمات وطقوس بمدد معروفة مسبقًا. موقع تجريبي؛ الصور تمثيلية."
           }
         },
         {
@@ -16863,6 +17340,31 @@
           }
         },
         {
+          "slug": "tarim-3",
+          "name": {
+            "tr": "Toprakbil",
+            "en": "Toprakbil",
+            "ar": "Toprakbil"
+          },
+          "sector": "tarim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/tarim-3-1440.webp",
+          "shotMobile": "/img/shots/tarim-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 5,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Toprakbil Tarım: Çumra’da toprak analiz laboratuvarı ve sertifikalı tohum işleme. Numune takvimi, analiz parametreleri, parsel kayıtları. Demo site; içerik kurgusaldır.",
+            "en": "Toprakbil Agriculture: a soil testing laboratory and certified seed processing in Cumra. Sampling calendar, test parameters and plot records. Demo site; content is fictional.",
+            "ar": "توبراكبيل للزراعة: مختبر لتحليل التربة ومعالجة البذور المعتمدة في تشومرا. تقويم أخذ العينات ومعايير التحليل وسجلات القطع. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "turizm",
           "name": {
             "tr": "Otel Sahil",
@@ -16911,6 +17413,32 @@
             "tr": "Seyyah Rota: Ayvalık’ta zeytinlikler arasında dokuz odalı taş konak ve rehberli köy rotaları. Gece aralığıyla rezervasyon talebi. Demo site; içerik kurgusaldır.",
             "en": "Seyyah Rota: a nine-room stone house among the olive groves of Ayvalik, with guided village routes. Booking requests by date range. Demo site; content is fictional.",
             "ar": "سيّاح روتا: بيت حجري من تسع غرف بين بساتين الزيتون في أيفاليك مع جولات قروية بإرشاد. طلب حجز حسب نطاق الليالي. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "turizm-3",
+          "name": {
+            "tr": "Kayaev Göreme",
+            "en": "Kayaev Göreme",
+            "ar": "Kayaev Göreme"
+          },
+          "sector": "turizm",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/turizm-3-1440.webp",
+          "shotMobile": "/img/shots/turizm-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Kayaev Göreme: kayaya oyulmuş yedi odalı butik konak; albümler, gün planı, mevsim takvimi ve oda/deneyim rezervasyon talebi. Demo site; içerik kurgusaldır.",
+            "en": "Kayaev Goreme: a seven-room boutique house carved into the rock; albums, a day plan, a season calendar and room/experience booking requests. Demo site; content is fictional.",
+            "ar": "كاياييف غوريمه: بيت ضيافة صغير من سبع غرف منحوت في الصخر؛ ألبومات وبرنامج يومي وتقويم للمواسم وطلب حجز للغرف والتجارب. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -17116,6 +17644,30 @@
             "tr": "Martı Yüzme Okulu: 4 yaştan yetişkine küçük gruplarla yüzme dersleri, haftalık seans tablosu ve çevrim içi kayıt talebi. Her seansta cankurtaran gözetimi. Demo site; içerik kurgusaldır.",
             "en": "Marti Swim School: small-group swimming lessons from age 4 to adults, a weekly session table and online booking requests. A lifeguard at every session. Demo site; content is fictional.",
             "ar": "مدرسة مارتي للسباحة: دروس سباحة في مجموعات صغيرة من عمر 4 سنوات حتى الكبار، وجدول حصص أسبوعي وطلب تسجيل عبر الإنترنت. منقذ في كل حصة. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "yuzme-3",
+          "name": {
+            "tr": "Pruva Kulvar",
+            "en": "Pruva Kulvar",
+            "ar": "Pruva Kulvar"
+          },
+          "sector": "yuzme",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yuzme-3-1440.webp",
+          "shotMobile": "/img/shots/yuzme-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-16",
+          "summary": {
+            "tr": "Pruva Kulvar: Antalya Muratpaşa’da altı kulvarlı kapalı havuzda çocuk ve yetişkin yüzme dersleri; gün × saat ders tablosu, seviye merdiveni, tek seans ve abonelik biletleri. Demo site; içerik kurgusaldır.",
+            "en": "Pruva Kulvar: swimming lessons for children and adults in a six-lane indoor pool in Muratpasa, Antalya; a day-by-time timetable, a level ladder, single-session and membership tickets. Demo site; content is fictional.",
+            "ar": "برووا كولفار: دروس سباحة للأطفال والكبار في مسبح مغلق من ستة مسارات في موراتباشا بأنطاليا؛ جدول أيام وساعات، وسلّم مستويات، وتذاكر حصة واحدة واشتراكات. موقع تجريبي؛ المحتوى افتراضي."
           }
         }
       ],
@@ -17594,6 +18146,15 @@
           "url": "https://ayakkabi-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "ayakkabi-3",
+          "name": {
+            "tr": "Adımlık",
+            "en": "Adımlık",
+            "ar": "Adımlık"
+          },
+          "url": "https://ayakkabi-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "baget",
           "name": {
             "tr": "Altın Baget",
@@ -17612,6 +18173,15 @@
           "url": "https://baget-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "baget-3",
+          "name": {
+            "tr": "Kabuk Baget",
+            "en": "Kabuk Baget",
+            "ar": "Kabuk Baget"
+          },
+          "url": "https://baget-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "banyo",
           "name": {
             "tr": "Krom Banyo",
@@ -17628,6 +18198,15 @@
             "ar": "Mozaik Banyo"
           },
           "url": "https://banyo-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "banyo-3",
+          "name": {
+            "tr": "Duru Banyo",
+            "en": "Duru Banyo",
+            "ar": "Duru Banyo"
+          },
+          "url": "https://banyo-3.webyapar.com/{lang}/"
         },
         {
           "slug": "burc",
@@ -17657,6 +18236,15 @@
           "url": "https://butik-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "butik-3",
+          "name": {
+            "tr": "Ardıç Butik",
+            "en": "Ardıç Butik",
+            "ar": "Ardıç Butik"
+          },
+          "url": "https://butik-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "caybagci",
           "name": {
             "tr": "Çay Molası",
@@ -17673,6 +18261,15 @@
             "ar": "Semaver Bahçeleri"
           },
           "url": "https://caybagci-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "caybagci-3",
+          "name": {
+            "tr": "İnce Belli",
+            "en": "İnce Belli",
+            "ar": "İnce Belli"
+          },
+          "url": "https://caybagci-3.webyapar.com/{lang}/"
         },
         {
           "slug": "cicekci-2",
@@ -17711,6 +18308,15 @@
           "url": "https://dans-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "dans-3",
+          "name": {
+            "tr": "Pist Dans",
+            "en": "Pist Dans",
+            "ar": "Pist Dans"
+          },
+          "url": "https://dans-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "dekor-2",
           "name": {
             "tr": "Kalem Stüdyo",
@@ -17718,6 +18324,15 @@
             "ar": "Kalem Stüdyo"
           },
           "url": "https://dekor-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "dekor-3",
+          "name": {
+            "tr": "Pervaz",
+            "en": "Pervaz",
+            "ar": "Pervaz"
+          },
+          "url": "https://dekor-3.webyapar.com/{lang}/"
         },
         {
           "slug": "disticaret-2",
@@ -17781,6 +18396,15 @@
             "ar": "Fener Döner"
           },
           "url": "https://doner-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "doner-3",
+          "name": {
+            "tr": "Sarmal Döner",
+            "en": "Sarmal Döner",
+            "ar": "Sarmal Döner"
+          },
+          "url": "https://doner-3.webyapar.com/{lang}/"
         },
         {
           "slug": "egitim-2",
@@ -17936,6 +18560,15 @@
           "url": "https://gebelik-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "gebelik-3",
+          "name": {
+            "tr": "Fidan Gebelik Evi",
+            "en": "Fidan Gebelik Evi",
+            "ar": "Fidan Gebelik Evi"
+          },
+          "url": "https://gebelik-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "gida-2",
           "name": {
             "tr": "Sofrana Antep",
@@ -17943,6 +18576,15 @@
             "ar": "Sofrana Antep"
           },
           "url": "https://gida-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "gida-3",
+          "name": {
+            "tr": "Kabukçu",
+            "en": "Kabukçu",
+            "ar": "Kabukçu"
+          },
+          "url": "https://gida-3.webyapar.com/{lang}/"
         },
         {
           "slug": "girisim",
@@ -18152,6 +18794,15 @@
           "url": "https://kebapci-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "kebapci-3",
+          "name": {
+            "tr": "Safran Kebap",
+            "en": "Safran Kebap",
+            "ar": "Safran Kebap"
+          },
+          "url": "https://kebapci-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "klinik-2",
           "name": {
             "tr": "Nokta Tıp",
@@ -18213,6 +18864,15 @@
             "ar": "Çınarlı Bahçe"
           },
           "url": "https://konut-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "konut-3",
+          "name": {
+            "tr": "Kademe Teras",
+            "en": "Kademe Teras",
+            "ar": "Kademe Teras"
+          },
+          "url": "https://konut-3.webyapar.com/{lang}/"
         },
         {
           "slug": "kose",
@@ -18287,6 +18947,15 @@
           "url": "https://kuyuyemis-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "kuyuyemis-3",
+          "name": {
+            "tr": "Kese Kuruyemiş",
+            "en": "Kese Kuruyemiş",
+            "ar": "Kese Kuruyemiş"
+          },
+          "url": "https://kuyuyemis-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "lojistik-2",
           "name": {
             "tr": "Yeşil Yol Lojistik",
@@ -18323,6 +18992,15 @@
           "url": "https://lokanta-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "lokanta-3",
+          "name": {
+            "tr": "Üç Kapı Lokantası",
+            "en": "Üç Kapı Lokantası",
+            "ar": "Üç Kapı Lokantası"
+          },
+          "url": "https://lokanta-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "magaza",
           "name": {
             "tr": "Tekno Mağaza",
@@ -18339,6 +19017,15 @@
             "ar": "Voltaj Mağaza"
           },
           "url": "https://magaza-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "magaza-3",
+          "name": {
+            "tr": "Kavşak Teknoloji",
+            "en": "Kavşak Teknoloji",
+            "ar": "Kavşak Teknoloji"
+          },
+          "url": "https://magaza-3.webyapar.com/{lang}/"
         },
         {
           "slug": "mali",
@@ -18384,6 +19071,15 @@
             "ar": "Nehir Masaj Evi"
           },
           "url": "https://masaj-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "masaj-3",
+          "name": {
+            "tr": "Kehribar Masaj",
+            "en": "Kehribar Masaj",
+            "ar": "Kehribar Masaj"
+          },
+          "url": "https://masaj-3.webyapar.com/{lang}/"
         },
         {
           "slug": "mobilya",
@@ -18548,6 +19244,15 @@
           "url": "https://radyoloji-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "radyoloji-3",
+          "name": {
+            "tr": "Lumen Radyoloji",
+            "en": "Lumen Radyoloji",
+            "ar": "Lumen Radyoloji"
+          },
+          "url": "https://radyoloji-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "restoran-2",
           "name": {
             "tr": "Ateşhane",
@@ -18593,6 +19298,15 @@
           "url": "https://sanayi-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "sanayi-3",
+          "name": {
+            "tr": "Eksen Redüktör",
+            "en": "Eksen Redüktör",
+            "ar": "Eksen Redüktör"
+          },
+          "url": "https://sanayi-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "spa",
           "name": {
             "tr": "Kayrak Spa",
@@ -18609,6 +19323,15 @@
             "ar": "Zeytinlik Spa"
           },
           "url": "https://spa-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "spa-3",
+          "name": {
+            "tr": "Akçakum Tuz Spa",
+            "en": "Akçakum Tuz Spa",
+            "ar": "Akçakum Tuz Spa"
+          },
+          "url": "https://spa-3.webyapar.com/{lang}/"
         },
         {
           "slug": "spor-2",
@@ -18665,6 +19388,15 @@
           "url": "https://tarim-2.webyapar.com/{lang}/"
         },
         {
+          "slug": "tarim-3",
+          "name": {
+            "tr": "Toprakbil",
+            "en": "Toprakbil",
+            "ar": "Toprakbil"
+          },
+          "url": "https://tarim-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "turizm",
           "name": {
             "tr": "Otel Sahil",
@@ -18681,6 +19413,15 @@
             "ar": "Seyyah Rota"
           },
           "url": "https://turizm-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "turizm-3",
+          "name": {
+            "tr": "Kayaev Göreme",
+            "en": "Kayaev Göreme",
+            "ar": "Kayaev Göreme"
+          },
+          "url": "https://turizm-3.webyapar.com/{lang}/"
         },
         {
           "slug": "veteriner",
@@ -18753,6 +19494,15 @@
             "ar": "Martı Yüzme Okulu"
           },
           "url": "https://yuzme-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yuzme-3",
+          "name": {
+            "tr": "Pruva Kulvar",
+            "en": "Pruva Kulvar",
+            "ar": "Pruva Kulvar"
+          },
+          "url": "https://yuzme-3.webyapar.com/{lang}/"
         }
       ],
       "id": "y55xlg",
