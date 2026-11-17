@@ -427,6 +427,21 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Ambalaj Kurumsal
+Tabaka Ambalaj
+Tabaka Ambalaj: Bursa’da baskılı karton kutu, oluklu koli, etiket ve mağaza standı üretimi. Katalogdan seçin, siparişinizi takip edin. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Ambalaj Kurumsal
+Kolibant
+Kolibant Paketleme: İzmir’de e-ticaret ürünleri için ölçüye göre koli, paketleme hattı ve anlaşmalı kargo teslimi. Koli ölçünüzü girin, desiyi görün. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Araç kiralama Kurumsal
 Rota Filo
 Rota Filo: günlük ve uzun dönem araç kiralama, havalimanı teslim ve açık kiralama koşulları. (Demo site)
@@ -455,6 +470,21 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Ar-Ge Kurumsal
+Mercek Lab
+Mercek Lab: Urla, İzmir’de optik sensör, kamera kalibrasyonu ve görüntü işleme üzerine çalışan Ar-Ge laboratuvarı; her projeyi deney notu olarak yayımlar. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Ar-Ge Kurumsal
+Tezgâh Ar-Ge
+Tezgâh Ar-Ge: Gebze’de gömülü yazılım (firmware) ve elektronik kartlar için doğrulama laboratuvarı; dayanım, ısı ve EMC ön tarama testleri, her koşu kayıtlı. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Ayakkabı Kurumsal
 Kadife Deri
@@ -540,6 +570,21 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Burç & Danışmanlık Kurumsal
+Ay Durağı
+Ay Durağı: burç çarkı sohbetleri, ay döngüsü atölyeleri ve yıldız gözlemi geceleri. Eğlence ve kişisel farkındalık amaçlıdır; kesin öngörü değildir. Demo site; görseller temsilîdir.
+Dahil olanlar
+Randevu
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
+Burç & Danışmanlık Kurumsal
+Gök Defteri
+Gök Defteri: on iki burç için kısa notlar, yılın dört kapısı ve günün eğlenceli notu. Eğlence ve yorum amaçlıdır; kesin öngörü değildir. Demo site.
+Dahil olanlar
+Harita
+2 sayfa
 Demoyu gör Bu temayı iste
 Butik Kurumsal
 Ipek Butik
@@ -851,6 +896,20 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Fuar & Etkinlik Kurumsal
+Lonca Expo
+Lonca Expo: 15–18 Nisan 2027’de Gaziantep’te Ev & Yaşam Fuarı — mobilya, aydınlatma, ev tekstili ve akıllı ev; geri sayım, gün gün program ve biletler. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
+Fuar & Etkinlik Kurumsal
+Bakırtepe Fuar Merkezi
+Bakırtepe Fuar Merkezi: dört kapalı salon, salon planından stand seçimi, katılımcı stand paketleri, ulaşım ve otopark. Sıradaki fuar: Antep Gıda & Baharat Fuarı, 9–12 Eylül 2027. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Gebelik & Doğum Kurumsal
 Anne Kısım
 Gebelik ve doğum.
@@ -900,6 +959,21 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Girişim (SaaS) Kurumsal
+Kovan Sensör
+Kovan Sensör: arıcılar için kovan tartısı ve sıcaklık, nem, ses sensörü geliştiren Muğla merkezli tarım teknolojisi girişimi; kovanı açmadan durumunu telefonda gösterir. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Girişim (SaaS) Kurumsal
+Adımlık
+Adımlık: şirket ekiplerini haftalık adım yarışmasıyla hareketlendiren mobil uygulama girişimi; takım skor tablosu, yarışma biçimleri ve 14 günlük pilot. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Güzellik Galeri
 Ten Güzellik
@@ -954,6 +1028,22 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Fitness & Havuz Kurumsal
+Kepçe Havuz
+Kepçe Havuz: havuz bakım paketinizi onay kutularıyla kurun, su yüzeyi alanına göre aylık bütçeyi görün, keşif randevusu ya da geri arama isteyin. Demo site; fiyatlar kurgusal, görseller temsilîdir.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Fitness & Havuz Kurumsal
+Lagün Atölye
+Lagün Atölye: Bodrum’da villa ve butik otel havuzları için yenileme ve sezonluk bakım — taş kenar, mozaik, su dengesi ve pompa dairesi. Demo site; içerik kurgusaldır, görseller temsilîdir.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Hukuk Kurumsal
 Defne Hukuk
@@ -1040,6 +1130,21 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Ofis & Tedarik Kurumsal
+Sedirkent
+Sedirkent Belediyesi (kurgusal): e-hizmet dizini, birim rehberi, kent projeleri ve ödeme takvimi. Demo site; resmî bir kurum değildir, görseller temsilîdir.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
+Ofis & Tedarik Kurumsal
+Kıyıbaşı
+Kıyıbaşı Belediyesi hizmet noktaları (kurgusal): canlı bekleme panosu, harita, e-sıra, randevu, ödeme takvimi ve dilekçe. Demo site; resmî bir kurum değildir.
+Dahil olanlar
+Randevu
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
 Kargo & Dağıtım Kurumsal
 Nakliye Kargo
 Kargo ve dağıtım.
@@ -1071,6 +1176,20 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Baskı & Kartvizit Kurumsal
+Emre Sayın
+Emre Sayın’ın kişisel kartvizit sitesi: ürün tasarımı, arayüz sadeleştirme ve tasarım mentorluğu. Kurgusal demo; görseller temsilîdir.
+Dahil olanlar
+Randevu
+2 sayfa
+Demoyu gör Bu temayı iste
+Baskı & Kartvizit Kurumsal
+Leyla Çınar
+Leyla Çınar’ın kişisel sitesi: haftalık köşe yazıları, deneme atölyeleri ve konuşmalar. Kurgusal demo; görseller temsilîdir.
+Dahil olanlar
+Galeri
+4 sayfa
 Demoyu gör Bu temayı iste
 Kebapçı Kurumsal
 Kömür Kebap
@@ -1171,6 +1290,18 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Yapı Kimyasalları Kurumsal
+Deniz Yalçıner
+Deniz Yalçıner (kurgusal): kent, dil ve gündelik hayat üzerine haftalık köşe yazıları; ay ay arşiv, kitaplar ve söyleşi daveti. Demo site; içerik kurgusaldır.
+3 sayfa
+Demoyu gör Bu temayı iste
+Yapı Kimyasalları Kurumsal
+Mürekkep Masası
+Mürekkep Masası (kurgusal): altı bağımsız köşe yazarının kolektifi; haftanın yazıları, yazar sütunları, söyleşi ve atölye daveti. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+4 sayfa
 Demoyu gör Bu temayı iste
 Kuaför & Berber Kurumsal
 Sakal & Saç
@@ -1403,6 +1534,23 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Müzik Stüdyosu Kurumsal
+Revak Akustik
+Revak Akustik: Gaziantep’te taş revaklı avluda akustik konserler — ud, kanun, gitar ve vokal geceleri; hikâye galerisi, sıradaki konsere geri sayım ve yer ayırtma. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
+Müzik Stüdyosu Kurumsal
+Mızrap Akademi
+Mızrap Akademi: Gaziantep’te bağlama, klasik gitar, piyano, keman, davul ve şan dersleri. Haftalık programdan seans seçin; ilk deneme dersi ücretsiz, dönem sonunda sahne konseri. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Randevu
+Galeri
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Otel Kurumsal
 Badem Taş Konak
 Badem Taş Konak: Datça’da badem ve zeytin ağaçları arasında 16 odalı taş konak; odalar, olanaklar ve konaklama talebi. Demo site; içerik kurgusaldır.
@@ -1443,6 +1591,21 @@ Harita
 WhatsApp
 7 sayfa
 Demoyu gör Bu temayı iste
+Otopark Kurumsal
+Halka Park
+Halka Park: İzmir’de Konak, Bornova ve Karşıyaka’da katlı otopark; kat kat doluluk, saatlik ve aylık tarife, abonelik. Demo site; görseller temsilîdir.
+Dahil olanlar
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
+Otopark Kurumsal
+Dakika Park
+Dakika Park: Şehitkamil’de 7/24 açık otopark; süreyle orantılı tarife cetveli, saat eksenli yer ayırma ve KDV dahil kurgusal fiyatlar. Demo site.
+Dahil olanlar
+Randevu
+Harita
+3 sayfa
+Demoyu gör Bu temayı iste
 Oyun Stüdyosu Kurumsal
 Kare Studio
 Oyun ve 3D içerik.
@@ -1451,6 +1614,21 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Oyun Stüdyosu Kurumsal
+Sekizbit
+Sekizbit Oyun Atölyesi: İzmir’de piksel sanatlı bulmaca, keşif ve platform oyunları geliştiren küçük bağımsız ekip; ses tasarımı ve oyun testi. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Oyun Stüdyosu Kurumsal
+Fırıldak
+Fırıldak Oyun Evi: Eskişehir’de ailece oynanan bulmaca, kelime, renk ve ritim oyunları tasarlayan küçük mobil oyun stüdyosu. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Portfolyo Galeri
 Atölye Mono
@@ -1714,6 +1892,21 @@ Galeri
 Harita
 WhatsApp
 7 sayfa
+Demoyu gör Bu temayı iste
+Yapı Market Kurumsal
+Malta Yapı Market
+Malta Yapı Market: Ankara Yenimahalle’de boya, hırdavat, el aletleri, elektrik, tesisat ve bahçe ürünleri; kelimeyle reyon bulun, boya bütçesini hesaplayın. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Harita
+4 sayfa
+Demoyu gör Bu temayı iste
+Yapı Market Kurumsal
+Üçyol Yapı
+Üçyol Yapı Depoları: Konya’da üç şubeden çimento, demir, tuğla, yalıtım ve ince iş malzemesi; vinçli indirme ve şantiyeye teslim. Size en yakın depoyu bulun. Demo site; içerik kurgusaldır.
+Dahil olanlar
+Galeri
+Harita
+3 sayfa
 Demoyu gör Bu temayı iste
 Oto yedek parça Kurumsal
 Mavi Dingil Oto Parça

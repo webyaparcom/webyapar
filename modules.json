@@ -13689,6 +13689,55 @@
           }
         },
         {
+          "slug": "ambalaj-2",
+          "name": {
+            "tr": "Tabaka Ambalaj",
+            "en": "Tabaka Ambalaj",
+            "ar": "Tabaka Ambalaj"
+          },
+          "sector": "ambalaj",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ambalaj-2-1440.webp",
+          "shotMobile": "/img/shots/ambalaj-2-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Tabaka Ambalaj: Bursa’da baskılı karton kutu, oluklu koli, etiket ve mağaza standı üretimi. Katalogdan seçin, siparişinizi takip edin. Demo site; içerik kurgusaldır.",
+            "en": "Tabaka Packaging: printed cartons, corrugated boxes, labels and in-store displays made in Bursa. Choose from the catalogue and track your order. Demo site; content is fictional.",
+            "ar": "تاباكا للتغليف: علب كرتونية مطبوعة وصناديق مموجة وملصقات وحوامل عرض تُصنع في بورصة. اختر من الكتالوج وتابع طلبك. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "ambalaj-3",
+          "name": {
+            "tr": "Kolibant",
+            "en": "Kolibant",
+            "ar": "Kolibant"
+          },
+          "sector": "ambalaj",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/ambalaj-3-1440.webp",
+          "shotMobile": "/img/shots/ambalaj-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Kolibant Paketleme: İzmir’de e-ticaret ürünleri için ölçüye göre koli, paketleme hattı ve anlaşmalı kargo teslimi. Koli ölçünüzü girin, desiyi görün. Demo site; içerik kurgusaldır.",
+            "en": "Kolibant Packing: made-to-fit boxes, a packing line and contracted courier hand-off for e-commerce products in Izmir. Enter your box size and see the volumetric weight. Demo site; content is fictional.",
+            "ar": "كولي بانت للتغليف: صناديق على المقاس وخط تغليف وتسليم لشركة شحن متعاقدة لمنتجات التجارة الإلكترونية في إزمير. أدخل مقاس صندوقك وشاهد الوزن الحجمي. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "arackiralama-2",
           "name": {
             "tr": "Rota Filo",
@@ -13766,6 +13815,55 @@
             "tr": "Donanım ve yazılım prototip geliştirme.",
             "en": "Hardware and software prototype development.",
             "ar": "تطوير نماذج أولية من العتاد والبرمجيات."
+          }
+        },
+        {
+          "slug": "arge-2",
+          "name": {
+            "tr": "Mercek Lab",
+            "en": "Mercek Lab",
+            "ar": "Mercek Lab"
+          },
+          "sector": "arge",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/arge-2-1440.webp",
+          "shotMobile": "/img/shots/arge-2-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Mercek Lab: Urla, İzmir’de optik sensör, kamera kalibrasyonu ve görüntü işleme üzerine çalışan Ar-Ge laboratuvarı; her projeyi deney notu olarak yayımlar. Demo site; içerik kurgusaldır.",
+            "en": "Mercek Lab: an R&D laboratory in Urla, Izmir working on optical sensors, camera calibration and image processing, publishing every project as a lab note. Demo site; content is fictional.",
+            "ar": "مختبر ميرجك: مختبر أبحاث وتطوير في أورلا بإزمير يعمل على المستشعرات البصرية ومعايرة الكاميرات ومعالجة الصور، وينشر كل مشروع كمذكرة مخبرية. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "arge-3",
+          "name": {
+            "tr": "Tezgâh Ar-Ge",
+            "en": "Tezgâh Ar-Ge",
+            "ar": "Tezgâh Ar-Ge"
+          },
+          "sector": "arge",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/arge-3-1440.webp",
+          "shotMobile": "/img/shots/arge-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Tezgâh Ar-Ge: Gebze’de gömülü yazılım (firmware) ve elektronik kartlar için doğrulama laboratuvarı; dayanım, ısı ve EMC ön tarama testleri, her koşu kayıtlı. Demo site; içerik kurgusaldır.",
+            "en": "Tezgah R&D: a validation laboratory in Gebze for embedded software (firmware) and electronic boards; endurance, thermal and EMC pre-scan tests, every run logged. Demo site; content is fictional.",
+            "ar": "تزگاه للأبحاث والتطوير: مختبر تحقق في غيبزه للبرمجيات المدمجة والبطاقات الإلكترونية؛ اختبارات التحمل والحرارة والمسح المسبق للتوافق الكهرومغناطيسي، وكل تشغيل مسجَّل. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -14021,6 +14119,55 @@
             "tr": "Burç ve rüya danışmanlığı.",
             "en": "Zodiac and dream consulting.",
             "ar": "استشارات الأبراج وتحليل الأحلام."
+          }
+        },
+        {
+          "slug": "burc-2",
+          "name": {
+            "tr": "Ay Durağı",
+            "en": "Ay Durağı",
+            "ar": "Ay Durağı"
+          },
+          "sector": "burc",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/burc-2-1440.webp",
+          "shotMobile": "/img/shots/burc-2-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Ay Durağı: burç çarkı sohbetleri, ay döngüsü atölyeleri ve yıldız gözlemi geceleri. Eğlence ve kişisel farkındalık amaçlıdır; kesin öngörü değildir. Demo site; görseller temsilîdir.",
+            "en": "Ay Duragi: zodiac wheel talks, moon cycle workshops and stargazing nights. For fun and self-reflection; not definite predictions. Demo site; images are representative.",
+            "ar": "آي دوراغي: جلسات عجلة الأبراج وورش دورة القمر وليالي رصد النجوم. للترفيه والتأمل الذاتي وليست تنبؤات مؤكدة. موقع تجريبي والصور تمثيلية."
+          }
+        },
+        {
+          "slug": "burc-3",
+          "name": {
+            "tr": "Gök Defteri",
+            "en": "Gök Defteri",
+            "ar": "Gök Defteri"
+          },
+          "sector": "burc",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/burc-3-1440.webp",
+          "shotMobile": "/img/shots/burc-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Gök Defteri: on iki burç için kısa notlar, yılın dört kapısı ve günün eğlenceli notu. Eğlence ve yorum amaçlıdır; kesin öngörü değildir. Demo site.",
+            "en": "Gok Defteri: short notes for the twelve signs, the four gates of the year and a playful note of the day. For fun and interpretation; not definite predictions. Demo site.",
+            "ar": "غوك دفتري: ملاحظات قصيرة للأبراج الاثني عشر وأبواب السنة الأربعة وملاحظة اليوم المرحة. للترفيه والتأويل وليست تنبؤات مؤكدة. موقع تجريبي."
           }
         },
         {
@@ -14946,6 +15093,54 @@
           }
         },
         {
+          "slug": "fuar-2",
+          "name": {
+            "tr": "Lonca Expo",
+            "en": "Lonca Expo",
+            "ar": "Lonca Expo"
+          },
+          "sector": "fuar",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/fuar-2-1440.webp",
+          "shotMobile": "/img/shots/fuar-2-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Lonca Expo: 15–18 Nisan 2027’de Gaziantep’te Ev & Yaşam Fuarı — mobilya, aydınlatma, ev tekstili ve akıllı ev; geri sayım, gün gün program ve biletler. Demo site; içerik kurgusaldır.",
+            "en": "Lonca Expo: the Home & Living Fair in Gaziantep on 15–18 April 2027 — furniture, lighting, home textiles and smart home; countdown, day-by-day programme and tickets. Demo site; content is fictional.",
+            "ar": "لونجا إكسبو: معرض البيت والمعيشة في غازي عنتاب من 15 إلى 18 أبريل 2027 — أثاث وإضاءة ومنسوجات منزلية ومنزل ذكي؛ عدّ تنازلي وبرنامج يومي وتذاكر. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "fuar-3",
+          "name": {
+            "tr": "Bakırtepe Fuar Merkezi",
+            "en": "Bakırtepe Fuar Merkezi",
+            "ar": "Bakırtepe Fuar Merkezi"
+          },
+          "sector": "fuar",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/fuar-3-1440.webp",
+          "shotMobile": "/img/shots/fuar-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Bakırtepe Fuar Merkezi: dört kapalı salon, salon planından stand seçimi, katılımcı stand paketleri, ulaşım ve otopark. Sıradaki fuar: Antep Gıda & Baharat Fuarı, 9–12 Eylül 2027. Demo site; içerik kurgusaldır.",
+            "en": "Bakirtepe Fair Centre: four indoor halls, stand selection on the hall plan, exhibitor stand packages, transport and parking. Next fair: Antep Food & Spice Fair, 9–12 September 2027. Demo site; content is fictional.",
+            "ar": "مركز باكيرتبه للمعارض: أربع قاعات مغلقة، واختيار الجناح من مخطط القاعة، وباقات أجنحة للعارضين، والمواصلات وموقف السيارات. المعرض القادم: معرض عنتاب للأغذية والتوابل، 9–12 سبتمبر 2027. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "gebelik",
           "name": {
             "tr": "Anne Kısım",
@@ -15095,6 +15290,55 @@
             "tr": "Ürün ve API.",
             "en": "Product and API.",
             "ar": "منتج وواجهات برمجية."
+          }
+        },
+        {
+          "slug": "girisim-2",
+          "name": {
+            "tr": "Kovan Sensör",
+            "en": "Kovan Sensör",
+            "ar": "Kovan Sensör"
+          },
+          "sector": "girisim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/girisim-2-1440.webp",
+          "shotMobile": "/img/shots/girisim-2-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Kovan Sensör: arıcılar için kovan tartısı ve sıcaklık, nem, ses sensörü geliştiren Muğla merkezli tarım teknolojisi girişimi; kovanı açmadan durumunu telefonda gösterir. Demo site; içerik kurgusaldır.",
+            "en": "Kovan Sensor: a Mugla-based agritech start-up building hive scales and temperature, humidity and sound sensors for beekeepers, showing a hive’s condition on the phone without opening it. Demo site; content is fictional.",
+            "ar": "كوفان سنسور: شركة ناشئة للتقنيات الزراعية في موغلا تطوّر موازين خلايا النحل ومستشعرات الحرارة والرطوبة والصوت للنحّالين، وتعرض حالة الخلية على الهاتف دون فتحها. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "girisim-3",
+          "name": {
+            "tr": "Adımlık",
+            "en": "Adımlık",
+            "ar": "Adımlık"
+          },
+          "sector": "girisim",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/girisim-3-1440.webp",
+          "shotMobile": "/img/shots/girisim-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Adımlık: şirket ekiplerini haftalık adım yarışmasıyla hareketlendiren mobil uygulama girişimi; takım skor tablosu, yarışma biçimleri ve 14 günlük pilot. Demo site; içerik kurgusaldır.",
+            "en": "Adimlik: a mobile app start-up that gets company teams moving with weekly step challenges; team leaderboards, challenge formats and a 14-day pilot. Demo site; content is fictional.",
+            "ar": "أديملك: شركة ناشئة لتطبيق جوال يحفّز فرق الشركات على الحركة بتحديات خطوات أسبوعية؛ لوحة نتائج للفرق وأشكال تحدٍّ وتجربة لمدة 14 يومًا. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -15251,6 +15495,56 @@
             "tr": "Fitness ve havuz.",
             "en": "Fitness and pool.",
             "ar": "لياقة ومسبح."
+          }
+        },
+        {
+          "slug": "havuzservis-2",
+          "name": {
+            "tr": "Kepçe Havuz",
+            "en": "Kepçe Havuz",
+            "ar": "Kepçe Havuz"
+          },
+          "sector": "havuzservis",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/havuzservis-2-1440.webp",
+          "shotMobile": "/img/shots/havuzservis-2-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Kepçe Havuz: havuz bakım paketinizi onay kutularıyla kurun, su yüzeyi alanına göre aylık bütçeyi görün, keşif randevusu ya da geri arama isteyin. Demo site; fiyatlar kurgusal, görseller temsilîdir.",
+            "en": "Kepçe Havuz: build your pool care package with checkboxes, see the monthly budget for your water surface area and book a site visit or a call-back. Demo site; prices are fictional, images are representative.",
+            "ar": "كبتشه هافوز: كوّن باقة صيانة مسبحك بمربعات الاختيار، واطّلع على الميزانية الشهرية حسب مساحة سطح الماء، واحجز معاينة أو اطلب معاودة الاتصال. موقع تجريبي؛ الأسعار افتراضية والصور تمثيلية."
+          }
+        },
+        {
+          "slug": "havuzservis-3",
+          "name": {
+            "tr": "Lagün Atölye",
+            "en": "Lagün Atölye",
+            "ar": "Lagün Atölye"
+          },
+          "sector": "havuzservis",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/havuzservis-3-1440.webp",
+          "shotMobile": "/img/shots/havuzservis-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Lagün Atölye: Bodrum’da villa ve butik otel havuzları için yenileme ve sezonluk bakım — taş kenar, mozaik, su dengesi ve pompa dairesi. Demo site; içerik kurgusaldır, görseller temsilîdir.",
+            "en": "Lagün Atölye: renovation and seasonal care for villa and boutique-hotel pools in Bodrum — stone copings, mosaic, water balance and plant rooms. Demo site; content is fictional and images are representative.",
+            "ar": "لاغون أتيليه: تجديد وصيانة موسمية لمسابح الفلل والفنادق الصغيرة في بودروم — حواف حجرية وفسيفساء وتوازن المياه وغرف المضخات. موقع تجريبي؛ المحتوى افتراضي والصور تمثيلية."
           }
         },
         {
@@ -15509,6 +15803,55 @@
           }
         },
         {
+          "slug": "kamu-2",
+          "name": {
+            "tr": "Sedirkent",
+            "en": "Sedirkent",
+            "ar": "Sedirkent"
+          },
+          "sector": "kamu",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kamu-2-1440.webp",
+          "shotMobile": "/img/shots/kamu-2-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Sedirkent Belediyesi (kurgusal): e-hizmet dizini, birim rehberi, kent projeleri ve ödeme takvimi. Demo site; resmî bir kurum değildir, görseller temsilîdir.",
+            "en": "Sedirkent Municipality (fictional): e-service directory, department directory, city projects and payment calendar. Demo site; not an official body, images are representative.",
+            "ar": "بلدية سديركنت (افتراضية): دليل الخدمات الإلكترونية ودليل الوحدات ومشاريع المدينة وتقويم الدفعات. موقع تجريبي؛ ليست جهة رسمية والصور تمثيلية."
+          }
+        },
+        {
+          "slug": "kamu-3",
+          "name": {
+            "tr": "Kıyıbaşı",
+            "en": "Kıyıbaşı",
+            "ar": "Kıyıbaşı"
+          },
+          "sector": "kamu",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kamu-3-1440.webp",
+          "shotMobile": "/img/shots/kamu-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Kıyıbaşı Belediyesi hizmet noktaları (kurgusal): canlı bekleme panosu, harita, e-sıra, randevu, ödeme takvimi ve dilekçe. Demo site; resmî bir kurum değildir.",
+            "en": "Kiyibasi Municipality service points (fictional): live waiting board, map, e-queue, appointments, payment calendar and petitions. Demo site; not an official body.",
+            "ar": "نقاط خدمة بلدية كييباشي (افتراضية): لوحة انتظار مباشرة وخريطة ودور إلكتروني ومواعيد وتقويم دفعات وعرائض. موقع تجريبي؛ ليست جهة رسمية."
+          }
+        },
+        {
           "slug": "kargo",
           "name": {
             "tr": "Nakliye Kargo",
@@ -15606,6 +15949,54 @@
             "tr": "Baskı ve kartvizit.",
             "en": "Print and cards.",
             "ar": "طباعة وبطاقات."
+          }
+        },
+        {
+          "slug": "kartvizit-2",
+          "name": {
+            "tr": "Emre Sayın",
+            "en": "Emre Sayın",
+            "ar": "Emre Sayın"
+          },
+          "sector": "kartvizit",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kartvizit-2-1440.webp",
+          "shotMobile": "/img/shots/kartvizit-2-390.webp",
+          "features": [
+            "randevu"
+          ],
+          "modules": [],
+          "pages": 2,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Emre Sayın’ın kişisel kartvizit sitesi: ürün tasarımı, arayüz sadeleştirme ve tasarım mentorluğu. Kurgusal demo; görseller temsilîdir.",
+            "en": "The personal business card site of Emre Sayin: product design, interface simplification and design mentoring. Fictional demo; images are representative.",
+            "ar": "موقع البطاقة الشخصية لإمره سايين: تصميم المنتجات وتبسيط الواجهات والإرشاد في التصميم. عرض تجريبي افتراضي والصور تمثيلية."
+          }
+        },
+        {
+          "slug": "kartvizit-3",
+          "name": {
+            "tr": "Leyla Çınar",
+            "en": "Leyla Çınar",
+            "ar": "Leyla Çınar"
+          },
+          "sector": "kartvizit",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kartvizit-3-1440.webp",
+          "shotMobile": "/img/shots/kartvizit-3-390.webp",
+          "features": [
+            "galeri"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Leyla Çınar’ın kişisel sitesi: haftalık köşe yazıları, deneme atölyeleri ve konuşmalar. Kurgusal demo; görseller temsilîdir.",
+            "en": "The personal site of Leyla Cinar: weekly columns, essay workshops and talks. Fictional demo; images are representative.",
+            "ar": "الموقع الشخصي لليلى تشينار: مقالات أسبوعية وورش كتابة المقالة ومحاضرات. عرض تجريبي افتراضي والصور تمثيلية."
           }
         },
         {
@@ -15910,6 +16301,52 @@
             "tr": "Cephe ve kimya ürünü.",
             "en": "Facade and chemical products.",
             "ar": "واجهة ومنتجات كيميائية."
+          }
+        },
+        {
+          "slug": "kose-2",
+          "name": {
+            "tr": "Deniz Yalçıner",
+            "en": "Deniz Yalçıner",
+            "ar": "Deniz Yalçıner"
+          },
+          "sector": "kose",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kose-2-1440.webp",
+          "shotMobile": "/img/shots/kose-2-390.webp",
+          "features": [],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Deniz Yalçıner (kurgusal): kent, dil ve gündelik hayat üzerine haftalık köşe yazıları; ay ay arşiv, kitaplar ve söyleşi daveti. Demo site; içerik kurgusaldır.",
+            "en": "Deniz Yalciner (fictional): weekly columns on the city, language and everyday life; a month-by-month archive, books and talk invitations. Demo site; content is fictional.",
+            "ar": "دنيز يالتشينر (افتراضي): مقالات أسبوعية عن المدينة واللغة والحياة اليومية؛ أرشيف شهري وكتب ودعوات للحوار. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "kose-3",
+          "name": {
+            "tr": "Mürekkep Masası",
+            "en": "Mürekkep Masası",
+            "ar": "Mürekkep Masası"
+          },
+          "sector": "kose",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/kose-3-1440.webp",
+          "shotMobile": "/img/shots/kose-3-390.webp",
+          "features": [
+            "galeri"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Mürekkep Masası (kurgusal): altı bağımsız köşe yazarının kolektifi; haftanın yazıları, yazar sütunları, söyleşi ve atölye daveti. Demo site; içerik kurgusaldır.",
+            "en": "Murekkep Masasi (fictional): a collective of six independent columnists; the week’s columns, writer columns, talk and workshop invitations. Demo site; content is fictional.",
+            "ar": "مورَكّب ماساسي (افتراضي): تجمّع ستة كتّاب أعمدة مستقلين؛ مقالات الأسبوع وأعمدة الكتّاب ودعوات الحوار والورش. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -16620,6 +17057,57 @@
           }
         },
         {
+          "slug": "muzik-2",
+          "name": {
+            "tr": "Revak Akustik",
+            "en": "Revak Akustik",
+            "ar": "Revak Akustik"
+          },
+          "sector": "muzik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/muzik-2-1440.webp",
+          "shotMobile": "/img/shots/muzik-2-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Revak Akustik: Gaziantep’te taş revaklı avluda akustik konserler — ud, kanun, gitar ve vokal geceleri; hikâye galerisi, sıradaki konsere geri sayım ve yer ayırtma. Demo site; içerik kurgusaldır.",
+            "en": "Revak Acoustic: acoustic concerts in a stone-arcaded courtyard in Gaziantep — oud, qanun, guitar and vocal nights; a story gallery, a countdown to the next concert and seat booking. Demo site; content is fictional.",
+            "ar": "رواق أكوستيك: حفلات أكوستيك في فناء حجري بأروقة في غازي عنتاب — ليالي العود والقانون والغيتار والغناء؛ معرض قصص وعدّ تنازلي للحفلة القادمة وحجز المقاعد. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "muzik-3",
+          "name": {
+            "tr": "Mızrap Akademi",
+            "en": "Mızrap Akademi",
+            "ar": "Mızrap Akademi"
+          },
+          "sector": "muzik",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/muzik-3-1440.webp",
+          "shotMobile": "/img/shots/muzik-3-390.webp",
+          "features": [
+            "randevu",
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Mızrap Akademi: Gaziantep’te bağlama, klasik gitar, piyano, keman, davul ve şan dersleri. Haftalık programdan seans seçin; ilk deneme dersi ücretsiz, dönem sonunda sahne konseri. Demo site; içerik kurgusaldır.",
+            "en": "Mizrap Academy: baglama, classical guitar, piano, violin, drums and singing lessons in Gaziantep. Pick a session from the weekly timetable; the first trial lesson is free and the term ends with a stage concert. Demo site; content is fictional.",
+            "ar": "أكاديمية مِضراب: دروس البغلمة والغيتار الكلاسيكي والبيانو والكمان والطبول والغناء في غازي عنتاب. اختر حصة من الجدول الأسبوعي؛ الدرس التجريبي الأول مجاني، ويُختتم الفصل بحفلة على المسرح. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "otel-2",
           "name": {
             "tr": "Badem Taş Konak",
@@ -16745,6 +17233,55 @@
           }
         },
         {
+          "slug": "otopark-2",
+          "name": {
+            "tr": "Halka Park",
+            "en": "Halka Park",
+            "ar": "Halka Park"
+          },
+          "sector": "otopark",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/otopark-2-1440.webp",
+          "shotMobile": "/img/shots/otopark-2-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Halka Park: İzmir’de Konak, Bornova ve Karşıyaka’da katlı otopark; kat kat doluluk, saatlik ve aylık tarife, abonelik. Demo site; görseller temsilîdir.",
+            "en": "Halka Park: multi-storey car parks in Konak, Bornova and Karsiyaka, Izmir; occupancy by level, hourly and monthly rates, passes. Demo site; images are representative.",
+            "ar": "هالكا بارك: مواقف سيارات متعددة الطوابق في قوناق وبورنوفا وقارشي ياقا بإزمير؛ الإشغال لكل طابق والأسعار بالساعة والشهر والاشتراكات. موقع تجريبي؛ الصور تمثيلية."
+          }
+        },
+        {
+          "slug": "otopark-3",
+          "name": {
+            "tr": "Dakika Park",
+            "en": "Dakika Park",
+            "ar": "Dakika Park"
+          },
+          "sector": "otopark",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/otopark-3-1440.webp",
+          "shotMobile": "/img/shots/otopark-3-390.webp",
+          "features": [
+            "randevu",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Dakika Park: Şehitkamil’de 7/24 açık otopark; süreyle orantılı tarife cetveli, saat eksenli yer ayırma ve KDV dahil kurgusal fiyatlar. Demo site.",
+            "en": "Dakika Park: a 24/7 open-air car park in Sehitkamil; a rate ruler scaled to time, time-axis reservations and fictional prices incl. VAT. Demo site.",
+            "ar": "داكيكا بارك: موقف سيارات مكشوف مفتوح على مدار الساعة في شهيد كامل؛ مسطرة تعرفة متناسبة مع المدة وحجز على محور زمني وأسعار افتراضية شاملة الضريبة. موقع تجريبي."
+          }
+        },
+        {
           "slug": "oyun",
           "name": {
             "tr": "Kare Studio",
@@ -16768,6 +17305,55 @@
             "tr": "Oyun ve 3D içerik.",
             "en": "Games and 3D content.",
             "ar": "ألعاب ومحتوى ثلاثي الأبعاد."
+          }
+        },
+        {
+          "slug": "oyun-2",
+          "name": {
+            "tr": "Sekizbit",
+            "en": "Sekizbit",
+            "ar": "Sekizbit"
+          },
+          "sector": "oyun",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/oyun-2-1440.webp",
+          "shotMobile": "/img/shots/oyun-2-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Sekizbit Oyun Atölyesi: İzmir’de piksel sanatlı bulmaca, keşif ve platform oyunları geliştiren küçük bağımsız ekip; ses tasarımı ve oyun testi. Demo site; içerik kurgusaldır.",
+            "en": "Sekizbit Game Workshop: a small indie team in Izmir making pixel-art puzzle, exploration and platform games, plus sound design and game testing. Demo site; content is fictional.",
+            "ar": "ورشة سكيزبيت للألعاب: فريق مستقل صغير في إزمير يطوّر ألعاب ألغاز واستكشاف ومنصّات بفن البكسل، مع تصميم الصوت واختبار الألعاب. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "oyun-3",
+          "name": {
+            "tr": "Fırıldak",
+            "en": "Fırıldak",
+            "ar": "Fırıldak"
+          },
+          "sector": "oyun",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/oyun-3-1440.webp",
+          "shotMobile": "/img/shots/oyun-3-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Fırıldak Oyun Evi: Eskişehir’de ailece oynanan bulmaca, kelime, renk ve ritim oyunları tasarlayan küçük mobil oyun stüdyosu. Demo site; içerik kurgusaldır.",
+            "en": "Firildak Game House: a small mobile game studio in Eskisehir designing puzzle, word, colour and rhythm games for families to play together. Demo site; content is fictional.",
+            "ar": "بيت فِرِلداك للألعاب: استوديو صغير لألعاب الجوال في إسكي شهير يصمّم ألعاب ألغاز وكلمات وألوان وإيقاع تلعبها العائلة معًا. موقع تجريبي؛ المحتوى افتراضي."
           }
         },
         {
@@ -17544,6 +18130,55 @@
           }
         },
         {
+          "slug": "yapimarket-2",
+          "name": {
+            "tr": "Malta Yapı Market",
+            "en": "Malta Yapı Market",
+            "ar": "Malta Yapı Market"
+          },
+          "sector": "yapimarket",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yapimarket-2-1440.webp",
+          "shotMobile": "/img/shots/yapimarket-2-390.webp",
+          "features": [
+            "harita"
+          ],
+          "modules": [],
+          "pages": 4,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Malta Yapı Market: Ankara Yenimahalle’de boya, hırdavat, el aletleri, elektrik, tesisat ve bahçe ürünleri; kelimeyle reyon bulun, boya bütçesini hesaplayın. Demo site; içerik kurgusaldır.",
+            "en": "Malta DIY Store: paint, hardware, hand tools, electrical, plumbing and garden goods in Yenimahalle, Ankara; find the aisle by keyword and estimate your paint budget. Demo site; content is fictional.",
+            "ar": "مالطا لمواد البناء: دهانات وعدد وأدوات يدوية وكهرباء وسباكة ومستلزمات حديقة في يني محلة بأنقرة؛ اعثر على الممر بكلمة واحسب ميزانية الدهان. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
+          "slug": "yapimarket-3",
+          "name": {
+            "tr": "Üçyol Yapı",
+            "en": "Üçyol Yapı",
+            "ar": "Üçyol Yapı"
+          },
+          "sector": "yapimarket",
+          "type": "kurumsal",
+          "url": "",
+          "shotDesktop": "/img/shots/yapimarket-3-1440.webp",
+          "shotMobile": "/img/shots/yapimarket-3-390.webp",
+          "features": [
+            "galeri",
+            "harita"
+          ],
+          "modules": [],
+          "pages": 3,
+          "date": "2026-11-17",
+          "summary": {
+            "tr": "Üçyol Yapı Depoları: Konya’da üç şubeden çimento, demir, tuğla, yalıtım ve ince iş malzemesi; vinçli indirme ve şantiyeye teslim. Size en yakın depoyu bulun. Demo site; içerik kurgusaldır.",
+            "en": "Ucyol Building Depots: cement, rebar, bricks, insulation and finishing materials from three branches in Konya, with crane unloading and site delivery. Find your nearest depot. Demo site; content is fictional.",
+            "ar": "أوتشيول لمستودعات البناء: إسمنت وحديد وطوب وعزل ومواد تشطيب من ثلاثة فروع في قونية، مع التفريغ بالرافعة والتوصيل إلى الموقع. اعثر على أقرب مستودع. موقع تجريبي؛ المحتوى افتراضي."
+          }
+        },
+        {
           "slug": "yedekparca-2",
           "name": {
             "tr": "Mavi Dingil Oto Parça",
@@ -18101,6 +18736,24 @@
           "url": "https://ambalaj.webyapar.com/{lang}/"
         },
         {
+          "slug": "ambalaj-2",
+          "name": {
+            "tr": "Tabaka Ambalaj",
+            "en": "Tabaka Ambalaj",
+            "ar": "Tabaka Ambalaj"
+          },
+          "url": "https://ambalaj-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "ambalaj-3",
+          "name": {
+            "tr": "Kolibant",
+            "en": "Kolibant",
+            "ar": "Kolibant"
+          },
+          "url": "https://ambalaj-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "arackiralama-2",
           "name": {
             "tr": "Rota Filo",
@@ -18126,6 +18779,24 @@
             "ar": "Vira Ar-Ge"
           },
           "url": "https://arge.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "arge-2",
+          "name": {
+            "tr": "Mercek Lab",
+            "en": "Mercek Lab",
+            "ar": "Mercek Lab"
+          },
+          "url": "https://arge-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "arge-3",
+          "name": {
+            "tr": "Tezgâh Ar-Ge",
+            "en": "Tezgâh Ar-Ge",
+            "ar": "Tezgâh Ar-Ge"
+          },
+          "url": "https://arge-3.webyapar.com/{lang}/"
         },
         {
           "slug": "ayakkabi",
@@ -18216,6 +18887,24 @@
             "ar": "Yıldız Köşkü"
           },
           "url": "https://burc.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "burc-2",
+          "name": {
+            "tr": "Ay Durağı",
+            "en": "Ay Durağı",
+            "ar": "Ay Durağı"
+          },
+          "url": "https://burc-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "burc-3",
+          "name": {
+            "tr": "Gök Defteri",
+            "en": "Gök Defteri",
+            "ar": "Gök Defteri"
+          },
+          "url": "https://burc-3.webyapar.com/{lang}/"
         },
         {
           "slug": "butik",
@@ -18542,6 +19231,24 @@
           "url": "https://fuar.webyapar.com/{lang}/"
         },
         {
+          "slug": "fuar-2",
+          "name": {
+            "tr": "Lonca Expo",
+            "en": "Lonca Expo",
+            "ar": "Lonca Expo"
+          },
+          "url": "https://fuar-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "fuar-3",
+          "name": {
+            "tr": "Bakırtepe Fuar Merkezi",
+            "en": "Bakırtepe Fuar Merkezi",
+            "ar": "Bakırtepe Fuar Merkezi"
+          },
+          "url": "https://fuar-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "gebelik",
           "name": {
             "tr": "Anne Kısım",
@@ -18596,6 +19303,24 @@
           "url": "https://girisim.webyapar.com/{lang}/"
         },
         {
+          "slug": "girisim-2",
+          "name": {
+            "tr": "Kovan Sensör",
+            "en": "Kovan Sensör",
+            "ar": "Kovan Sensör"
+          },
+          "url": "https://girisim-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "girisim-3",
+          "name": {
+            "tr": "Adımlık",
+            "en": "Adımlık",
+            "ar": "Adımlık"
+          },
+          "url": "https://girisim-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "guzeellik",
           "name": {
             "tr": "Ten Güzellik",
@@ -18648,6 +19373,24 @@
             "ar": "Fit Havuz"
           },
           "url": "https://havuzservis.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "havuzservis-2",
+          "name": {
+            "tr": "Kepçe Havuz",
+            "en": "Kepçe Havuz",
+            "ar": "Kepçe Havuz"
+          },
+          "url": "https://havuzservis-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "havuzservis-3",
+          "name": {
+            "tr": "Lagün Atölye",
+            "en": "Lagün Atölye",
+            "ar": "Lagün Atölye"
+          },
+          "url": "https://havuzservis-3.webyapar.com/{lang}/"
         },
         {
           "slug": "hukuk-2",
@@ -18740,6 +19483,24 @@
           "url": "https://kamu.webyapar.com/{lang}/"
         },
         {
+          "slug": "kamu-2",
+          "name": {
+            "tr": "Sedirkent",
+            "en": "Sedirkent",
+            "ar": "Sedirkent"
+          },
+          "url": "https://kamu-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kamu-3",
+          "name": {
+            "tr": "Kıyıbaşı",
+            "en": "Kıyıbaşı",
+            "ar": "Kıyıbaşı"
+          },
+          "url": "https://kamu-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "kargo",
           "name": {
             "tr": "Nakliye Kargo",
@@ -18774,6 +19535,24 @@
             "ar": "Baskı Atölye"
           },
           "url": "https://kartvizit.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kartvizit-2",
+          "name": {
+            "tr": "Emre Sayın",
+            "en": "Emre Sayın",
+            "ar": "Emre Sayın"
+          },
+          "url": "https://kartvizit-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kartvizit-3",
+          "name": {
+            "tr": "Leyla Çınar",
+            "en": "Leyla Çınar",
+            "ar": "Leyla Çınar"
+          },
+          "url": "https://kartvizit-3.webyapar.com/{lang}/"
         },
         {
           "slug": "kebapci",
@@ -18882,6 +19661,24 @@
             "ar": "Kore Yapı"
           },
           "url": "https://kose.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kose-2",
+          "name": {
+            "tr": "Deniz Yalçıner",
+            "en": "Deniz Yalçıner",
+            "ar": "Deniz Yalçıner"
+          },
+          "url": "https://kose-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "kose-3",
+          "name": {
+            "tr": "Mürekkep Masası",
+            "en": "Mürekkep Masası",
+            "ar": "Mürekkep Masası"
+          },
+          "url": "https://kose-3.webyapar.com/{lang}/"
         },
         {
           "slug": "kuafor",
@@ -19136,6 +19933,24 @@
           "url": "https://muzik.webyapar.com/{lang}/"
         },
         {
+          "slug": "muzik-2",
+          "name": {
+            "tr": "Revak Akustik",
+            "en": "Revak Akustik",
+            "ar": "Revak Akustik"
+          },
+          "url": "https://muzik-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "muzik-3",
+          "name": {
+            "tr": "Mızrap Akademi",
+            "en": "Mızrap Akademi",
+            "ar": "Mızrap Akademi"
+          },
+          "url": "https://muzik-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "otel-2",
           "name": {
             "tr": "Badem Taş Konak",
@@ -19181,6 +19996,24 @@
           "url": "https://otopark.webyapar.com/{lang}/"
         },
         {
+          "slug": "otopark-2",
+          "name": {
+            "tr": "Halka Park",
+            "en": "Halka Park",
+            "ar": "Halka Park"
+          },
+          "url": "https://otopark-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "otopark-3",
+          "name": {
+            "tr": "Dakika Park",
+            "en": "Dakika Park",
+            "ar": "Dakika Park"
+          },
+          "url": "https://otopark-3.webyapar.com/{lang}/"
+        },
+        {
           "slug": "oyun",
           "name": {
             "tr": "Kare Studio",
@@ -19188,6 +20021,24 @@
             "ar": "Kare Studio"
           },
           "url": "https://oyun.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "oyun-2",
+          "name": {
+            "tr": "Sekizbit",
+            "en": "Sekizbit",
+            "ar": "Sekizbit"
+          },
+          "url": "https://oyun-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "oyun-3",
+          "name": {
+            "tr": "Fırıldak",
+            "en": "Fırıldak",
+            "ar": "Fırıldak"
+          },
+          "url": "https://oyun-3.webyapar.com/{lang}/"
         },
         {
           "slug": "portfolyo-2",
@@ -19458,6 +20309,24 @@
             "ar": "Beton Market"
           },
           "url": "https://yapimarket.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yapimarket-2",
+          "name": {
+            "tr": "Malta Yapı Market",
+            "en": "Malta Yapı Market",
+            "ar": "Malta Yapı Market"
+          },
+          "url": "https://yapimarket-2.webyapar.com/{lang}/"
+        },
+        {
+          "slug": "yapimarket-3",
+          "name": {
+            "tr": "Üçyol Yapı",
+            "en": "Üçyol Yapı",
+            "ar": "Üçyol Yapı"
+          },
+          "url": "https://yapimarket-3.webyapar.com/{lang}/"
         },
         {
           "slug": "yedekparca-2",
